@@ -54,14 +54,14 @@ jobs:
         uses: actions/cache@v4
         with:
           path: data/games_cache.json
-          key: games-cache-${{ secrets.CHESS_USERENAME }}-${{ hashFiles('data/games_cache.json') }}
+          key: games-cache-${{ secrets.CHESS_USERNAME }}-${{ hashFiles('data/games_cache.json') }}
           restore-keys: |
-            games-cache-${{ secrets.CHESS_USERENAME }}-
+            games-cache-${{ secrets.CHESS_USERNAME }}-
 
       # Run main script
       - name: Run Chess Knowledge Base update
         env:
-          CHESS_USERNAME: ${{ secrets.CHESS_USERENAME }}
+          CHESS_USERNAME: ${{ secrets.CHESS_USERNAME }}
         run: |
           cd scripts
           ARGS=""
@@ -86,7 +86,7 @@ jobs:
             git commit -m "🤖 Auto-update chess knowledge base
 
             Updated: $(date +'%Y-%m-%d %H:%M:%S UTC')
-            Username: ${{ secrets.CHESS_USERENAME }}"
+            Username: ${{ secrets.CHESS_USERNAME }}"
             git push
           fi
 
