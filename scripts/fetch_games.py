@@ -233,16 +233,9 @@ def main():
     """Main function to run the fetcher."""
     # Get username from environment or use default
     username = os.environ.get("CHESS_USERNAME", "")
-    print(f"DEBUG: Environment CHESS_USERNAME = '{username}'")
-
     if not username:
         print("Please set CHESS_USERNAME environment variable or create .env file")
         return
-
-    # Extract actual username if it contains extra data
-    if "=" in username:
-        username = username.split("=")[-1].strip()
-        print(f"DEBUG: Extracted username = '{username}'")
 
     months = os.environ.get("MONTHS_TO_FETCH")
     months_back = int(months) if months else None

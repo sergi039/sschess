@@ -1,5 +1,8 @@
 name: Update Chess Knowledge Base
 
+permissions:
+  contents: write
+
 on:
   # Run daily at 6:00 UTC
   schedule:
@@ -27,6 +30,8 @@ jobs:
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          persist-credentials: true
+          fetch-depth: 0
 
       # Setup Python
       - name: Setup Python
