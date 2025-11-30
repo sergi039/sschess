@@ -133,7 +133,7 @@ python scripts/main.py --skip-fetch
 
 1. Go to **Agents** in TypingMind
 2. Create new agent or edit existing "Chess Master & Coach" agent
-3. Copy the **System Prompt** from `ENHANCED_COACH_PROMPT.md`
+3. Copy the **System Prompt** from `ULTRA_ENHANCED_PROMPT.md`
 4. Paste into agent's System Instructions
 5. Enable plugins: Web Search, Simple Calculator
 6. Save the agent
