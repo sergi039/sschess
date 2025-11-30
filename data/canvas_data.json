@@ -1,0 +1,431 @@
+{
+  "game_info": {
+    "white_player": "sergioquesadas",
+    "black_player": "pommy-lad",
+    "white_rating": 739,
+    "black_rating": 774,
+    "result": "0-1",
+    "date": "2025-11-29 08:24",
+    "time_control": "600",
+    "url": "https://www.chess.com/game/live/146092379714"
+  },
+  "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2025.11.29\"]\n[Round \"-\"]\n[White \"sergioquesadas\"]\n[Black \"pommy-lad\"]\n[Result \"0-1\"]\n[CurrentPosition \"2k4r/ppp3p1/2n5/4p1p1/1P2n1P1/2P2N1P/P5K1/RN1r4 w - - 2 20\"]\n[Timezone \"UTC\"]\n[ECO \"C41\"]\n[ECOUrl \"https://www.chess.com/openings/Philidor-Defense-3.Bc4\"]\n[UTCDate \"2025.11.29\"]\n[UTCTime \"07:18:10\"]\n[WhiteElo \"739\"]\n[BlackElo \"774\"]\n[TimeControl \"600\"]\n[Termination \"pommy-lad won by resignation\"]\n[StartTime \"07:18:10\"]\n[EndDate \"2025.11.29\"]\n[EndTime \"07:24:30\"]\n[Link \"https://www.chess.com/game/live/146092379714\"]\n\n1. e4 {[%clk 0:09:59.1]} 1... e5 {[%clk 0:09:58]} 2. Nf3 {[%clk 0:09:58.1]} 2... d6 {[%clk 0:09:55.4]} 3. Bc4 {[%clk 0:09:55.2]} 3... h6 {[%clk 0:09:52.4]} 4. c3 {[%clk 0:09:53.5]} 4... Nc6 {[%clk 0:09:49.9]} 5. Qb3 {[%clk 0:09:51.9]} 5... Be6 {[%clk 0:09:32.9]} 6. Bxe6 {[%clk 0:09:26.2]} 6... fxe6 {[%clk 0:09:29]} 7. Qxe6+ {[%clk 0:09:24.6]} 7... Be7 {[%clk 0:09:13.5]} 8. d4 {[%clk 0:09:14.5]} 8... Nf6 {[%clk 0:09:02.8]} 9. dxe5 {[%clk 0:08:51.8]} 9... dxe5 {[%clk 0:08:37]} 10. O-O {[%clk 0:08:34]} 10... Qd7 {[%clk 0:08:17.9]} 11. Qxd7+ {[%clk 0:08:06.1]} 11... Nxd7 {[%clk 0:08:15.5]} 12. Be3 {[%clk 0:07:54.6]} 12... O-O-O {[%clk 0:08:10.9]} 13. Rd1 {[%clk 0:07:50]} 13... Nf6 {[%clk 0:07:59]} 14. h3 {[%clk 0:07:45]} 14... Rxd1+ {[%clk 0:07:54.1]} 15. Kh2 {[%clk 0:07:41]} 15... Nxe4 {[%clk 0:07:50.8]} 16. b4 {[%clk 0:06:49.7]} 16... Bg5 {[%clk 0:07:46.3]} 17. Bxg5 {[%clk 0:06:35.8]} 17... hxg5 {[%clk 0:07:42.1]} 18. g4 {[%clk 0:06:31.1]} 18... Nxf2 {[%clk 0:07:35.6]} 19. Kg2 {[%clk 0:06:29.8]} 19... Ne4 {[%clk 0:07:27.9]} 0-1\n",
+  "eco": {
+    "code": "https://www.chess.com/openings/Philidor-Defense-3.Bc4",
+    "name": ""
+  },
+  "analysis": {
+    "accuracy": 20.5,
+    "total_moves": 38,
+    "blunders": 20,
+    "mistakes": 11,
+    "inaccuracies": 6,
+    "good_moves": 1,
+    "engine_depth": 20
+  },
+  "moves_analysis": [
+    {
+      "move": "e2e4",
+      "move_number": 1,
+      "eval_before": 40,
+      "eval_after": -38,
+      "eval_loss": 78,
+      "classification": "inaccuracy",
+      "best_move": "e2e4"
+    },
+    {
+      "move": "e7e5",
+      "move_number": 1,
+      "eval_before": -32,
+      "eval_after": 30,
+      "eval_loss": 62,
+      "classification": "inaccuracy",
+      "best_move": "e7e5"
+    },
+    {
+      "move": "g1f3",
+      "move_number": 2,
+      "eval_before": 35,
+      "eval_after": -34,
+      "eval_loss": 69,
+      "classification": "inaccuracy",
+      "best_move": "g1f3"
+    },
+    {
+      "move": "d7d6",
+      "move_number": 2,
+      "eval_before": -37,
+      "eval_after": 40,
+      "eval_loss": 77,
+      "classification": "inaccuracy",
+      "best_move": "b8c6"
+    },
+    {
+      "move": "f1c4",
+      "move_number": 3,
+      "eval_before": 52,
+      "eval_after": -40,
+      "eval_loss": 92,
+      "classification": "inaccuracy",
+      "best_move": "d2d4"
+    },
+    {
+      "move": "h7h6",
+      "move_number": 3,
+      "eval_before": -34,
+      "eval_after": 89,
+      "eval_loss": 123,
+      "classification": "mistake",
+      "best_move": "f8e7"
+    },
+    {
+      "move": "c2c3",
+      "move_number": 4,
+      "eval_before": 73,
+      "eval_after": -57,
+      "eval_loss": 130,
+      "classification": "mistake",
+      "best_move": "d2d4"
+    },
+    {
+      "move": "b8c6",
+      "move_number": 4,
+      "eval_before": -53,
+      "eval_after": 46,
+      "eval_loss": 99,
+      "classification": "inaccuracy",
+      "best_move": "g8f6"
+    },
+    {
+      "move": "d1b3",
+      "move_number": 5,
+      "eval_before": 45,
+      "eval_after": 0,
+      "eval_loss": 45,
+      "classification": "good",
+      "best_move": "d2d4"
+    },
+    {
+      "move": "c8e6",
+      "move_number": 5,
+      "eval_before": -7,
+      "eval_after": 185,
+      "eval_loss": 192,
+      "classification": "mistake",
+      "best_move": "d8d7"
+    },
+    {
+      "move": "c4e6",
+      "move_number": 6,
+      "eval_before": 193,
+      "eval_after": -195,
+      "eval_loss": 388,
+      "classification": "blunder",
+      "best_move": "c4e6"
+    },
+    {
+      "move": "f7e6",
+      "move_number": 6,
+      "eval_before": -191,
+      "eval_after": 192,
+      "eval_loss": 383,
+      "classification": "blunder",
+      "best_move": "f7e6"
+    },
+    {
+      "move": "b3e6",
+      "move_number": 7,
+      "eval_before": 194,
+      "eval_after": -192,
+      "eval_loss": 386,
+      "classification": "blunder",
+      "best_move": "b3e6"
+    },
+    {
+      "move": "f8e7",
+      "move_number": 7,
+      "eval_before": -192,
+      "eval_after": 199,
+      "eval_loss": 391,
+      "classification": "blunder",
+      "best_move": "d8e7"
+    },
+    {
+      "move": "d2d4",
+      "move_number": 8,
+      "eval_before": 202,
+      "eval_after": -173,
+      "eval_loss": 375,
+      "classification": "blunder",
+      "best_move": "e6g6"
+    },
+    {
+      "move": "g8f6",
+      "move_number": 8,
+      "eval_before": -175,
+      "eval_after": 173,
+      "eval_loss": 348,
+      "classification": "blunder",
+      "best_move": "g8f6"
+    },
+    {
+      "move": "d4e5",
+      "move_number": 9,
+      "eval_before": 168,
+      "eval_after": -157,
+      "eval_loss": 325,
+      "classification": "blunder",
+      "best_move": "c1e3"
+    },
+    {
+      "move": "d6e5",
+      "move_number": 9,
+      "eval_before": -169,
+      "eval_after": 159,
+      "eval_loss": 328,
+      "classification": "blunder",
+      "best_move": "d6e5"
+    },
+    {
+      "move": "e1g1",
+      "move_number": 10,
+      "eval_before": 157,
+      "eval_after": -80,
+      "eval_loss": 237,
+      "classification": "mistake",
+      "best_move": "c1e3"
+    },
+    {
+      "move": "d8d7",
+      "move_number": 10,
+      "eval_before": -95,
+      "eval_after": 102,
+      "eval_loss": 197,
+      "classification": "mistake",
+      "best_move": "d8d7"
+    },
+    {
+      "move": "e6d7",
+      "move_number": 11,
+      "eval_before": 107,
+      "eval_after": -83,
+      "eval_loss": 190,
+      "classification": "mistake",
+      "best_move": "e6c4"
+    },
+    {
+      "move": "f6d7",
+      "move_number": 11,
+      "eval_before": -84,
+      "eval_after": 128,
+      "eval_loss": 212,
+      "classification": "mistake",
+      "best_move": "e8d7"
+    },
+    {
+      "move": "c1e3",
+      "move_number": 12,
+      "eval_before": 136,
+      "eval_after": -135,
+      "eval_loss": 271,
+      "classification": "mistake",
+      "best_move": "c1e3"
+    },
+    {
+      "move": "e8c8",
+      "move_number": 12,
+      "eval_before": -135,
+      "eval_after": 131,
+      "eval_loss": 266,
+      "classification": "mistake",
+      "best_move": "e8c8"
+    },
+    {
+      "move": "f1d1",
+      "move_number": 13,
+      "eval_before": 123,
+      "eval_after": -114,
+      "eval_loss": 237,
+      "classification": "mistake",
+      "best_move": "b1d2"
+    },
+    {
+      "move": "d7f6",
+      "move_number": 13,
+      "eval_before": -101,
+      "eval_after": 174,
+      "eval_loss": 275,
+      "classification": "mistake",
+      "best_move": "e7c5"
+    },
+    {
+      "move": "h2h3",
+      "move_number": 14,
+      "eval_before": 187,
+      "eval_after": 656,
+      "eval_loss": -469,
+      "classification": "blunder",
+      "best_move": "b1d2"
+    },
+    {
+      "move": "d8d1",
+      "move_number": 14,
+      "eval_before": 675,
+      "eval_after": -666,
+      "eval_loss": -1341,
+      "classification": "blunder",
+      "best_move": "d8d1"
+    },
+    {
+      "move": "g1h2",
+      "move_number": 15,
+      "eval_before": -677,
+      "eval_after": 680,
+      "eval_loss": -1357,
+      "classification": "blunder",
+      "best_move": "g1h2"
+    },
+    {
+      "move": "f6e4",
+      "move_number": 15,
+      "eval_before": 677,
+      "eval_after": -677,
+      "eval_loss": -1354,
+      "classification": "blunder",
+      "best_move": "f6e4"
+    },
+    {
+      "move": "b2b4",
+      "move_number": 16,
+      "eval_before": -685,
+      "eval_after": 711,
+      "eval_loss": -1396,
+      "classification": "blunder",
+      "best_move": "g2g3"
+    },
+    {
+      "move": "e7g5",
+      "move_number": 16,
+      "eval_before": 715,
+      "eval_after": -682,
+      "eval_loss": -1397,
+      "classification": "blunder",
+      "best_move": "e4c3"
+    },
+    {
+      "move": "e3g5",
+      "move_number": 17,
+      "eval_before": -684,
+      "eval_after": 682,
+      "eval_loss": -1366,
+      "classification": "blunder",
+      "best_move": "f3g5"
+    },
+    {
+      "move": "h6g5",
+      "move_number": 17,
+      "eval_before": 684,
+      "eval_after": -687,
+      "eval_loss": -1371,
+      "classification": "blunder",
+      "best_move": "h6g5"
+    },
+    {
+      "move": "g2g4",
+      "move_number": 18,
+      "eval_before": -689,
+      "eval_after": 736,
+      "eval_loss": -1425,
+      "classification": "blunder",
+      "best_move": "b1d2"
+    },
+    {
+      "move": "e4f2",
+      "move_number": 18,
+      "eval_before": 751,
+      "eval_after": -772,
+      "eval_loss": -1523,
+      "classification": "blunder",
+      "best_move": "e4f2"
+    },
+    {
+      "move": "h2g2",
+      "move_number": 19,
+      "eval_before": -784,
+      "eval_after": 875,
+      "eval_loss": -1659,
+      "classification": "blunder",
+      "best_move": "f3g5"
+    },
+    {
+      "move": "f2e4",
+      "move_number": 19,
+      "eval_before": 871,
+      "eval_after": -747,
+      "eval_loss": -1618,
+      "classification": "blunder",
+      "best_move": "f2h3"
+    }
+  ],
+  "critical_moments": [
+    {
+      "move": "h7h6",
+      "move_number": 3,
+      "eval_before": -34,
+      "eval_after": 89,
+      "eval_loss": 123,
+      "classification": "mistake",
+      "best_move": "f8e7"
+    },
+    {
+      "move": "c2c3",
+      "move_number": 4,
+      "eval_before": 73,
+      "eval_after": -57,
+      "eval_loss": 130,
+      "classification": "mistake",
+      "best_move": "d2d4"
+    },
+    {
+      "move": "c8e6",
+      "move_number": 5,
+      "eval_before": -7,
+      "eval_after": 185,
+      "eval_loss": 192,
+      "classification": "mistake",
+      "best_move": "d8d7"
+    },
+    {
+      "move": "c4e6",
+      "move_number": 6,
+      "eval_before": 193,
+      "eval_after": -195,
+      "eval_loss": 388,
+      "classification": "blunder",
+      "best_move": "c4e6"
+    },
+    {
+      "move": "f7e6",
+      "move_number": 6,
+      "eval_before": -191,
+      "eval_after": 192,
+      "eval_loss": 383,
+      "classification": "blunder",
+      "best_move": "f7e6"
+    }
+  ],
+  "canvas_instructions": {
+    "type": "chess_board",
+    "viewer": "lichess-pgn-viewer",
+    "features": [
+      "interactive_board",
+      "move_navigation",
+      "analysis_display",
+      "evaluation_bar"
+    ],
+    "cdn_urls": {
+      "css": "https://unpkg.com/lichess-pgn-viewer@2.1.0/dist/lichess-pgn-viewer.css",
+      "js": "https://unpkg.com/lichess-pgn-viewer@2.1.0/dist/lichess-pgn-viewer.js"
+    }
+  }
+}

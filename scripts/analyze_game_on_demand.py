@@ -407,16 +407,16 @@ class OnDemandAnalyzer:
 
         return "\n".join(report)
 
-    def analyze_game_by_request(self, query: str, interactive: bool = True) -> str:
+    def analyze_game_by_request(self, query: str, output_format: str = "markdown") -> str:
         """
         Main entry point for TypingMind requests.
 
         Args:
             query: User query to find and analyze game
-            interactive: If True, return interactive HTML viewer; if False, return text report
+            output_format: "markdown", "html", or "json" for TypingMind Interactive Canvas
 
         Returns:
-            HTML viewer or markdown formatted analysis report
+            Formatted analysis in requested format
         """
         # Find the game
         game = self.find_game(query)
@@ -443,10 +443,19 @@ class OnDemandAnalyzer:
             self.cached_analysis[game_id] = analysis
             self._save_analysis_cache()
 
-        # Generate interactive viewer or text report
-        if interactive:
+        # Generate output in requested format
+        if output_format == "json":
+            # Return JSON for TypingMind Interactive Canvas
+            import sys
+            from pathlib import Path
+            sys.path.insert(0, str(Path(__file__).parent))
+            from json_output_for_canvas import ChessDataForCanvas
+
+            processor = ChessDataForCanvas()
+            return json.dumps(processor.prepare_canvas_data(game, analysis), indent=2)
+        elif output_format == "html":
             return self.generate_interactive_html_viewer(game, analysis)
-        else:
+        else:  # markdown
             return self.generate_lichess_style_report(game, analysis)
 
 
