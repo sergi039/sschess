@@ -129,12 +129,24 @@ python scripts/main.py --skip-fetch
 
 ## 💬 TypingMind Integration
 
-### Connecting Knowledge Base
+### Step 1: Configure Agent (IMPORTANT!)
 
-1. In TypingMind: Data Sources → Add New
-2. Choose GitHub as source
-3. Specify repository and `knowledge/` folder
-4. TypingMind will automatically sync files
+1. Go to **Agents** in TypingMind
+2. Create new agent or edit existing "Chess Analysis" agent
+3. Copy the **System Prompt** from `AGENT_SYSTEM_PROMPT.md`
+4. Paste into agent's System Instructions
+5. Save the agent
+
+### Step 2: Connect Knowledge Base
+
+1. In TypingMind: **Data Sources** → Add New
+2. Choose **GitHub** as source
+3. Repository: `sergi039/sschess`
+4. Folder: `knowledge/`
+5. TypingMind will sync files including:
+   - `chess_canvas_instructions.md` (CDN links and setup)
+   - Game analysis data
+   - PGN files
 
 ### Available chat commands
 
