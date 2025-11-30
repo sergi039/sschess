@@ -272,37 +272,19 @@ class OnDemandAnalyzer:
 
     def generate_interactive_html_viewer(self, game: Dict, analysis: Dict) -> str:
         """
-        Generate interactive HTML viewer with Lichess interface.
+        Generate interactive HTML viewer with Lichess interface for TypingMind.
 
         Returns:
-            HTML string with embedded chess viewer
+            Markdown with embedded HTML optimized for TypingMind rendering
         """
         import sys
         from pathlib import Path
         # Add scripts directory to path for import
         sys.path.insert(0, str(Path(__file__).parent))
-        from interactive_viewer import InteractiveChessViewer
+        from typingmind_viewer import create_typingmind_output
 
-        viewer = InteractiveChessViewer()
-        html = viewer.generate_viewer_html(game, analysis)
-
-        # Save HTML for direct access
-        output_file = viewer.save_viewer_html(html, f"game_{game.get('url', '').split('/')[-1]}.html")
-
-        # Return HTML wrapped for TypingMind display
-        return f"""
-## 🎯 Interactive Chess Analysis
-
-<div style="width: 100%; height: 800px; border: 1px solid #404040; border-radius: 8px; overflow: hidden;">
-<iframe src="data:text/html;charset=utf-8,{html.replace('"', '&quot;')}"
-        style="width: 100%; height: 100%; border: none;"
-        sandbox="allow-scripts allow-same-origin">
-</iframe>
-</div>
-
-📂 [Download HTML file]({output_file})
-🔗 [View original game]({game.get('url', '#')})
-        """
+        # Generate TypingMind-optimized output
+        return create_typingmind_output(game, analysis)
 
     def generate_lichess_style_report(self, game: Dict, analysis: Dict) -> str:
         """

@@ -277,9 +277,9 @@ class InteractiveChessViewer:
         </div>
     </div>
 
-    <!-- Lichess PGN Viewer -->
-    <link rel="stylesheet" href="https://lichess1.org/assets/css/lpv.min.css">
-    <script src="https://lichess1.org/assets/js/lpv.min.js"></script>
+    <!-- Lichess PGN Viewer from CDN -->
+    <link rel="stylesheet" href="https://unpkg.com/lichess-pgn-viewer@2.1.0/dist/lichess-pgn-viewer.css">
+    <script src="https://unpkg.com/lichess-pgn-viewer@2.1.0/dist/lichess-pgn-viewer.js"></script>
 
     <script>
         // Initialize lichess-pgn-viewer
