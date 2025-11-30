@@ -132,10 +132,11 @@ python scripts/main.py --skip-fetch
 ### Step 1: Configure Agent (IMPORTANT!)
 
 1. Go to **Agents** in TypingMind
-2. Create new agent or edit existing "Chess Analysis" agent
-3. Copy the **System Prompt** from `AGENT_SYSTEM_PROMPT.md`
+2. Create new agent or edit existing "Chess Master & Coach" agent
+3. Copy the **System Prompt** from `ENHANCED_COACH_PROMPT.md`
 4. Paste into agent's System Instructions
-5. Save the agent
+5. Enable plugins: Web Search, Simple Calculator
+6. Save the agent
 
 ### Step 2: Connect Knowledge Base
 
