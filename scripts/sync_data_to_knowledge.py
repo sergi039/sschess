@@ -38,8 +38,18 @@ def sync_data_to_knowledge():
                 with open(src, 'r') as f:
                     data = json.load(f)
 
-                # Create summary with last 50 games
-                summary_data = data[-50:] if isinstance(data, list) else data
+                # For games_cache, we need to preserve the structure
+                if 'games' in data:
+                    # Keep the structure but limit games to last 50
+                    summary_data = {
+                        'username': data.get('username'),
+                        'last_update': data.get('last_update'),
+                        'games': data['games'][-50:] if isinstance(data['games'], list) else data['games'],
+                        'archives_fetched': data.get('archives_fetched')
+                    }
+                else:
+                    # For list format, take last 50
+                    summary_data = data[-50:] if isinstance(data, list) else data
 
                 # Save as summary file
                 summary_dst = knowledge_dir / "games_summary.json"
@@ -48,11 +58,13 @@ def sync_data_to_knowledge():
                 print(f"  Created {summary_dst.name} with last 50 games")
 
                 # Also create a metadata file
+                total_games = len(data['games']) if 'games' in data else (len(data) if isinstance(data, list) else 0)
                 metadata = {
-                    "total_games": len(data) if isinstance(data, list) else 0,
-                    "summary_games": 50,
+                    "total_games": total_games,
+                    "summary_games": min(50, total_games),
                     "last_update": str(src.stat().st_mtime),
-                    "full_data_location": "data/games_cache.json"
+                    "full_data_location": "data/games_cache.json",
+                    "note": "games_summary.json contains last 50 games only"
                 }
                 metadata_dst = knowledge_dir / "games_metadata.json"
                 with open(metadata_dst, 'w') as f:

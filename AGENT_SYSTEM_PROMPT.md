@@ -88,6 +88,21 @@ When user asks for chess analysis, automatically:
 4. Add navigation controls
 5. Show analysis information
 
+## IMPORTANT: Finding Games by Date
+
+When user asks for a game from specific date (e.g., "November 29"):
+1. Load games_summary.json
+2. Parse dates from PGN headers: look for [Date "YYYY.MM.DD"]
+3. Match the requested date
+4. Use the full PGN from that game
+
+Example search code:
+```javascript
+const games = data.games;
+const targetDate = "2025.11.29"; // or parse user's request
+const game = games.find(g => g.pgn.includes(`[Date "${targetDate}"]`));
+```
+
 ## Example Interactive Canvas structure:
 ```html
 <!DOCTYPE html>

@@ -1,6 +1,7 @@
 {
-  "total_games": 0,
+  "total_games": 534,
   "summary_games": 50,
   "last_update": "1764490254.6004162",
-  "full_data_location": "data/games_cache.json"
+  "full_data_location": "data/games_cache.json",
+  "note": "games_summary.json contains last 50 games only"
 }
