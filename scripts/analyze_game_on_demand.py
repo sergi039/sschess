@@ -270,6 +270,40 @@ class OnDemandAnalyzer:
             "note": "Simplified analysis - Stockfish not available"
         }
 
+    def generate_interactive_html_viewer(self, game: Dict, analysis: Dict) -> str:
+        """
+        Generate interactive HTML viewer with Lichess interface.
+
+        Returns:
+            HTML string with embedded chess viewer
+        """
+        import sys
+        from pathlib import Path
+        # Add scripts directory to path for import
+        sys.path.insert(0, str(Path(__file__).parent))
+        from interactive_viewer import InteractiveChessViewer
+
+        viewer = InteractiveChessViewer()
+        html = viewer.generate_viewer_html(game, analysis)
+
+        # Save HTML for direct access
+        output_file = viewer.save_viewer_html(html, f"game_{game.get('url', '').split('/')[-1]}.html")
+
+        # Return HTML wrapped for TypingMind display
+        return f"""
+## 🎯 Interactive Chess Analysis
+
+<div style="width: 100%; height: 800px; border: 1px solid #404040; border-radius: 8px; overflow: hidden;">
+<iframe src="data:text/html;charset=utf-8,{html.replace('"', '&quot;')}"
+        style="width: 100%; height: 100%; border: none;"
+        sandbox="allow-scripts allow-same-origin">
+</iframe>
+</div>
+
+📂 [Download HTML file]({output_file})
+🔗 [View original game]({game.get('url', '#')})
+        """
+
     def generate_lichess_style_report(self, game: Dict, analysis: Dict) -> str:
         """
         Generate a Lichess-style analysis report.
@@ -391,15 +425,16 @@ class OnDemandAnalyzer:
 
         return "\n".join(report)
 
-    def analyze_game_by_request(self, query: str) -> str:
+    def analyze_game_by_request(self, query: str, interactive: bool = True) -> str:
         """
         Main entry point for TypingMind requests.
 
         Args:
             query: User query to find and analyze game
+            interactive: If True, return interactive HTML viewer; if False, return text report
 
         Returns:
-            Markdown formatted analysis report
+            HTML viewer or markdown formatted analysis report
         """
         # Find the game
         game = self.find_game(query)
@@ -426,8 +461,11 @@ class OnDemandAnalyzer:
             self.cached_analysis[game_id] = analysis
             self._save_analysis_cache()
 
-        # Generate report
-        return self.generate_lichess_style_report(game, analysis)
+        # Generate interactive viewer or text report
+        if interactive:
+            return self.generate_interactive_html_viewer(game, analysis)
+        else:
+            return self.generate_lichess_style_report(game, analysis)
 
 
 def main():

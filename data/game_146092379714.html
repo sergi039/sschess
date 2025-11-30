@@ -1,0 +1,306 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chess Analysis</title>
+    <style>
+        body {
+            font-family: 'Noto Sans', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background: #262421;
+            color: #bababa;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: #1e1e1e;
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+        }
+
+        .header {
+            background: linear-gradient(135deg, #7c4dff 0%, #536dfe 100%);
+            color: white;
+            padding: 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .players {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+
+        .player {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            font-size: 18px;
+            font-weight: 600;
+        }
+
+        .rating {
+            opacity: 0.9;
+            font-size: 16px;
+        }
+
+        .result {
+            font-size: 24px;
+            font-weight: bold;
+            padding: 10px 20px;
+            background: rgba(255,255,255,0.1);
+            border-radius: 4px;
+        }
+
+        .analysis-stats {
+            background: #2b2b2b;
+            padding: 15px 20px;
+            display: flex;
+            gap: 30px;
+            border-bottom: 1px solid #404040;
+        }
+
+        .stat {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .stat-label {
+            font-size: 12px;
+            color: #888;
+            margin-bottom: 4px;
+        }
+
+        .stat-value {
+            font-size: 20px;
+            font-weight: bold;
+        }
+
+        .stat-value.good { color: #4caf50; }
+        .stat-value.medium { color: #ff9800; }
+        .stat-value.bad { color: #f44336; }
+
+        #pgn-viewer {
+            background: #262421;
+            min-height: 600px;
+        }
+
+        /* Override lichess-pgn-viewer styles for dark theme */
+        .lpv {
+            background: #262421 !important;
+        }
+
+        .lpv__moves {
+            background: #1e1e1e !important;
+            color: #bababa !important;
+        }
+
+        .lpv__moves move {
+            color: #bababa !important;
+        }
+
+        .lpv__moves move:hover {
+            background: #404040 !important;
+        }
+
+        .lpv__moves move.active {
+            background: #536dfe !important;
+            color: white !important;
+        }
+
+        .lpv__board {
+            margin: 20px;
+        }
+
+        /* Evaluation bar styling */
+        .eval-bar {
+            position: absolute;
+            left: -30px;
+            top: 0;
+            bottom: 0;
+            width: 20px;
+            background: linear-gradient(to bottom,
+                white 0%,
+                white var(--eval-percent),
+                #404040 var(--eval-percent),
+                #404040 100%
+            );
+            border: 1px solid #404040;
+            border-radius: 3px;
+        }
+
+        .legend {
+            padding: 20px;
+            background: #2b2b2b;
+            border-top: 1px solid #404040;
+        }
+
+        .legend-title {
+            font-size: 14px;
+            font-weight: bold;
+            margin-bottom: 10px;
+            color: #bababa;
+        }
+
+        .legend-items {
+            display: flex;
+            gap: 20px;
+            flex-wrap: wrap;
+        }
+
+        .legend-item {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            font-size: 13px;
+        }
+
+        .legend-symbol {
+            font-weight: bold;
+            padding: 2px 6px;
+            border-radius: 3px;
+        }
+
+        .brilliant { background: #1bada0; color: white; }
+        .best { background: #4caf50; color: white; }
+        .excellent { background: #66bb6a; color: white; }
+        .good { background: #81c784; color: white; }
+        .inaccuracy { background: #ff9800; color: white; }
+        .mistake { background: #f44336; color: white; }
+        .blunder { background: #b71c1c; color: white; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <div class="players">
+                <div class="player">
+                    <span>⚪</span>
+                    <span>sergioquesadas</span>
+                    <span class="rating">(739)</span>
+                </div>
+                <div class="player">
+                    <span>⚫</span>
+                    <span>pommy-lad</span>
+                    <span class="rating">(774)</span>
+                </div>
+            </div>
+            <div class="result">*</div>
+        </div>
+
+        <div class="analysis-stats">
+            <div class="stat">
+                <div class="stat-label">Accuracy</div>
+                <div class="stat-value bad">20.5%</div>
+            </div>
+            <div class="stat">
+                <div class="stat-label">Blunders</div>
+                <div class="stat-value bad">20</div>
+            </div>
+            <div class="stat">
+                <div class="stat-label">Mistakes</div>
+                <div class="stat-value bad">11</div>
+            </div>
+            <div class="stat">
+                <div class="stat-label">Inaccuracies</div>
+                <div class="stat-value">6</div>
+            </div>
+            <div class="stat">
+                <div class="stat-label">Average Centipawn Loss</div>
+                <div class="stat-value">580</div>
+            </div>
+        </div>
+
+        <div id="pgn-viewer"></div>
+
+        <div class="legend">
+            <div class="legend-title">Move Classifications</div>
+            <div class="legend-items">
+                <div class="legend-item">
+                    <span class="legend-symbol brilliant">!!</span>
+                    <span>Brilliant move</span>
+                </div>
+                <div class="legend-item">
+                    <span class="legend-symbol best">!</span>
+                    <span>Best move</span>
+                </div>
+                <div class="legend-item">
+                    <span class="legend-symbol good">Good</span>
+                    <span>Good move</span>
+                </div>
+                <div class="legend-item">
+                    <span class="legend-symbol inaccuracy">?!</span>
+                    <span>Inaccuracy</span>
+                </div>
+                <div class="legend-item">
+                    <span class="legend-symbol mistake">?</span>
+                    <span>Mistake</span>
+                </div>
+                <div class="legend-item">
+                    <span class="legend-symbol blunder">??</span>
+                    <span>Blunder</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Lichess PGN Viewer -->
+    <link rel="stylesheet" href="https://lichess1.org/assets/css/lpv.min.css">
+    <script src="https://lichess1.org/assets/js/lpv.min.js"></script>
+
+    <script>
+        // Initialize lichess-pgn-viewer
+        const pgn = `[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.11.29"]
+[Round "-"]
+[White "sergioquesadas"]
+[Black "pommy-lad"]
+[Result "0-1"]
+[CurrentPosition "2k4r/ppp3p1/2n5/4p1p1/1P2n1P1/2P2N1P/P5K1/RN1r4 w - - 2 20"]
+[Timezone "UTC"]
+[ECO "C41"]
+[ECOUrl "https://www.chess.com/openings/Philidor-Defense-3.Bc4"]
+[UTCDate "2025.11.29"]
+[UTCTime "07:18:10"]
+[WhiteElo "739"]
+[BlackElo "774"]
+[TimeControl "600"]
+[Termination "pommy-lad won by resignation"]
+[StartTime "07:18:10"]
+[EndDate "2025.11.29"]
+[EndTime "07:24:30"]
+[Link "https://www.chess.com/game/live/146092379714"]
+[WhiteAccuracy "20.5"]
+[BlackAccuracy "20.5"]
+
+1. e4 \$6 { Evaluation: +0.8 } 1... e5 \$6 { Evaluation: +0.6 } 2. Nf3 \$6 { Evaluation: +0.7 } 2... d6 \$6 { Lost 0.8 pawns. Better was b8c6 } 3. Bc4 \$6 { Lost 0.9 pawns. Better was d2d4 } 3... h6 \$2 { Lost 1.2 pawns. Better was f8e7 } ( 3... Be7 { Best move } ) 4. c3 \$2 { Lost 1.3 pawns. Better was d2d4 } ( 4. d4 { Best move } ) 4... Nc6 \$6 { Lost 1.0 pawns. Better was g8f6 } 5. Qb3 Be6 \$2 { Lost 1.9 pawns. Better was d8d7 } ( 5... Qd7 { Best move } ) 6. Bxe6 \$4 { Evaluation: +3.9 } 6... fxe6 \$4 { Evaluation: +3.8 } 7. Qxe6+ \$4 { Evaluation: +3.9 } 7... Be7 \$4 { Lost 3.9 pawns. Better was d8e7 } ( 7... Qe7 { Best move } ) 8. d4 \$4 { Lost 3.8 pawns. Better was e6g6 } ( 8. Qg6+ { Best move } ) 8... Nf6 \$4 { Evaluation: +3.5 } 9. dxe5 \$4 { Lost 3.2 pawns. Better was c1e3 } ( 9. Be3 { Best move } ) 9... dxe5 \$4 { Evaluation: +3.3 } 10. O-O \$2 { Lost 2.4 pawns. Better was c1e3 } ( 10. Be3 { Best move } ) 10... Qd7 \$2 { Evaluation: +2.0 } 11. Qxd7+ \$2 { Lost 1.9 pawns. Better was e6c4 } ( 11. Qc4 { Best move } ) 11... Nxd7 \$2 { Lost 2.1 pawns. Better was e8d7 } ( 11... Kxd7 { Best move } ) 12. Be3 \$2 { Evaluation: +2.7 } 12... O-O-O \$2 { Evaluation: +2.7 } 13. Rd1 \$2 { Lost 2.4 pawns. Better was b1d2 } ( 13. Nbd2 { Best move } ) 13... Nf6 \$2 { Lost 2.8 pawns. Better was e7c5 } ( 13... Bc5 { Best move } ) 14. h3 \$4 { Lost 4.7 pawns. Better was b1d2 } ( 14. Nbd2 { Best move } ) 14... Rxd1+ \$4 { Evaluation: -13.4 } 15. Kh2 \$4 { Evaluation: -13.6 } 15... Nxe4 \$4 { Evaluation: -13.5 } 16. b4 \$4 { Lost 14.0 pawns. Better was g2g3 } ( 16. g3 { Best move } ) 16... Bg5 \$4 { Lost 14.0 pawns. Better was e4c3 } ( 16... Nxc3 { Best move } ) 17. Bxg5 \$4 { Lost 13.7 pawns. Better was f3g5 } ( 17. Nxg5 { Best move } ) 17... hxg5 \$4 { Evaluation: -13.7 } 18. g4 \$4 { Lost 14.2 pawns. Better was b1d2 } ( 18. Nbd2 { Best move } ) 18... Nxf2 \$4 { Evaluation: -15.2 } 19. Kg2 \$4 { Lost 16.6 pawns. Better was f3g5 } ( 19. Nxg5 { Best move } ) 19... Ne4 \$4 { Lost 16.2 pawns. Better was f2h3 } ( 19... Nxh3 { Best move } ) 0-1`;
+
+        LichessPgnViewer(document.getElementById('pgn-viewer'), {{
+            pgn: pgn,
+            orientation: 'white',
+            coordinates: true,
+            showPlayers: false,  // We show custom header
+            showMoves: 'right',
+            showClocks: true,
+            drawArrows: true,
+            viewOnly: false,
+            menu: {{
+                getPgn: true,
+                practise: false,
+                analysisBoard: true
+            }},
+            lichess: 'https://lichess.org/',
+            classes: 'lpv--dark'
+        }});
+    </script>
+</body>
+</html>
+        

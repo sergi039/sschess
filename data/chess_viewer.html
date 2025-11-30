@@ -1,0 +1,306 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chess Analysis</title>
+    <style>
+        body {
+            font-family: 'Noto Sans', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background: #262421;
+            color: #bababa;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: #1e1e1e;
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+        }
+
+        .header {
+            background: linear-gradient(135deg, #7c4dff 0%, #536dfe 100%);
+            color: white;
+            padding: 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .players {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+
+        .player {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            font-size: 18px;
+            font-weight: 600;
+        }
+
+        .rating {
+            opacity: 0.9;
+            font-size: 16px;
+        }
+
+        .result {
+            font-size: 24px;
+            font-weight: bold;
+            padding: 10px 20px;
+            background: rgba(255,255,255,0.1);
+            border-radius: 4px;
+        }
+
+        .analysis-stats {
+            background: #2b2b2b;
+            padding: 15px 20px;
+            display: flex;
+            gap: 30px;
+            border-bottom: 1px solid #404040;
+        }
+
+        .stat {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .stat-label {
+            font-size: 12px;
+            color: #888;
+            margin-bottom: 4px;
+        }
+
+        .stat-value {
+            font-size: 20px;
+            font-weight: bold;
+        }
+
+        .stat-value.good { color: #4caf50; }
+        .stat-value.medium { color: #ff9800; }
+        .stat-value.bad { color: #f44336; }
+
+        #pgn-viewer {
+            background: #262421;
+            min-height: 600px;
+        }
+
+        /* Override lichess-pgn-viewer styles for dark theme */
+        .lpv {
+            background: #262421 !important;
+        }
+
+        .lpv__moves {
+            background: #1e1e1e !important;
+            color: #bababa !important;
+        }
+
+        .lpv__moves move {
+            color: #bababa !important;
+        }
+
+        .lpv__moves move:hover {
+            background: #404040 !important;
+        }
+
+        .lpv__moves move.active {
+            background: #536dfe !important;
+            color: white !important;
+        }
+
+        .lpv__board {
+            margin: 20px;
+        }
+
+        /* Evaluation bar styling */
+        .eval-bar {
+            position: absolute;
+            left: -30px;
+            top: 0;
+            bottom: 0;
+            width: 20px;
+            background: linear-gradient(to bottom,
+                white 0%,
+                white var(--eval-percent),
+                #404040 var(--eval-percent),
+                #404040 100%
+            );
+            border: 1px solid #404040;
+            border-radius: 3px;
+        }
+
+        .legend {
+            padding: 20px;
+            background: #2b2b2b;
+            border-top: 1px solid #404040;
+        }
+
+        .legend-title {
+            font-size: 14px;
+            font-weight: bold;
+            margin-bottom: 10px;
+            color: #bababa;
+        }
+
+        .legend-items {
+            display: flex;
+            gap: 20px;
+            flex-wrap: wrap;
+        }
+
+        .legend-item {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            font-size: 13px;
+        }
+
+        .legend-symbol {
+            font-weight: bold;
+            padding: 2px 6px;
+            border-radius: 3px;
+        }
+
+        .brilliant { background: #1bada0; color: white; }
+        .best { background: #4caf50; color: white; }
+        .excellent { background: #66bb6a; color: white; }
+        .good { background: #81c784; color: white; }
+        .inaccuracy { background: #ff9800; color: white; }
+        .mistake { background: #f44336; color: white; }
+        .blunder { background: #b71c1c; color: white; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <div class="players">
+                <div class="player">
+                    <span>⚪</span>
+                    <span>MrMacpatna</span>
+                    <span class="rating">(383)</span>
+                </div>
+                <div class="player">
+                    <span>⚫</span>
+                    <span>sergioquesadas</span>
+                    <span class="rating">(571)</span>
+                </div>
+            </div>
+            <div class="result">*</div>
+        </div>
+
+        <div class="analysis-stats">
+            <div class="stat">
+                <div class="stat-label">Accuracy</div>
+                <div class="stat-value medium">85.5%</div>
+            </div>
+            <div class="stat">
+                <div class="stat-label">Blunders</div>
+                <div class="stat-value medium">1</div>
+            </div>
+            <div class="stat">
+                <div class="stat-label">Mistakes</div>
+                <div class="stat-value medium">2</div>
+            </div>
+            <div class="stat">
+                <div class="stat-label">Inaccuracies</div>
+                <div class="stat-value">3</div>
+            </div>
+            <div class="stat">
+                <div class="stat-label">Average Centipawn Loss</div>
+                <div class="stat-value">0</div>
+            </div>
+        </div>
+
+        <div id="pgn-viewer"></div>
+
+        <div class="legend">
+            <div class="legend-title">Move Classifications</div>
+            <div class="legend-items">
+                <div class="legend-item">
+                    <span class="legend-symbol brilliant">!!</span>
+                    <span>Brilliant move</span>
+                </div>
+                <div class="legend-item">
+                    <span class="legend-symbol best">!</span>
+                    <span>Best move</span>
+                </div>
+                <div class="legend-item">
+                    <span class="legend-symbol good">Good</span>
+                    <span>Good move</span>
+                </div>
+                <div class="legend-item">
+                    <span class="legend-symbol inaccuracy">?!</span>
+                    <span>Inaccuracy</span>
+                </div>
+                <div class="legend-item">
+                    <span class="legend-symbol mistake">?</span>
+                    <span>Mistake</span>
+                </div>
+                <div class="legend-item">
+                    <span class="legend-symbol blunder">??</span>
+                    <span>Blunder</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Lichess PGN Viewer -->
+    <link rel="stylesheet" href="https://lichess1.org/assets/css/lpv.min.css">
+    <script src="https://lichess1.org/assets/js/lpv.min.js"></script>
+
+    <script>
+        // Initialize lichess-pgn-viewer
+        const pgn = `[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.10.18"]
+[Round "-"]
+[White "MrMacpatna"]
+[Black "sergioquesadas"]
+[Result "0-1"]
+[CurrentPosition "8/3Q2p1/5pk1/8/5P2/P5q1/8/4r2K w - - 2 33"]
+[Timezone "UTC"]
+[ECO "A03"]
+[ECOUrl "https://www.chess.com/openings/Birds-Opening-Dutch-Variation-2.e3"]
+[UTCDate "2025.10.18"]
+[UTCTime "12:56:44"]
+[WhiteElo "383"]
+[BlackElo "571"]
+[TimeControl "600"]
+[Termination "sergioquesadas won by checkmate"]
+[StartTime "12:56:44"]
+[EndDate "2025.10.18"]
+[EndTime "13:06:22"]
+[Link "https://www.chess.com/game/live/144438554796"]
+[WhiteAccuracy "85.5"]
+[BlackAccuracy "85.5"]
+
+1. f4 d5 2. e3 f6 3. Bb5+ c6 4. Ba4 b5 5. Bb3 e5 6. g3 e4 7. Ne2 c5 8. Nbc3 c4 9. Bxc4 bxc4 10. b4 a5 11. Rb1 Nc6 12. Nxd5 Qxd5 13. bxa5 Nxa5 14. Nc3 Bd6 15. Nxd5 Bxf4 16. exf4 Ne7 17. Nxe7 Kxe7 18. Qe2 Rd8 19. Qxe4+ Kf7 20. Rb7+ Bxb7 21. Qxh7 Rh8 22. Qf5 Bxh1 23. d3 c3 24. Bd2 Rae8+ 25. Kf2 Rxh2+ 26. Kg1 cxd2 27. Kxh2 d1=Q 28. Qxa5 Qxc2+ 29. Kxh1 Qxd3 30. Qa7+ Kg6 31. a3 Qxg3 32. Qd7 Re1# 0-1`;
+
+        LichessPgnViewer(document.getElementById('pgn-viewer'), {{
+            pgn: pgn,
+            orientation: 'white',
+            coordinates: true,
+            showPlayers: false,  // We show custom header
+            showMoves: 'right',
+            showClocks: true,
+            drawArrows: true,
+            viewOnly: false,
+            menu: {{
+                getPgn: true,
+                practise: false,
+                analysisBoard: true
+            }},
+            lichess: 'https://lichess.org/',
+            classes: 'lpv--dark'
+        }});
+    </script>
+</body>
+</html>
+        

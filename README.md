@@ -21,8 +21,10 @@ Automated chess game analysis system with Chess.com, Lichess, and TypingMind int
 ### On-Demand Analysis (TypingMind Integration)
 - 💬 **AI chat commands**: "Analyze my game from November 29"
 - 🔍 **Smart search**: by date, opponent, opening
+- 🎮 **Interactive chess board**: Lichess-style viewer embedded in chat
 - 🤖 **Stockfish analysis**: detailed move-by-move breakdown
-- 📄 **Lichess-style reports**: accuracy, evaluation graph, critical moments
+- 📊 **Visual analysis**: Move classifications, accuracy, evaluation
+- 🎯 **Full interactivity**: Navigate moves, explore variations, all in TypingMind!
 
 ## 🚀 Quick Start
 
