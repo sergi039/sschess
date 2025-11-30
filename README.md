@@ -1,64 +1,64 @@
 # ♟️ Chess Knowledge Base
 
-Автоматизированная система анализа шахматных партий с интеграцией Chess.com, Lichess и TypingMind.
+Automated chess game analysis system with Chess.com, Lichess, and TypingMind integration.
 
-## 🎯 Основные возможности
+## 🎯 Key Features
 
-### Базовый анализ (Chess.com) - ежедневно
-- 📊 **Автоматическое обновление партий** каждый день через GitHub Actions
-- 📈 **Статистика**: рейтинг, винрейт, результаты по времени контроля
-- 🎲 **Анализ дебютов**: репертуар, процент побед, проблемные варианты
-- 📝 **Определение слабостей**: паттерны ошибок, управление временем
-- ⚡ **Быстрая работа**: < 1 минуты на полный цикл
+### Basic Analysis (Chess.com) - Daily
+- 📊 **Automatic game updates** every day via GitHub Actions
+- 📈 **Statistics**: rating, win rate, time control results
+- 🎲 **Opening analysis**: repertoire, win percentages, problematic lines
+- 📝 **Weakness identification**: error patterns, time management issues
+- ⚡ **Fast execution**: < 1 minute for full cycle
 
-### Расширенный анализ (Lichess) - по запросу
-- 🖥️ **Компьютерный анализ** с Stockfish (точность, ошибки, зевки)
-- 🎯 **Тактические паттерны**: вилки, связки, вскрытые нападения
-- 📚 **Дебютная база Lichess**: сравнение с мастерской статистикой
-- 📖 **Интерактивные Studies**: автоматическое создание учебных материалов
-- 📊 **План улучшения**: персональные рекомендации на основе анализа
+### Advanced Analysis (Lichess) - On Request
+- 🖥️ **Computer analysis** with Stockfish (accuracy, mistakes, blunders)
+- 🎯 **Tactical patterns**: forks, pins, discovered attacks
+- 📚 **Lichess opening database**: comparison with master statistics
+- 📖 **Interactive Studies**: automatic creation of training materials
+- 📊 **Improvement plan**: personalized recommendations based on analysis
 
-### Анализ по запросу (TypingMind интеграция)
-- 💬 **AI чат команды**: "Проанализируй партию от 29 ноября"
-- 🔍 **Умный поиск**: по дате, противнику, дебюту
-- 🤖 **Stockfish анализ**: детальный разбор каждого хода
-- 📄 **Lichess-стиль отчетов**: точность, график оценки, критические моменты
+### On-Demand Analysis (TypingMind Integration)
+- 💬 **AI chat commands**: "Analyze my game from November 29"
+- 🔍 **Smart search**: by date, opponent, opening
+- 🤖 **Stockfish analysis**: detailed move-by-move breakdown
+- 📄 **Lichess-style reports**: accuracy, evaluation graph, critical moments
 
-## 🚀 Быстрый старт
+## 🚀 Quick Start
 
-### 1. Клонируйте репозиторий
+### 1. Clone the repository
 
 ```bash
 git clone https://github.com/sergi039/sschess.git chess-knowledge
 cd chess-knowledge
 ```
 
-### 2. Установите зависимости
+### 2. Install dependencies
 
 ```bash
 pip install requests python-chess
-brew install stockfish  # для macOS (опционально, для полного анализа)
+brew install stockfish  # for macOS (optional, for full analysis)
 ```
 
-### 3. Настройте окружение
+### 3. Configure environment
 
-Создайте файл `.env`:
+Create a `.env` file:
 
 ```bash
-CHESS_USERNAME=sergioquesadas  # ваш username на Chess.com
-LICHESS_TOKEN=lip_YourToken    # токен Lichess (опционально)
+CHESS_USERNAME=sergioquesadas  # your Chess.com username
+LICHESS_TOKEN=lip_YourToken    # Lichess token (optional)
 ```
 
-### 4. Запустите анализ
+### 4. Run analysis
 
 ```bash
-# Базовый анализ (быстро, ~30 сек)
+# Basic analysis (fast, ~30 sec)
 python scripts/main.py
 
-# С компьютерным анализом Lichess (медленнее, ~5 мин)
+# With Lichess computer analysis (slower, ~5 min)
 python scripts/main.py --enable-lichess
 
-# Анализ конкретной партии
+# Analyze specific game
 python scripts/analyze_game_on_demand.py "2025-11-29"
 ```
 
@@ -84,103 +84,103 @@ python scripts/main.py --months 6
 python scripts/main.py --skip-fetch
 ```
 
-## 📁 Генерируемые файлы
+## 📁 Generated Files
 
-### Базовые отчеты (`knowledge/`) - всегда
-- `summary.md` - Общая статистика и рейтинги
-- `openings.md` - Анализ дебютного репертуара
-- `weaknesses.md` - Выявленные слабости и рекомендации
-- `recent_games.md` - Последние 20 партий с деталями
-- `typingmind_commands.md` - Команды для AI чата
+### Basic Reports (`knowledge/`) - Always Generated
+- `summary.md` - Overall statistics and ratings
+- `openings.md` - Opening repertoire analysis
+- `weaknesses.md` - Identified weaknesses and recommendations
+- `recent_games.md` - Last 20 games with details
+- `typingmind_commands.md` - Commands for AI chat
 
-### Расширенные отчеты (с --enable-lichess)
-- `lichess_accuracy.md` - Точность игры и компьютерная оценка
-- `lichess_mistakes.md` - Детальный разбор ошибок и зевков
-- `lichess_tactics.md` - Найденные тактические паттерны
-- `lichess_openings.md` - Сравнение с дебютной базой Lichess
-- `lichess_improvement.md` - Персональный план тренировок
-- `lichess_studies.md` - Ссылки на интерактивные уроки
+### Advanced Reports (with --enable-lichess)
+- `lichess_accuracy.md` - Game accuracy and computer evaluation
+- `lichess_mistakes.md` - Detailed analysis of mistakes and blunders
+- `lichess_tactics.md` - Found tactical patterns
+- `lichess_openings.md` - Comparison with Lichess opening database
+- `lichess_improvement.md` - Personalized training plan
+- `lichess_studies.md` - Links to interactive lessons
 
-### Файлы данных (`data/`)
-- `games_cache.json` - Все загруженные партии
-- `analysis_results.json` - Результаты базового анализа
-- `lichess_analysis_cache.json` - Кэш компьютерного анализа
-- `detailed_analysis_cache.json` - Кэш анализа по запросу
+### Data Files (`data/`)
+- `games_cache.json` - All downloaded games
+- `analysis_results.json` - Basic analysis results
+- `lichess_analysis_cache.json` - Computer analysis cache
+- `detailed_analysis_cache.json` - On-demand analysis cache
 
-## 🤖 GitHub Actions автоматизация
+## 🤖 GitHub Actions Automation
 
-### Настройка секретов
+### Setting up secrets
 
 1. Settings → Secrets and variables → Actions
-2. Добавьте секреты:
-   - `CHESS_USERNAME` - ваш username на Chess.com
-   - `LICHESS_TOKEN` - токен Lichess (опционально)
-3. Workflow запускается автоматически каждый день в 6:00 UTC
+2. Add secrets:
+   - `CHESS_USERNAME` - your Chess.com username
+   - `LICHESS_TOKEN` - Lichess token (optional)
+3. Workflow runs automatically every day at 6:00 UTC
 
-### Ручной запуск с параметрами
+### Manual run with parameters
 
 1. Actions → Update Chess Knowledge Base → Run workflow
-2. Параметры:
-   - **months** - количество месяцев для загрузки
-   - **skip_fetch** - пропустить загрузку новых партий
-   - **enable_lichess** - включить Lichess анализ ✅
+2. Parameters:
+   - **months** - number of months to fetch
+   - **skip_fetch** - skip fetching new games
+   - **enable_lichess** - enable Lichess analysis ✅
 
-## 💬 Интеграция с TypingMind
+## 💬 TypingMind Integration
 
-### Подключение Knowledge Base
+### Connecting Knowledge Base
 
-1. В TypingMind: Data Sources → Add New
-2. Выберите GitHub как источник
-3. Укажите репозиторий и папку `knowledge/`
-4. TypingMind автоматически синхронизирует файлы
+1. In TypingMind: Data Sources → Add New
+2. Choose GitHub as source
+3. Specify repository and `knowledge/` folder
+4. TypingMind will automatically sync files
 
-### Доступные команды в чате
+### Available chat commands
 
-**Базовая статистика** (всегда актуальна):
-- "Покажи мой текущий рейтинг"
-- "Какие у меня слабые дебюты?"
-- "Покажи последние партии"
-- "В чем мои основные проблемы?"
+**Basic statistics** (always up-to-date):
+- "Show my current rating"
+- "What are my weak openings?"
+- "Show recent games"
+- "What are my main problems?"
 
-**Анализ конкретной партии** (требует скрипты):
-- "Проанализируй партию от 29 ноября"
-- "Найди ошибки в партии против [противник]"
-- "Покажи компьютерную оценку последней партии"
+**Specific game analysis** (requires scripts):
+- "Analyze my game from November 29"
+- "Find mistakes in game against [opponent]"
+- "Show computer evaluation of last game"
 
-**Рекомендации по улучшению**:
-- "Что мне нужно тренировать?"
-- "Какие тактические паттерны я пропускаю?"
-- "План тренировок на неделю"
+**Improvement recommendations**:
+- "What should I practice?"
+- "Which tactical patterns am I missing?"
+- "Training plan for the week"
 
-## 📂 Структура проекта
+## 📂 Project Structure
 
 ```
 chess-knowledge/
 ├── scripts/
-│   ├── main.py                    # Основной orchestrator
-│   ├── fetch_games.py              # Загрузка партий Chess.com
-│   ├── analyze.py                  # Базовый анализ
-│   ├── generate_markdown.py        # Генератор отчетов
-│   ├── lichess_analyzer.py         # Компьютерный анализ
-│   ├── tactical_detector.py        # Поиск тактических паттернов
-│   ├── opening_database.py         # Работа с дебютной базой
-│   ├── study_generator.py          # Создание Lichess Studies
-│   ├── generate_lichess_markdown.py # Lichess отчеты
-│   └── analyze_game_on_demand.py   # Анализ по запросу
-├── knowledge/                      # Markdown файлы для TypingMind
-│   ├── summary.md                  # Общая статистика
-│   ├── openings.md                 # Дебюты
-│   ├── weaknesses.md               # Слабости
-│   ├── recent_games.md             # Последние партии
-│   ├── lichess_*.md                # Lichess отчеты (6 файлов)
-│   └── typingmind_commands.md      # Справка по командам
-├── data/                           # Кэшированные данные
-│   ├── games_cache.json            # Все партии
-│   ├── analysis_results.json       # Результаты анализа
-│   └── *_cache.json                # Различные кэши
+│   ├── main.py                    # Main orchestrator
+│   ├── fetch_games.py              # Chess.com game fetching
+│   ├── analyze.py                  # Basic analysis
+│   ├── generate_markdown.py        # Report generator
+│   ├── lichess_analyzer.py         # Computer analysis
+│   ├── tactical_detector.py        # Tactical pattern search
+│   ├── opening_database.py         # Opening database handling
+│   ├── study_generator.py          # Lichess Studies creation
+│   ├── generate_lichess_markdown.py # Lichess reports
+│   └── analyze_game_on_demand.py   # On-demand analysis
+├── knowledge/                      # Markdown files for TypingMind
+│   ├── summary.md                  # Overall statistics
+│   ├── openings.md                 # Openings
+│   ├── weaknesses.md               # Weaknesses
+│   ├── recent_games.md             # Recent games
+│   ├── lichess_*.md                # Lichess reports (6 files)
+│   └── typingmind_commands.md      # Command reference
+├── data/                           # Cached data
+│   ├── games_cache.json            # All games
+│   ├── analysis_results.json       # Analysis results
+│   └── *_cache.json                # Various caches
 └── .github/
     └── workflows/
-        └── update.yml              # GitHub Actions автоматизация
+        └── update.yml              # GitHub Actions automation
 ```
 
 ## How It Works
@@ -203,44 +203,45 @@ chess-knowledge/
    - Visual indicators (🟢🟡🔴)
    - Links to actual games
 
-## ⚙️ Технические детали
+## ⚙️ Technical Details
 
-### Используемые API
-- **Chess.com API** - загрузка партий (публичный, без токена)
-- **Lichess API** - компьютерный анализ (требует токен)
-- **Stockfish** - локальный движок для глубокого анализа
+### APIs Used
+- **Chess.com API** - game fetching (public, no token required)
+- **Lichess API** - computer analysis (requires token)
+- **Stockfish** - local engine for deep analysis
 
-### Ограничения
-- Chess.com API имеет rate limits (0.5 сек между запросами)
-- Lichess анализ ограничен 5 партиями за раз
-- Stockfish требует локальной установки для полного анализа
+### Limitations
+- Chess.com API has rate limits (0.5 sec between requests)
+- Lichess analysis limited to 5 games at a time
+- Stockfish requires local installation for full analysis
 
-## 🚧 Планы развития
+## 🚧 Development Roadmap
 
-- [x] Базовый анализ партий
-- [x] Интеграция с Lichess
-- [x] Анализ по запросу из TypingMind
-- [x] Тактические паттерны
-- [x] Дебютная база данных
-- [ ] Графики и визуализация
-- [ ] Анализ противников
-- [ ] Корреляция с puzzle rating
-- [ ] Турнирная статистика
+- [x] Basic game analysis
+- [x] Lichess integration
+- [x] On-demand analysis from TypingMind
+- [x] Tactical patterns
+- [x] Opening database
+- [ ] Graphs and visualization
+- [ ] Opponent analysis
+- [ ] Puzzle rating correlation
+- [ ] Tournament statistics
 
-## 📖 Документация
+## 📖 Documentation
 
-- [LICHESS_README.md](LICHESS_README.md) - Детальная документация по Lichess интеграции
-- [knowledge/typingmind_commands.md](knowledge/typingmind_commands.md) - Справка по командам для TypingMind
+- [LICHESS_README.md](LICHESS_README.md) - Detailed Lichess integration documentation
+- [CONTRIBUTING.md](CONTRIBUTING.md) - Contribution guidelines
+- [knowledge/typingmind_commands.md](knowledge/typingmind_commands.md) - TypingMind command reference
 
-## 🤝 Вклад в проект
+## 🤝 Contributing
 
-Приветствуются issues и pull requests!
+Issues and pull requests are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) first.
 
-## 📄 Лицензия
+## 📄 License
 
 MIT
 
-## 👤 Контакты
+## 👤 Contact
 
 - GitHub: [@sergi039](https://github.com/sergi039)
 - Chess.com: [sergioquesadas](https://www.chess.com/member/sergioquesadas)
@@ -248,6 +249,6 @@ MIT
 
 ---
 
-*🚀 Автоматизированная система анализа шахматных партий с AI-интеграцией*
+*🚀 Automated chess game analysis system with AI integration*
 
 *Built with Claude Code & ❤️ for chess improvement*
