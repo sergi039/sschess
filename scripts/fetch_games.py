@@ -138,9 +138,12 @@ class ChessComFetcher:
 
         # Fetch games from each archive
         new_games = 0
+        current_month = datetime.now().strftime("%Y/%m")
+
         for archive_url in archives:
-            # Skip if already fetched
-            if archive_url in self.cache["archives_fetched"]:
+            # Always re-fetch current month to get new games
+            # Skip other months if already fetched
+            if archive_url in self.cache["archives_fetched"] and current_month not in archive_url:
                 print(f"Skipping already fetched: {archive_url}")
                 continue
 
@@ -160,8 +163,9 @@ class ChessComFetcher:
                     self.cache["games"].append(game)
                     new_games += 1
 
-            # Mark archive as fetched
-            self.cache["archives_fetched"].append(archive_url)
+            # Mark archive as fetched (but don't mark current month to allow re-fetching)
+            if current_month not in archive_url and archive_url not in self.cache["archives_fetched"]:
+                self.cache["archives_fetched"].append(archive_url)
             print(f"Fetched {len(archive_data['games'])} games from {archive_url}")
 
             # Save cache after each archive (in case of interruption)
