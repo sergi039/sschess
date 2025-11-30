@@ -27,7 +27,7 @@ from tactical_detector import TacticalDetector
 from opening_database import OpeningDatabase
 from study_generator import StudyGenerator
 from generate_lichess_markdown import LichessMarkdownGenerator
-from sync_data_to_knowledge import sync_data_to_knowledge
+from sync_data_to_knowledge_v2 import sync_all_data_to_knowledge
 
 
 def load_env():
@@ -198,10 +198,10 @@ def run_pipeline(username: str, months_back: int = None, skip_fetch: bool = Fals
 
         print(f"✅ Generated {files_generated} Markdown files")
 
-        # Step 5: Sync data to knowledge directory for TypingMind
-        print("\n🔄 STEP 5: SYNCING DATA FOR TYPINGMIND")
+        # Step 5: Sync ALL data to knowledge directory for TypingMind
+        print("\n🔄 STEP 5: SYNCING ALL DATA FOR TYPINGMIND")
         print("-" * 40)
-        sync_data_to_knowledge()
+        sync_all_data_to_knowledge()
 
         # Summary
         print("\n" + "=" * 60)
