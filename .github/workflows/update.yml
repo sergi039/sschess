@@ -68,7 +68,6 @@ jobs:
         env:
           CHESS_USERNAME: ${{ secrets.CHESS_USERNAME }}
         run: |
-          cd scripts
           ARGS=""
           if [ "${{ github.event.inputs.months }}" != "" ]; then
             ARGS="$ARGS --months ${{ github.event.inputs.months }}"
@@ -76,7 +75,7 @@ jobs:
           if [ "${{ github.event.inputs.skip_fetch }}" == "true" ]; then
             ARGS="$ARGS --skip-fetch"
           fi
-          python main.py $ARGS
+          python scripts/main.py $ARGS
 
       # Commit and push changes
       - name: Commit and push if changed
