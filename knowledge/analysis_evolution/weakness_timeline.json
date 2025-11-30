@@ -1,0 +1,39 @@
+{
+  "tracking_started": "2025-11-30T14:10:15.635155",
+  "weaknesses": {
+    "time_management": {
+      "severity_history": [
+        {
+          "date": "2025-11-30T14:10:15.635156",
+          "severity": "critical",
+          "games_affected": 14
+        }
+      ],
+      "interventions": [],
+      "improvement_rate": 0.0
+    },
+    "endgame_conversion": {
+      "severity_history": [
+        {
+          "date": "2025-11-30T14:10:15.635157",
+          "severity": "moderate",
+          "games_affected": 8
+        }
+      ],
+      "interventions": [],
+      "improvement_rate": 0.0
+    },
+    "opening_preparation": {
+      "severity_history": [
+        {
+          "date": "2025-11-30T14:10:15.635158",
+          "severity": "moderate",
+          "games_affected": 35
+        }
+      ],
+      "interventions": [],
+      "improvement_rate": 0.0
+    }
+  },
+  "resolved_weaknesses": []
+}

@@ -1,0 +1,18 @@
+{
+  "sessions": [],
+  "total_training_hours": 0.0,
+  "topics_mastered": [],
+  "topics_in_progress": [
+    "time_management",
+    "basic_endgames",
+    "sicilian_defense"
+  ],
+  "topics_planned": [
+    "positional_play",
+    "pawn_structures",
+    "attack_patterns"
+  ],
+  "homework_completion_rate": 0.0,
+  "preferred_session_time": "evening",
+  "average_session_duration": 45
+}

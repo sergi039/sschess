@@ -1,0 +1,105 @@
+{
+  "player_id": "sergioquesadas",
+  "last_updated": "2025-11-30T14:10:15.634427",
+  "last_session": null,
+  "total_sessions": 0,
+  "account_created": "2025-11-15",
+  "total_games_analyzed": 534,
+  "current_rating": {
+    "rapid": 763,
+    "daily": 676,
+    "trend": "improving",
+    "peak_rapid": 763,
+    "peak_daily": 676
+  },
+  "current_focus": {
+    "primary": "time_management",
+    "secondary": "endgame_technique",
+    "opening_work": "sicilian_defense"
+  },
+  "active_weaknesses": [
+    {
+      "area": "time_management",
+      "severity": "critical",
+      "games_affected": 14,
+      "improvement_rate": 0.0,
+      "first_identified": "2025-11-30T14:10:15.634435",
+      "last_reviewed": null,
+      "exercises_assigned": 0,
+      "exercises_completed": 0,
+      "specific_issues": [
+        "Spending too much time in opening",
+        "Panic in time pressure",
+        "Not using increment effectively"
+      ]
+    },
+    {
+      "area": "endgame_conversion",
+      "severity": "moderate",
+      "games_affected": 8,
+      "improvement_rate": 0.0,
+      "first_identified": "2025-11-30T14:10:15.634437",
+      "last_reviewed": null,
+      "exercises_assigned": 0,
+      "exercises_completed": 0,
+      "specific_issues": [
+        "Struggling with rook endgames",
+        "Missing winning continuations",
+        "Drawing won positions"
+      ]
+    },
+    {
+      "area": "opening_preparation",
+      "severity": "moderate",
+      "games_affected": 35,
+      "improvement_rate": 0.0,
+      "first_identified": "2025-11-30T14:10:15.634438",
+      "last_reviewed": null,
+      "exercises_assigned": 0,
+      "exercises_completed": 0,
+      "specific_issues": [
+        "Weak against 1.e4 (42% win rate)",
+        "No repertoire against Sicilian",
+        "Mixing up move orders"
+      ]
+    }
+  ],
+  "strengths": [
+    {
+      "area": "tactical_awareness",
+      "level": "intermediate",
+      "evidence": "Good combination play in middlegame"
+    },
+    {
+      "area": "fighting_spirit",
+      "level": "strong",
+      "evidence": "Rarely resigns, fights till the end"
+    }
+  ],
+  "recent_achievements": [],
+  "next_session_plan": {
+    "priority_topics": [
+      "Review time management principles",
+      "Analyze recent time pressure losses",
+      "Practice rapid decision making"
+    ],
+    "suggested_exercises": [
+      "5+3 blitz session (5 games)",
+      "Puzzle rush timed mode",
+      "Opening repertoire review"
+    ],
+    "homework_check": []
+  },
+  "learning_style": {
+    "preferred_format": "game_analysis",
+    "attention_span": "moderate",
+    "responds_well_to": [
+      "specific_examples",
+      "pattern_recognition"
+    ],
+    "avoid": [
+      "too_much_theory",
+      "abstract_concepts"
+    ]
+  }
+}

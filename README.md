@@ -1,6 +1,6 @@
-# ♟️ Chess Knowledge Base
+# ♟️ Chess Analytics & Coaching System
 
-Automated chess game analysis system with Chess.com, Lichess, and TypingMind integration.
+AI-powered chess coaching system with memory, pattern analysis, and personalized learning paths.
 
 ## 🎯 Key Features
 

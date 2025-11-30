@@ -1,0 +1,115 @@
+{
+  "created": "2025-11-30T14:10:15.634917",
+  "level": "advanced_beginner",
+  "estimated_rating_range": "700-800",
+  "current_module": 1,
+  "modules": [
+    {
+      "id": 1,
+      "name": "Foundation Repair",
+      "status": "in_progress",
+      "started": "2025-11-30T14:10:15.634919",
+      "progress": 0.0,
+      "topics": [
+        {
+          "name": "Time Management Fundamentals",
+          "status": "not_started",
+          "lessons": [
+            "Understanding time allocation",
+            "Critical moments identification",
+            "Using increment effectively",
+            "Practical exercises"
+          ]
+        },
+        {
+          "name": "Basic Endgame Patterns",
+          "status": "not_started",
+          "lessons": [
+            "King and Pawn vs King",
+            "Basic checkmates review",
+            "Rook endgame principles",
+            "Practical positions"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Opening Consolidation",
+      "status": "locked",
+      "unlock_criteria": "Complete Foundation Repair",
+      "topics": [
+        {
+          "name": "Sicilian Defense for Black",
+          "lessons": [
+            "Basic Sicilian structures",
+            "Dragon variation basics",
+            "Common tactical patterns",
+            "Model games"
+          ]
+        },
+        {
+          "name": "1.e4 repertoire for White",
+          "lessons": [
+            "Italian Game mastery",
+            "Scotch Game improvement",
+            "Anti-Sicilian options"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Tactical Sharpening",
+      "status": "locked",
+      "unlock_criteria": "Complete Opening Consolidation",
+      "topics": [
+        "Advanced tactical patterns",
+        "Calculation training",
+        "Defensive tactics",
+        "Tactical endgames"
+      ]
+    }
+  ],
+  "recommended_resources": [
+    {
+      "type": "video",
+      "title": "Time Management for Club Players - IM Andras Toth",
+      "url": "https://www.youtube.com/watch?v=...",
+      "priority": "high",
+      "assigned": "2025-11-30T14:10:15.634921",
+      "completed": false
+    },
+    {
+      "type": "interactive",
+      "title": "Lichess Endgame Practice",
+      "url": "https://lichess.org/practice/basic-checkmates",
+      "priority": "high",
+      "assigned": "2025-11-30T14:10:15.634922",
+      "completed": false
+    },
+    {
+      "type": "book",
+      "title": "The Complete Chess Course by Fred Reinfeld",
+      "chapters": "Review chapters 1-3",
+      "priority": "medium",
+      "progress": "not_started"
+    },
+    {
+      "type": "puzzle_set",
+      "title": "Daily Tactical Training",
+      "description": "10 puzzles per day on Chess.com or Lichess",
+      "priority": "high",
+      "streak": 0
+    }
+  ],
+  "study_schedule": {
+    "recommended_hours_per_week": 7,
+    "distribution": {
+      "game_play": "40%",
+      "analysis": "30%",
+      "puzzles": "20%",
+      "theory": "10%"
+    }
+  }
+}

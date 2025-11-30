@@ -1,0 +1,107 @@
+{
+  "baseline_date": "2025-11-30T14:10:15.634750",
+  "overall_improvement_rate": 0.0,
+  "last_calculated": "2025-11-30T14:10:15.634752",
+  "metrics": {
+    "rating": {
+      "rapid_start": 731,
+      "rapid_current": 763,
+      "rapid_change": 32,
+      "daily_start": 676,
+      "daily_current": 676,
+      "daily_change": 0,
+      "trend": "improving"
+    },
+    "tactics": {
+      "estimated_rating": 1200,
+      "accuracy_rate": null,
+      "patterns_recognized": [
+        "forks",
+        "pins",
+        "basic_checkmates"
+      ],
+      "patterns_learning": [
+        "discovered_attacks",
+        "deflection"
+      ]
+    },
+    "time_management": {
+      "avg_time_per_move": 45,
+      "time_pressure_losses": 14,
+      "games_lost_on_time": 14,
+      "improvement_target": "Reduce by 50%"
+    },
+    "opening_knowledge": {
+      "repertoire_size": 5,
+      "main_openings": {
+        "white": [
+          "Italian Game",
+          "Scotch Game"
+        ],
+        "black": [
+          "Philidor Defense",
+          "Sicilian (learning)"
+        ]
+      },
+      "accuracy_first_10_moves": 0.68,
+      "theory_depth": "5-8 moves",
+      "problem_openings": [
+        "French Defense",
+        "Caro-Kann"
+      ]
+    },
+    "endgame_skill": {
+      "conversion_rate": 0.65,
+      "drawn_won_positions": 8,
+      "basic_checkmates": "inconsistent",
+      "pawn_endgames": "beginner",
+      "rook_endgames": "struggling"
+    },
+    "psychological": {
+      "tilt_resistance": "moderate",
+      "comeback_ability": "good",
+      "pressure_handling": "needs_work"
+    }
+  },
+  "milestones_achieved": [
+    {
+      "date": "2025-11-20T14:10:15.634755",
+      "achievement": "Reached 750+ rapid rating",
+      "category": "rating"
+    }
+  ],
+  "next_milestones": [
+    {
+      "target": "800 rapid rating",
+      "estimated_date": "2025-12-30T14:10:15.634759",
+      "requirements": [
+        "Improve time management",
+        "Solidify openings"
+      ]
+    },
+    {
+      "target": "Master basic endgames",
+      "estimated_date": "2026-01-14T14:10:15.634760",
+      "requirements": [
+        "Study K+P vs K",
+        "Practice rook endgames"
+      ]
+    },
+    {
+      "target": "Complete Sicilian Defense repertoire",
+      "estimated_date": "2026-01-29T14:10:15.634761",
+      "requirements": [
+        "Learn main lines",
+        "Practice in games"
+      ]
+    }
+  ],
+  "improvement_velocity": {
+    "last_30_days": "+32 rating points",
+    "projection_next_30": "+25-40 points",
+    "limiting_factors": [
+      "time_management",
+      "endgame_technique"
+    ]
+  }
+}
