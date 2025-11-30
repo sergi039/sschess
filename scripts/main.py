@@ -43,7 +43,7 @@ def load_env():
 
 
 def run_pipeline(username: str, months_back: int = None, skip_fetch: bool = False,
-                 skip_lichess: bool = False):
+                 enable_lichess: bool = False):
     """
     Run the complete analysis pipeline.
 
@@ -51,7 +51,7 @@ def run_pipeline(username: str, months_back: int = None, skip_fetch: bool = Fals
         username: Chess.com username
         months_back: Number of months to fetch (None = all)
         skip_fetch: Skip fetching new games (use existing cache)
-        skip_lichess: Skip Lichess analysis
+        enable_lichess: Enable Lichess analysis (default: False)
 
     Returns:
         True if successful, False otherwise
@@ -107,13 +107,13 @@ def run_pipeline(username: str, months_back: int = None, skip_fetch: bool = Fals
         if ratings:
             print(f"📈 Current ratings: {', '.join(f'{k}:{v}' for k, v in ratings.items())}")
 
-        # Step 3: Lichess Analysis (if enabled)
+        # Step 3: Lichess Analysis (only if explicitly enabled)
         lichess_analysis = None
         tactical_analysis = None
         opening_analysis = None
         study_urls = []
 
-        if not skip_lichess:
+        if enable_lichess:
             lichess_token = os.environ.get("LICHESS_TOKEN")
             if lichess_token:
                 print("\n♟️ STEP 3: LICHESS ANALYSIS")
@@ -124,10 +124,10 @@ def run_pipeline(username: str, months_back: int = None, skip_fetch: bool = Fals
                     import json
                     with open("data/games_cache.json", 'r') as f:
                         games_data = json.load(f)
-                    games = games_data.get("games", [])[:20]  # Analyze last 20 games
+                    games = games_data.get("games", [])[:5]  # Analyze only last 5 games for speed
 
-                    # 3a. Computer Analysis
-                    print("  Running computer analysis...")
+                    # 3a. Computer Analysis (simplified for GitHub Actions)
+                    print("  Running simplified analysis...")
                     lichess_analyzer = LichessAnalyzer(lichess_token)
                     lichess_analysis = lichess_analyzer.analyze_multiple_games(games)
                     print(f"  ✅ Analyzed {lichess_analysis.get('games_analyzed', 0)} games")
@@ -172,8 +172,10 @@ def run_pipeline(username: str, months_back: int = None, skip_fetch: bool = Fals
                     # Continue without Lichess analysis
             else:
                 print("\n⏭️  STEP 3: SKIPPING LICHESS ANALYSIS (no token found)")
+                print("      To enable: Add LICHESS_TOKEN to .env and use --enable-lichess flag")
         else:
-            print("\n⏭️  STEP 3: SKIPPING LICHESS ANALYSIS (--skip-lichess flag)")
+            print("\n⏭️  STEP 3: SKIPPING LICHESS ANALYSIS (not requested)")
+            print("      To enable: Use --enable-lichess flag")
 
         # Step 4: Generate Markdown
         print("\n📝 STEP 4: GENERATING DOCUMENTATION")
@@ -269,9 +271,9 @@ Environment variables:
         help="Skip fetching new games, use existing cache"
     )
     parser.add_argument(
-        "--skip-lichess",
+        "--enable-lichess",
         action="store_true",
-        help="Skip Lichess analysis (computer analysis, tactics, etc.)"
+        help="Enable Lichess analysis (computer analysis, tactics, etc.)"
     )
 
     args = parser.parse_args()
@@ -293,7 +295,7 @@ Environment variables:
         months = int(env_months) if env_months else None
 
     # Run pipeline
-    success = run_pipeline(username, months, args.skip_fetch, args.skip_lichess)
+    success = run_pipeline(username, months, args.skip_fetch, args.enable_lichess)
     sys.exit(0 if success else 1)
 
 

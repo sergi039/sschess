@@ -19,6 +19,10 @@ on:
         description: 'Skip fetching new games'
         required: false
         default: 'false'
+      enable_lichess:
+        description: 'Enable Lichess analysis (slower, requires token)'
+        required: false
+        default: 'false'
 
 jobs:
   update:
@@ -75,6 +79,9 @@ jobs:
           fi
           if [ "${{ github.event.inputs.skip_fetch }}" == "true" ]; then
             ARGS="$ARGS --skip-fetch"
+          fi
+          if [ "${{ github.event.inputs.enable_lichess }}" == "true" ]; then
+            ARGS="$ARGS --enable-lichess"
           fi
           python scripts/main.py $ARGS
 
