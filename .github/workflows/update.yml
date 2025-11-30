@@ -52,7 +52,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests
+          pip install requests python-chess
 
       # Cache games data (to avoid re-fetching everything)
       - name: Cache games data
@@ -67,6 +67,7 @@ jobs:
       - name: Run Chess Knowledge Base update
         env:
           CHESS_USERNAME: ${{ secrets.CHESS_USERNAME }}
+          LICHESS_TOKEN: ${{ secrets.LICHESS_TOKEN }}
         run: |
           ARGS=""
           if [ "${{ github.event.inputs.months }}" != "" ]; then

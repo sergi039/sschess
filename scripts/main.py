@@ -22,6 +22,11 @@ sys.path.insert(0, str(Path(__file__).parent))
 from fetch_games import ChessComFetcher
 from analyze import ChessAnalyzer
 from generate_markdown import MarkdownGenerator
+from lichess_analyzer import LichessAnalyzer
+from tactical_detector import TacticalDetector
+from opening_database import OpeningDatabase
+from study_generator import StudyGenerator
+from generate_lichess_markdown import LichessMarkdownGenerator
 
 
 def load_env():
@@ -37,7 +42,8 @@ def load_env():
                     os.environ[key] = value
 
 
-def run_pipeline(username: str, months_back: int = None, skip_fetch: bool = False):
+def run_pipeline(username: str, months_back: int = None, skip_fetch: bool = False,
+                 skip_lichess: bool = False):
     """
     Run the complete analysis pipeline.
 
@@ -45,6 +51,7 @@ def run_pipeline(username: str, months_back: int = None, skip_fetch: bool = Fals
         username: Chess.com username
         months_back: Number of months to fetch (None = all)
         skip_fetch: Skip fetching new games (use existing cache)
+        skip_lichess: Skip Lichess analysis
 
     Returns:
         True if successful, False otherwise
@@ -100,12 +107,93 @@ def run_pipeline(username: str, months_back: int = None, skip_fetch: bool = Fals
         if ratings:
             print(f"📈 Current ratings: {', '.join(f'{k}:{v}' for k, v in ratings.items())}")
 
-        # Step 3: Generate Markdown
-        print("\n📝 STEP 3: GENERATING DOCUMENTATION")
+        # Step 3: Lichess Analysis (if enabled)
+        lichess_analysis = None
+        tactical_analysis = None
+        opening_analysis = None
+        study_urls = []
+
+        if not skip_lichess:
+            lichess_token = os.environ.get("LICHESS_TOKEN")
+            if lichess_token:
+                print("\n♟️ STEP 3: LICHESS ANALYSIS")
+                print("-" * 40)
+
+                try:
+                    # Load games for Lichess analysis
+                    import json
+                    with open("data/games_cache.json", 'r') as f:
+                        games_data = json.load(f)
+                    games = games_data.get("games", [])[:20]  # Analyze last 20 games
+
+                    # 3a. Computer Analysis
+                    print("  Running computer analysis...")
+                    lichess_analyzer = LichessAnalyzer(lichess_token)
+                    lichess_analysis = lichess_analyzer.analyze_multiple_games(games)
+                    print(f"  ✅ Analyzed {lichess_analysis.get('games_analyzed', 0)} games")
+                    print(f"  📊 Average accuracy: {lichess_analysis.get('average_accuracy', 0)}%")
+
+                    # 3b. Tactical Pattern Detection
+                    print("\n  Detecting tactical patterns...")
+                    tactical_detector = TacticalDetector()
+                    tactical_analysis = tactical_detector.analyze_multiple_games_tactics(games)
+                    print(f"  ✅ Found {tactical_analysis.get('total_tactics_found', 0)} tactical patterns")
+
+                    # 3c. Opening Database Analysis
+                    print("\n  Analyzing opening repertoire...")
+                    opening_db = OpeningDatabase(lichess_token)
+                    opening_analysis = opening_db.analyze_player_openings(games, username)
+                    print(f"  ✅ Analyzed {len(opening_analysis.get('opening_analysis', []))} opening variations")
+
+                    # 3d. Generate Lichess Study
+                    print("\n  Creating Lichess studies...")
+                    study_gen = StudyGenerator(lichess_token)
+
+                    # Create opening study
+                    opening_study = study_gen.create_opening_study(username, games, opening_analysis)
+                    if opening_study:
+                        study_urls.append(opening_study)
+                        print(f"  ✅ Created opening study: {opening_study}")
+
+                    # Create improvement study
+                    if lichess_analysis and lichess_analysis.get("games_analysis"):
+                        recommendations = lichess_analyzer.generate_improvement_recommendations(lichess_analysis)
+                        improvement_study = study_gen.create_improvement_study(
+                            username,
+                            lichess_analysis["games_analysis"],
+                            recommendations
+                        )
+                        if improvement_study:
+                            study_urls.append(improvement_study)
+                            print(f"  ✅ Created improvement study: {improvement_study}")
+
+                except Exception as e:
+                    print(f"  ⚠️ Lichess analysis error: {e}")
+                    # Continue without Lichess analysis
+            else:
+                print("\n⏭️  STEP 3: SKIPPING LICHESS ANALYSIS (no token found)")
+        else:
+            print("\n⏭️  STEP 3: SKIPPING LICHESS ANALYSIS (--skip-lichess flag)")
+
+        # Step 4: Generate Markdown
+        print("\n📝 STEP 4: GENERATING DOCUMENTATION")
         print("-" * 40)
         generator = MarkdownGenerator()
         generator.generate_all()
-        print(f"✅ Generated 4 Markdown files")
+        files_generated = 4
+
+        # Generate Lichess markdown if analysis was done
+        if lichess_analysis or tactical_analysis or opening_analysis:
+            lichess_generator = LichessMarkdownGenerator()
+            lichess_generator.generate_all(
+                lichess_analysis,
+                tactical_analysis,
+                opening_analysis,
+                study_urls
+            )
+            files_generated += 6  # Lichess adds 6 more files
+
+        print(f"✅ Generated {files_generated} Markdown files")
 
         # Summary
         print("\n" + "=" * 60)
@@ -116,9 +204,21 @@ def run_pipeline(username: str, months_back: int = None, skip_fetch: bool = Fals
         print("   - knowledge/openings.md")
         print("   - knowledge/weaknesses.md")
         print("   - knowledge/recent_games.md")
-        print("\n📊 Data files:")
+
+        if lichess_analysis or tactical_analysis or opening_analysis:
+            print("\n📊 Lichess Analysis files:")
+            print("   - knowledge/lichess_accuracy.md")
+            print("   - knowledge/lichess_mistakes.md")
+            print("   - knowledge/lichess_tactics.md")
+            print("   - knowledge/lichess_openings.md")
+            print("   - knowledge/lichess_improvement.md")
+            print("   - knowledge/lichess_studies.md")
+
+        print("\n💾 Data files:")
         print("   - data/games_cache.json")
         print("   - data/analysis_results.json")
+        if lichess_analysis:
+            print("   - data/lichess_analysis_cache.json")
 
         return True
 
@@ -168,6 +268,11 @@ Environment variables:
         action="store_true",
         help="Skip fetching new games, use existing cache"
     )
+    parser.add_argument(
+        "--skip-lichess",
+        action="store_true",
+        help="Skip Lichess analysis (computer analysis, tactics, etc.)"
+    )
 
     args = parser.parse_args()
 
@@ -188,7 +293,7 @@ Environment variables:
         months = int(env_months) if env_months else None
 
     # Run pipeline
-    success = run_pipeline(username, months, args.skip_fetch)
+    success = run_pipeline(username, months, args.skip_fetch, args.skip_lichess)
     sys.exit(0 if success else 1)
 
 
