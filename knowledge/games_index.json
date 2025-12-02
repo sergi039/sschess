@@ -1,6 +1,6 @@
 {
-  "total_games": 534,
-  "last_update": "2025-12-01T06:24:05.555741",
+  "total_games": 539,
+  "last_update": "2025-12-02T06:23:34.776640",
   "games_index": [
     {
       "index": 0,
@@ -5875,6 +5875,61 @@
       "opening": "C41: Philidor Defense 3.Bc4",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/146119148014"
+    },
+    {
+      "index": 534,
+      "date": "2025.12.01",
+      "opponent": "AdrianGazdik",
+      "white": "sergioquesadas",
+      "black": "AdrianGazdik",
+      "result": "unknown",
+      "opening": "B34: Sicilian Defense Open Accelerated Dragon Modern Variation 5...Bg7 6.Be3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/146190101876"
+    },
+    {
+      "index": 535,
+      "date": "2025.12.01",
+      "opponent": "MTS610",
+      "white": "MTS610",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C20: Kings Pawn Opening 1...e5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/146195227694"
+    },
+    {
+      "index": 536,
+      "date": "2025.12.01",
+      "opponent": "Skakkelak2025",
+      "white": "Skakkelak2025",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C47: Four Knights Game Italian Variation",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/146195501608"
+    },
+    {
+      "index": 537,
+      "date": "2025.12.01",
+      "opponent": "Zeren_11",
+      "white": "sergioquesadas",
+      "black": "Zeren_11",
+      "result": "unknown",
+      "opening": "C41: Philidor Defense 3.Bc4 Nf6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/146195891054"
+    },
+    {
+      "index": 538,
+      "date": "2025.12.01",
+      "opponent": "bob13390",
+      "white": "bob13390",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "D20: Queens Gambit Accepted Old Variation 3...Nf6 4.Bxc4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/146196215938"
     }
   ]
 }
