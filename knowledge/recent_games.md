@@ -4,6 +4,7 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
+| 2025-12-02 | Humpback4 | 769 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/146229703788) |
 | 2025-12-01 | bob13390 | 740 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/146196215938) |
 | 2025-12-01 | Zeren_11 | 865 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/146195891054) |
 | 2025-12-01 | Skakkelak2025 | 738 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/146195501608) |
@@ -23,11 +24,10 @@
 | 2025-11-29 | perrilus | 757 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/146113207074) |
 | 2025-11-29 | holibar | 751 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/146110312586) |
 | 2025-11-29 | elyval7 | 746 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/146110155704) |
-| 2025-11-29 | symbatiko | 782 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/146109721350) |
 
 
 ## Quick Stats from Recent Games
 
-- **Record:** 9W / 9L / 2D
-- **Win rate:** 45.0%
-- **Most faced:** bob13390 (1 games)
+- **Record:** 10W / 8L / 2D
+- **Win rate:** 50.0%
+- **Most faced:** Humpback4 (1 games)

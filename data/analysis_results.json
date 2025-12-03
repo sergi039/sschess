@@ -1,7 +1,7 @@
 {
   "username": "sergioquesadas",
-  "total_games": 539,
-  "analysis_date": "2025-12-02T06:23:34.754786",
+  "total_games": 540,
+  "analysis_date": "2025-12-03T06:23:03.571097",
   "openings": {
     "white": {
       "ECO C43": {
@@ -551,12 +551,12 @@
         "loss_rate": 0.0
       },
       "ECO C55": {
-        "wins": 3,
+        "wins": 4,
         "losses": 8,
         "draws": 0,
-        "total": 11,
-        "win_rate": 27.3,
-        "loss_rate": 72.7
+        "total": 12,
+        "win_rate": 33.3,
+        "loss_rate": 66.7
       },
       "ECO B02": {
         "wins": 0,
@@ -802,11 +802,11 @@
   },
   "time_controls": {
     "rapid": {
-      "wins": 257,
+      "wins": 258,
       "losses": 263,
       "draws": 18,
-      "total": 538,
-      "win_rate": 47.8
+      "total": 539,
+      "win_rate": 47.9
     },
     "daily": {
       "wins": 1,
@@ -846,7 +846,7 @@
       }
     ],
     "ending_types": {
-      "win": 258,
+      "win": 259,
       "resigned": 173,
       "checkmated": 75,
       "timeout": 14,
@@ -860,10 +860,10 @@
   },
   "rating_progress": {
     "current_ratings": {
-      "rapid": 754,
+      "rapid": 763,
       "daily": 676
     },
-    "total_games_tracked": 539
+    "total_games_tracked": 540
   },
   "weaknesses": {
     "identified_weaknesses": [
@@ -890,15 +890,15 @@
       },
       {
         "type": "opening",
-        "color": "black",
-        "opening": "ECO C55",
-        "games": 11,
-        "loss_rate": 72.7
+        "color": "white",
+        "opening": "ECO C50",
+        "games": 7,
+        "loss_rate": 71.4
       },
       {
         "type": "opening",
-        "color": "white",
-        "opening": "ECO C50",
+        "color": "black",
+        "opening": "ECO B00",
         "games": 7,
         "loss_rate": 71.4
       }

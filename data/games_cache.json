@@ -1,6 +1,6 @@
 {
   "username": "sergioquesadas",
-  "last_update": "2025-12-02T06:23:34.728014",
+  "last_update": "2025-12-03T06:23:03.543689",
   "games": [
     {
       "url": "https://www.chess.com/game/live/144438554796",
@@ -16602,7 +16602,7 @@
         "uuid": "c478f5ce-72c1-11f0-9f92-d1070e689ef0"
       },
       "eco": "https://www.chess.com/openings/Sicilian-Defense-Open-Accelerated-Dragon-Modern-Variation-5...Bg7-6.Be3",
-      "fetched_at": "2025-12-02T06:23:34.727629",
+      "fetched_at": "2025-12-03T06:23:03.543153",
       "archive_url": "https://api.chess.com/pub/player/sergioquesadas/games/2025/12"
     },
     {
@@ -16632,7 +16632,7 @@
         "uuid": "234ae0e0-c941-11ec-ae32-69d4f91dc464"
       },
       "eco": "https://www.chess.com/openings/Kings-Pawn-Opening-1...e5",
-      "fetched_at": "2025-12-02T06:23:34.727796",
+      "fetched_at": "2025-12-03T06:23:03.543351",
       "archive_url": "https://api.chess.com/pub/player/sergioquesadas/games/2025/12"
     },
     {
@@ -16666,7 +16666,7 @@
         "uuid": "234ae0e0-c941-11ec-ae32-69d4f91dc464"
       },
       "eco": "https://www.chess.com/openings/Four-Knights-Game-Italian-Variation",
-      "fetched_at": "2025-12-02T06:23:34.727850",
+      "fetched_at": "2025-12-03T06:23:03.543417",
       "archive_url": "https://api.chess.com/pub/player/sergioquesadas/games/2025/12"
     },
     {
@@ -16696,7 +16696,7 @@
         "uuid": "27e4352e-a684-11f0-a257-e383384f9294"
       },
       "eco": "https://www.chess.com/openings/Philidor-Defense-3.Bc4-Nf6",
-      "fetched_at": "2025-12-02T06:23:34.727901",
+      "fetched_at": "2025-12-03T06:23:03.543478",
       "archive_url": "https://api.chess.com/pub/player/sergioquesadas/games/2025/12"
     },
     {
@@ -16730,7 +16730,41 @@
         "uuid": "234ae0e0-c941-11ec-ae32-69d4f91dc464"
       },
       "eco": "https://www.chess.com/openings/Queens-Gambit-Accepted-Old-Variation-3...Nf6-4.Bxc4",
-      "fetched_at": "2025-12-02T06:23:34.727952",
+      "fetched_at": "2025-12-03T06:23:03.543552",
+      "archive_url": "https://api.chess.com/pub/player/sergioquesadas/games/2025/12"
+    },
+    {
+      "url": "https://www.chess.com/game/live/146229703788",
+      "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2025.12.02\"]\n[Round \"-\"]\n[White \"Humpback4\"]\n[Black \"sergioquesadas\"]\n[Result \"0-1\"]\n[CurrentPosition \"8/8/7p/3b2pP/5b1k/5P2/p1B5/5K2 w - - 0 47\"]\n[Timezone \"UTC\"]\n[ECO \"C55\"]\n[ECOUrl \"https://www.chess.com/openings/Italian-Game-Two-Knights-Modern-Bishops-Opening-4...d5-5.exd5\"]\n[UTCDate \"2025.12.02\"]\n[UTCTime \"17:05:35\"]\n[WhiteElo \"769\"]\n[BlackElo \"763\"]\n[TimeControl \"600\"]\n[Termination \"sergioquesadas won by resignation\"]\n[StartTime \"17:05:35\"]\n[EndDate \"2025.12.02\"]\n[EndTime \"17:23:53\"]\n[Link \"https://www.chess.com/game/live/146229703788\"]\n\n1. e4 {[%clk 0:09:58.1]} 1... e5 {[%clk 0:09:58.6]} 2. Nf3 {[%clk 0:09:56.9]} 2... Nc6 {[%clk 0:09:57.2]} 3. Bc4 {[%clk 0:09:54.4]} 3... Nf6 {[%clk 0:09:53.5]} 4. d3 {[%clk 0:09:52.9]} 4... d5 {[%clk 0:09:47.6]} 5. exd5 {[%clk 0:09:45.3]} 5... Nd4 {[%clk 0:09:45.1]} 6. Nxe5 {[%clk 0:09:17.3]} 6... Qe7 {[%clk 0:08:49.1]} 7. Bf4 {[%clk 0:09:00.2]} 7... c6 {[%clk 0:08:25.3]} 8. dxc6 {[%clk 0:08:50.8]} 8... Nxc6 {[%clk 0:08:16.7]} 9. Qe2 {[%clk 0:07:46.4]} 9... Nxe5 {[%clk 0:07:28.5]} 10. Qxe5 {[%clk 0:07:41.4]} 10... Qxe5+ {[%clk 0:07:19.2]} 11. Bxe5 {[%clk 0:07:39.9]} 11... Ng4 {[%clk 0:06:57.5]} 12. d4 {[%clk 0:07:18.2]} 12... f6 {[%clk 0:06:42.8]} 13. Bf4 {[%clk 0:07:09.2]} 13... a6 {[%clk 0:06:28.7]} 14. O-O {[%clk 0:07:07.8]} 14... b5 {[%clk 0:06:27.1]} 15. Be2 {[%clk 0:06:53.8]} 15... Bb4 {[%clk 0:05:31.7]} 16. c3 {[%clk 0:06:42.9]} 16... Ba5 {[%clk 0:05:29.8]} 17. Re1 {[%clk 0:06:37.4]} 17... O-O {[%clk 0:05:28]} 18. h3 {[%clk 0:06:19]} 18... Nh6 {[%clk 0:04:28.1]} 19. Bxh6 {[%clk 0:06:16.2]} 19... gxh6 {[%clk 0:04:26.9]} 20. b4 {[%clk 0:05:56.5]} 20... Bb6 {[%clk 0:04:24.7]} 21. c4 {[%clk 0:05:47.3]} 21... Re8 {[%clk 0:04:14.6]} 22. Nc3 {[%clk 0:05:23.5]} 22... Bxd4 {[%clk 0:04:01.1]} 23. Rac1 {[%clk 0:05:00.8]} 23... Kf8 {[%clk 0:03:24.3]} 24. a4 {[%clk 0:04:51.7]} 24... bxc4 {[%clk 0:03:18.3]} 25. Bxc4 {[%clk 0:04:49.8]} 25... Rxe1+ {[%clk 0:03:11.7]} 26. Rxe1 {[%clk 0:04:48.4]} 26... Bxc3 {[%clk 0:03:10.6]} 27. Rc1 {[%clk 0:04:19.1]} 27... Bxb4 {[%clk 0:02:52.8]} 28. Bd3 {[%clk 0:04:09]} 28... Bb7 {[%clk 0:02:38.7]} 29. Bxh7 {[%clk 0:04:02.4]} 29... Re8 {[%clk 0:02:37.5]} 30. Kh2 {[%clk 0:03:56.7]} 30... a5 {[%clk 0:02:29.8]} 31. Rc7 {[%clk 0:03:33.4]} 31... Re7 {[%clk 0:02:10.7]} 32. Rxe7 {[%clk 0:03:08.3]} 32... Bxe7 {[%clk 0:02:07.4]} 33. g4 {[%clk 0:02:54.8]} 33... Bd6+ {[%clk 0:02:06]} 34. Kg1 {[%clk 0:02:47.5]} 34... Bc6 {[%clk 0:02:00.6]} 35. h4 {[%clk 0:02:31.8]} 35... Kg7 {[%clk 0:01:59.3]} 36. Bf5 {[%clk 0:02:22]} 36... Bxa4 {[%clk 0:01:56.3]} 37. Kg2 {[%clk 0:02:15.7]} 37... Bc6+ {[%clk 0:01:54]} 38. f3 {[%clk 0:02:14.4]} 38... Bf4 {[%clk 0:01:50.9]} 39. Be6 {[%clk 0:01:56.9]} 39... Kg6 {[%clk 0:01:42.8]} 40. h5+ {[%clk 0:01:53.1]} 40... Kg5 {[%clk 0:01:37.9]} 41. Bf5 {[%clk 0:01:36.7]} 41... a4 {[%clk 0:01:35.8]} 42. Be6 {[%clk 0:01:19.5]} 42... Kh4 {[%clk 0:01:32.3]} 43. Bf5 {[%clk 0:01:02.2]} 43... Bd5 {[%clk 0:01:30.5]} 44. Bc2 {[%clk 0:00:59.2]} 44... a3 {[%clk 0:01:28.7]} 45. g5 {[%clk 0:00:44.3]} 45... fxg5 {[%clk 0:01:25.8]} 46. Kf1 {[%clk 0:00:38.4]} 46... a2 {[%clk 0:01:24.5]} 0-1\n",
+      "time_control": "600",
+      "end_time": 1764696233,
+      "rated": true,
+      "accuracies": {
+        "white": 69.79,
+        "black": 77.12
+      },
+      "tcn": "mC0Kgv5QfA!TltZJCJQBvK70cDYQJQBQdmQKmK0KDKTEtB1TKDWOegXHAm9zkszGfe8!pxEVDV2VjzGPsA98bsPBac!9iyHAmA8eceBsecszAt6Xt348gpOGcY80Y0z0oE0RpgXQxF923LQygoyQnvRDLS2UFNUMSLGyLSMFSLQJLkyqEMTMofqi",
+      "uuid": "1e971f5a-cfa1-11f0-b1f3-5623b701000f",
+      "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+      "fen": "8/8/7p/3b2pP/5b1k/5P2/p1B5/5K2 w - - 0 47",
+      "time_class": "rapid",
+      "rules": "chess",
+      "white": {
+        "rating": 769,
+        "result": "resigned",
+        "@id": "https://api.chess.com/pub/player/humpback4",
+        "username": "Humpback4",
+        "uuid": "d2a7d612-1180-11eb-8cd7-97706813a7f9"
+      },
+      "black": {
+        "rating": 763,
+        "result": "win",
+        "@id": "https://api.chess.com/pub/player/sergioquesadas",
+        "username": "sergioquesadas",
+        "uuid": "234ae0e0-c941-11ec-ae32-69d4f91dc464"
+      },
+      "eco": "https://www.chess.com/openings/Italian-Game-Two-Knights-Modern-Bishops-Opening-4...d5-5.exd5",
+      "fetched_at": "2025-12-03T06:23:03.543617",
       "archive_url": "https://api.chess.com/pub/player/sergioquesadas/games/2025/12"
     }
   ],
