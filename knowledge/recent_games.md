@@ -4,6 +4,13 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
+| 2025-12-03 | Gus091169 | 755 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/146277051834) |
+| 2025-12-03 | ne4malll | 796 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/146276377056) |
+| 2025-12-03 | 5upermario | 737 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/146275546112) |
+| 2025-12-03 | pac0don | 769 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/146275002010) |
+| 2025-12-03 | KGhob | 763 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/146274552084) |
+| 2025-12-03 | rafaelhaertel | 742 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/146259574628) |
+| 2025-12-03 | Ennilalaikam | 768 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/146259467806) |
 | 2025-12-02 | Humpback4 | 769 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/146229703788) |
 | 2025-12-01 | bob13390 | 740 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/146196215938) |
 | 2025-12-01 | Zeren_11 | 865 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/146195891054) |
@@ -17,17 +24,10 @@
 | 2025-11-29 | NikoHutz | 748 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/146118025782) |
 | 2025-11-29 | selsog48 | 747 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/146117922932) |
 | 2025-11-29 | kolek7777 | 763 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/146117856068) |
-| 2025-11-29 | franciscominnig | 767 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/146117773692) |
-| 2025-11-29 | VenataPlayer | 779 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/146117595256) |
-| 2025-11-29 | MohammadBadfar | 787 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/146117493908) |
-| 2025-11-29 | 080raimundo | 786 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/146113247036) |
-| 2025-11-29 | perrilus | 757 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/146113207074) |
-| 2025-11-29 | holibar | 751 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/146110312586) |
-| 2025-11-29 | elyval7 | 746 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/146110155704) |
 
 
 ## Quick Stats from Recent Games
 
 - **Record:** 10W / 8L / 2D
 - **Win rate:** 50.0%
-- **Most faced:** Humpback4 (1 games)
+- **Most faced:** Gus091169 (1 games)

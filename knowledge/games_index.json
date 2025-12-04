@@ -1,6 +1,6 @@
 {
-  "total_games": 540,
-  "last_update": "2025-12-03T06:23:03.593502",
+  "total_games": 547,
+  "last_update": "2025-12-04T06:22:39.250102",
   "games_index": [
     {
       "index": 0,
@@ -5941,6 +5941,83 @@
       "opening": "C55: Italian Game Two Knights Modern Bishops Opening 4...d5 5.exd5",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/146229703788"
+    },
+    {
+      "index": 540,
+      "date": "2025.12.03",
+      "opponent": "Ennilalaikam",
+      "white": "sergioquesadas",
+      "black": "Ennilalaikam",
+      "result": "unknown",
+      "opening": "B07: Pirc Defense Modern Defense Geller System 2...Nf6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/146259467806"
+    },
+    {
+      "index": 541,
+      "date": "2025.12.03",
+      "opponent": "rafaelhaertel",
+      "white": "sergioquesadas",
+      "black": "rafaelhaertel",
+      "result": "unknown",
+      "opening": "C40: Kings Pawn Opening Latvian Gambit Accepted",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/146259574628"
+    },
+    {
+      "index": 542,
+      "date": "2025.12.03",
+      "opponent": "KGhob",
+      "white": "KGhob",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C55: Italian Game Two Knights Modern Bishops Opening 4...h6 5.Nc3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/146274552084"
+    },
+    {
+      "index": 543,
+      "date": "2025.12.03",
+      "opponent": "pac0don",
+      "white": "sergioquesadas",
+      "black": "pac0don",
+      "result": "unknown",
+      "opening": "B01: Scandinavian Defense Mieses Kotrc Main Line 4.d4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/146275002010"
+    },
+    {
+      "index": 544,
+      "date": "2025.12.03",
+      "opponent": "5upermario",
+      "white": "sergioquesadas",
+      "black": "5upermario",
+      "result": "unknown",
+      "opening": "C50: Italian Game",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/146275546112"
+    },
+    {
+      "index": 545,
+      "date": "2025.12.03",
+      "opponent": "ne4malll",
+      "white": "ne4malll",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "A28: English Opening Four Knights Nimzowitsch Variation",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/146276377056"
+    },
+    {
+      "index": 546,
+      "date": "2025.12.03",
+      "opponent": "Gus091169",
+      "white": "sergioquesadas",
+      "black": "Gus091169",
+      "result": "unknown",
+      "opening": "C00: French Defense Knight Variation",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/146277051834"
     }
   ]
 }
