@@ -1,6 +1,6 @@
 {
-  "total_games": 547,
-  "last_update": "2025-12-07T06:20:08.368303",
+  "total_games": 555,
+  "last_update": "2025-12-08T06:25:08.008877",
   "games_index": [
     {
       "index": 0,
@@ -6018,6 +6018,94 @@
       "opening": "C00: French Defense Knight Variation",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/146277051834"
+    },
+    {
+      "index": 547,
+      "date": "2025.12.07",
+      "opponent": "saniyaverma5652s",
+      "white": "saniyaverma5652s",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "A00: Van Geet Opening Reversed Nimzowitsch Variation 2.Nf3 Nc6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/146411068480"
+    },
+    {
+      "index": 548,
+      "date": "2025.12.07",
+      "opponent": "Shah-obi",
+      "white": "sergioquesadas",
+      "black": "Shah-obi",
+      "result": "unknown",
+      "opening": "C50: Italian Game",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/146430330016"
+    },
+    {
+      "index": 549,
+      "date": "2025.12.07",
+      "opponent": "CZizzo",
+      "white": "sergioquesadas",
+      "black": "CZizzo",
+      "result": "unknown",
+      "opening": "C50: Italian Game 3...d6 4.c3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/146430535542"
+    },
+    {
+      "index": 550,
+      "date": "2025.12.07",
+      "opponent": "soransamad",
+      "white": "soransamad",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C47: Four Knights Game Scotch Variation Accepted 5.Nxd4 Bb4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/146430756356"
+    },
+    {
+      "index": 551,
+      "date": "2025.12.07",
+      "opponent": "Sluyo",
+      "white": "Sluyo",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "D02: Queens Pawn Opening Zukertort Chigorin Variation 3.Bf4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/146431032076"
+    },
+    {
+      "index": 552,
+      "date": "2025.12.07",
+      "opponent": "EfeBaba1256",
+      "white": "EfeBaba1256",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C47: Four Knights Game Italian Variation",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/146431160114"
+    },
+    {
+      "index": 553,
+      "date": "2025.12.07",
+      "opponent": "DejmonT",
+      "white": "sergioquesadas",
+      "black": "DejmonT",
+      "result": "unknown",
+      "opening": "C41: Philidor Defense 3.Bc4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/146432656004"
+    },
+    {
+      "index": 554,
+      "date": "2025.12.07",
+      "opponent": "leobello1302",
+      "white": "sergioquesadas",
+      "black": "leobello1302",
+      "result": "unknown",
+      "opening": "C50: Italian Game",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/146432807782"
     }
   ]
 }
