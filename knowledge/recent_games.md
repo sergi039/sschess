@@ -4,6 +4,10 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
+| 2025-12-08 | rbaehr | 806 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/146476806466) |
+| 2025-12-08 | RobFuacata | 817 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/146476477370) |
+| 2025-12-08 | iddeun | 803 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/146475936242) |
+| 2025-12-08 | wilmer_1901 | 801 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/146475598620) |
 | 2025-12-07 | leobello1302 | 781 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/146432807782) |
 | 2025-12-07 | DejmonT | 772 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/146432656004) |
 | 2025-12-07 | EfeBaba1256 | 791 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/146431160114) |
@@ -20,14 +24,10 @@
 | 2025-12-03 | rafaelhaertel | 742 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/146259574628) |
 | 2025-12-03 | Ennilalaikam | 768 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/146259467806) |
 | 2025-12-02 | Humpback4 | 769 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/146229703788) |
-| 2025-12-01 | bob13390 | 740 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/146196215938) |
-| 2025-12-01 | Zeren_11 | 865 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/146195891054) |
-| 2025-12-01 | Skakkelak2025 | 738 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/146195501608) |
-| 2025-12-01 | MTS610 | 750 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/146195227694) |
 
 
 ## Quick Stats from Recent Games
 
-- **Record:** 12W / 7L / 1D
-- **Win rate:** 60.0%
-- **Most faced:** leobello1302 (1 games)
+- **Record:** 13W / 7L / 0D
+- **Win rate:** 65.0%
+- **Most faced:** rbaehr (1 games)

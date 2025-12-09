@@ -1,6 +1,6 @@
 {
-  "total_games": 555,
-  "last_update": "2025-12-08T06:25:08.008877",
+  "total_games": 559,
+  "last_update": "2025-12-09T06:23:16.188047",
   "games_index": [
     {
       "index": 0,
@@ -6106,6 +6106,50 @@
       "opening": "C50: Italian Game",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/146432807782"
+    },
+    {
+      "index": 555,
+      "date": "2025.12.08",
+      "opponent": "wilmer_1901",
+      "white": "wilmer_1901",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C24: Bishops Opening Berlin Defense",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/146475598620"
+    },
+    {
+      "index": 556,
+      "date": "2025.12.08",
+      "opponent": "iddeun",
+      "white": "iddeun",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "D06: Queens Gambit Declined Marshall Defense 3.cxd5 Nxd5 4.e4 Nb6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/146475936242"
+    },
+    {
+      "index": 557,
+      "date": "2025.12.08",
+      "opponent": "RobFuacata",
+      "white": "sergioquesadas",
+      "black": "RobFuacata",
+      "result": "unknown",
+      "opening": "C40: Kings Pawn Opening Kings Knight Variation",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/146476477370"
+    },
+    {
+      "index": 558,
+      "date": "2025.12.08",
+      "opponent": "rbaehr",
+      "white": "rbaehr",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C55: Italian Game Two Knights Modern Bishops Opening 4...h6 5.Nc3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/146476806466"
     }
   ]
 }
