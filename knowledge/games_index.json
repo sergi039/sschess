@@ -1,6 +1,6 @@
 {
-  "total_games": 559,
-  "last_update": "2025-12-12T06:23:40.310656",
+  "total_games": 563,
+  "last_update": "2025-12-13T06:21:22.119743",
   "games_index": [
     {
       "index": 0,
@@ -6150,6 +6150,50 @@
       "opening": "C55: Italian Game Two Knights Modern Bishops Opening 4...h6 5.Nc3",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/146476806466"
+    },
+    {
+      "index": 559,
+      "date": "2025.12.12",
+      "opponent": "paika12",
+      "white": "sergioquesadas",
+      "black": "paika12",
+      "result": "unknown",
+      "opening": "C41: Philidor Defense 3.Bc4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/146632941402"
+    },
+    {
+      "index": 560,
+      "date": "2025.12.12",
+      "opponent": "domokosadam31",
+      "white": "sergioquesadas",
+      "black": "domokosadam31",
+      "result": "unknown",
+      "opening": "B30: Sicilian Defense Old Sicilian Variation 3.Bc4 e6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/146636435994"
+    },
+    {
+      "index": 561,
+      "date": "2025.12.12",
+      "opponent": "ConChoThanThien",
+      "white": "ConChoThanThien",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/146636656438"
+    },
+    {
+      "index": 562,
+      "date": "2025.12.12",
+      "opponent": "cr7-ff",
+      "white": "cr7-ff",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "D04: Colle System",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/146637120974"
     }
   ]
 }

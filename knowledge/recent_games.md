@@ -4,6 +4,10 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
+| 2025-12-12 | cr7-ff | 772 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/146637120974) |
+| 2025-12-12 | ConChoThanThien | 818 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/146636656438) |
+| 2025-12-12 | domokosadam31 | 827 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/146636435994) |
+| 2025-12-12 | paika12 | 815 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/146632941402) |
 | 2025-12-08 | rbaehr | 806 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/146476806466) |
 | 2025-12-08 | RobFuacata | 817 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/146476477370) |
 | 2025-12-08 | iddeun | 803 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/146475936242) |
@@ -20,14 +24,10 @@
 | 2025-12-03 | ne4malll | 796 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/146276377056) |
 | 2025-12-03 | 5upermario | 737 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/146275546112) |
 | 2025-12-03 | pac0don | 769 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/146275002010) |
-| 2025-12-03 | KGhob | 763 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/146274552084) |
-| 2025-12-03 | rafaelhaertel | 742 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/146259574628) |
-| 2025-12-03 | Ennilalaikam | 768 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/146259467806) |
-| 2025-12-02 | Humpback4 | 769 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/146229703788) |
 
 
 ## Quick Stats from Recent Games
 
-- **Record:** 13W / 7L / 0D
-- **Win rate:** 65.0%
-- **Most faced:** rbaehr (1 games)
+- **Record:** 12W / 8L / 0D
+- **Win rate:** 60.0%
+- **Most faced:** cr7-ff (1 games)
