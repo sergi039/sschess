@@ -4,6 +4,9 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
+| 2025-12-14 | noirotj | 802 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/146701548132) |
+| 2025-12-14 | Kuncoronao | 829 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/146701259786) |
+| 2025-12-14 | Ravi-Runthala | 802 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/146699996874) |
 | 2025-12-12 | cr7-ff | 772 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/146637120974) |
 | 2025-12-12 | ConChoThanThien | 818 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/146636656438) |
 | 2025-12-12 | domokosadam31 | 827 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/146636435994) |
@@ -21,13 +24,10 @@
 | 2025-12-07 | Shah-obi | 773 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/146430330016) |
 | 2025-12-07 | saniyaverma5652s | 742 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/146411068480) |
 | 2025-12-03 | Gus091169 | 755 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/146277051834) |
-| 2025-12-03 | ne4malll | 796 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/146276377056) |
-| 2025-12-03 | 5upermario | 737 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/146275546112) |
-| 2025-12-03 | pac0don | 769 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/146275002010) |
 
 
 ## Quick Stats from Recent Games
 
-- **Record:** 12W / 8L / 0D
+- **Record:** 12W / 7L / 1D
 - **Win rate:** 60.0%
-- **Most faced:** cr7-ff (1 games)
+- **Most faced:** noirotj (1 games)

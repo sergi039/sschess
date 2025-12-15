@@ -1,6 +1,6 @@
 {
-  "total_games": 563,
-  "last_update": "2025-12-14T06:21:11.095271",
+  "total_games": 566,
+  "last_update": "2025-12-15T06:26:17.847291",
   "games_index": [
     {
       "index": 0,
@@ -6194,6 +6194,39 @@
       "opening": "D04: Colle System",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/146637120974"
+    },
+    {
+      "index": 563,
+      "date": "2025.12.14",
+      "opponent": "Ravi-Runthala",
+      "white": "sergioquesadas",
+      "black": "Ravi-Runthala",
+      "result": "unknown",
+      "opening": "C41: Philidor Defense 3.Bc4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/146699996874"
+    },
+    {
+      "index": 564,
+      "date": "2025.12.14",
+      "opponent": "Kuncoronao",
+      "white": "Kuncoronao",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C55: Italian Game Two Knights Defense",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/146701259786"
+    },
+    {
+      "index": 565,
+      "date": "2025.12.14",
+      "opponent": "noirotj",
+      "white": "noirotj",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "A00: Van t Kruijs Opening 1...e5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/146701548132"
     }
   ]
 }

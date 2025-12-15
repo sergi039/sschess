@@ -1,7 +1,7 @@
 {
   "username": "sergioquesadas",
-  "total_games": 563,
-  "analysis_date": "2025-12-14T06:21:11.073833",
+  "total_games": 566,
+  "analysis_date": "2025-12-15T06:26:17.825779",
   "openings": {
     "white": {
       "ECO C43": {
@@ -77,12 +77,12 @@
         "loss_rate": 54.5
       },
       "ECO C41": {
-        "wins": 12,
+        "wins": 13,
         "losses": 19,
         "draws": 0,
-        "total": 31,
-        "win_rate": 38.7,
-        "loss_rate": 61.3
+        "total": 32,
+        "win_rate": 40.6,
+        "loss_rate": 59.4
       },
       "ECO B13": {
         "wins": 1,
@@ -441,10 +441,10 @@
       "ECO A00": {
         "wins": 5,
         "losses": 6,
-        "draws": 0,
-        "total": 11,
-        "win_rate": 45.5,
-        "loss_rate": 54.5
+        "draws": 1,
+        "total": 12,
+        "win_rate": 41.7,
+        "loss_rate": 50.0
       },
       "ECO C20": {
         "wins": 16,
@@ -552,11 +552,11 @@
       },
       "ECO C55": {
         "wins": 5,
-        "losses": 9,
+        "losses": 10,
         "draws": 0,
-        "total": 14,
-        "win_rate": 35.7,
-        "loss_rate": 64.3
+        "total": 15,
+        "win_rate": 33.3,
+        "loss_rate": 66.7
       },
       "ECO B02": {
         "wins": 0,
@@ -810,11 +810,11 @@
   },
   "time_controls": {
     "rapid": {
-      "wins": 272,
-      "losses": 272,
-      "draws": 18,
-      "total": 562,
-      "win_rate": 48.4
+      "wins": 273,
+      "losses": 273,
+      "draws": 19,
+      "total": 565,
+      "win_rate": 48.3
     },
     "daily": {
       "wins": 1,
@@ -854,11 +854,11 @@
       }
     ],
     "ending_types": {
-      "win": 273,
-      "resigned": 180,
+      "win": 274,
+      "resigned": 181,
       "checkmated": 77,
       "timeout": 14,
-      "repetition": 9,
+      "repetition": 10,
       "stalemate": 5,
       "insufficient": 2,
       "agreed": 1,
@@ -871,7 +871,7 @@
       "rapid": 802,
       "daily": 676
     },
-    "total_games_tracked": 563
+    "total_games_tracked": 566
   },
   "weaknesses": {
     "identified_weaknesses": [
