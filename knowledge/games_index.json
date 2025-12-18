@@ -1,6 +1,6 @@
 {
-  "total_games": 566,
-  "last_update": "2025-12-17T06:23:10.877875",
+  "total_games": 568,
+  "last_update": "2025-12-18T06:23:03.649982",
   "games_index": [
     {
       "index": 0,
@@ -6227,6 +6227,28 @@
       "opening": "A00: Van t Kruijs Opening 1...e5",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/146701548132"
+    },
+    {
+      "index": 566,
+      "date": "2025.12.17",
+      "opponent": "karydenzz",
+      "white": "sergioquesadas",
+      "black": "karydenzz",
+      "result": "unknown",
+      "opening": "C55: Italian Game Two Knights Defense",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/146836323320"
+    },
+    {
+      "index": 567,
+      "date": "2025.12.17",
+      "opponent": "Batuhan_Lego",
+      "white": "sergioquesadas",
+      "black": "Batuhan_Lego",
+      "result": "unknown",
+      "opening": "C40: Kings Pawn Opening Kings Knight Variation",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/146836627856"
     }
   ]
 }

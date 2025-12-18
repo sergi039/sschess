@@ -4,6 +4,8 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
+| 2025-12-17 | Batuhan_Lego | 773 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/146836627856) |
+| 2025-12-17 | karydenzz | 797 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/146836323320) |
 | 2025-12-14 | noirotj | 802 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/146701548132) |
 | 2025-12-14 | Kuncoronao | 829 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/146701259786) |
 | 2025-12-14 | Ravi-Runthala | 802 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/146699996874) |
@@ -22,12 +24,10 @@
 | 2025-12-07 | soransamad | 772 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/146430756356) |
 | 2025-12-07 | CZizzo | 771 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/146430535542) |
 | 2025-12-07 | Shah-obi | 773 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/146430330016) |
-| 2025-12-07 | saniyaverma5652s | 742 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/146411068480) |
-| 2025-12-03 | Gus091169 | 755 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/146277051834) |
 
 
 ## Quick Stats from Recent Games
 
-- **Record:** 12W / 7L / 1D
-- **Win rate:** 60.0%
-- **Most faced:** noirotj (1 games)
+- **Record:** 11W / 8L / 1D
+- **Win rate:** 55.0%
+- **Most faced:** Batuhan_Lego (1 games)
