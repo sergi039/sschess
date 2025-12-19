@@ -1,6 +1,6 @@
 {
-  "total_games": 568,
-  "last_update": "2025-12-18T06:23:03.649982",
+  "total_games": 571,
+  "last_update": "2025-12-19T06:22:40.691929",
   "games_index": [
     {
       "index": 0,
@@ -6249,6 +6249,39 @@
       "opening": "C40: Kings Pawn Opening Kings Knight Variation",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/146836627856"
+    },
+    {
+      "index": 568,
+      "date": "2025.12.18",
+      "opponent": "YummyYummyBishopsYum",
+      "white": "sergioquesadas",
+      "black": "YummyYummyBishopsYum",
+      "result": "unknown",
+      "opening": "B30: Sicilian Defense Old Sicilian Variation 3.Bc4 e6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/146887406932"
+    },
+    {
+      "index": 569,
+      "date": "2025.12.18",
+      "opponent": "Andrey-Fomin",
+      "white": "Andrey-Fomin",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C20: Kings Pawn Opening 1...e5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/146887622112"
+    },
+    {
+      "index": 570,
+      "date": "2025.12.18",
+      "opponent": "abolfazldaryanush",
+      "white": "abolfazldaryanush",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C42: Petrovs Defense 3.d3 Nc6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/146887821066"
     }
   ]
 }
