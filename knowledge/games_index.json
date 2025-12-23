@@ -1,6 +1,6 @@
 {
-  "total_games": 571,
-  "last_update": "2025-12-22T06:25:33.267028",
+  "total_games": 574,
+  "last_update": "2025-12-23T06:23:57.858714",
   "games_index": [
     {
       "index": 0,
@@ -6282,6 +6282,39 @@
       "opening": "C42: Petrovs Defense 3.d3 Nc6",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/146887821066"
+    },
+    {
+      "index": 571,
+      "date": "2025.12.22",
+      "opponent": "MiguelTroyo",
+      "white": "sergioquesadas",
+      "black": "MiguelTroyo",
+      "result": "unknown",
+      "opening": "D05: Colle System 3...e6 4.Bd3 Bd6 5.Nbd2",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147049152864"
+    },
+    {
+      "index": 572,
+      "date": "2025.12.22",
+      "opponent": "youcefss",
+      "white": "sergioquesadas",
+      "black": "youcefss",
+      "result": "unknown",
+      "opening": "A40: Englund Gambit",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147050315812"
+    },
+    {
+      "index": 573,
+      "date": "2025.12.22",
+      "opponent": "DaniellaSteele",
+      "white": "DaniellaSteele",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C47: Four Knights Game Italian Variation 4...Nxe4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147050840670"
     }
   ]
 }

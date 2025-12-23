@@ -4,6 +4,9 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
+| 2025-12-22 | DaniellaSteele | 812 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147050840670) |
+| 2025-12-22 | youcefss | 839 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/147050315812) |
+| 2025-12-22 | MiguelTroyo | 809 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147049152864) |
 | 2025-12-18 | abolfazldaryanush | 775 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/146887821066) |
 | 2025-12-18 | Andrey-Fomin | 824 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/146887622112) |
 | 2025-12-18 | YummyYummyBishopsYum | 790 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/146887406932) |
@@ -21,13 +24,10 @@
 | 2025-12-08 | iddeun | 803 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/146475936242) |
 | 2025-12-08 | wilmer_1901 | 801 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/146475598620) |
 | 2025-12-07 | leobello1302 | 781 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/146432807782) |
-| 2025-12-07 | DejmonT | 772 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/146432656004) |
-| 2025-12-07 | EfeBaba1256 | 791 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/146431160114) |
-| 2025-12-07 | Sluyo | 755 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/146431032076) |
 
 
 ## Quick Stats from Recent Games
 
-- **Record:** 12W / 7L / 1D
-- **Win rate:** 60.0%
-- **Most faced:** abolfazldaryanush (1 games)
+- **Record:** 10W / 8L / 2D
+- **Win rate:** 50.0%
+- **Most faced:** DaniellaSteele (1 games)
