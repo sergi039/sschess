@@ -1,6 +1,6 @@
 {
-  "total_games": 574,
-  "last_update": "2025-12-24T06:24:32.199066",
+  "total_games": 586,
+  "last_update": "2025-12-25T06:23:36.924002",
   "games_index": [
     {
       "index": 0,
@@ -6315,6 +6315,138 @@
       "opening": "C47: Four Knights Game Italian Variation 4...Nxe4",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/147050840670"
+    },
+    {
+      "index": 574,
+      "date": "2025.12.24",
+      "opponent": "ARNABparui26",
+      "white": "ARNABparui26",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C57: Italian Game Knight Attack Ulvestad Variation",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147112063512"
+    },
+    {
+      "index": 575,
+      "date": "2025.12.24",
+      "opponent": "goooooooooz",
+      "white": "goooooooooz",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C57: Italian Game Knight Attack Ulvestad Variation",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147112183080"
+    },
+    {
+      "index": 576,
+      "date": "2025.12.24",
+      "opponent": "ahmedmohmmedahmed",
+      "white": "sergioquesadas",
+      "black": "ahmedmohmmedahmed",
+      "result": "unknown",
+      "opening": "A04: Reti Opening Queenside Fianchetto Variation 2.e4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147112442520"
+    },
+    {
+      "index": 577,
+      "date": "2025.12.24",
+      "opponent": "waterbottleji",
+      "white": "sergioquesadas",
+      "black": "waterbottleji",
+      "result": "unknown",
+      "opening": "B28: Sicilian Defense OKelly Venice System...4.d4 d5 5.e5 Nc6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147112906200"
+    },
+    {
+      "index": 578,
+      "date": "2025.12.24",
+      "opponent": "JustTortuga",
+      "white": "JustTortuga",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C44: Ponziani Opening Jaenisch Counterattack",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147130033804"
+    },
+    {
+      "index": 579,
+      "date": "2025.12.24",
+      "opponent": "wolffengs",
+      "white": "sergioquesadas",
+      "black": "wolffengs",
+      "result": "unknown",
+      "opening": "B10: Caro Kann Defense 2.Nf3 d5 3.exd5 cxd5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147130220374"
+    },
+    {
+      "index": 580,
+      "date": "2025.12.24",
+      "opponent": "4Mateq_Games4",
+      "white": "sergioquesadas",
+      "black": "4Mateq_Games4",
+      "result": "unknown",
+      "opening": "C53: Giuoco Piano Game Main Line 4...Nf6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147130555616"
+    },
+    {
+      "index": 581,
+      "date": "2025.12.24",
+      "opponent": "jaypa21",
+      "white": "jaypa21",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "D20: Queens Gambit Accepted Central Variation Alekhine System 4.Nc3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147130800830"
+    },
+    {
+      "index": 582,
+      "date": "2025.12.24",
+      "opponent": "Nasr-Burrito",
+      "white": "Nasr-Burrito",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C22: Center Game Accepted Normal Variation",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147131106212"
+    },
+    {
+      "index": 583,
+      "date": "2025.12.24",
+      "opponent": "MoarDots",
+      "white": "sergioquesadas",
+      "black": "MoarDots",
+      "result": "unknown",
+      "opening": "C53: Giuoco Piano Game Main Line 4...d6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147131617882"
+    },
+    {
+      "index": 584,
+      "date": "2025.12.24",
+      "opponent": "Mano-96",
+      "white": "sergioquesadas",
+      "black": "Mano-96",
+      "result": "unknown",
+      "opening": "B21: Sicilian Defense Smith Morra Gambit...3.Qxd4 Nc6 4.Qd1 Nf6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147131753358"
+    },
+    {
+      "index": 585,
+      "date": "2025.12.24",
+      "opponent": "abdallahdahan",
+      "white": "sergioquesadas",
+      "black": "abdallahdahan",
+      "result": "unknown",
+      "opening": "C40: Kings Pawn Opening Kings Knight Variation",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147132467118"
     }
   ]
 }
