@@ -12,15 +12,7 @@
 
 **Recommendation:** Consider studying this opening more deeply or switching to an alternative.
 
-### 2. Problematic Opening (White)
-
-**Opening:** ECO C53
-- Games played: 5
-- Loss rate: 80.0%
-
-**Recommendation:** Consider studying this opening more deeply or switching to an alternative.
-
-### 3. Problematic Opening (Black)
+### 2. Problematic Opening (Black)
 
 **Opening:** ECO C60
 - Games played: 5
@@ -28,19 +20,27 @@
 
 **Recommendation:** Consider studying this opening more deeply or switching to an alternative.
 
+### 3. Problematic Opening (White)
+
+**Opening:** ECO C53
+- Games played: 7
+- Loss rate: 71.4%
+
+**Recommendation:** Consider studying this opening more deeply or switching to an alternative.
+
 ### 4. Problematic Opening (Black)
 
-**Opening:** ECO C57
-- Games played: 9
-- Loss rate: 77.8%
+**Opening:** ECO B00
+- Games played: 7
+- Loss rate: 71.4%
 
 **Recommendation:** Consider studying this opening more deeply or switching to an alternative.
 
 ### 5. Problematic Opening (Black)
 
-**Opening:** ECO B00
-- Games played: 7
-- Loss rate: 71.4%
+**Opening:** ECO D04
+- Games played: 6
+- Loss rate: 66.7%
 
 **Recommendation:** Consider studying this opening more deeply or switching to an alternative.
 

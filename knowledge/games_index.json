@@ -1,6 +1,6 @@
 {
-  "total_games": 586,
-  "last_update": "2025-12-25T06:23:36.924002",
+  "total_games": 593,
+  "last_update": "2025-12-26T06:23:20.970926",
   "games_index": [
     {
       "index": 0,
@@ -6447,6 +6447,83 @@
       "opening": "C40: Kings Pawn Opening Kings Knight Variation",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/147132467118"
+    },
+    {
+      "index": 586,
+      "date": "2025.12.25",
+      "opponent": "saeedshatrang",
+      "white": "saeedshatrang",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C42: Petrovs Defense 3.d3 Nc6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147149583542"
+    },
+    {
+      "index": 587,
+      "date": "2025.12.25",
+      "opponent": "I_Never_Win_X",
+      "white": "I_Never_Win_X",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C57: Italian Game Knight Attack Normal Variation",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147149676682"
+    },
+    {
+      "index": 588,
+      "date": "2025.12.25",
+      "opponent": "shohjahon_abduhakimov",
+      "white": "shohjahon_abduhakimov",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C45: Scotch Game 3...exd4 4.Nxd4 Nxd4 5.Qxd4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147149879816"
+    },
+    {
+      "index": 589,
+      "date": "2025.12.25",
+      "opponent": "Bits9999",
+      "white": "sergioquesadas",
+      "black": "Bits9999",
+      "result": "unknown",
+      "opening": "C53: Giuoco Piano Game Main Line 4...Nf6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147150106646"
+    },
+    {
+      "index": 590,
+      "date": "2025.12.25",
+      "opponent": "saintchris25",
+      "white": "saintchris25",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C57: Italian Game Knight Attack Fritz Variation",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147150261530"
+    },
+    {
+      "index": 591,
+      "date": "2025.12.25",
+      "opponent": "Schlappenflicker",
+      "white": "sergioquesadas",
+      "black": "Schlappenflicker",
+      "result": "unknown",
+      "opening": "C53: Giuoco Piano Game Center Attack 5...exd4 6.e5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147151272696"
+    },
+    {
+      "index": 592,
+      "date": "2025.12.25",
+      "opponent": "Tomtom64130",
+      "white": "Tomtom64130",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C50: Italian Game Hungarian Defense 4.d4 exd4 5.Nxd4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147151315204"
     }
   ]
 }
