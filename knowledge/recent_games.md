@@ -4,6 +4,11 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
+| 2025-12-27 | Dionisis37 | 856 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147257859132) |
+| 2025-12-27 | raheemjj | 852 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147249660846) |
+| 2025-12-27 | Tiffters | 840 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147249348640) |
+| 2025-12-27 | Tiffters | 832 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147248974974) |
+| 2025-12-27 | Tiffters | 840 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147248745464) |
 | 2025-12-25 | Tomtom64130 | 818 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147151315204) |
 | 2025-12-25 | Schlappenflicker | 824 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147151272696) |
 | 2025-12-25 | saintchris25 | 782 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147150261530) |
@@ -19,15 +24,10 @@
 | 2025-12-24 | 4Mateq_Games4 | 804 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147130555616) |
 | 2025-12-24 | wolffengs | 802 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147130220374) |
 | 2025-12-24 | JustTortuga | 813 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/147130033804) |
-| 2025-12-24 | waterbottleji | 815 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147112906200) |
-| 2025-12-24 | ahmedmohmmedahmed | 798 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147112442520) |
-| 2025-12-24 | goooooooooz | 817 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/147112183080) |
-| 2025-12-24 | ARNABparui26 | 830 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/147112063512) |
-| 2025-12-22 | DaniellaSteele | 812 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147050840670) |
 
 
 ## Quick Stats from Recent Games
 
-- **Record:** 11W / 8L / 1D
-- **Win rate:** 55.0%
-- **Most faced:** Tomtom64130 (1 games)
+- **Record:** 13W / 7L / 0D
+- **Win rate:** 65.0%
+- **Most faced:** Tiffters (3 games)

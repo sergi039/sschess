@@ -1,6 +1,6 @@
 {
-  "total_games": 593,
-  "last_update": "2025-12-27T06:21:50.489353",
+  "total_games": 598,
+  "last_update": "2025-12-28T06:22:02.003599",
   "games_index": [
     {
       "index": 0,
@@ -6524,6 +6524,61 @@
       "opening": "C50: Italian Game Hungarian Defense 4.d4 exd4 5.Nxd4",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/147151315204"
+    },
+    {
+      "index": 593,
+      "date": "2025.12.27",
+      "opponent": "Tiffters",
+      "white": "sergioquesadas",
+      "black": "Tiffters",
+      "result": "unknown",
+      "opening": "B12: Caro Kann Defense Advance Variation",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147248745464"
+    },
+    {
+      "index": 594,
+      "date": "2025.12.27",
+      "opponent": "Tiffters",
+      "white": "Tiffters",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C47: Four Knights Game Scotch Variation Accepted 5.Nxd4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147248974974"
+    },
+    {
+      "index": 595,
+      "date": "2025.12.27",
+      "opponent": "Tiffters",
+      "white": "sergioquesadas",
+      "black": "Tiffters",
+      "result": "unknown",
+      "opening": "B10: Caro Kann Defense 2.Nf3 d5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147249348640"
+    },
+    {
+      "index": 596,
+      "date": "2025.12.27",
+      "opponent": "raheemjj",
+      "white": "sergioquesadas",
+      "black": "raheemjj",
+      "result": "unknown",
+      "opening": "C53: Giuoco Piano Game Center Attack 5...exd4 6.e5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147249660846"
+    },
+    {
+      "index": 597,
+      "date": "2025.12.27",
+      "opponent": "Dionisis37",
+      "white": "sergioquesadas",
+      "black": "Dionisis37",
+      "result": "unknown",
+      "opening": "C50: Italian Game",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147257859132"
     }
   ]
 }
