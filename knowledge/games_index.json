@@ -1,6 +1,6 @@
 {
-  "total_games": 598,
-  "last_update": "2025-12-28T06:22:02.003599",
+  "total_games": 606,
+  "last_update": "2025-12-29T06:25:46.107055",
   "games_index": [
     {
       "index": 0,
@@ -6579,6 +6579,94 @@
       "opening": "C50: Italian Game",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/147257859132"
+    },
+    {
+      "index": 598,
+      "date": "2025.12.28",
+      "opponent": "STB35",
+      "white": "sergioquesadas",
+      "black": "STB35",
+      "result": "unknown",
+      "opening": "C50: Italian Game",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147273032650"
+    },
+    {
+      "index": 599,
+      "date": "2025.12.28",
+      "opponent": "kh-uyen",
+      "white": "kh-uyen",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147273309580"
+    },
+    {
+      "index": 600,
+      "date": "2025.12.28",
+      "opponent": "ObsidianDagger7",
+      "white": "ObsidianDagger7",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C55: Italian Game Two Knights Modern Bishops Opening 4...h6 5.Nc3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147273469502"
+    },
+    {
+      "index": 601,
+      "date": "2025.12.28",
+      "opponent": "cukedung",
+      "white": "sergioquesadas",
+      "black": "cukedung",
+      "result": "unknown",
+      "opening": "C55: Italian Game Two Knights Defense",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147273782712"
+    },
+    {
+      "index": 602,
+      "date": "2025.12.28",
+      "opponent": "garanshon",
+      "white": "garanshon",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C55: Italian Game Two Knights Modern Bishops Opening 4...h6 5.Nc3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147292740092"
+    },
+    {
+      "index": 603,
+      "date": "2025.12.28",
+      "opponent": "king_of_Dead1",
+      "white": "king_of_Dead1",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C47: Four Knights Game Italian Variation",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147293073566"
+    },
+    {
+      "index": 604,
+      "date": "2025.12.28",
+      "opponent": "Haitemthekiller",
+      "white": "sergioquesadas",
+      "black": "Haitemthekiller",
+      "result": "unknown",
+      "opening": "C02: French Defense Advance Steinitz Variation 4...Nc6 5.Nf3 Bxc5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147293540244"
+    },
+    {
+      "index": 605,
+      "date": "2025.12.28",
+      "opponent": "vossiema",
+      "white": "vossiema",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C57: Italian Game Knight Attack Fritz Variation",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147293913516"
     }
   ]
 }
