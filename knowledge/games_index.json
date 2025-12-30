@@ -1,6 +1,6 @@
 {
-  "total_games": 606,
-  "last_update": "2025-12-29T06:25:46.107055",
+  "total_games": 617,
+  "last_update": "2025-12-30T06:23:38.371259",
   "games_index": [
     {
       "index": 0,
@@ -6667,6 +6667,127 @@
       "opening": "C57: Italian Game Knight Attack Fritz Variation",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/147293913516"
+    },
+    {
+      "index": 606,
+      "date": "2025.12.29",
+      "opponent": "smortreux",
+      "white": "sergioquesadas",
+      "black": "smortreux",
+      "result": "unknown",
+      "opening": "B22: Alapin Sicilian Defense 2...Nc6 3.Nf3 Nf6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147316846832"
+    },
+    {
+      "index": 607,
+      "date": "2025.12.29",
+      "opponent": "aymanislam",
+      "white": "sergioquesadas",
+      "black": "aymanislam",
+      "result": "unknown",
+      "opening": "C41: Philidor Defense 3.Bc4 Be7",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147317133400"
+    },
+    {
+      "index": 608,
+      "date": "2025.12.29",
+      "opponent": "ghoshsub",
+      "white": "ghoshsub",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "D45: Semi Slav Defense Main Line",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147327689812"
+    },
+    {
+      "index": 609,
+      "date": "2025.12.29",
+      "opponent": "Manish01062007",
+      "white": "Manish01062007",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C55: Italian Game Two Knights Modern Bishops Opening 4...h6 5.Nc3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147328157452"
+    },
+    {
+      "index": 610,
+      "date": "2025.12.29",
+      "opponent": "badero9z",
+      "white": "sergioquesadas",
+      "black": "badero9z",
+      "result": "unknown",
+      "opening": "B06: Modern Defense with 1 e4 2.d4 Bg7 3.Nf3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147328602026"
+    },
+    {
+      "index": 611,
+      "date": "2025.12.29",
+      "opponent": "podki23",
+      "white": "podki23",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Levitsky Attack 2...f6 3.Bh4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147328720988"
+    },
+    {
+      "index": 612,
+      "date": "2025.12.29",
+      "opponent": "chawa14",
+      "white": "sergioquesadas",
+      "black": "chawa14",
+      "result": "unknown",
+      "opening": "B01: Scandinavian Defense Mieses Kotrc Variation 3.Nc3 Qe5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147329110026"
+    },
+    {
+      "index": 613,
+      "date": "2025.12.29",
+      "opponent": "chawa14",
+      "white": "chawa14",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C20: Kings Pawn Opening 1...e5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147329484232"
+    },
+    {
+      "index": 614,
+      "date": "2025.12.29",
+      "opponent": "Silver_Sendei",
+      "white": "sergioquesadas",
+      "black": "Silver_Sendei",
+      "result": "unknown",
+      "opening": "B01: Scandinavian Defense Mieses Kotrc Variation 3.Nc3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147329932338"
+    },
+    {
+      "index": 615,
+      "date": "2025.12.29",
+      "opponent": "Silver_Sendei",
+      "white": "Silver_Sendei",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C57: Italian Game Knight Attack Fritz Variation",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147330507516"
+    },
+    {
+      "index": 616,
+      "date": "2025.12.29",
+      "opponent": "AlexGriNiaK",
+      "white": "sergioquesadas",
+      "black": "AlexGriNiaK",
+      "result": "unknown",
+      "opening": "C02: French Defense Advance Paulsen Attack 5...Nh6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147330855564"
     }
   ]
 }
