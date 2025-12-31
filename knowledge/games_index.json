@@ -1,6 +1,6 @@
 {
-  "total_games": 617,
-  "last_update": "2025-12-30T06:23:38.371259",
+  "total_games": 622,
+  "last_update": "2025-12-31T06:24:24.557538",
   "games_index": [
     {
       "index": 0,
@@ -6788,6 +6788,61 @@
       "opening": "C02: French Defense Advance Paulsen Attack 5...Nh6",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/147330855564"
+    },
+    {
+      "index": 617,
+      "date": "2025.12.30",
+      "opponent": "ArpitAAO",
+      "white": "ArpitAAO",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C20: Kings Pawn Opening 1...e5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147360363012"
+    },
+    {
+      "index": 618,
+      "date": "2025.12.30",
+      "opponent": "DonkeyKong200IQ",
+      "white": "sergioquesadas",
+      "black": "DonkeyKong200IQ",
+      "result": "unknown",
+      "opening": "C40: Kings Pawn Opening Latvian Gambit Accepted",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147360915298"
+    },
+    {
+      "index": 619,
+      "date": "2025.12.30",
+      "opponent": "WatsonL8",
+      "white": "WatsonL8",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C47: Four Knights Game",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147363100870"
+    },
+    {
+      "index": 620,
+      "date": "2025.12.30",
+      "opponent": "Zanye30",
+      "white": "sergioquesadas",
+      "black": "Zanye30",
+      "result": "unknown",
+      "opening": "C00: French Defense Knight Variation",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147376103600"
+    },
+    {
+      "index": 621,
+      "date": "2025.12.30",
+      "opponent": "bexe3637",
+      "white": "sergioquesadas",
+      "black": "bexe3637",
+      "result": "unknown",
+      "opening": "B12: Caro Kann Defense Advance Van der Wiel Attack 4...e6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147376341592"
     }
   ]
 }

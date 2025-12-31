@@ -4,6 +4,11 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
+| 2025-12-30 | bexe3637 | 924 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147376341592) |
+| 2025-12-30 | Zanye30 | 922 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147376103600) |
+| 2025-12-30 | WatsonL8 | 914 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147363100870) |
+| 2025-12-30 | DonkeyKong200IQ | 915 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147360915298) |
+| 2025-12-30 | ArpitAAO | 896 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147360363012) |
 | 2025-12-29 | AlexGriNiaK | 879 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147330855564) |
 | 2025-12-29 | Silver_Sendei | 890 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147330507516) |
 | 2025-12-29 | Silver_Sendei | 898 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147329932338) |
@@ -19,15 +24,10 @@
 | 2025-12-28 | Haitemthekiller | 859 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147293540244) |
 | 2025-12-28 | king_of_Dead1 | 857 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147293073566) |
 | 2025-12-28 | garanshon | 838 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147292740092) |
-| 2025-12-28 | cukedung | 848 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147273782712) |
-| 2025-12-28 | ObsidianDagger7 | 867 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/147273469502) |
-| 2025-12-28 | kh-uyen | 852 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147273309580) |
-| 2025-12-28 | STB35 | 853 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147273032650) |
-| 2025-12-27 | Dionisis37 | 856 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147257859132) |
 
 
 ## Quick Stats from Recent Games
 
-- **Record:** 12W / 4L / 4D
-- **Win rate:** 60.0%
+- **Record:** 15W / 2L / 3D
+- **Win rate:** 75.0%
 - **Most faced:** Silver_Sendei (2 games)
