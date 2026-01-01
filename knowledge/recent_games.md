@@ -4,30 +4,30 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
-| 2025-12-30 | bexe3637 | 924 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147376341592) |
-| 2025-12-30 | Zanye30 | 922 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147376103600) |
-| 2025-12-30 | WatsonL8 | 914 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147363100870) |
-| 2025-12-30 | DonkeyKong200IQ | 915 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147360915298) |
-| 2025-12-30 | ArpitAAO | 896 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147360363012) |
-| 2025-12-29 | AlexGriNiaK | 879 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147330855564) |
-| 2025-12-29 | Silver_Sendei | 890 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147330507516) |
-| 2025-12-29 | Silver_Sendei | 898 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147329932338) |
-| 2025-12-29 | chawa14 | 863 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147329484232) |
-| 2025-12-29 | chawa14 | 871 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147329110026) |
-| 2025-12-29 | podki23 | 858 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147328720988) |
-| 2025-12-29 | badero9z | 880 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/147328602026) |
-| 2025-12-29 | Manish01062007 | 853 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147328157452) |
-| 2025-12-29 | ghoshsub | 863 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147327689812) |
-| 2025-12-29 | aymanislam | 849 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147317133400) |
-| 2025-12-29 | smortreux | 847 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147316846832) |
-| 2025-12-28 | vossiema | 850 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147293913516) |
-| 2025-12-28 | Haitemthekiller | 859 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147293540244) |
-| 2025-12-28 | king_of_Dead1 | 857 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147293073566) |
-| 2025-12-28 | garanshon | 838 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147292740092) |
+| 2025-12-31 | Bajram2024 | 963 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147414429036) |
+| 2025-12-31 | earthQuacker | 984 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147413781928) |
+| 2025-12-31 | aleanardu | 942 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147413687474) |
+| 2025-12-31 | Sutadi69 | 966 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147411739242) |
+| 2025-12-31 | Bongyeuuoiii | 933 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147411494978) |
+| 2025-12-31 | DamienB33 | 923 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147411336664) |
+| 2025-12-31 | NarayanPrasadjhariya | 933 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147411267744) |
+| 2025-12-31 | Bekasimonishvili | 965 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/147411037680) |
+| 2025-12-31 | JM_JEHIS | 973 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147410315856) |
+| 2025-12-31 | VladimirKalinin1986 | 956 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147410122086) |
+| 2025-12-31 | wewokdetoknotonlitokdetok | 967 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/147409526286) |
+| 2025-12-31 | adamnov2021 | 926 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147409230076) |
+| 2025-12-31 | LostWitcher | 951 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/147409040786) |
+| 2025-12-31 | philipmogul | 952 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147408715366) |
+| 2025-12-31 | TT_G1G1_TT | 923 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147408257930) |
+| 2025-12-31 | Arytrura | 931 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147407961804) |
+| 2025-12-31 | vaibhavsahu342 | 963 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/147407317530) |
+| 2025-12-31 | Guershon9894 | 947 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/147407041302) |
+| 2025-12-31 | Paul_R_90 | 945 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147406789182) |
+| 2025-12-31 | joo-sae | 955 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147406320678) |
 
 
 ## Quick Stats from Recent Games
 
-- **Record:** 15W / 2L / 3D
-- **Win rate:** 75.0%
-- **Most faced:** Silver_Sendei (2 games)
+- **Record:** 10W / 10L / 0D
+- **Win rate:** 50.0%
+- **Most faced:** Bajram2024 (1 games)

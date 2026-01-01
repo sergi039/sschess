@@ -1,6 +1,6 @@
 {
-  "total_games": 622,
-  "last_update": "2025-12-31T06:24:24.557538",
+  "total_games": 642,
+  "last_update": "2026-01-01T06:24:03.083610",
   "games_index": [
     {
       "index": 0,
@@ -6843,6 +6843,226 @@
       "opening": "B12: Caro Kann Defense Advance Van der Wiel Attack 4...e6",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/147376341592"
+    },
+    {
+      "index": 622,
+      "date": "2025.12.31",
+      "opponent": "joo-sae",
+      "white": "sergioquesadas",
+      "black": "joo-sae",
+      "result": "unknown",
+      "opening": "B50: Sicilian Defense Anti Qxd4 Move Order 4.Nc3 cxd4 5.Qxd4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147406320678"
+    },
+    {
+      "index": 623,
+      "date": "2025.12.31",
+      "opponent": "Paul_R_90",
+      "white": "Paul_R_90",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C60: Ruy Lopez Opening",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147406789182"
+    },
+    {
+      "index": 624,
+      "date": "2025.12.31",
+      "opponent": "Guershon9894",
+      "white": "Guershon9894",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C55: Italian Game Two Knights Modern Bishops Opening 4...d5 5.exd5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147407041302"
+    },
+    {
+      "index": 625,
+      "date": "2025.12.31",
+      "opponent": "vaibhavsahu342",
+      "white": "vaibhavsahu342",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "D02: Queens Pawn Opening Zukertort Chigorin Variation 3.Bf4 Nf6 4.e3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147407317530"
+    },
+    {
+      "index": 626,
+      "date": "2025.12.31",
+      "opponent": "Arytrura",
+      "white": "sergioquesadas",
+      "black": "Arytrura",
+      "result": "unknown",
+      "opening": "C53: Giuoco Piano Game Main Line",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147407961804"
+    },
+    {
+      "index": 627,
+      "date": "2025.12.31",
+      "opponent": "TT_G1G1_TT",
+      "white": "TT_G1G1_TT",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C57: Italian Game Knight Attack Fritz Variation",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147408257930"
+    },
+    {
+      "index": 628,
+      "date": "2025.12.31",
+      "opponent": "philipmogul",
+      "white": "sergioquesadas",
+      "black": "philipmogul",
+      "result": "unknown",
+      "opening": "C50: Italian Game",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147408715366"
+    },
+    {
+      "index": 629,
+      "date": "2025.12.31",
+      "opponent": "LostWitcher",
+      "white": "LostWitcher",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "A00: Van t Kruijs Opening 1...e5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147409040786"
+    },
+    {
+      "index": 630,
+      "date": "2025.12.31",
+      "opponent": "adamnov2021",
+      "white": "sergioquesadas",
+      "black": "adamnov2021",
+      "result": "unknown",
+      "opening": "C41: Philidor Defense 3.Bc4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147409230076"
+    },
+    {
+      "index": 631,
+      "date": "2025.12.31",
+      "opponent": "wewokdetoknotonlitokdetok",
+      "white": "wewokdetoknotonlitokdetok",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C47: Four Knights Game Italian Variation 4...Nxe4 5.Nxe4 d5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147409526286"
+    },
+    {
+      "index": 632,
+      "date": "2025.12.31",
+      "opponent": "VladimirKalinin1986",
+      "white": "sergioquesadas",
+      "black": "VladimirKalinin1986",
+      "result": "unknown",
+      "opening": "C50: Italian Game",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147410122086"
+    },
+    {
+      "index": 633,
+      "date": "2025.12.31",
+      "opponent": "JM_JEHIS",
+      "white": "JM_JEHIS",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C47: Four Knights Game Scotch Variation Accepted 5.Nxd4 Bb4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147410315856"
+    },
+    {
+      "index": 634,
+      "date": "2025.12.31",
+      "opponent": "Bekasimonishvili",
+      "white": "sergioquesadas",
+      "black": "Bekasimonishvili",
+      "result": "unknown",
+      "opening": "C53: Giuoco Piano Game Main Line 4...Nf6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147411037680"
+    },
+    {
+      "index": 635,
+      "date": "2025.12.31",
+      "opponent": "NarayanPrasadjhariya",
+      "white": "sergioquesadas",
+      "black": "NarayanPrasadjhariya",
+      "result": "unknown",
+      "opening": "C45: Scotch Game 3...exd4 4.Nxd4 d6 5.Nc3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147411267744"
+    },
+    {
+      "index": 636,
+      "date": "2025.12.31",
+      "opponent": "DamienB33",
+      "white": "sergioquesadas",
+      "black": "DamienB33",
+      "result": "unknown",
+      "opening": "B22: Alapin Sicilian Defense 2...Nc6 3.Nf3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147411336664"
+    },
+    {
+      "index": 637,
+      "date": "2025.12.31",
+      "opponent": "Bongyeuuoiii",
+      "white": "Bongyeuuoiii",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "A01: Nimzowitsch Larsen Attack Classical Variation 2.Bb2",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147411494978"
+    },
+    {
+      "index": 638,
+      "date": "2025.12.31",
+      "opponent": "Sutadi69",
+      "white": "Sutadi69",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C57: Italian Game Knight Attack Fritz Variation",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147411739242"
+    },
+    {
+      "index": 639,
+      "date": "2025.12.31",
+      "opponent": "aleanardu",
+      "white": "sergioquesadas",
+      "black": "aleanardu",
+      "result": "unknown",
+      "opening": "C53: Giuoco Piano Game Main Line 4...Nf6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147413687474"
+    },
+    {
+      "index": 640,
+      "date": "2025.12.31",
+      "opponent": "earthQuacker",
+      "white": "earthQuacker",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Chigorin Variation 2...Nf6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147413781928"
+    },
+    {
+      "index": 641,
+      "date": "2025.12.31",
+      "opponent": "Bajram2024",
+      "white": "sergioquesadas",
+      "black": "Bajram2024",
+      "result": "unknown",
+      "opening": "C40: Kings Pawn Opening Kings Knight Variation",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147414429036"
     }
   ]
 }
