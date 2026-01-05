@@ -1,6 +1,6 @@
 {
-  "total_games": 663,
-  "last_update": "2026-01-04T06:22:26.279101",
+  "total_games": 666,
+  "last_update": "2026-01-05T06:29:20.584958",
   "games_index": [
     {
       "index": 0,
@@ -7294,6 +7294,39 @@
       "opening": "B00: Nimzowitsch Defense Kennedy Paulsen Attack",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/147462088366"
+    },
+    {
+      "index": 663,
+      "date": "2026.01.04",
+      "opponent": "Phgmr",
+      "white": "Phgmr",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "D53: Queens Gambit Declined Modern Variation 4...Be7 5.e3 h6 6.Bh4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147587322652"
+    },
+    {
+      "index": 664,
+      "date": "2026.01.04",
+      "opponent": "Alex17Dany",
+      "white": "sergioquesadas",
+      "black": "Alex17Dany",
+      "result": "unknown",
+      "opening": "B00: Kings Pawn Opening St George Defense 2.d4 b5 3.Nf3 Bb7",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147587436078"
+    },
+    {
+      "index": 665,
+      "date": "2026.01.04",
+      "opponent": "KREPTON1551",
+      "white": "sergioquesadas",
+      "black": "KREPTON1551",
+      "result": "unknown",
+      "opening": "C41: Philidor Defense 3.Bc4 Be7",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147588061654"
     }
   ]
 }

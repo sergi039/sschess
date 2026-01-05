@@ -4,6 +4,9 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
+| 2026-01-04 | KREPTON1551 | 945 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147588061654) |
+| 2026-01-04 | Alex17Dany | 975 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147587436078) |
+| 2026-01-04 | Phgmr | 968 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/147587322652) |
 | 2026-01-01 | EduardoTorquetti | 964 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147462088366) |
 | 2026-01-01 | GerryHall17 | 998 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147461686414) |
 | 2026-01-01 | Umedjohn | 967 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147461314868) |
@@ -21,13 +24,10 @@
 | 2026-01-01 | laeaziz | 935 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147445917380) |
 | 2026-01-01 | magnificent-carlsen | 970 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/147445836960) |
 | 2026-01-01 | Thamrin007 | 914 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147444064496) |
-| 2026-01-01 | TDAlluka | 975 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/147443623410) |
-| 2026-01-01 | clif10b | 926 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147443473790) |
-| 2026-01-01 | GGgagner | 946 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147443094696) |
 
 
 ## Quick Stats from Recent Games
 
-- **Record:** 11W / 7L / 2D
-- **Win rate:** 55.0%
-- **Most faced:** EduardoTorquetti (1 games)
+- **Record:** 12W / 7L / 1D
+- **Win rate:** 60.0%
+- **Most faced:** KREPTON1551 (1 games)
