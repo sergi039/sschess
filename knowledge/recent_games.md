@@ -4,6 +4,7 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
+| 2026-01-06 | bigbossarto | 999 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147662894716) |
 | 2026-01-04 | KREPTON1551 | 945 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147588061654) |
 | 2026-01-04 | Alex17Dany | 975 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147587436078) |
 | 2026-01-04 | Phgmr | 968 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/147587322652) |
@@ -23,11 +24,10 @@
 | 2026-01-01 | Nouugat | 963 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147446091932) |
 | 2026-01-01 | laeaziz | 935 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147445917380) |
 | 2026-01-01 | magnificent-carlsen | 970 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/147445836960) |
-| 2026-01-01 | Thamrin007 | 914 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147444064496) |
 
 
 ## Quick Stats from Recent Games
 
 - **Record:** 12W / 7L / 1D
 - **Win rate:** 60.0%
-- **Most faced:** KREPTON1551 (1 games)
+- **Most faced:** bigbossarto (1 games)

@@ -1,6 +1,6 @@
 {
   "username": "sergioquesadas",
-  "last_update": "2026-01-06T06:24:41.356175",
+  "last_update": "2026-01-07T06:24:40.562971",
   "games": [
     {
       "url": "https://www.chess.com/game/live/144438554796",
@@ -20853,6 +20853,40 @@
       },
       "eco": "https://www.chess.com/openings/Philidor-Defense-3.Bc4-Be7",
       "fetched_at": "2026-01-05T06:29:20.525554",
+      "archive_url": "https://api.chess.com/pub/player/sergioquesadas/games/2026/01"
+    },
+    {
+      "url": "https://www.chess.com/game/live/147662894716",
+      "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2026.01.06\"]\n[Round \"-\"]\n[White \"bigbossarto\"]\n[Black \"sergioquesadas\"]\n[Result \"0-1\"]\n[CurrentPosition \"1r6/k7/4pp1p/6p1/3bp3/P7/K1r3PP/3R4 w - - 12 43\"]\n[Timezone \"UTC\"]\n[ECO \"D00\"]\n[ECOUrl \"https://www.chess.com/openings/Richter-Veresov-Attack-3...h6\"]\n[UTCDate \"2026.01.06\"]\n[UTCTime \"14:26:25\"]\n[WhiteElo \"999\"]\n[BlackElo \"993\"]\n[TimeControl \"600\"]\n[Termination \"sergioquesadas won by checkmate\"]\n[StartTime \"14:26:25\"]\n[EndDate \"2026.01.06\"]\n[EndTime \"14:42:51\"]\n[Link \"https://www.chess.com/game/live/147662894716\"]\n\n1. d4 {[%clk 0:09:51.1]} 1... d5 {[%clk 0:09:50.1]} 2. Nc3 {[%clk 0:09:49.6]} 2... Nf6 {[%clk 0:09:48.2]} 3. Bg5 {[%clk 0:09:48.4]} 3... h6 {[%clk 0:09:43.7]} 4. Bh4 {[%clk 0:09:46.7]} 4... g5 {[%clk 0:09:42.3]} 5. Bg3 {[%clk 0:09:45.1]} 5... e6 {[%clk 0:09:37.5]} 6. Nf3 {[%clk 0:09:29.7]} 6... Bb4 {[%clk 0:09:35.4]} 7. Qd3 {[%clk 0:09:13.8]} 7... Nc6 {[%clk 0:09:10.5]} 8. a3 {[%clk 0:09:10.7]} 8... Ba5 {[%clk 0:09:08]} 9. Rb1 {[%clk 0:09:09.8]} 9... Bb6 {[%clk 0:09:05.8]} 10. e3 {[%clk 0:08:56]} 10... a6 {[%clk 0:08:34.1]} 11. Na4 {[%clk 0:08:45.1]} 11... Ba7 {[%clk 0:08:13.4]} 12. Qc3 {[%clk 0:08:35.7]} 12... Bd7 {[%clk 0:07:54.9]} 13. Ne5 {[%clk 0:08:31.8]} 13... Ne4 {[%clk 0:07:37.4]} 14. Qd2 {[%clk 0:08:10.2]} 14... Nxd2 {[%clk 0:07:35.4]} 15. Kxd2 {[%clk 0:08:00.7]} 15... Nxe5 {[%clk 0:07:31.4]} 16. Bxe5 {[%clk 0:07:57.6]} 16... f6 {[%clk 0:07:30]} 17. Bxc7 {[%clk 0:07:30.1]} 17... Qxc7 {[%clk 0:07:23.5]} 18. Nc3 {[%clk 0:07:25]} 18... O-O-O {[%clk 0:07:02.7]} 19. b4 {[%clk 0:07:21.5]} 19... a5 {[%clk 0:06:51.8]} 20. e4 {[%clk 0:07:08]} 20... Qf4+ {[%clk 0:06:44.2]} 21. Kd1 {[%clk 0:06:46]} 21... Bxd4 {[%clk 0:06:36.2]} 22. Ne2 {[%clk 0:06:32.5]} 22... Qxf2 {[%clk 0:06:17.4]} 23. bxa5 {[%clk 0:06:28.3]} 23... Ba4 {[%clk 0:05:42.8]} 24. Rb4 {[%clk 0:06:19.7]} 24... dxe4 {[%clk 0:05:21.5]} 25. Rxa4 {[%clk 0:06:09.3]} 25... Ba7+ {[%clk 0:05:09]} 26. Kc1 {[%clk 0:06:02.2]} 26... Qe3+ {[%clk 0:05:00.2]} 27. Kb1 {[%clk 0:05:31]} 27... Rd1+ {[%clk 0:04:28.6]} 28. Ka2 {[%clk 0:05:15.8]} 28... Rhd8 {[%clk 0:04:07.5]} 29. a6 {[%clk 0:05:07.7]} 29... bxa6 {[%clk 0:03:32.5]} 30. Rxa6 {[%clk 0:04:57.7]} 30... R1d2 {[%clk 0:02:56.2]} 31. Rc6+ {[%clk 0:04:54.1]} 31... Kb8 {[%clk 0:02:50.9]} 32. Nc3 {[%clk 0:04:40.9]} 32... Rxc2+ {[%clk 0:02:44.6]} 33. Kb3 {[%clk 0:04:33.5]} 33... Bd4 {[%clk 0:01:37.3]} 34. Bc4 {[%clk 0:04:11.4]} 34... Qxc3+ {[%clk 0:01:29.7]} 35. Ka4 {[%clk 0:04:02.6]} 35... Qxc4+ {[%clk 0:00:58.8]} 36. Rxc4 {[%clk 0:03:59.7]} 36... Rxc4+ {[%clk 0:00:57.7]} 37. Kb3 {[%clk 0:03:54.7]} 37... Rc3+ {[%clk 0:00:53.6]} 38. Ka4 {[%clk 0:03:43.8]} 38... Rc4+ {[%clk 0:00:45.7]} 39. Kb3 {[%clk 0:03:38.9]} 39... Rdc8 {[%clk 0:00:43]} 40. Rb1 {[%clk 0:03:34.7]} 40... Ka7 {[%clk 0:00:40.5]} 41. Ka2 {[%clk 0:03:27.5]} 41... Rb8 {[%clk 0:00:37.1]} 42. Rd1 {[%clk 0:03:17.5]} 42... Rc2# {[%clk 0:00:31.9]} 0-1\n",
+      "time_control": "600",
+      "end_time": 1767710571,
+      "rated": true,
+      "accuracies": {
+        "white": 64.91,
+        "black": 70.16
+      },
+      "tcn": "lBZJbs!TcM3VMF2MFw0Sgv9zdt5QiqzGabGPmuWOsyPWts6ZvKTCslClelQKwK1TKY7Yys86jzOGuCYDldWBsmDnzGZybzJCzyBWdcnucb7dbi?7GOXOyOdlOQ65mslkirWBfAusrysAQAkAyrAsrysAyr76hb5Wri65bdAk",
+      "uuid": "ae7b7741-eb0b-11f0-8085-d502c301000f",
+      "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+      "fen": "1r6/k7/4pp1p/6p1/3bp3/P7/K1r3PP/3R4 w - - 12 43",
+      "time_class": "rapid",
+      "rules": "chess",
+      "white": {
+        "rating": 999,
+        "result": "checkmated",
+        "@id": "https://api.chess.com/pub/player/bigbossarto",
+        "username": "bigbossarto",
+        "uuid": "41edf32a-4bd7-11ed-8f40-bf86b01f1f97"
+      },
+      "black": {
+        "rating": 993,
+        "result": "win",
+        "@id": "https://api.chess.com/pub/player/sergioquesadas",
+        "username": "sergioquesadas",
+        "uuid": "234ae0e0-c941-11ec-ae32-69d4f91dc464"
+      },
+      "eco": "https://www.chess.com/openings/Richter-Veresov-Attack-3...h6",
+      "fetched_at": "2026-01-07T06:24:40.562898",
       "archive_url": "https://api.chess.com/pub/player/sergioquesadas/games/2026/01"
     }
   ],
