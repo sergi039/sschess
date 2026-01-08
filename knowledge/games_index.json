@@ -1,6 +1,6 @@
 {
-  "total_games": 667,
-  "last_update": "2026-01-07T06:24:40.622533",
+  "total_games": 668,
+  "last_update": "2026-01-08T06:24:51.923337",
   "games_index": [
     {
       "index": 0,
@@ -7338,6 +7338,17 @@
       "opening": "D00: Richter Veresov Attack 3...h6",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/147662894716"
+    },
+    {
+      "index": 667,
+      "date": "2026.01.07",
+      "opponent": "Sanc_2609",
+      "white": "sergioquesadas",
+      "black": "Sanc_2609",
+      "result": "unknown",
+      "opening": "C53: Giuoco Piano Game Main Line 4...Nf6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147709415216"
     }
   ]
 }

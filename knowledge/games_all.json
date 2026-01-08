@@ -1,6 +1,6 @@
 {
   "username": "sergioquesadas",
-  "last_update": "2026-01-07T06:24:40.562971",
+  "last_update": "2026-01-08T06:24:51.868165",
   "games": [
     {
       "url": "https://www.chess.com/game/live/144438554796",
@@ -20887,6 +20887,40 @@
       },
       "eco": "https://www.chess.com/openings/Richter-Veresov-Attack-3...h6",
       "fetched_at": "2026-01-07T06:24:40.562898",
+      "archive_url": "https://api.chess.com/pub/player/sergioquesadas/games/2026/01"
+    },
+    {
+      "url": "https://www.chess.com/game/live/147709415216",
+      "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2026.01.07\"]\n[Round \"-\"]\n[White \"sergioquesadas\"]\n[Black \"Sanc_2609\"]\n[Result \"1-0\"]\n[CurrentPosition \"r2q1k1r/ppp2Qpp/2np1n2/2b1p1N1/4P3/2P5/PP1P1PPP/RNB1K2R b KQ - 2 10\"]\n[Timezone \"UTC\"]\n[ECO \"C53\"]\n[ECOUrl \"https://www.chess.com/openings/Giuoco-Piano-Game-Main-Line-4...Nf6\"]\n[UTCDate \"2026.01.07\"]\n[UTCTime \"16:04:07\"]\n[WhiteElo \"1001\"]\n[BlackElo \"996\"]\n[TimeControl \"600\"]\n[Termination \"sergioquesadas won by checkmate\"]\n[StartTime \"16:04:07\"]\n[EndDate \"2026.01.07\"]\n[EndTime \"16:05:35\"]\n[Link \"https://www.chess.com/game/live/147709415216\"]\n\n1. e4 {[%clk 0:09:59.8]} 1... e5 {[%clk 0:09:58.8]} 2. Nf3 {[%clk 0:09:58.9]} 2... Nc6 {[%clk 0:09:57.3]} 3. Bc4 {[%clk 0:09:57.9]} 3... Nf6 {[%clk 0:09:51.3]} 4. c3 {[%clk 0:09:56.7]} 4... Bc5 {[%clk 0:09:47.9]} 5. Qb3 {[%clk 0:09:55.1]} 5... d6 {[%clk 0:09:32.2]} 6. Bxf7+ {[%clk 0:09:52.1]} 6... Kd7 {[%clk 0:09:30.4]} 7. Be6+ {[%clk 0:09:49.2]} 7... Ke7 {[%clk 0:09:26.3]} 8. Ng5 {[%clk 0:09:31.6]} 8... Bxe6 {[%clk 0:09:23]} 9. Qxe6+ {[%clk 0:09:29.9]} 9... Kf8 {[%clk 0:09:17.4]} 10. Qf7# {[%clk 0:09:23.1]} 1-0\n",
+      "time_control": "600",
+      "end_time": 1767801935,
+      "rated": true,
+      "accuracies": {
+        "white": 60.56,
+        "black": 37.42
+      },
+      "tcn": "mC0Kgv5QfA!Tks9IdrZRA18Z1SZ0vM6SrS09S1",
+      "uuid": "7f282949-ebe2-11f0-b90b-8c749b01000f",
+      "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+      "fen": "r2q1k1r/ppp2Qpp/2np1n2/2b1p1N1/4P3/2P5/PP1P1PPP/RNB1K2R b KQ - 2 10",
+      "time_class": "rapid",
+      "rules": "chess",
+      "white": {
+        "rating": 1001,
+        "result": "win",
+        "@id": "https://api.chess.com/pub/player/sergioquesadas",
+        "username": "sergioquesadas",
+        "uuid": "234ae0e0-c941-11ec-ae32-69d4f91dc464"
+      },
+      "black": {
+        "rating": 996,
+        "result": "checkmated",
+        "@id": "https://api.chess.com/pub/player/sanc_2609",
+        "username": "Sanc_2609",
+        "uuid": "7e45e75c-5b66-11ee-a8a4-678eab4852ab"
+      },
+      "eco": "https://www.chess.com/openings/Giuoco-Piano-Game-Main-Line-4...Nf6",
+      "fetched_at": "2026-01-08T06:24:51.868102",
       "archive_url": "https://api.chess.com/pub/player/sergioquesadas/games/2026/01"
     }
   ],
