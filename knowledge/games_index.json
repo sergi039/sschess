@@ -1,6 +1,6 @@
 {
-  "total_games": 668,
-  "last_update": "2026-01-08T06:24:51.923337",
+  "total_games": 669,
+  "last_update": "2026-01-09T06:24:28.606527",
   "games_index": [
     {
       "index": 0,
@@ -7349,6 +7349,17 @@
       "opening": "C53: Giuoco Piano Game Main Line 4...Nf6",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/147709415216"
+    },
+    {
+      "index": 668,
+      "date": "2026.01.08",
+      "opponent": "Coach-Danny",
+      "white": "Coach-Danny",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C42: Petrovs Defense Classical Damiano Variation 4.Qe2",
+      "time_control": "-",
+      "url": "https://www.chess.com/game/daily/15399611"
     }
   ]
 }

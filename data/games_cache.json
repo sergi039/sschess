@@ -1,6 +1,6 @@
 {
   "username": "sergioquesadas",
-  "last_update": "2026-01-08T06:24:51.868165",
+  "last_update": "2026-01-09T06:24:28.545635",
   "games": [
     {
       "url": "https://www.chess.com/game/live/144438554796",
@@ -20921,6 +20921,36 @@
       },
       "eco": "https://www.chess.com/openings/Giuoco-Piano-Game-Main-Line-4...Nf6",
       "fetched_at": "2026-01-08T06:24:51.868102",
+      "archive_url": "https://api.chess.com/pub/player/sergioquesadas/games/2026/01"
+    },
+    {
+      "url": "https://www.chess.com/game/daily/15399611",
+      "pgn": "[Event \"Play vs Coach\"]\n[Site \"Chess.com\"]\n[Date \"2026.01.08\"]\n[Round \"-\"]\n[White \"Coach-Danny\"]\n[Black \"sergioquesadas\"]\n[Result \"1-0\"]\n[CurrentPosition \"8/1PB5/8/7P/3k4/2p5/6Q1/2K5 b - - 1 56\"]\n[Timezone \"UTC\"]\n[ECO \"C42\"]\n[ECOUrl \"https://www.chess.com/openings/Petrovs-Defense-Classical-Damiano-Variation-4.Qe2\"]\n[UTCDate \"2026.01.08\"]\n[UTCTime \"20:15:58\"]\n[WhiteElo \"1600\"]\n[BlackElo \"1001\"]\n[TimeControl \"-\"]\n[Termination \"Coach-Danny won by resignation\"]\n[StartTime \"20:15:58\"]\n[EndDate \"2026.01.08\"]\n[EndTime \"20:29:56\"]\n[Link \"https://www.chess.com/game/daily/15399611\"]\n\n1. e4 e5 2. Nf3 Nf6 3. Nxe5 Nxe4 4. Qe2 d5 5. Nc3 Nxc3 6. dxc3 Be7 7. b4 O-O 8. Qd3 Bf6 9. Bf4 Re8 10. Qe3 Nc6 11. Nxc6 Bxc3+ 12. Kd1 Qd7 13. Qxc3 Qxc6 14. Qxc6 bxc6 15. h3 Re7 16. Bg5 f6 17. Bd2 Bf5 18. g4 Be4 19. Rg1 Rae8 20. Be3 a6 21. Bc5 Re6 22. Be2 Bxc2+ 23. Kxc2 Rxe2+ 24. Kb3 Rb8 25. Rge1 Re5 26. Rxe5 fxe5 27. a3 a5 28. Kc3 axb4+ 29. axb4 d4+ 30. Kd3 Kf7 31. Re1 Re8 32. Kc2 g5 33. Kb3 d3 34. Kc3 e4 35. Kd2 Re6 36. Re3 Rh6 37. Rxe4 Rxh3 38. Re3 Rxe3 39. Bxe3 h6 40. f4 Kf6 41. Bd4+ Kg6 42. f5+ Kf7 43. Be5 c5 44. b5 Ke7 45. Bxc7 c4 46. b6 Kd7 47. Kc3 Kc6 48. f6 d2 49. Kxd2 h5 50. gxh5 g4 51. f7 g3 52. f8=Q g2 53. Qa8+ Kc5 54. Qxg2 Kd4 55. b7 c3+ 56. Kc1 1-0\n",
+      "time_control": "-",
+      "end_time": 1767904196,
+      "rated": false,
+      "tcn": "mC0Kgv!TvKTCdmZJbsCsls90jz8?mt0TcD98tu5QKQTsed7ZusZQsQXQpx80DM1TMl6LoELChg48luWOuI0SfmCkdkSmkr85gemKeKTKiqOGrsGzqzJBst!1ae58tk2MkrBtrsKCsl8SeuSVuCVxCuxuIu3VnD1TuBTUDLU1BKQIzH10KYIAHP0ZlsZQLTtlslVNENMET1Ew1~wo94QI4oIBPXAslc",
+      "uuid": "cbd07b38-ecd0-11f0-97a2-cbddf61bed35",
+      "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+      "fen": "8/1PB5/8/7P/3k4/2p5/6Q1/2K5 b - - 1 56",
+      "start_time": 1767903358,
+      "time_class": "daily",
+      "rules": "chess",
+      "white": {
+        "rating": 1600,
+        "result": "win",
+        "@id": "https://api.chess.com/pub/player/coach-danny",
+        "username": "Coach-Danny",
+        "uuid": "e254ff68-2daf-11f0-a15b-df368f771ed7"
+      },
+      "black": {
+        "rating": 1001,
+        "result": "resigned",
+        "@id": "https://api.chess.com/pub/player/sergioquesadas",
+        "username": "sergioquesadas",
+        "uuid": "234ae0e0-c941-11ec-ae32-69d4f91dc464"
+      },
+      "fetched_at": "2026-01-09T06:24:28.545561",
       "archive_url": "https://api.chess.com/pub/player/sergioquesadas/games/2026/01"
     }
   ],

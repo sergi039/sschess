@@ -4,6 +4,7 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
+| 2026-01-08 | Coach-Danny | 1600 | ⚫ | ❌ Lost | Unknown | Daily | [View](https://www.chess.com/game/daily/15399611) |
 | 2026-01-07 | Sanc_2609 | 996 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147709415216) |
 | 2026-01-06 | bigbossarto | 999 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147662894716) |
 | 2026-01-04 | KREPTON1551 | 945 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147588061654) |
@@ -23,11 +24,10 @@
 | 2026-01-01 | Crossbell | 946 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147446964594) |
 | 2026-01-01 | areelu | 931 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147446384878) |
 | 2026-01-01 | Nouugat | 963 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147446091932) |
-| 2026-01-01 | laeaziz | 935 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147445917380) |
 
 
 ## Quick Stats from Recent Games
 
-- **Record:** 13W / 6L / 1D
-- **Win rate:** 65.0%
-- **Most faced:** Sanc_2609 (1 games)
+- **Record:** 12W / 7L / 1D
+- **Win rate:** 60.0%
+- **Most faced:** Coach-Danny (1 games)
