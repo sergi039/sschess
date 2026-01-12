@@ -1,6 +1,6 @@
 {
-  "total_games": 669,
-  "last_update": "2026-01-11T06:22:37.185460",
+  "total_games": 679,
+  "last_update": "2026-01-12T06:27:29.150330",
   "games_index": [
     {
       "index": 0,
@@ -7360,6 +7360,116 @@
       "opening": "C42: Petrovs Defense Classical Damiano Variation 4.Qe2",
       "time_control": "-",
       "url": "https://www.chess.com/game/daily/15399611"
+    },
+    {
+      "index": 669,
+      "date": "2026.01.11",
+      "opponent": "Coach-Danny",
+      "white": "sergioquesadas",
+      "black": "Coach-Danny",
+      "result": "unknown",
+      "opening": "B01: Scandinavian Defense Mieses Kotrc Variation 3.Nc3 Qe5",
+      "time_control": "-",
+      "url": "https://www.chess.com/game/daily/15924327"
+    },
+    {
+      "index": 670,
+      "date": "2026.01.11",
+      "opponent": "Coach-Danny",
+      "white": "sergioquesadas",
+      "black": "Coach-Danny",
+      "result": "unknown",
+      "opening": "D31: Queens Gambit Declined Queens Knight Variation 3...dxc4",
+      "time_control": "-",
+      "url": "https://www.chess.com/game/daily/15931013"
+    },
+    {
+      "index": 671,
+      "date": "2026.01.11",
+      "opponent": "Coach-Danny",
+      "white": "sergioquesadas",
+      "black": "Coach-Danny",
+      "result": "unknown",
+      "opening": "C40: Kings Pawn Opening Kings Knight Gunderam Defense 3.Bc4",
+      "time_control": "-",
+      "url": "https://www.chess.com/game/daily/15934785"
+    },
+    {
+      "index": 672,
+      "date": "2026.01.11",
+      "opponent": "Farhad-Afridi",
+      "white": "Farhad-Afridi",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "D20: Queens Gambit Accepted Central Variation McDonnell Defense",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147885311302"
+    },
+    {
+      "index": 673,
+      "date": "2026.01.11",
+      "opponent": "Coach-Danny",
+      "white": "sergioquesadas",
+      "black": "Coach-Danny",
+      "result": "unknown",
+      "opening": "B01: Scandinavian Defense Mieses Kotrc Variation 3.Nc3 Qe5",
+      "time_control": "-",
+      "url": "https://www.chess.com/game/daily/15962239"
+    },
+    {
+      "index": 674,
+      "date": "2026.01.11",
+      "opponent": "CipiCipri",
+      "white": "sergioquesadas",
+      "black": "CipiCipri",
+      "result": "unknown",
+      "opening": "C41: Philidor Defense 3.Bc4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147889886378"
+    },
+    {
+      "index": 675,
+      "date": "2026.01.11",
+      "opponent": "Goatesque_3",
+      "white": "Goatesque_3",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147890196412"
+    },
+    {
+      "index": 676,
+      "date": "2026.01.12",
+      "opponent": "321Kirill123",
+      "white": "321Kirill123",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C45: Scotch Game...4.Nxd4 Nxd4 5.Qxd4 d6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147901689336"
+    },
+    {
+      "index": 677,
+      "date": "2026.01.12",
+      "opponent": "joelcortineez",
+      "white": "sergioquesadas",
+      "black": "joelcortineez",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening 1...d5 2.e3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147901906426"
+    },
+    {
+      "index": 678,
+      "date": "2026.01.12",
+      "opponent": "rruuppaallii",
+      "white": "sergioquesadas",
+      "black": "rruuppaallii",
+      "result": "unknown",
+      "opening": "B43: Sicilian Defense Kan Knight Variation",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147902006526"
     }
   ]
 }

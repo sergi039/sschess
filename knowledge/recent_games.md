@@ -4,6 +4,16 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
+| 2026-01-12 | rruuppaallii | 1009 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147902006526) |
+| 2026-01-12 | joelcortineez | 1035 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147901906426) |
+| 2026-01-12 | 321Kirill123 | 1002 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147901689336) |
+| 2026-01-11 | Goatesque_3 | 983 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147890196412) |
+| 2026-01-11 | CipiCipri | 983 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147889886378) |
+| 2026-01-11 | Coach-Danny | 1600 | ⚪ | ➖ Draw | Unknown | Daily | [View](https://www.chess.com/game/daily/15962239) |
+| 2026-01-11 | Farhad-Afridi | 1006 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147885311302) |
+| 2026-01-11 | Coach-Danny | 1600 | ⚪ | ➖ Draw | Unknown | Daily | [View](https://www.chess.com/game/daily/15934785) |
+| 2026-01-11 | Coach-Danny | 1600 | ⚪ | ➖ Draw | Unknown | Daily | [View](https://www.chess.com/game/daily/15931013) |
+| 2026-01-11 | Coach-Danny | 1600 | ⚪ | ➖ Draw | Unknown | Daily | [View](https://www.chess.com/game/daily/15924327) |
 | 2026-01-08 | Coach-Danny | 1600 | ⚫ | ❌ Lost | Unknown | Daily | [View](https://www.chess.com/game/daily/15399611) |
 | 2026-01-07 | Sanc_2609 | 996 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147709415216) |
 | 2026-01-06 | bigbossarto | 999 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147662894716) |
@@ -14,20 +24,10 @@
 | 2026-01-01 | GerryHall17 | 998 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147461686414) |
 | 2026-01-01 | Umedjohn | 967 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147461314868) |
 | 2026-01-01 | Harajit24 | 998 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/147460625668) |
-| 2026-01-01 | felicestefianos | 940 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147449403194) |
-| 2026-01-01 | Brucexo | 945 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147448738390) |
-| 2026-01-01 | Playerjagan | 980 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/147448297504) |
-| 2026-01-01 | Rzaev51 | 1002 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/147448107230) |
-| 2026-01-01 | malinasir65 | 1016 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/147447757490) |
-| 2026-01-01 | abdo_Cr7_22 | 1003 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147447315332) |
-| 2026-01-01 | PedroVeraLea | 966 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147447008808) |
-| 2026-01-01 | Crossbell | 946 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147446964594) |
-| 2026-01-01 | areelu | 931 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147446384878) |
-| 2026-01-01 | Nouugat | 963 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147446091932) |
 
 
 ## Quick Stats from Recent Games
 
-- **Record:** 12W / 7L / 1D
-- **Win rate:** 60.0%
-- **Most faced:** Coach-Danny (1 games)
+- **Record:** 15W / 4L / 1D
+- **Win rate:** 75.0%
+- **Most faced:** Coach-Danny (5 games)
