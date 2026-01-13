@@ -1,6 +1,6 @@
 {
-  "total_games": 679,
-  "last_update": "2026-01-12T06:27:29.150330",
+  "total_games": 698,
+  "last_update": "2026-01-13T06:24:37.951899",
   "games_index": [
     {
       "index": 0,
@@ -7470,6 +7470,215 @@
       "opening": "B43: Sicilian Defense Kan Knight Variation",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/147902006526"
+    },
+    {
+      "index": 679,
+      "date": "2026.01.12",
+      "opponent": "ib2506",
+      "white": "ib2506",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C45: Scotch Game 3...exd4 4.Nxd4 Nxd4 5.Qxd4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147902199378"
+    },
+    {
+      "index": 680,
+      "date": "2026.01.12",
+      "opponent": "Coach-Danny",
+      "white": "sergioquesadas",
+      "black": "Coach-Danny",
+      "result": "unknown",
+      "opening": "A06: Reti Opening Reversed Mexican Defense",
+      "time_control": "-",
+      "url": "https://www.chess.com/game/daily/16039449"
+    },
+    {
+      "index": 681,
+      "date": "2026.01.12",
+      "opponent": "Coach-Danny",
+      "white": "Coach-Danny",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C22: Center Game Accepted Normal Variation",
+      "time_control": "-",
+      "url": "https://www.chess.com/game/daily/16050713"
+    },
+    {
+      "index": 682,
+      "date": "2026.01.12",
+      "opponent": "Coach-Danny",
+      "white": "Coach-Danny",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C44: Kings Pawn Opening Kings Knight Variation 2...Nc6",
+      "time_control": "-",
+      "url": "https://www.chess.com/game/daily/16062631"
+    },
+    {
+      "index": 683,
+      "date": "2026.01.12",
+      "opponent": "Coach-Danny",
+      "white": "sergioquesadas",
+      "black": "Coach-Danny",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening 1...d5 2.e3 e6 3.Bd3",
+      "time_control": "-",
+      "url": "https://www.chess.com/game/daily/16073705"
+    },
+    {
+      "index": 684,
+      "date": "2026.01.12",
+      "opponent": "Coach-Danny",
+      "white": "sergioquesadas",
+      "black": "Coach-Danny",
+      "result": "unknown",
+      "opening": "A40: Queens Pawn Opening Horwitz Defense",
+      "time_control": "-",
+      "url": "https://www.chess.com/game/daily/16076207"
+    },
+    {
+      "index": 685,
+      "date": "2026.01.12",
+      "opponent": "Coach-Danny",
+      "white": "Coach-Danny",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C45: Scotch Game 3...exd4",
+      "time_control": "-",
+      "url": "https://www.chess.com/game/daily/16086417"
+    },
+    {
+      "index": 686,
+      "date": "2026.01.12",
+      "opponent": "Coach-Danny",
+      "white": "Coach-Danny",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "B02: Alekhines Defense",
+      "time_control": "-",
+      "url": "https://www.chess.com/game/daily/16091281"
+    },
+    {
+      "index": 687,
+      "date": "2026.01.12",
+      "opponent": "mre0615",
+      "white": "sergioquesadas",
+      "black": "mre0615",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening 1...d5 2.e3 e6 3.Bd3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147922172044"
+    },
+    {
+      "index": 688,
+      "date": "2026.01.12",
+      "opponent": "Gabriel111112222",
+      "white": "sergioquesadas",
+      "black": "Gabriel111112222",
+      "result": "unknown",
+      "opening": "B01: Scandinavian Defense 2.exd5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147923866546"
+    },
+    {
+      "index": 689,
+      "date": "2026.01.12",
+      "opponent": "brisollanos1993",
+      "white": "brisollanos1993",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "B02: Alekhines Defense Two Pawns Attack",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147924894208"
+    },
+    {
+      "index": 690,
+      "date": "2026.01.12",
+      "opponent": "maikolgarcia",
+      "white": "sergioquesadas",
+      "black": "maikolgarcia",
+      "result": "unknown",
+      "opening": "B20: Sicilian Defense Bowdler Attack 2...Nc6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147925740056"
+    },
+    {
+      "index": 691,
+      "date": "2026.01.12",
+      "opponent": "mahmoud_awad7",
+      "white": "mahmoud_awad7",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "A00: Kings Fianchetto Opening 1...e5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147925941936"
+    },
+    {
+      "index": 692,
+      "date": "2026.01.12",
+      "opponent": "nicoa2676",
+      "white": "nicoa2676",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C44: Ponziani Opening Jaenisch Counterattack 4.d4 exd4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147926336836"
+    },
+    {
+      "index": 693,
+      "date": "2026.01.12",
+      "opponent": "stolotsky",
+      "white": "sergioquesadas",
+      "black": "stolotsky",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Stonewall Attack 3...e6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147929910910"
+    },
+    {
+      "index": 694,
+      "date": "2026.01.12",
+      "opponent": "PietduToit17",
+      "white": "PietduToit17",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "D07: Queens Gambit Declined Chigorin Janowski Variation 4...Nf6 5.e4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147930250882"
+    },
+    {
+      "index": 695,
+      "date": "2026.01.12",
+      "opponent": "hustawka",
+      "white": "hustawka",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "A06: Reti Opening 1...d5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147931795158"
+    },
+    {
+      "index": 696,
+      "date": "2026.01.13",
+      "opponent": "waynelam3",
+      "white": "sergioquesadas",
+      "black": "waynelam3",
+      "result": "unknown",
+      "opening": "C53: Giuoco Piano Game Main Line 4...Nf6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147943963352"
+    },
+    {
+      "index": 697,
+      "date": "2026.01.13",
+      "opponent": "fwago55",
+      "white": "sergioquesadas",
+      "black": "fwago55",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening 1...d5 2.e3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147944342910"
     }
   ]
 }
