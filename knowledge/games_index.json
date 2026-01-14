@@ -1,6 +1,6 @@
 {
-  "total_games": 698,
-  "last_update": "2026-01-13T06:24:37.951899",
+  "total_games": 720,
+  "last_update": "2026-01-14T06:27:04.409512",
   "games_index": [
     {
       "index": 0,
@@ -7679,6 +7679,248 @@
       "opening": "D00: Queens Pawn Opening 1...d5 2.e3",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/147944342910"
+    },
+    {
+      "index": 698,
+      "date": "2026.01.13",
+      "opponent": "runnershigh69",
+      "white": "runnershigh69",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C20: Kings Pawn Opening 1...e5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147944487954"
+    },
+    {
+      "index": 699,
+      "date": "2026.01.13",
+      "opponent": "Boban-Milosevic",
+      "white": "sergioquesadas",
+      "black": "Boban-Milosevic",
+      "result": "unknown",
+      "opening": "C53: Giuoco Piano Game Main Line 4...Nf6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147949652272"
+    },
+    {
+      "index": 700,
+      "date": "2026.01.13",
+      "opponent": "kastala",
+      "white": "kastala",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "B00: Nimzowitsch Defense 2.Nc3 Nf6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147949807324"
+    },
+    {
+      "index": 701,
+      "date": "2026.01.13",
+      "opponent": "Knight7Lover",
+      "white": "Knight7Lover",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C55: Italian Game Two Knights Modern Bishops Opening 4...h6 5.c3 d6 6.Nbd2",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147950653538"
+    },
+    {
+      "index": 702,
+      "date": "2026.01.13",
+      "opponent": "chessbossmaster1983",
+      "white": "sergioquesadas",
+      "black": "chessbossmaster1983",
+      "result": "unknown",
+      "opening": "D02: Queens Pawn Opening Anti Torre Attack",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147951402112"
+    },
+    {
+      "index": 703,
+      "date": "2026.01.13",
+      "opponent": "Djarot773",
+      "white": "sergioquesadas",
+      "black": "Djarot773",
+      "result": "unknown",
+      "opening": "C50: Italian Game",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147954086070"
+    },
+    {
+      "index": 704,
+      "date": "2026.01.13",
+      "opponent": "sjdodjb",
+      "white": "sergioquesadas",
+      "black": "sjdodjb",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Stonewall Attack",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147954322060"
+    },
+    {
+      "index": 705,
+      "date": "2026.01.13",
+      "opponent": "schnappy1212",
+      "white": "schnappy1212",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C45: Scotch Game...4.Nxd4 Nxd4 5.Qxd4 d6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147954500072"
+    },
+    {
+      "index": 706,
+      "date": "2026.01.13",
+      "opponent": "GaLux7",
+      "white": "GaLux7",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "D04: Colle System",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147960552852"
+    },
+    {
+      "index": 707,
+      "date": "2026.01.13",
+      "opponent": "Karam_Nima",
+      "white": "sergioquesadas",
+      "black": "Karam_Nima",
+      "result": "unknown",
+      "opening": "D04: Colle System 3...c6 4.Bd3 Bg4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147960821830"
+    },
+    {
+      "index": 708,
+      "date": "2026.01.13",
+      "opponent": "GabbeH",
+      "white": "sergioquesadas",
+      "black": "GabbeH",
+      "result": "unknown",
+      "opening": "A40: English Defense",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147961906562"
+    },
+    {
+      "index": 709,
+      "date": "2026.01.13",
+      "opponent": "uzochuks",
+      "white": "uzochuks",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "D02: Queens Pawn Opening Zukertort Chigorin Variation 3.Bf4 Nf6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147962285624"
+    },
+    {
+      "index": 710,
+      "date": "2026.01.13",
+      "opponent": "BabyStyx",
+      "white": "sergioquesadas",
+      "black": "BabyStyx",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening 1...d5 2.e3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147963248410"
+    },
+    {
+      "index": 711,
+      "date": "2026.01.13",
+      "opponent": "3rdDegree1983",
+      "white": "3rdDegree1983",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C22: Center Game Accepted Paulsen Berger Variation",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147963927698"
+    },
+    {
+      "index": 712,
+      "date": "2026.01.13",
+      "opponent": "3rdDegree1983",
+      "white": "sergioquesadas",
+      "black": "3rdDegree1983",
+      "result": "unknown",
+      "opening": "C50: Italian Game",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147964302998"
+    },
+    {
+      "index": 713,
+      "date": "2026.01.13",
+      "opponent": "selman545454",
+      "white": "selman545454",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C48: Four Knights Game Spanish Variation",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147969460102"
+    },
+    {
+      "index": 714,
+      "date": "2026.01.13",
+      "opponent": "jaysmilzz",
+      "white": "sergioquesadas",
+      "black": "jaysmilzz",
+      "result": "unknown",
+      "opening": "C53: Giuoco Piano Game Main Line 4...d6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147971423058"
+    },
+    {
+      "index": 715,
+      "date": "2026.01.13",
+      "opponent": "psotekkotek",
+      "white": "sergioquesadas",
+      "black": "psotekkotek",
+      "result": "unknown",
+      "opening": "C50: Italian Game",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147971883956"
+    },
+    {
+      "index": 716,
+      "date": "2026.01.13",
+      "opponent": "L1ghtz0ut",
+      "white": "L1ghtz0ut",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C48: Four Knights Game Spanish Variation 4...d6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147972346040"
+    },
+    {
+      "index": 717,
+      "date": "2026.01.13",
+      "opponent": "JoseEch",
+      "white": "JoseEch",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C57: Italian Game Knight Attack Fritz Variation 6.c3 b5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147972501630"
+    },
+    {
+      "index": 718,
+      "date": "2026.01.14",
+      "opponent": "LPVM",
+      "white": "sergioquesadas",
+      "black": "LPVM",
+      "result": "unknown",
+      "opening": "C40: Kings Pawn Opening Kings Knight Variation",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147986820010"
+    },
+    {
+      "index": 719,
+      "date": "2026.01.14",
+      "opponent": "punitt26",
+      "white": "punitt26",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "D26: Queens Gambit Accepted 3.Nf3 Nf6 4.e3 e6 5.Bxc4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/147987007462"
     }
   ]
 }
