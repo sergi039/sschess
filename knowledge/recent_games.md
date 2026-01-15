@@ -4,30 +4,30 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
+| 2026-01-14 | ZAPOROZES | 1146 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148016957284) |
+| 2026-01-14 | JordiRussi | 1176 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/148016219488) |
+| 2026-01-14 | fastbaughs | 1177 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148016008584) |
+| 2026-01-14 | gvechec30 | 1166 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148015679564) |
+| 2026-01-14 | Christophe17150 | 1131 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148015372596) |
+| 2026-01-14 | okeamxre | 1132 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148015096844) |
+| 2026-01-14 | Bashar_Taja | 1121 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148009988872) |
+| 2026-01-14 | Andrija719 | 1175 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/148009322962) |
+| 2026-01-14 | fastboyyyyy | 1136 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148008449124) |
+| 2026-01-14 | bucksin6_21 | 1168 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/148008038828) |
+| 2026-01-14 | Mr-Lichten | 1104 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148007857232) |
+| 2026-01-14 | Eyasu_Z | 1142 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148007516846) |
+| 2026-01-14 | ArArIV56 | 1160 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/147997518200) |
+| 2026-01-14 | coziestJ | 1147 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/147996480074) |
+| 2026-01-14 | 1047Jeet | 1337 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147993694836) |
+| 2026-01-14 | stallaert | 1190 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147993387708) |
+| 2026-01-14 | benamitai | 1161 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147993089170) |
+| 2026-01-14 | iep28 | 1147 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147987301200) |
 | 2026-01-14 | punitt26 | 1166 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147987007462) |
 | 2026-01-14 | LPVM | 1148 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147986820010) |
-| 2026-01-13 | JoseEch | 1118 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147972501630) |
-| 2026-01-13 | L1ghtz0ut | 1140 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147972346040) |
-| 2026-01-13 | psotekkotek | 1123 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147971883956) |
-| 2026-01-13 | jaysmilzz | 1125 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147971423058) |
-| 2026-01-13 | selman545454 | 1111 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147969460102) |
-| 2026-01-13 | 3rdDegree1983 | 1069 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147964302998) |
-| 2026-01-13 | 3rdDegree1983 | 1077 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147963927698) |
-| 2026-01-13 | BabyStyx | 1111 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/147963248410) |
-| 2026-01-13 | uzochuks | 1118 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/147962285624) |
-| 2026-01-13 | GabbeH | 1088 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147961906562) |
-| 2026-01-13 | Karam_Nima | 1071 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147960821830) |
-| 2026-01-13 | GaLux7 | 1059 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147960552852) |
-| 2026-01-13 | schnappy1212 | 1061 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147954500072) |
-| 2026-01-13 | sjdodjb | 1069 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/147954322060) |
-| 2026-01-13 | Djarot773 | 1064 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147954086070) |
-| 2026-01-13 | chessbossmaster1983 | 1087 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147951402112) |
-| 2026-01-13 | Knight7Lover | 1083 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/147950653538) |
-| 2026-01-13 | kastala | 1050 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/147949807324) |
 
 
 ## Quick Stats from Recent Games
 
-- **Record:** 14W / 6L / 0D
-- **Win rate:** 70.0%
-- **Most faced:** 3rdDegree1983 (2 games)
+- **Record:** 12W / 8L / 0D
+- **Win rate:** 60.0%
+- **Most faced:** ZAPOROZES (1 games)
