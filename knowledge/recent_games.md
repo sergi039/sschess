@@ -4,6 +4,12 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
+| 2026-01-16 | Amebem | 1254 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/148104206608) |
+| 2026-01-16 | oddomii | 1237 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148103713872) |
+| 2026-01-16 | Muhammadan_14 | 1218 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148100739072) |
+| 2026-01-16 | Fleece-The-GOAT-Johnson | 1241 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/148100563076) |
+| 2026-01-16 | gkista | 1229 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148077560256) |
+| 2026-01-16 | ashraf678901 | 1226 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148076091452) |
 | 2026-01-15 | phph999 | 1223 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148059333250) |
 | 2026-01-15 | mieszkorze | 1207 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148059107374) |
 | 2026-01-15 | AlpheusBlob11 | 1197 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148058856484) |
@@ -18,16 +24,10 @@
 | 2026-01-15 | J3d1Kn1ght | 1161 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148049983002) |
 | 2026-01-15 | kuchkarovumailru | 1196 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/148049549292) |
 | 2026-01-15 | Dominus-trum | 1197 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/148049149812) |
-| 2026-01-15 | sanyika187 | 1223 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/148048725244) |
-| 2026-01-15 | TunMaha | 1150 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148043325590) |
-| 2026-01-15 | Akzhol_Khan | 1195 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148043003734) |
-| 2026-01-15 | Akkijn | 1200 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148041066578) |
-| 2026-01-15 | manojmaharjan | 1181 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148036840420) |
-| 2026-01-15 | OdieAja | 1185 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/148035973158) |
 
 
 ## Quick Stats from Recent Games
 
-- **Record:** 12W / 7L / 1D
-- **Win rate:** 60.0%
+- **Record:** 13W / 6L / 1D
+- **Win rate:** 65.0%
 - **Most faced:** Dominei (2 games)

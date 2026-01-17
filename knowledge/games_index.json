@@ -1,6 +1,6 @@
 {
-  "total_games": 763,
-  "last_update": "2026-01-16T06:24:38.810506",
+  "total_games": 769,
+  "last_update": "2026-01-17T06:21:47.340582",
   "games_index": [
     {
       "index": 0,
@@ -8394,6 +8394,72 @@
       "opening": "A46: Indian Game London System 3...b6 4.e3 Bb7",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/148059333250"
+    },
+    {
+      "index": 763,
+      "date": "2026.01.16",
+      "opponent": "ashraf678901",
+      "white": "sergioquesadas",
+      "black": "ashraf678901",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System 2...Bf5 3.e3 e6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/148076091452"
+    },
+    {
+      "index": 764,
+      "date": "2026.01.16",
+      "opponent": "gkista",
+      "white": "gkista",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "A50: Indian Game Black Knights Tango",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/148077560256"
+    },
+    {
+      "index": 765,
+      "date": "2026.01.16",
+      "opponent": "Fleece-The-GOAT-Johnson",
+      "white": "sergioquesadas",
+      "black": "Fleece-The-GOAT-Johnson",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System 2...e6 3.e3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/148100563076"
+    },
+    {
+      "index": 766,
+      "date": "2026.01.16",
+      "opponent": "Muhammadan_14",
+      "white": "Muhammadan_14",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C28: Vienna Game Falkbeer Vienna Gambit",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/148100739072"
+    },
+    {
+      "index": 767,
+      "date": "2026.01.16",
+      "opponent": "oddomii",
+      "white": "oddomii",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C47: Four Knights Game Italian Variation 4...Nxe4 5.Nxe4 d5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/148103713872"
+    },
+    {
+      "index": 768,
+      "date": "2026.01.16",
+      "opponent": "Amebem",
+      "white": "sergioquesadas",
+      "black": "Amebem",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/148104206608"
     }
   ]
 }
