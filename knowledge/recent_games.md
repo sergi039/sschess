@@ -4,6 +4,12 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
+| 2026-01-17 | nicubildea | 1252 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/148120655814) |
+| 2026-01-17 | nagilang | 1255 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/148119452354) |
+| 2026-01-17 | eldaridndifjf | 1217 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148118958542) |
+| 2026-01-17 | umm_chill | 1246 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148118574656) |
+| 2026-01-17 | aboanasalhosiny | 1260 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/148118105654) |
+| 2026-01-17 | CakMiN | 1221 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148117015788) |
 | 2026-01-16 | Amebem | 1254 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/148104206608) |
 | 2026-01-16 | oddomii | 1237 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148103713872) |
 | 2026-01-16 | Muhammadan_14 | 1218 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148100739072) |
@@ -18,16 +24,10 @@
 | 2026-01-15 | Dominei | 1176 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148057851202) |
 | 2026-01-15 | valbut2 | 1187 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148057387090) |
 | 2026-01-15 | TiedtoKey | 1170 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/148056722980) |
-| 2026-01-15 | VILLODREROSILLO | 1148 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148053875938) |
-| 2026-01-15 | 10krishnatej | 1167 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148053607254) |
-| 2026-01-15 | Losmi25 | 1152 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148050126412) |
-| 2026-01-15 | J3d1Kn1ght | 1161 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148049983002) |
-| 2026-01-15 | kuchkarovumailru | 1196 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/148049549292) |
-| 2026-01-15 | Dominus-trum | 1197 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/148049149812) |
 
 
 ## Quick Stats from Recent Games
 
-- **Record:** 13W / 6L / 1D
+- **Record:** 13W / 7L / 0D
 - **Win rate:** 65.0%
 - **Most faced:** Dominei (2 games)

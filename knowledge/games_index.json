@@ -1,6 +1,6 @@
 {
-  "total_games": 769,
-  "last_update": "2026-01-17T06:21:47.340582",
+  "total_games": 775,
+  "last_update": "2026-01-18T06:22:18.361312",
   "games_index": [
     {
       "index": 0,
@@ -8460,6 +8460,72 @@
       "opening": "D00: Queens Pawn Opening Accelerated London System",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/148104206608"
+    },
+    {
+      "index": 769,
+      "date": "2026.01.17",
+      "opponent": "CakMiN",
+      "white": "CakMiN",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "A46: Indian Game Knights Variation 2...e6 3.Nc3 d5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/148117015788"
+    },
+    {
+      "index": 770,
+      "date": "2026.01.17",
+      "opponent": "aboanasalhosiny",
+      "white": "sergioquesadas",
+      "black": "aboanasalhosiny",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System 2...e6 3.e3 Bd6 4.Bg3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/148118105654"
+    },
+    {
+      "index": 771,
+      "date": "2026.01.17",
+      "opponent": "umm_chill",
+      "white": "umm_chill",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "D38: Queens Gambit Declined Ragozin Defense 5.a3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/148118574656"
+    },
+    {
+      "index": 772,
+      "date": "2026.01.17",
+      "opponent": "eldaridndifjf",
+      "white": "sergioquesadas",
+      "black": "eldaridndifjf",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London Steinitz Countergambit 3.e3 Nc6 4.c3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/148118958542"
+    },
+    {
+      "index": 773,
+      "date": "2026.01.17",
+      "opponent": "nagilang",
+      "white": "nagilang",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C55: Italian Game Two Knights Modern Bishops Opening 4...d5 5.exd5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/148119452354"
+    },
+    {
+      "index": 774,
+      "date": "2026.01.17",
+      "opponent": "nicubildea",
+      "white": "sergioquesadas",
+      "black": "nicubildea",
+      "result": "unknown",
+      "opening": "C41: Philidor Defense 3.Bc4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/148120655814"
     }
   ]
 }
