@@ -1,6 +1,6 @@
 {
-  "total_games": 775,
-  "last_update": "2026-01-18T06:22:18.361312",
+  "total_games": 784,
+  "last_update": "2026-01-19T06:29:02.468422",
   "games_index": [
     {
       "index": 0,
@@ -8526,6 +8526,105 @@
       "opening": "C41: Philidor Defense 3.Bc4",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/148120655814"
+    },
+    {
+      "index": 775,
+      "date": "2026.01.18",
+      "opponent": "mpkmpk0897",
+      "white": "sergioquesadas",
+      "black": "mpkmpk0897",
+      "result": "unknown",
+      "opening": "A45: Indian Game 2.Bf4 g6 3.e3 Bg7",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/148158849806"
+    },
+    {
+      "index": 776,
+      "date": "2026.01.18",
+      "opponent": "SandraLeo2250",
+      "white": "SandraLeo2250",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C62: Ruy Lopez Opening Old Steinitz Defense 4.d4 Bd7 5.O O",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/148166189238"
+    },
+    {
+      "index": 777,
+      "date": "2026.01.18",
+      "opponent": "jishnuPramod1",
+      "white": "sergioquesadas",
+      "black": "jishnuPramod1",
+      "result": "unknown",
+      "opening": "B12: Caro Kann Defense Advance Variation",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/148166458492"
+    },
+    {
+      "index": 778,
+      "date": "2026.01.18",
+      "opponent": "11123dave",
+      "white": "11123dave",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "B00: Nimzowitsch Defense 2.Nc3 Nf6 3.d4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/148167312550"
+    },
+    {
+      "index": 779,
+      "date": "2026.01.18",
+      "opponent": "blue_streamer",
+      "white": "sergioquesadas",
+      "black": "blue_streamer",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/148180193730"
+    },
+    {
+      "index": 780,
+      "date": "2026.01.18",
+      "opponent": "gsilvasantos",
+      "white": "sergioquesadas",
+      "black": "gsilvasantos",
+      "result": "unknown",
+      "opening": "A40: Modern Defense with 1 d4 2.Bf4 Bg7 3.e3 d6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/148180588764"
+    },
+    {
+      "index": 781,
+      "date": "2026.01.18",
+      "opponent": "sub_z_e_r_o",
+      "white": "sub_z_e_r_o",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C28: Bishops Opening Berlin Vienna Hybrid Hromadka Variation",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/148181190630"
+    },
+    {
+      "index": 782,
+      "date": "2026.01.18",
+      "opponent": "sub_z_e_r_o",
+      "white": "sergioquesadas",
+      "black": "sub_z_e_r_o",
+      "result": "unknown",
+      "opening": "A45: Indian Game 2.Bf4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/148181943842"
+    },
+    {
+      "index": 783,
+      "date": "2026.01.19",
+      "opponent": "Tantal17",
+      "white": "Tantal17",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C55: Italian Game Two Knights Modern Bishops Opening 4...d5 5.exd5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/148198220472"
     }
   ]
 }
