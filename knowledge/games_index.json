@@ -1,6 +1,6 @@
 {
-  "total_games": 784,
-  "last_update": "2026-01-19T06:29:02.468422",
+  "total_games": 802,
+  "last_update": "2026-01-20T06:26:46.814244",
   "games_index": [
     {
       "index": 0,
@@ -8625,6 +8625,204 @@
       "opening": "C55: Italian Game Two Knights Modern Bishops Opening 4...d5 5.exd5",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/148198220472"
+    },
+    {
+      "index": 784,
+      "date": "2026.01.19",
+      "opponent": "kajmakcalan",
+      "white": "kajmakcalan",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "B02: Alekhines Defense Normal Variation 3.Bc4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/148203303996"
+    },
+    {
+      "index": 785,
+      "date": "2026.01.19",
+      "opponent": "1966yyyyyyyy",
+      "white": "sergioquesadas",
+      "black": "1966yyyyyyyy",
+      "result": "unknown",
+      "opening": "A45: Indian Game 2.Bf4 e6 3.e3 d5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/148204127802"
+    },
+    {
+      "index": 786,
+      "date": "2026.01.19",
+      "opponent": "Creative_Banana",
+      "white": "sergioquesadas",
+      "black": "Creative_Banana",
+      "result": "unknown",
+      "opening": "C50: Italian Game",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/148204840546"
+    },
+    {
+      "index": 787,
+      "date": "2026.01.19",
+      "opponent": "Madhu_281072",
+      "white": "Madhu_281072",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "B02: Alekhines Defense",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/148205545486"
+    },
+    {
+      "index": 788,
+      "date": "2026.01.19",
+      "opponent": "4lmree",
+      "white": "4lmree",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "D02: Queens Pawn Opening Zukertort Chigorin Variation 3.Bf4 Nf6 4.e3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/148207066822"
+    },
+    {
+      "index": 789,
+      "date": "2026.01.19",
+      "opponent": "salah_30",
+      "white": "salah_30",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C47: Four Knights Game Italian Variation",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/148210071402"
+    },
+    {
+      "index": 790,
+      "date": "2026.01.19",
+      "opponent": "manuelfourty",
+      "white": "sergioquesadas",
+      "black": "manuelfourty",
+      "result": "unknown",
+      "opening": "B01: Scandinavian Defense 2.e5 c5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/148211266502"
+    },
+    {
+      "index": 791,
+      "date": "2026.01.19",
+      "opponent": "Marinko_b76",
+      "white": "sergioquesadas",
+      "black": "Marinko_b76",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/148215817602"
+    },
+    {
+      "index": 792,
+      "date": "2026.01.19",
+      "opponent": "RocketPoweredBovvers",
+      "white": "sergioquesadas",
+      "black": "RocketPoweredBovvers",
+      "result": "unknown",
+      "opening": "A45: Indian Game 2.Bf4 d6 3.e3 g6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/148216477286"
+    },
+    {
+      "index": 793,
+      "date": "2026.01.19",
+      "opponent": "wanderingdobbin",
+      "white": "sergioquesadas",
+      "black": "wanderingdobbin",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System 2...Nf6 3.e3 Bf5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/148218122764"
+    },
+    {
+      "index": 794,
+      "date": "2026.01.19",
+      "opponent": "SalimoffFikrat",
+      "white": "SalimoffFikrat",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C26: Vienna Game Falkbeer Variation",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/148218697342"
+    },
+    {
+      "index": 795,
+      "date": "2026.01.19",
+      "opponent": "Erhan727765",
+      "white": "sergioquesadas",
+      "black": "Erhan727765",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/148223939032"
+    },
+    {
+      "index": 796,
+      "date": "2026.01.19",
+      "opponent": "Gellerin",
+      "white": "Gellerin",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "B02: Alekhines Defense",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/148224246738"
+    },
+    {
+      "index": 797,
+      "date": "2026.01.19",
+      "opponent": "OlegAlbershtein",
+      "white": "sergioquesadas",
+      "black": "OlegAlbershtein",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System 2...Nf6 3.e3 Bf5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/148224694344"
+    },
+    {
+      "index": 798,
+      "date": "2026.01.19",
+      "opponent": "OlegAlbershtein",
+      "white": "OlegAlbershtein",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C55: Italian Game Two Knights Defense",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/148225042508"
+    },
+    {
+      "index": 799,
+      "date": "2026.01.20",
+      "opponent": "Vladers_g",
+      "white": "Vladers_g",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C48: Four Knights Game Spanish Variation Ranken Variation",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/148240537044"
+    },
+    {
+      "index": 800,
+      "date": "2026.01.20",
+      "opponent": "masgant",
+      "white": "sergioquesadas",
+      "black": "masgant",
+      "result": "unknown",
+      "opening": "A40: Queens Pawn Opening",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/148240763658"
+    },
+    {
+      "index": 801,
+      "date": "2026.01.20",
+      "opponent": "masgant",
+      "white": "masgant",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "A00: Grob Opening Grob Gambit Hurst Attack",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/148241037818"
     }
   ]
 }

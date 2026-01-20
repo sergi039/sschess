@@ -36,11 +36,11 @@
 
 **Recommendation:** Consider studying this opening more deeply or switching to an alternative.
 
-### 5. Problematic Opening (White)
+### 5. Problematic Opening (Black)
 
-**Opening:** ECO C44
-- Games played: 5
-- Loss rate: 60.0%
+**Opening:** ECO C55
+- Games played: 28
+- Loss rate: 60.7%
 
 **Recommendation:** Consider studying this opening more deeply or switching to an alternative.
 
@@ -68,8 +68,8 @@
 
 ## Specific Openings to Study
 
-- **ECO C50** (as white): 42.1% loss rate in 19 games
 - **ECO C41** (as white): 51.3% loss rate in 39 games
 - **ECO B10** (as white): 50.0% loss rate in 10 games
 - **ECO C44** (as white): 60.0% loss rate in 5 games
 - **ECO B30** (as white): 60.0% loss rate in 5 games
+- **ECO B00** (as white): 47.4% loss rate in 19 games
