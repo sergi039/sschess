@@ -4,6 +4,11 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
+| 2026-01-21 | pattarshivaraj | 1322 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/148283373464) |
+| 2026-01-20 | al3xinf | 1334 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/148260501468) |
+| 2026-01-20 | al3xinf | 1326 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148259733438) |
+| 2026-01-20 | al3xinf | 1326 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148259203060) |
+| 2026-01-20 | venus825 | 1311 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148258571790) |
 | 2026-01-20 | masgant | 1306 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/148241037818) |
 | 2026-01-20 | masgant | 1298 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148240763658) |
 | 2026-01-20 | Vladers_g | 1320 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/148240537044) |
@@ -19,15 +24,10 @@
 | 2026-01-19 | salah_30 | 1304 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148210071402) |
 | 2026-01-19 | 4lmree | 1297 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/148207066822) |
 | 2026-01-19 | Madhu_281072 | 1310 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148205545486) |
-| 2026-01-19 | Creative_Banana | 1276 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148204840546) |
-| 2026-01-19 | 1966yyyyyyyy | 1256 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148204127802) |
-| 2026-01-19 | kajmakcalan | 1288 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148203303996) |
-| 2026-01-19 | Tantal17 | 1283 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148198220472) |
-| 2026-01-18 | sub_z_e_r_o | 1222 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148181943842) |
 
 
 ## Quick Stats from Recent Games
 
-- **Record:** 14W / 6L / 0D
-- **Win rate:** 70.0%
-- **Most faced:** masgant (2 games)
+- **Record:** 11W / 8L / 1D
+- **Win rate:** 55.0%
+- **Most faced:** al3xinf (3 games)

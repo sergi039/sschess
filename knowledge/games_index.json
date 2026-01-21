@@ -1,6 +1,6 @@
 {
-  "total_games": 802,
-  "last_update": "2026-01-20T06:26:46.814244",
+  "total_games": 807,
+  "last_update": "2026-01-21T06:26:46.249190",
   "games_index": [
     {
       "index": 0,
@@ -8823,6 +8823,61 @@
       "opening": "A00: Grob Opening Grob Gambit Hurst Attack",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/148241037818"
+    },
+    {
+      "index": 802,
+      "date": "2026.01.20",
+      "opponent": "venus825",
+      "white": "sergioquesadas",
+      "black": "venus825",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System 2...Nf6 3.e3 Bf5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/148258571790"
+    },
+    {
+      "index": 803,
+      "date": "2026.01.20",
+      "opponent": "al3xinf",
+      "white": "al3xinf",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C25: Vienna Game Max Lange Vienna Gambit",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/148259203060"
+    },
+    {
+      "index": 804,
+      "date": "2026.01.20",
+      "opponent": "al3xinf",
+      "white": "sergioquesadas",
+      "black": "al3xinf",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System 2...Nf6 3.e3 g6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/148259733438"
+    },
+    {
+      "index": 805,
+      "date": "2026.01.20",
+      "opponent": "al3xinf",
+      "white": "al3xinf",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C25: Vienna Game Max Lange Vienna Gambit 3...exf4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/148260501468"
+    },
+    {
+      "index": 806,
+      "date": "2026.01.21",
+      "opponent": "pattarshivaraj",
+      "white": "pattarshivaraj",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C45: Scotch Game 3...exd4 4.Nxd4 Nxd4 5.Qxd4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/148283373464"
     }
   ]
 }

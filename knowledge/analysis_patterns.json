@@ -1,6 +1,6 @@
 {
-  "total_games_analyzed": 802,
-  "date_generated": "2026-01-20T06:26:46.828509",
+  "total_games_analyzed": 807,
+  "date_generated": "2026-01-21T06:26:46.263661",
   "weaknesses": {
     "identified_weaknesses": [
       {
@@ -13,16 +13,16 @@
       {
         "type": "opening",
         "color": "black",
-        "opening": "ECO C25",
-        "games": 5,
-        "loss_rate": 80.0
+        "opening": "ECO D20",
+        "games": 8,
+        "loss_rate": 75.0
       },
       {
         "type": "opening",
         "color": "black",
-        "opening": "ECO D20",
-        "games": 8,
-        "loss_rate": 75.0
+        "opening": "ECO C25",
+        "games": 7,
+        "loss_rate": 71.4
       },
       {
         "type": "opening",
@@ -204,12 +204,12 @@
         "loss_rate": 53.1
       },
       "ECO D00": {
-        "wins": 15,
+        "wins": 16,
         "losses": 12,
-        "draws": 0,
-        "total": 27,
-        "win_rate": 55.6,
-        "loss_rate": 44.4
+        "draws": 1,
+        "total": 29,
+        "win_rate": 55.2,
+        "loss_rate": 41.4
       },
       "ECO C55": {
         "wins": 1,
@@ -630,20 +630,20 @@
         "loss_rate": 36.4
       },
       "ECO C25": {
-        "wins": 1,
-        "losses": 4,
+        "wins": 2,
+        "losses": 5,
         "draws": 0,
-        "total": 5,
-        "win_rate": 20.0,
-        "loss_rate": 80.0
+        "total": 7,
+        "win_rate": 28.6,
+        "loss_rate": 71.4
       },
       "ECO C45": {
         "wins": 14,
-        "losses": 6,
+        "losses": 7,
         "draws": 1,
-        "total": 21,
-        "win_rate": 66.7,
-        "loss_rate": 28.6
+        "total": 22,
+        "win_rate": 63.6,
+        "loss_rate": 31.8
       },
       "ECO B20": {
         "wins": 2,
@@ -1025,10 +1025,10 @@
   },
   "time_control_stats": {
     "rapid": {
-      "wins": 413,
-      "losses": 348,
-      "draws": 28,
-      "total": 789,
+      "wins": 415,
+      "losses": 350,
+      "draws": 29,
+      "total": 794,
       "win_rate": 52.3
     },
     "daily": {
