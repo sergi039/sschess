@@ -1,6 +1,6 @@
 {
-  "total_games": 807,
-  "last_update": "2026-01-21T06:26:46.249190",
+  "total_games": 809,
+  "last_update": "2026-01-22T06:25:32.984923",
   "games_index": [
     {
       "index": 0,
@@ -8878,6 +8878,28 @@
       "opening": "C45: Scotch Game 3...exd4 4.Nxd4 Nxd4 5.Qxd4",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/148283373464"
+    },
+    {
+      "index": 807,
+      "date": "2026.01.21",
+      "opponent": "antonpan32",
+      "white": "antonpan32",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "D03: Queens Pawn Opening Torre Attack",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/148298447128"
+    },
+    {
+      "index": 808,
+      "date": "2026.01.21",
+      "opponent": "kinhope",
+      "white": "sergioquesadas",
+      "black": "kinhope",
+      "result": "unknown",
+      "opening": "A40: Englund Gambit 2.dxe5 Nc6 3.Nf3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/148299435736"
     }
   ]
 }

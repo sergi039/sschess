@@ -1,7 +1,7 @@
 {
   "username": "sergioquesadas",
-  "total_games": 807,
-  "analysis_date": "2026-01-21T06:26:46.217630",
+  "total_games": 809,
+  "analysis_date": "2026-01-22T06:25:32.951460",
   "openings": {
     "white": {
       "ECO C43": {
@@ -13,12 +13,12 @@
         "loss_rate": 50.0
       },
       "ECO A40": {
-        "wins": 7,
+        "wins": 8,
         "losses": 2,
         "draws": 0,
-        "total": 9,
-        "win_rate": 77.8,
-        "loss_rate": 22.2
+        "total": 10,
+        "win_rate": 80.0,
+        "loss_rate": 20.0
       },
       "ECO C21": {
         "wins": 1,
@@ -848,11 +848,11 @@
       },
       "ECO D03": {
         "wins": 1,
-        "losses": 0,
+        "losses": 1,
         "draws": 0,
-        "total": 1,
-        "win_rate": 100.0,
-        "loss_rate": 0.0
+        "total": 2,
+        "win_rate": 50.0,
+        "loss_rate": 50.0
       },
       "ECO A41": {
         "wins": 0,
@@ -986,10 +986,10 @@
   },
   "time_controls": {
     "rapid": {
-      "wins": 415,
-      "losses": 350,
+      "wins": 416,
+      "losses": 351,
       "draws": 29,
-      "total": 794,
+      "total": 796,
       "win_rate": 52.3
     },
     "daily": {
@@ -1001,7 +1001,7 @@
     }
   },
   "time_usage": {
-    "timeouts": 29,
+    "timeouts": 30,
     "timeout_games": [
       {
         "url": "https://www.chess.com/game/live/144628473252",
@@ -1030,10 +1030,10 @@
       }
     ],
     "ending_types": {
-      "win": 425,
+      "win": 426,
       "resigned": 223,
       "checkmated": 99,
-      "timeout": 29,
+      "timeout": 30,
       "repetition": 11,
       "stalemate": 8,
       "insufficient": 7,
@@ -1047,7 +1047,7 @@
       "rapid": 1311,
       "daily": 1040
     },
-    "total_games_tracked": 807
+    "total_games_tracked": 809
   },
   "weaknesses": {
     "identified_weaknesses": [

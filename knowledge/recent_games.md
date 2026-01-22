@@ -4,6 +4,8 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
+| 2026-01-21 | kinhope | 1304 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148299435736) |
+| 2026-01-21 | antonpan32 | 1304 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/148298447128) |
 | 2026-01-21 | pattarshivaraj | 1322 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/148283373464) |
 | 2026-01-20 | al3xinf | 1334 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/148260501468) |
 | 2026-01-20 | al3xinf | 1326 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148259733438) |
@@ -22,8 +24,6 @@
 | 2026-01-19 | Marinko_b76 | 1317 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148215817602) |
 | 2026-01-19 | manuelfourty | 1305 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148211266502) |
 | 2026-01-19 | salah_30 | 1304 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148210071402) |
-| 2026-01-19 | 4lmree | 1297 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/148207066822) |
-| 2026-01-19 | Madhu_281072 | 1310 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148205545486) |
 
 
 ## Quick Stats from Recent Games
