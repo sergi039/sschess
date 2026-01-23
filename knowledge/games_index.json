@@ -1,6 +1,6 @@
 {
-  "total_games": 809,
-  "last_update": "2026-01-22T06:25:32.984923",
+  "total_games": 810,
+  "last_update": "2026-01-23T06:24:54.624836",
   "games_index": [
     {
       "index": 0,
@@ -8900,6 +8900,17 @@
       "opening": "A40: Englund Gambit 2.dxe5 Nc6 3.Nf3",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/148299435736"
+    },
+    {
+      "index": 809,
+      "date": "2026.01.22",
+      "opponent": "rafaprioro",
+      "white": "sergioquesadas",
+      "black": "rafaprioro",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/148337389774"
     }
   ]
 }
