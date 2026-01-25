@@ -1,7 +1,7 @@
 {
   "username": "sergioquesadas",
-  "total_games": 810,
-  "analysis_date": "2026-01-24T06:22:29.002578",
+  "total_games": 813,
+  "analysis_date": "2026-01-25T06:22:38.038463",
   "openings": {
     "white": {
       "ECO C43": {
@@ -467,6 +467,14 @@
         "total": 1,
         "win_rate": 100.0,
         "loss_rate": 0.0
+      },
+      "ECO C01": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 1,
+        "total": 1,
+        "win_rate": 0.0,
+        "loss_rate": 0.0
       }
     },
     "black": {
@@ -639,12 +647,12 @@
         "loss_rate": 0.0
       },
       "ECO C55": {
-        "wins": 11,
+        "wins": 12,
         "losses": 17,
         "draws": 0,
-        "total": 28,
-        "win_rate": 39.3,
-        "loss_rate": 60.7
+        "total": 29,
+        "win_rate": 41.4,
+        "loss_rate": 58.6
       },
       "ECO B02": {
         "wins": 5,
@@ -800,11 +808,11 @@
       },
       "ECO C62": {
         "wins": 1,
-        "losses": 2,
+        "losses": 3,
         "draws": 0,
-        "total": 3,
-        "win_rate": 33.3,
-        "loss_rate": 66.7
+        "total": 4,
+        "win_rate": 25.0,
+        "loss_rate": 75.0
       },
       "ECO D06": {
         "wins": 3,
@@ -986,11 +994,11 @@
   },
   "time_controls": {
     "rapid": {
-      "wins": 417,
-      "losses": 351,
-      "draws": 29,
-      "total": 797,
-      "win_rate": 52.3
+      "wins": 418,
+      "losses": 352,
+      "draws": 30,
+      "total": 800,
+      "win_rate": 52.2
     },
     "daily": {
       "wins": 10,
@@ -1030,11 +1038,11 @@
       }
     ],
     "ending_types": {
-      "win": 427,
-      "resigned": 223,
+      "win": 428,
+      "resigned": 224,
       "checkmated": 99,
       "timeout": 30,
-      "repetition": 11,
+      "repetition": 12,
       "stalemate": 8,
       "insufficient": 7,
       "timevsinsufficient": 3,
@@ -1047,7 +1055,7 @@
       "rapid": 1319,
       "daily": 1040
     },
-    "total_games_tracked": 810
+    "total_games_tracked": 813
   },
   "weaknesses": {
     "identified_weaknesses": [
@@ -1081,10 +1089,10 @@
       },
       {
         "type": "opening",
-        "color": "black",
-        "opening": "ECO C55",
-        "games": 28,
-        "loss_rate": 60.7
+        "color": "white",
+        "opening": "ECO C44",
+        "games": 5,
+        "loss_rate": 60.0
       }
     ],
     "total_issues": 21

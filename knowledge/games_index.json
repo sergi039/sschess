@@ -1,6 +1,6 @@
 {
-  "total_games": 810,
-  "last_update": "2026-01-24T06:22:29.031389",
+  "total_games": 813,
+  "last_update": "2026-01-25T06:22:38.073430",
   "games_index": [
     {
       "index": 0,
@@ -8911,6 +8911,39 @@
       "opening": "D00: Queens Pawn Opening Accelerated London System",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/148337389774"
+    },
+    {
+      "index": 810,
+      "date": "2026.01.24",
+      "opponent": "mathoom",
+      "white": "mathoom",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C55: Italian Game Two Knights Modern Bishops Opening 4...d5 5.exd5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/148423602070"
+    },
+    {
+      "index": 811,
+      "date": "2026.01.24",
+      "opponent": "DavidNdiuki",
+      "white": "sergioquesadas",
+      "black": "DavidNdiuki",
+      "result": "unknown",
+      "opening": "C01: French Defense Exchange Variation 3...exd5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/148437918026"
+    },
+    {
+      "index": 812,
+      "date": "2026.01.24",
+      "opponent": "egoshark",
+      "white": "egoshark",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C62: Ruy Lopez Opening Old Steinitz Defense...6.Bxc6 Bxc6 7.Nc3 Nf6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/148438446448"
     }
   ]
 }

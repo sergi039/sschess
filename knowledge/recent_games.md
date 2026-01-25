@@ -4,6 +4,9 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
+| 2026-01-24 | egoshark | 1344 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/148438446448) |
+| 2026-01-24 | DavidNdiuki | 1320 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148437918026) |
+| 2026-01-24 | mathoom | 1325 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148423602070) |
 | 2026-01-22 | rafaprioro | 1318 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148337389774) |
 | 2026-01-21 | kinhope | 1304 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148299435736) |
 | 2026-01-21 | antonpan32 | 1304 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/148298447128) |
@@ -21,13 +24,10 @@
 | 2026-01-19 | Erhan727765 | 1320 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148223939032) |
 | 2026-01-19 | SalimoffFikrat | 1335 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148218697342) |
 | 2026-01-19 | wanderingdobbin | 1293 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148218122764) |
-| 2026-01-19 | RocketPoweredBovvers | 1322 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/148216477286) |
-| 2026-01-19 | Marinko_b76 | 1317 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148215817602) |
-| 2026-01-19 | manuelfourty | 1305 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148211266502) |
 
 
 ## Quick Stats from Recent Games
 
-- **Record:** 11W / 8L / 1D
-- **Win rate:** 55.0%
+- **Record:** 10W / 8L / 2D
+- **Win rate:** 50.0%
 - **Most faced:** al3xinf (3 games)
