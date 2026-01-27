@@ -1,7 +1,7 @@
 {
   "username": "sergioquesadas",
-  "total_games": 814,
-  "analysis_date": "2026-01-26T06:28:15.351738",
+  "total_games": 817,
+  "analysis_date": "2026-01-27T06:25:59.937924",
   "openings": {
     "white": {
       "ECO C43": {
@@ -69,12 +69,12 @@
         "loss_rate": 20.0
       },
       "ECO C50": {
-        "wins": 11,
+        "wins": 12,
         "losses": 8,
         "draws": 1,
-        "total": 20,
-        "win_rate": 55.0,
-        "loss_rate": 40.0
+        "total": 21,
+        "win_rate": 57.1,
+        "loss_rate": 38.1
       },
       "ECO C41": {
         "wins": 19,
@@ -86,11 +86,11 @@
       },
       "ECO B13": {
         "wins": 2,
-        "losses": 2,
+        "losses": 3,
         "draws": 0,
-        "total": 4,
-        "win_rate": 50.0,
-        "loss_rate": 50.0
+        "total": 5,
+        "win_rate": 40.0,
+        "loss_rate": 60.0
       },
       "ECO C40": {
         "wins": 19,
@@ -504,11 +504,11 @@
       },
       "ECO D02": {
         "wins": 5,
-        "losses": 6,
+        "losses": 7,
         "draws": 0,
-        "total": 11,
-        "win_rate": 45.5,
-        "loss_rate": 54.5
+        "total": 12,
+        "win_rate": 41.7,
+        "loss_rate": 58.3
       },
       "ECO C44": {
         "wins": 6,
@@ -994,11 +994,11 @@
   },
   "time_controls": {
     "rapid": {
-      "wins": 418,
-      "losses": 352,
+      "wins": 419,
+      "losses": 354,
       "draws": 31,
-      "total": 801,
-      "win_rate": 52.2
+      "total": 804,
+      "win_rate": 52.1
     },
     "daily": {
       "wins": 10,
@@ -1009,7 +1009,7 @@
     }
   },
   "time_usage": {
-    "timeouts": 30,
+    "timeouts": 31,
     "timeout_games": [
       {
         "url": "https://www.chess.com/game/live/144628473252",
@@ -1038,10 +1038,10 @@
       }
     ],
     "ending_types": {
-      "win": 428,
+      "win": 429,
       "resigned": 224,
-      "checkmated": 99,
-      "timeout": 30,
+      "checkmated": 100,
+      "timeout": 31,
       "repetition": 12,
       "stalemate": 8,
       "insufficient": 7,
@@ -1052,10 +1052,10 @@
   },
   "rating_progress": {
     "current_ratings": {
-      "rapid": 1319,
+      "rapid": 1311,
       "daily": 1040
     },
-    "total_games_tracked": 814
+    "total_games_tracked": 817
   },
   "weaknesses": {
     "identified_weaknesses": [
@@ -1090,11 +1090,11 @@
       {
         "type": "opening",
         "color": "white",
-        "opening": "ECO C44",
+        "opening": "ECO B13",
         "games": 5,
         "loss_rate": 60.0
       }
     ],
-    "total_issues": 21
+    "total_issues": 22
   }
 }

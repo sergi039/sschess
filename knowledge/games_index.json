@@ -1,6 +1,6 @@
 {
-  "total_games": 814,
-  "last_update": "2026-01-26T06:28:15.384268",
+  "total_games": 817,
+  "last_update": "2026-01-27T06:25:59.969248",
   "games_index": [
     {
       "index": 0,
@@ -8955,6 +8955,39 @@
       "opening": "C20: Kings Pawn Opening 1...e5",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/148483901418"
+    },
+    {
+      "index": 814,
+      "date": "2026.01.26",
+      "opponent": "TimothyBiswasRipon",
+      "white": "sergioquesadas",
+      "black": "TimothyBiswasRipon",
+      "result": "unknown",
+      "opening": "C50: Italian Game 3...d6 4.c3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/148518165474"
+    },
+    {
+      "index": 815,
+      "date": "2026.01.26",
+      "opponent": "talleres25cba",
+      "white": "talleres25cba",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "D02: Queens Pawn Opening Zukertort Chigorin Variation 3.e3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/148518944496"
+    },
+    {
+      "index": 816,
+      "date": "2026.01.26",
+      "opponent": "Lewe_22",
+      "white": "sergioquesadas",
+      "black": "Lewe_22",
+      "result": "unknown",
+      "opening": "B13: Caro Kann Defense Exchange Variation 3...cxd5 4.Nf3 Nc6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/148520797354"
     }
   ]
 }

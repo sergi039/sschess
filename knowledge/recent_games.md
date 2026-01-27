@@ -4,6 +4,9 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
+| 2026-01-26 | Lewe_22 | 1335 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148520797354) |
+| 2026-01-26 | talleres25cba | 1341 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/148518944496) |
+| 2026-01-26 | TimothyBiswasRipon | 1293 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148518165474) |
 | 2026-01-25 | manoya6789 | 1338 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148483901418) |
 | 2026-01-24 | egoshark | 1344 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/148438446448) |
 | 2026-01-24 | DavidNdiuki | 1320 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148437918026) |
@@ -21,13 +24,10 @@
 | 2026-01-20 | Vladers_g | 1320 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/148240537044) |
 | 2026-01-19 | OlegAlbershtein | 838 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/148225042508) |
 | 2026-01-19 | OlegAlbershtein | 823 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148224694344) |
-| 2026-01-19 | Gellerin | 1310 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148224246738) |
-| 2026-01-19 | Erhan727765 | 1320 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148223939032) |
-| 2026-01-19 | SalimoffFikrat | 1335 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148218697342) |
 
 
 ## Quick Stats from Recent Games
 
-- **Record:** 9W / 8L / 3D
-- **Win rate:** 45.0%
+- **Record:** 8W / 9L / 3D
+- **Win rate:** 40.0%
 - **Most faced:** al3xinf (3 games)
