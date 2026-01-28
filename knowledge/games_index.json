@@ -1,6 +1,6 @@
 {
-  "total_games": 817,
-  "last_update": "2026-01-27T06:25:59.969248",
+  "total_games": 819,
+  "last_update": "2026-01-28T06:27:33.334169",
   "games_index": [
     {
       "index": 0,
@@ -8988,6 +8988,28 @@
       "opening": "B13: Caro Kann Defense Exchange Variation 3...cxd5 4.Nf3 Nc6",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/148520797354"
+    },
+    {
+      "index": 817,
+      "date": "2026.01.27",
+      "opponent": "aongprumarma",
+      "white": "aongprumarma",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System 2...Nf6 3.e3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/148548538196"
+    },
+    {
+      "index": 818,
+      "date": "2026.01.27",
+      "opponent": "alfiran511",
+      "white": "sergioquesadas",
+      "black": "alfiran511",
+      "result": "unknown",
+      "opening": "D53: Queens Gambit Declined Modern Variation...5.Nf3 O O 6.cxd5 exd5 7.e3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/148549905928"
     }
   ]
 }
