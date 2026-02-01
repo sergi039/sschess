@@ -1,6 +1,6 @@
 {
   "username": "sergioquesadas",
-  "last_update": "2026-01-31T06:29:32.964234",
+  "last_update": "2026-02-01T06:41:11.899422",
   "games": [
     {
       "url": "https://www.chess.com/game/live/144438554796",
@@ -25945,6 +25945,7 @@
   "archives_fetched": [
     "https://api.chess.com/pub/player/sergioquesadas/games/2025/10",
     "https://api.chess.com/pub/player/sergioquesadas/games/2025/11",
-    "https://api.chess.com/pub/player/sergioquesadas/games/2025/12"
+    "https://api.chess.com/pub/player/sergioquesadas/games/2025/12",
+    "https://api.chess.com/pub/player/sergioquesadas/games/2026/01"
   ]
 }
