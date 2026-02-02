@@ -1,7 +1,7 @@
 {
   "username": "sergioquesadas",
-  "total_games": 819,
-  "analysis_date": "2026-02-01T06:41:11.940543",
+  "total_games": 820,
+  "analysis_date": "2026-02-02T06:55:18.258221",
   "openings": {
     "white": {
       "ECO C43": {
@@ -166,11 +166,11 @@
       },
       "ECO D00": {
         "wins": 17,
-        "losses": 12,
+        "losses": 13,
         "draws": 1,
-        "total": 30,
-        "win_rate": 56.7,
-        "loss_rate": 40.0
+        "total": 31,
+        "win_rate": 54.8,
+        "loss_rate": 41.9
       },
       "ECO C55": {
         "wins": 1,
@@ -1003,10 +1003,10 @@
   "time_controls": {
     "rapid": {
       "wins": 420,
-      "losses": 355,
+      "losses": 356,
       "draws": 31,
-      "total": 806,
-      "win_rate": 52.1
+      "total": 807,
+      "win_rate": 52.0
     },
     "daily": {
       "wins": 10,
@@ -1017,7 +1017,7 @@
     }
   },
   "time_usage": {
-    "timeouts": 31,
+    "timeouts": 32,
     "timeout_games": [
       {
         "url": "https://www.chess.com/game/live/144628473252",
@@ -1049,7 +1049,7 @@
       "win": 430,
       "resigned": 224,
       "checkmated": 101,
-      "timeout": 31,
+      "timeout": 32,
       "repetition": 12,
       "stalemate": 8,
       "insufficient": 7,
@@ -1060,10 +1060,10 @@
   },
   "rating_progress": {
     "current_ratings": {
-      "rapid": 1311,
+      "rapid": 1303,
       "daily": 1040
     },
-    "total_games_tracked": 819
+    "total_games_tracked": 820
   },
   "weaknesses": {
     "identified_weaknesses": [
@@ -1103,6 +1103,6 @@
         "loss_rate": 60.0
       }
     ],
-    "total_issues": 21
+    "total_issues": 22
   }
 }

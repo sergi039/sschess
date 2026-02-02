@@ -4,6 +4,7 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
+| 2026-02-01 | t3erminal | 1315 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/164109919492) |
 | 2026-01-27 | alfiran511 | 1330 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148549905928) |
 | 2026-01-27 | aongprumarma | 1295 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148548538196) |
 | 2026-01-26 | Lewe_22 | 1335 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148520797354) |
@@ -23,7 +24,6 @@
 | 2026-01-20 | venus825 | 1311 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148258571790) |
 | 2026-01-20 | masgant | 1306 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/148241037818) |
 | 2026-01-20 | masgant | 1298 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148240763658) |
-| 2026-01-20 | Vladers_g | 1320 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/148240537044) |
 
 
 ## Quick Stats from Recent Games

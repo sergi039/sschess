@@ -1,6 +1,6 @@
 {
-  "total_games": 819,
-  "last_update": "2026-02-01T06:41:11.972266",
+  "total_games": 820,
+  "last_update": "2026-02-02T06:55:18.290775",
   "games_index": [
     {
       "index": 0,
@@ -9010,6 +9010,17 @@
       "opening": "D53: Queens Gambit Declined Modern Variation...5.Nf3 O O 6.cxd5 exd5 7.e3",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/148549905928"
+    },
+    {
+      "index": 819,
+      "date": "2026.02.01",
+      "opponent": "t3erminal",
+      "white": "sergioquesadas",
+      "black": "t3erminal",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System 2...Nf6 3.e3 c5 4.c3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/164109919492"
     }
   ]
 }
