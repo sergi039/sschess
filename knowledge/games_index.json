@@ -1,6 +1,6 @@
 {
-  "total_games": 820,
-  "last_update": "2026-02-02T06:55:18.290775",
+  "total_games": 821,
+  "last_update": "2026-02-03T06:41:22.885492",
   "games_index": [
     {
       "index": 0,
@@ -9021,6 +9021,17 @@
       "opening": "D00: Queens Pawn Opening Accelerated London System 2...Nf6 3.e3 c5 4.c3",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/164109919492"
+    },
+    {
+      "index": 820,
+      "date": "2026.02.02",
+      "opponent": "black_beard08",
+      "white": "sergioquesadas",
+      "black": "black_beard08",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System 2...Nf6 3.e3 Bf5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/164143120410"
     }
   ]
 }
