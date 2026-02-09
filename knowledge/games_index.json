@@ -1,6 +1,6 @@
 {
-  "total_games": 821,
-  "last_update": "2026-02-08T06:41:21.040041",
+  "total_games": 826,
+  "last_update": "2026-02-09T06:57:14.865183",
   "games_index": [
     {
       "index": 0,
@@ -9032,6 +9032,61 @@
       "opening": "D00: Queens Pawn Opening Accelerated London System 2...Nf6 3.e3 Bf5",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/164143120410"
+    },
+    {
+      "index": 821,
+      "date": "2026.02.08",
+      "opponent": "RobertoSarda",
+      "white": "RobertoSarda",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "A02: Birds Opening 1...Nf6 2.Nf3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/164397665308"
+    },
+    {
+      "index": 822,
+      "date": "2026.02.08",
+      "opponent": "Sam731204",
+      "white": "Sam731204",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C55: Italian Game Two Knights Defense",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/164413345732"
+    },
+    {
+      "index": 823,
+      "date": "2026.02.08",
+      "opponent": "Vitaliy1111975",
+      "white": "sergioquesadas",
+      "black": "Vitaliy1111975",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/164421104238"
+    },
+    {
+      "index": 824,
+      "date": "2026.02.08",
+      "opponent": "Vitaliy1111975",
+      "white": "Vitaliy1111975",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C24: Bishops Opening Berlin Defense",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/164421694588"
+    },
+    {
+      "index": 825,
+      "date": "2026.02.08",
+      "opponent": "ferasadam2012",
+      "white": "ferasadam2012",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "A00: Van t Kruijs Opening 1...e5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/164422265372"
     }
   ]
 }

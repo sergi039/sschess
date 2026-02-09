@@ -1,6 +1,6 @@
 {
-  "total_games_analyzed": 821,
-  "date_generated": "2026-02-08T06:41:21.054958",
+  "total_games_analyzed": 826,
+  "date_generated": "2026-02-09T06:57:14.881779",
   "weaknesses": {
     "identified_weaknesses": [
       {
@@ -39,7 +39,7 @@
         "loss_rate": 60.0
       }
     ],
-    "total_issues": 22
+    "total_issues": 21
   },
   "opening_performance": {
     "white": {
@@ -204,12 +204,12 @@
         "loss_rate": 53.1
       },
       "ECO D00": {
-        "wins": 18,
+        "wins": 19,
         "losses": 13,
         "draws": 1,
-        "total": 32,
-        "win_rate": 56.2,
-        "loss_rate": 40.6
+        "total": 33,
+        "win_rate": 57.6,
+        "loss_rate": 39.4
       },
       "ECO C55": {
         "wins": 1,
@@ -582,12 +582,12 @@
         "loss_rate": 50.0
       },
       "ECO A00": {
-        "wins": 7,
+        "wins": 8,
         "losses": 9,
         "draws": 1,
-        "total": 17,
-        "win_rate": 41.2,
-        "loss_rate": 52.9
+        "total": 18,
+        "win_rate": 44.4,
+        "loss_rate": 50.0
       },
       "ECO C20": {
         "wins": 19,
@@ -694,12 +694,12 @@
         "loss_rate": 0.0
       },
       "ECO C55": {
-        "wins": 12,
+        "wins": 13,
         "losses": 17,
         "draws": 0,
-        "total": 29,
-        "win_rate": 41.4,
-        "loss_rate": 58.6
+        "total": 30,
+        "win_rate": 43.3,
+        "loss_rate": 56.7
       },
       "ECO B02": {
         "wins": 5,
@@ -776,10 +776,10 @@
       "ECO C24": {
         "wins": 5,
         "losses": 6,
-        "draws": 0,
-        "total": 11,
-        "win_rate": 45.5,
-        "loss_rate": 54.5
+        "draws": 1,
+        "total": 12,
+        "win_rate": 41.7,
+        "loss_rate": 50.0
       },
       "ECO C40": {
         "wins": 1,
@@ -1036,16 +1036,24 @@
         "total": 1,
         "win_rate": 100.0,
         "loss_rate": 0.0
+      },
+      "ECO A02": {
+        "wins": 1,
+        "losses": 0,
+        "draws": 0,
+        "total": 1,
+        "win_rate": 100.0,
+        "loss_rate": 0.0
       }
     }
   },
   "time_control_stats": {
     "rapid": {
-      "wins": 421,
+      "wins": 425,
       "losses": 356,
-      "draws": 31,
-      "total": 808,
-      "win_rate": 52.1
+      "draws": 32,
+      "total": 813,
+      "win_rate": 52.3
     },
     "daily": {
       "wins": 10,

@@ -4,6 +4,11 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
+| 2026-02-08 | ferasadam2012 | 1313 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/164422265372) |
+| 2026-02-08 | Vitaliy1111975 | 1344 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/164421694588) |
+| 2026-02-08 | Vitaliy1111975 | 1344 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/164421104238) |
+| 2026-02-08 | Sam731204 | 1334 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/164413345732) |
+| 2026-02-08 | RobertoSarda | 1280 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/164397665308) |
 | 2026-02-02 | black_beard08 | 1319 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/164143120410) |
 | 2026-02-01 | t3erminal | 1315 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/164109919492) |
 | 2026-01-27 | alfiran511 | 1330 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148549905928) |
@@ -19,15 +24,10 @@
 | 2026-01-21 | kinhope | 1304 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148299435736) |
 | 2026-01-21 | antonpan32 | 1304 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/148298447128) |
 | 2026-01-21 | pattarshivaraj | 1322 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/148283373464) |
-| 2026-01-20 | al3xinf | 1334 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/148260501468) |
-| 2026-01-20 | al3xinf | 1326 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148259733438) |
-| 2026-01-20 | al3xinf | 1326 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148259203060) |
-| 2026-01-20 | venus825 | 1311 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148258571790) |
-| 2026-01-20 | masgant | 1306 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/148241037818) |
 
 
 ## Quick Stats from Recent Games
 
-- **Record:** 8W / 9L / 3D
-- **Win rate:** 40.0%
-- **Most faced:** al3xinf (3 games)
+- **Record:** 10W / 7L / 3D
+- **Win rate:** 50.0%
+- **Most faced:** Vitaliy1111975 (2 games)
