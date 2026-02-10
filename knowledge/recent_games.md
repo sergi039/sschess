@@ -4,6 +4,9 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
+| 2026-02-09 | mohammad1272011 | 1374 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/164452952106) |
+| 2026-02-09 | tips | 1359 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/164452684320) |
+| 2026-02-09 | PanSzkielet | 1358 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/164452221514) |
 | 2026-02-08 | ferasadam2012 | 1313 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/164422265372) |
 | 2026-02-08 | Vitaliy1111975 | 1344 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/164421694588) |
 | 2026-02-08 | Vitaliy1111975 | 1344 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/164421104238) |
@@ -21,13 +24,10 @@
 | 2026-01-24 | DavidNdiuki | 1320 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148437918026) |
 | 2026-01-24 | mathoom | 1325 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148423602070) |
 | 2026-01-22 | rafaprioro | 1318 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148337389774) |
-| 2026-01-21 | kinhope | 1304 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148299435736) |
-| 2026-01-21 | antonpan32 | 1304 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/148298447128) |
-| 2026-01-21 | pattarshivaraj | 1322 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/148283373464) |
 
 
 ## Quick Stats from Recent Games
 
-- **Record:** 10W / 7L / 3D
-- **Win rate:** 50.0%
+- **Record:** 11W / 6L / 3D
+- **Win rate:** 55.0%
 - **Most faced:** Vitaliy1111975 (2 games)

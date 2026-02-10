@@ -1,6 +1,6 @@
 {
-  "total_games": 826,
-  "last_update": "2026-02-09T06:57:14.865183",
+  "total_games": 829,
+  "last_update": "2026-02-10T06:57:03.636867",
   "games_index": [
     {
       "index": 0,
@@ -9087,6 +9087,39 @@
       "opening": "A00: Van t Kruijs Opening 1...e5",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/164422265372"
+    },
+    {
+      "index": 826,
+      "date": "2026.02.09",
+      "opponent": "PanSzkielet",
+      "white": "sergioquesadas",
+      "black": "PanSzkielet",
+      "result": "unknown",
+      "opening": "A40: Modern Defense with 1 d4 2.Bf4 Bg7 3.e3 d6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/164452221514"
+    },
+    {
+      "index": 827,
+      "date": "2026.02.09",
+      "opponent": "tips",
+      "white": "sergioquesadas",
+      "black": "tips",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/164452684320"
+    },
+    {
+      "index": 828,
+      "date": "2026.02.09",
+      "opponent": "mohammad1272011",
+      "white": "mohammad1272011",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C55: Italian Game Two Knights Modern Bishops Opening 4...h6 5.Nc3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/164452952106"
     }
   ]
 }
