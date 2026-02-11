@@ -4,6 +4,8 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
+| 2026-02-10 | hollidam | 1377 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/164501369186) |
+| 2026-02-10 | miguelfebrer1949 | 1335 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/164500708564) |
 | 2026-02-09 | mohammad1272011 | 1374 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/164452952106) |
 | 2026-02-09 | tips | 1359 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/164452684320) |
 | 2026-02-09 | PanSzkielet | 1358 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/164452221514) |
@@ -22,8 +24,6 @@
 | 2026-01-25 | manoya6789 | 1338 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148483901418) |
 | 2026-01-24 | egoshark | 1344 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/148438446448) |
 | 2026-01-24 | DavidNdiuki | 1320 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148437918026) |
-| 2026-01-24 | mathoom | 1325 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148423602070) |
-| 2026-01-22 | rafaprioro | 1318 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148337389774) |
 
 
 ## Quick Stats from Recent Games

@@ -1,6 +1,6 @@
 {
-  "total_games": 829,
-  "last_update": "2026-02-10T06:57:03.636867",
+  "total_games": 831,
+  "last_update": "2026-02-11T06:54:03.842307",
   "games_index": [
     {
       "index": 0,
@@ -9120,6 +9120,28 @@
       "opening": "C55: Italian Game Two Knights Modern Bishops Opening 4...h6 5.Nc3",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/164452952106"
+    },
+    {
+      "index": 829,
+      "date": "2026.02.10",
+      "opponent": "miguelfebrer1949",
+      "white": "sergioquesadas",
+      "black": "miguelfebrer1949",
+      "result": "unknown",
+      "opening": "A40: Englund Gambit 2.dxe5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/164500708564"
+    },
+    {
+      "index": 830,
+      "date": "2026.02.10",
+      "opponent": "hollidam",
+      "white": "hollidam",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C47: Four Knights Game Italian Variation",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/164501369186"
     }
   ]
 }
