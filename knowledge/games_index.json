@@ -1,6 +1,6 @@
 {
-  "total_games": 831,
-  "last_update": "2026-02-11T06:54:03.842307",
+  "total_games": 838,
+  "last_update": "2026-02-12T06:54:17.617725",
   "games_index": [
     {
       "index": 0,
@@ -9142,6 +9142,83 @@
       "opening": "C47: Four Knights Game Italian Variation",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/164501369186"
+    },
+    {
+      "index": 831,
+      "date": "2026.02.11",
+      "opponent": "MR_SUMON",
+      "white": "sergioquesadas",
+      "black": "MR_SUMON",
+      "result": "unknown",
+      "opening": "A45: Indian Game 2.Bf4 g6 3.e3 Bg7",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/164533063734"
+    },
+    {
+      "index": 832,
+      "date": "2026.02.11",
+      "opponent": "Wilmer388",
+      "white": "Wilmer388",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C22: Center Game Accepted Paulsen Berger Variation 5.Nc3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/164539883660"
+    },
+    {
+      "index": 833,
+      "date": "2026.02.11",
+      "opponent": "juan-carlos-mlina",
+      "white": "juan-carlos-mlina",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C20: Kings Pawn Opening Leonardis Variation",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/164553513622"
+    },
+    {
+      "index": 834,
+      "date": "2026.02.11",
+      "opponent": "ArturMitin7",
+      "white": "sergioquesadas",
+      "black": "ArturMitin7",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System 2...Nf6 3.e3 g6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/164553589998"
+    },
+    {
+      "index": 835,
+      "date": "2026.02.11",
+      "opponent": "B3str0ng",
+      "white": "B3str0ng",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Chigorin Variation 2...Nf6 3.Bf4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/164553873962"
+    },
+    {
+      "index": 836,
+      "date": "2026.02.11",
+      "opponent": "ikkaku24",
+      "white": "ikkaku24",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C62: Ruy Lopez Opening Old Steinitz Defense",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/164557704030"
+    },
+    {
+      "index": 837,
+      "date": "2026.02.11",
+      "opponent": "Skarvatangi",
+      "white": "sergioquesadas",
+      "black": "Skarvatangi",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/164558174598"
     }
   ]
 }

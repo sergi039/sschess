@@ -1,7 +1,7 @@
 {
   "username": "sergioquesadas",
-  "total_games": 831,
-  "analysis_date": "2026-02-11T06:54:03.809957",
+  "total_games": 838,
+  "analysis_date": "2026-02-12T06:54:17.585074",
   "openings": {
     "white": {
       "ECO C43": {
@@ -165,12 +165,12 @@
         "loss_rate": 53.1
       },
       "ECO D00": {
-        "wins": 20,
+        "wins": 22,
         "losses": 13,
         "draws": 1,
-        "total": 34,
-        "win_rate": 58.8,
-        "loss_rate": 38.2
+        "total": 36,
+        "win_rate": 61.1,
+        "loss_rate": 36.1
       },
       "ECO C55": {
         "wins": 1,
@@ -446,11 +446,11 @@
       },
       "ECO A45": {
         "wins": 5,
-        "losses": 3,
+        "losses": 4,
         "draws": 0,
-        "total": 8,
-        "win_rate": 62.5,
-        "loss_rate": 37.5
+        "total": 9,
+        "win_rate": 55.6,
+        "loss_rate": 44.4
       },
       "ECO C25": {
         "wins": 0,
@@ -528,11 +528,11 @@
       },
       "ECO D00": {
         "wins": 13,
-        "losses": 12,
+        "losses": 13,
         "draws": 2,
-        "total": 27,
-        "win_rate": 48.1,
-        "loss_rate": 44.4
+        "total": 28,
+        "win_rate": 46.4,
+        "loss_rate": 46.4
       },
       "ECO B07": {
         "wins": 1,
@@ -552,11 +552,11 @@
       },
       "ECO C20": {
         "wins": 19,
-        "losses": 12,
+        "losses": 13,
         "draws": 2,
-        "total": 33,
-        "win_rate": 57.6,
-        "loss_rate": 36.4
+        "total": 34,
+        "win_rate": 55.9,
+        "loss_rate": 38.2
       },
       "ECO D04": {
         "wins": 3,
@@ -575,12 +575,12 @@
         "loss_rate": 43.8
       },
       "ECO C22": {
-        "wins": 2,
+        "wins": 3,
         "losses": 4,
         "draws": 0,
-        "total": 6,
-        "win_rate": 33.3,
-        "loss_rate": 66.7
+        "total": 7,
+        "win_rate": 42.9,
+        "loss_rate": 57.1
       },
       "ECO C41": {
         "wins": 1,
@@ -816,11 +816,11 @@
       },
       "ECO C62": {
         "wins": 1,
-        "losses": 3,
+        "losses": 4,
         "draws": 0,
-        "total": 4,
-        "win_rate": 25.0,
-        "loss_rate": 75.0
+        "total": 5,
+        "win_rate": 20.0,
+        "loss_rate": 80.0
       },
       "ECO D06": {
         "wins": 3,
@@ -1010,10 +1010,10 @@
   },
   "time_controls": {
     "rapid": {
-      "wins": 429,
-      "losses": 357,
+      "wins": 432,
+      "losses": 361,
       "draws": 32,
-      "total": 818,
+      "total": 825,
       "win_rate": 52.4
     },
     "daily": {
@@ -1054,9 +1054,9 @@
       }
     ],
     "ending_types": {
-      "win": 439,
-      "resigned": 224,
-      "checkmated": 102,
+      "win": 442,
+      "resigned": 225,
+      "checkmated": 105,
       "timeout": 32,
       "repetition": 12,
       "stalemate": 9,
@@ -1068,10 +1068,10 @@
   },
   "rating_progress": {
     "current_ratings": {
-      "rapid": 1370,
+      "rapid": 1362,
       "daily": 1040
     },
-    "total_games_tracked": 831
+    "total_games_tracked": 838
   },
   "weaknesses": {
     "identified_weaknesses": [
@@ -1081,6 +1081,13 @@
         "opening": "ECO C60",
         "games": 6,
         "loss_rate": 83.3
+      },
+      {
+        "type": "opening",
+        "color": "black",
+        "opening": "ECO C62",
+        "games": 5,
+        "loss_rate": 80.0
       },
       {
         "type": "opening",
@@ -1098,19 +1105,12 @@
       },
       {
         "type": "opening",
-        "color": "black",
-        "opening": "ECO C22",
-        "games": 6,
-        "loss_rate": 66.7
-      },
-      {
-        "type": "opening",
         "color": "white",
         "opening": "ECO B13",
         "games": 5,
         "loss_rate": 60.0
       }
     ],
-    "total_issues": 21
+    "total_issues": 24
   }
 }
