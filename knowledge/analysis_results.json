@@ -1,7 +1,7 @@
 {
   "username": "sergioquesadas",
-  "total_games": 838,
-  "analysis_date": "2026-02-12T06:54:17.585074",
+  "total_games": 840,
+  "analysis_date": "2026-02-13T06:51:43.129490",
   "openings": {
     "white": {
       "ECO C43": {
@@ -165,12 +165,12 @@
         "loss_rate": 53.1
       },
       "ECO D00": {
-        "wins": 22,
+        "wins": 23,
         "losses": 13,
         "draws": 1,
-        "total": 36,
-        "win_rate": 61.1,
-        "loss_rate": 36.1
+        "total": 37,
+        "win_rate": 62.2,
+        "loss_rate": 35.1
       },
       "ECO C55": {
         "wins": 1,
@@ -783,12 +783,12 @@
         "loss_rate": 100.0
       },
       "ECO D20": {
-        "wins": 1,
+        "wins": 2,
         "losses": 6,
         "draws": 1,
-        "total": 8,
-        "win_rate": 12.5,
-        "loss_rate": 75.0
+        "total": 9,
+        "win_rate": 22.2,
+        "loss_rate": 66.7
       },
       "ECO C71": {
         "wins": 1,
@@ -1010,11 +1010,11 @@
   },
   "time_controls": {
     "rapid": {
-      "wins": 432,
+      "wins": 434,
       "losses": 361,
       "draws": 32,
-      "total": 825,
-      "win_rate": 52.4
+      "total": 827,
+      "win_rate": 52.5
     },
     "daily": {
       "wins": 10,
@@ -1054,7 +1054,7 @@
       }
     ],
     "ending_types": {
-      "win": 442,
+      "win": 444,
       "resigned": 225,
       "checkmated": 105,
       "timeout": 32,
@@ -1068,10 +1068,10 @@
   },
   "rating_progress": {
     "current_ratings": {
-      "rapid": 1362,
+      "rapid": 1378,
       "daily": 1040
     },
-    "total_games_tracked": 838
+    "total_games_tracked": 840
   },
   "weaknesses": {
     "identified_weaknesses": [
@@ -1092,16 +1092,16 @@
       {
         "type": "opening",
         "color": "black",
-        "opening": "ECO D20",
-        "games": 8,
-        "loss_rate": 75.0
+        "opening": "ECO C25",
+        "games": 7,
+        "loss_rate": 71.4
       },
       {
         "type": "opening",
         "color": "black",
-        "opening": "ECO C25",
-        "games": 7,
-        "loss_rate": 71.4
+        "opening": "ECO D20",
+        "games": 9,
+        "loss_rate": 66.7
       },
       {
         "type": "opening",

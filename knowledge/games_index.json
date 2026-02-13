@@ -1,6 +1,6 @@
 {
-  "total_games": 838,
-  "last_update": "2026-02-12T06:54:17.617725",
+  "total_games": 840,
+  "last_update": "2026-02-13T06:51:43.160300",
   "games_index": [
     {
       "index": 0,
@@ -9219,6 +9219,28 @@
       "opening": "D00: Queens Pawn Opening Accelerated London System",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/164558174598"
+    },
+    {
+      "index": 838,
+      "date": "2026.02.12",
+      "opponent": "julianalbert",
+      "white": "sergioquesadas",
+      "black": "julianalbert",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/164580852510"
+    },
+    {
+      "index": 839,
+      "date": "2026.02.12",
+      "opponent": "ezzzbotgitgud",
+      "white": "ezzzbotgitgud",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "D20: Queens Gambit Accepted Old Variation",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/164584169472"
     }
   ]
 }

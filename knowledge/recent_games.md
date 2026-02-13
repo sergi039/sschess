@@ -4,6 +4,8 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
+| 2026-02-12 | ezzzbotgitgud | 1374 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/164584169472) |
+| 2026-02-12 | julianalbert | 1360 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/164580852510) |
 | 2026-02-11 | Skarvatangi | 1326 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/164558174598) |
 | 2026-02-11 | ikkaku24 | 1349 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/164557704030) |
 | 2026-02-11 | B3str0ng | 1366 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/164553873962) |
@@ -22,12 +24,10 @@
 | 2026-02-08 | Sam731204 | 1334 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/164413345732) |
 | 2026-02-08 | RobertoSarda | 1280 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/164397665308) |
 | 2026-02-02 | black_beard08 | 1319 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/164143120410) |
-| 2026-02-01 | t3erminal | 1315 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/164109919492) |
-| 2026-01-27 | alfiran511 | 1330 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/148549905928) |
 
 
 ## Quick Stats from Recent Games
 
-- **Record:** 12W / 7L / 1D
-- **Win rate:** 60.0%
+- **Record:** 14W / 5L / 1D
+- **Win rate:** 70.0%
 - **Most faced:** Vitaliy1111975 (2 games)
