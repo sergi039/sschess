@@ -4,6 +4,9 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
+| 2026-02-14 | yuriy1_977 | 1407 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/164696530216) |
+| 2026-02-14 | Tancw176 | 1360 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/164671897416) |
+| 2026-02-14 | Wijiii16 | 1366 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/164670045618) |
 | 2026-02-12 | ezzzbotgitgud | 1374 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/164584169472) |
 | 2026-02-12 | julianalbert | 1360 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/164580852510) |
 | 2026-02-11 | Skarvatangi | 1326 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/164558174598) |
@@ -21,13 +24,10 @@
 | 2026-02-08 | ferasadam2012 | 1313 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/164422265372) |
 | 2026-02-08 | Vitaliy1111975 | 1344 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/164421694588) |
 | 2026-02-08 | Vitaliy1111975 | 1344 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/164421104238) |
-| 2026-02-08 | Sam731204 | 1334 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/164413345732) |
-| 2026-02-08 | RobertoSarda | 1280 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/164397665308) |
-| 2026-02-02 | black_beard08 | 1319 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/164143120410) |
 
 
 ## Quick Stats from Recent Games
 
-- **Record:** 14W / 5L / 1D
-- **Win rate:** 70.0%
+- **Record:** 12W / 7L / 1D
+- **Win rate:** 60.0%
 - **Most faced:** Vitaliy1111975 (2 games)

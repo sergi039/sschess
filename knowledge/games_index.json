@@ -1,6 +1,6 @@
 {
-  "total_games": 840,
-  "last_update": "2026-02-14T06:36:09.481877",
+  "total_games": 843,
+  "last_update": "2026-02-15T06:42:12.532879",
   "games_index": [
     {
       "index": 0,
@@ -9241,6 +9241,39 @@
       "opening": "D20: Queens Gambit Accepted Old Variation",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/164584169472"
+    },
+    {
+      "index": 840,
+      "date": "2026.02.14",
+      "opponent": "Wijiii16",
+      "white": "sergioquesadas",
+      "black": "Wijiii16",
+      "result": "unknown",
+      "opening": "A45: Indian Game 2.Bf4 d6 3.e3 g6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/164670045618"
+    },
+    {
+      "index": 841,
+      "date": "2026.02.14",
+      "opponent": "Tancw176",
+      "white": "Tancw176",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C26: Vienna Game Falkbeer Stanley Reversed Spanish Variation",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/164671897416"
+    },
+    {
+      "index": 842,
+      "date": "2026.02.14",
+      "opponent": "yuriy1_977",
+      "white": "sergioquesadas",
+      "black": "yuriy1_977",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/164696530216"
     }
   ]
 }
