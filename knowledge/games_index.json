@@ -1,6 +1,6 @@
 {
-  "total_games": 843,
-  "last_update": "2026-02-15T06:42:12.532879",
+  "total_games": 849,
+  "last_update": "2026-02-16T06:55:37.520481",
   "games_index": [
     {
       "index": 0,
@@ -9274,6 +9274,72 @@
       "opening": "D00: Queens Pawn Opening Accelerated London System",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/164696530216"
+    },
+    {
+      "index": 843,
+      "date": "2026.02.15",
+      "opponent": "wael755",
+      "white": "sergioquesadas",
+      "black": "wael755",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/164714899844"
+    },
+    {
+      "index": 844,
+      "date": "2026.02.15",
+      "opponent": "wael755",
+      "white": "wael755",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C24: Bishops Opening Berlin Defense 3.d3 Bc5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/164715218896"
+    },
+    {
+      "index": 845,
+      "date": "2026.02.15",
+      "opponent": "hachiko775",
+      "white": "hachiko775",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C55: Italian Game Two Knights Modern Bishops Opening 4...d5 5.exd5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/164720092980"
+    },
+    {
+      "index": 846,
+      "date": "2026.02.15",
+      "opponent": "redebede",
+      "white": "sergioquesadas",
+      "black": "redebede",
+      "result": "unknown",
+      "opening": "A40: Queens Pawn Opening 1...c6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/164732580794"
+    },
+    {
+      "index": 847,
+      "date": "2026.02.15",
+      "opponent": "PachaBolso1984",
+      "white": "PachaBolso1984",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening 1...d5 2.e3 Nf6 3.c4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/164732610406"
+    },
+    {
+      "index": 848,
+      "date": "2026.02.15",
+      "opponent": "sanjayarora1969",
+      "white": "sergioquesadas",
+      "black": "sanjayarora1969",
+      "result": "unknown",
+      "opening": "A40: English Defense",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/164734588274"
     }
   ]
 }
