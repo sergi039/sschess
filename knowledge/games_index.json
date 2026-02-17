@@ -1,6 +1,6 @@
 {
-  "total_games": 849,
-  "last_update": "2026-02-16T06:55:37.520481",
+  "total_games": 858,
+  "last_update": "2026-02-17T06:50:12.893952",
   "games_index": [
     {
       "index": 0,
@@ -9340,6 +9340,105 @@
       "opening": "A40: English Defense",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/164734588274"
+    },
+    {
+      "index": 849,
+      "date": "2026.02.16",
+      "opponent": "dimare1976",
+      "white": "sergioquesadas",
+      "black": "dimare1976",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System 2...Nf6 3.e3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/164762118894"
+    },
+    {
+      "index": 850,
+      "date": "2026.02.16",
+      "opponent": "tamerlanij",
+      "white": "tamerlanij",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "D07: Queens Gambit Declined Chigorin Janowski Variation...6.Be3 e6 7.Bxc4 Bb4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/164762420184"
+    },
+    {
+      "index": 851,
+      "date": "2026.02.16",
+      "opponent": "SahilValechaaa",
+      "white": "SahilValechaaa",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C20: Kings Pawn Opening 1...e5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/164763370108"
+    },
+    {
+      "index": 852,
+      "date": "2026.02.16",
+      "opponent": "VaheHo777",
+      "white": "VaheHo777",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "A00: Polish Opening Bugayev Attack 2...d5 3.Bb2",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/164763498604"
+    },
+    {
+      "index": 853,
+      "date": "2026.02.16",
+      "opponent": "VaheHo777",
+      "white": "sergioquesadas",
+      "black": "VaheHo777",
+      "result": "unknown",
+      "opening": "A40: Queens Pawn Opening Polish Defense",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/164763653428"
+    },
+    {
+      "index": 854,
+      "date": "2026.02.16",
+      "opponent": "VaheHo777",
+      "white": "VaheHo777",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "A00: Polish Opening Bugayev Attack 2...d5 3.Bb2",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/164764227900"
+    },
+    {
+      "index": 855,
+      "date": "2026.02.16",
+      "opponent": "Matt_Kolf_Fotografia",
+      "white": "sergioquesadas",
+      "black": "Matt_Kolf_Fotografia",
+      "result": "unknown",
+      "opening": "C41: Philidor Defense 3.Bc4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/164765893324"
+    },
+    {
+      "index": 856,
+      "date": "2026.02.16",
+      "opponent": "UFO2021",
+      "white": "sergioquesadas",
+      "black": "UFO2021",
+      "result": "unknown",
+      "opening": "B00: Kings Pawn Opening St George Defense",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/164769028218"
+    },
+    {
+      "index": 857,
+      "date": "2026.02.16",
+      "opponent": "Gift016",
+      "white": "sergioquesadas",
+      "black": "Gift016",
+      "result": "unknown",
+      "opening": "C41: Philidor Defense 3.Bc4 Be7",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/164778344604"
     }
   ]
 }
