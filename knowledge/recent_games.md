@@ -4,6 +4,7 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
+| 2026-02-21 | franekg8 | 1390 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/165003758600) |
 | 2026-02-16 | Gift016 | 1380 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/164778344604) |
 | 2026-02-16 | UFO2021 | 1388 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/164769028218) |
 | 2026-02-16 | Matt_Kolf_Fotografia | 1401 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/164765893324) |
@@ -23,7 +24,6 @@
 | 2026-02-14 | Tancw176 | 1360 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/164671897416) |
 | 2026-02-14 | Wijiii16 | 1366 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/164670045618) |
 | 2026-02-12 | ezzzbotgitgud | 1374 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/164584169472) |
-| 2026-02-12 | julianalbert | 1360 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/164580852510) |
 
 
 ## Quick Stats from Recent Games

@@ -1,6 +1,6 @@
 {
-  "total_games": 858,
-  "last_update": "2026-02-21T06:33:40.643158",
+  "total_games": 859,
+  "last_update": "2026-02-22T06:38:30.667940",
   "games_index": [
     {
       "index": 0,
@@ -9439,6 +9439,17 @@
       "opening": "C41: Philidor Defense 3.Bc4 Be7",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/164778344604"
+    },
+    {
+      "index": 858,
+      "date": "2026.02.21",
+      "opponent": "franekg8",
+      "white": "franekg8",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C47: Four Knights Game",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/165003758600"
     }
   ]
 }
