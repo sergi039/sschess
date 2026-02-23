@@ -1,6 +1,6 @@
 {
-  "total_games": 859,
-  "last_update": "2026-02-22T06:38:30.667940",
+  "total_games": 869,
+  "last_update": "2026-02-23T06:56:22.882712",
   "games_index": [
     {
       "index": 0,
@@ -9450,6 +9450,116 @@
       "opening": "C47: Four Knights Game",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/165003758600"
+    },
+    {
+      "index": 859,
+      "date": "2026.02.22",
+      "opponent": "Dont_call_me_white",
+      "white": "sergioquesadas",
+      "black": "Dont_call_me_white",
+      "result": "unknown",
+      "opening": "A40: Queens Pawn Opening Horwitz Defense 2.Bf4 c5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/165040109190"
+    },
+    {
+      "index": 860,
+      "date": "2026.02.22",
+      "opponent": "kingoverall",
+      "white": "sergioquesadas",
+      "black": "kingoverall",
+      "result": "unknown",
+      "opening": "C62: Ruy Lopez Opening Old Steinitz Defense 4.d4 Bd7 5.Nc3 Nf6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/165040509894"
+    },
+    {
+      "index": 861,
+      "date": "2026.02.22",
+      "opponent": "JhonnatanC",
+      "white": "sergioquesadas",
+      "black": "JhonnatanC",
+      "result": "unknown",
+      "opening": "A40: Queens Pawn Opening Horwitz Defense 2.Bf4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/165041754700"
+    },
+    {
+      "index": 862,
+      "date": "2026.02.22",
+      "opponent": "Ami3366",
+      "white": "Ami3366",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C45: Scotch Game Scotch Gambit Haxo Gambit 5.c3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/165042011850"
+    },
+    {
+      "index": 863,
+      "date": "2026.02.22",
+      "opponent": "Check_m14",
+      "white": "Check_m14",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C45: Scotch Game Scotch Gambit Dubois Reti Advance Kingside Variation",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/165042280038"
+    },
+    {
+      "index": 864,
+      "date": "2026.02.22",
+      "opponent": "luka437",
+      "white": "luka437",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C14: French Defense Main Line 5...Nfd7 6.Bxe7 Qxe7",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/165042419870"
+    },
+    {
+      "index": 865,
+      "date": "2026.02.22",
+      "opponent": "M0hamedEzzat",
+      "white": "sergioquesadas",
+      "black": "M0hamedEzzat",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/165042874460"
+    },
+    {
+      "index": 866,
+      "date": "2026.02.22",
+      "opponent": "maahi1991",
+      "white": "maahi1991",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C71: Ruy Lopez Opening Morphy Defense Modern Steinitz Defense...6.Bb3 Nxd4 7.Nxd4 exd4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/165043009470"
+    },
+    {
+      "index": 867,
+      "date": "2026.02.22",
+      "opponent": "mazasol",
+      "white": "mazasol",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C48: Four Knights Game Spanish Variation...5.d4 exd4 6.Nxd4 Bd7 7.O O",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/165044520384"
+    },
+    {
+      "index": 868,
+      "date": "2026.02.22",
+      "opponent": "camille1305",
+      "white": "camille1305",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "A46: Torre Attack 3...Be7 4.Nbd2 d5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/165046647374"
     }
   ]
 }
