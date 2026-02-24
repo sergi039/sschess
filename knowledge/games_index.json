@@ -1,6 +1,6 @@
 {
-  "total_games": 869,
-  "last_update": "2026-02-23T06:56:22.882712",
+  "total_games": 885,
+  "last_update": "2026-02-24T06:52:20.491007",
   "games_index": [
     {
       "index": 0,
@@ -9560,6 +9560,182 @@
       "opening": "A46: Torre Attack 3...Be7 4.Nbd2 d5",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/165046647374"
+    },
+    {
+      "index": 869,
+      "date": "2026.02.23",
+      "opponent": "Samuel1962",
+      "white": "sergioquesadas",
+      "black": "Samuel1962",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/165089534156"
+    },
+    {
+      "index": 870,
+      "date": "2026.02.23",
+      "opponent": "Alexoam",
+      "white": "Alexoam",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "A46: Indian Game Knights Variation",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/165090492476"
+    },
+    {
+      "index": 871,
+      "date": "2026.02.23",
+      "opponent": "jobvictory",
+      "white": "sergioquesadas",
+      "black": "jobvictory",
+      "result": "unknown",
+      "opening": "A40: Englund Gambit",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/165091256766"
+    },
+    {
+      "index": 872,
+      "date": "2026.02.23",
+      "opponent": "qazqazv",
+      "white": "sergioquesadas",
+      "black": "qazqazv",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/165092749172"
+    },
+    {
+      "index": 873,
+      "date": "2026.02.23",
+      "opponent": "MRBEARKOTS",
+      "white": "MRBEARKOTS",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "D02: London System",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/165095623490"
+    },
+    {
+      "index": 874,
+      "date": "2026.02.23",
+      "opponent": "SALARDALI5",
+      "white": "sergioquesadas",
+      "black": "SALARDALI5",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System 2...Nf6 3.e3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/165097756440"
+    },
+    {
+      "index": 875,
+      "date": "2026.02.23",
+      "opponent": "GEVEHSV",
+      "white": "sergioquesadas",
+      "black": "GEVEHSV",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System 2...Nf6 3.e3 Bf5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/165098134232"
+    },
+    {
+      "index": 876,
+      "date": "2026.02.23",
+      "opponent": "vetex1",
+      "white": "vetex1",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C20: Kings Pawn Opening 1...e5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/165098500560"
+    },
+    {
+      "index": 877,
+      "date": "2026.02.23",
+      "opponent": "kid929",
+      "white": "sergioquesadas",
+      "black": "kid929",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System 2...c6 3.e3 Bf5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/165103981518"
+    },
+    {
+      "index": 878,
+      "date": "2026.02.23",
+      "opponent": "nabilqe",
+      "white": "nabilqe",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C24: Bishops Opening Berlin Defense",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/165104957968"
+    },
+    {
+      "index": 879,
+      "date": "2026.02.23",
+      "opponent": "glugmonkey",
+      "white": "sergioquesadas",
+      "black": "glugmonkey",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/165108823462"
+    },
+    {
+      "index": 880,
+      "date": "2026.02.23",
+      "opponent": "Saira59",
+      "white": "Saira59",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "A45: Indian Game 2.c3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/165109018252"
+    },
+    {
+      "index": 881,
+      "date": "2026.02.23",
+      "opponent": "PinochetAug",
+      "white": "PinochetAug",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C23: Bishops Opening 2...Nc6 3.d3 Nf6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/165110098234"
+    },
+    {
+      "index": 882,
+      "date": "2026.02.23",
+      "opponent": "yaroslav9292",
+      "white": "yaroslav9292",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "A50: Indian Game Black Knights Tango 3.Nf3 d6 4.Nc3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/165112621226"
+    },
+    {
+      "index": 883,
+      "date": "2026.02.23",
+      "opponent": "axcuber",
+      "white": "sergioquesadas",
+      "black": "axcuber",
+      "result": "unknown",
+      "opening": "A45: Indian Game 2.Bf4 e6 3.e3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/165113181142"
+    },
+    {
+      "index": 884,
+      "date": "2026.02.23",
+      "opponent": "jaolkiller",
+      "white": "sergioquesadas",
+      "black": "jaolkiller",
+      "result": "unknown",
+      "opening": "C53: Giuoco Piano Game Main Line 4...Nf6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/165113764372"
     }
   ]
 }

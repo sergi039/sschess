@@ -4,30 +4,30 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
+| 2026-02-23 | jaolkiller | 1550 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/165113764372) |
+| 2026-02-23 | axcuber | 1539 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/165113181142) |
+| 2026-02-23 | yaroslav9292 | 1521 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/165112621226) |
+| 2026-02-23 | PinochetAug | 1494 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/165110098234) |
+| 2026-02-23 | Saira59 | 1525 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/165109018252) |
+| 2026-02-23 | glugmonkey | 1501 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/165108823462) |
+| 2026-02-23 | nabilqe | 1482 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/165104957968) |
+| 2026-02-23 | kid929 | 1506 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/165103981518) |
+| 2026-02-23 | vetex1 | 1538 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/165098500560) |
+| 2026-02-23 | GEVEHSV | 1494 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/165098134232) |
+| 2026-02-23 | SALARDALI5 | 1503 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/165097756440) |
+| 2026-02-23 | MRBEARKOTS | 1487 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/165095623490) |
+| 2026-02-23 | qazqazv | 1449 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/165092749172) |
+| 2026-02-23 | jobvictory | 1462 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/165091256766) |
+| 2026-02-23 | Alexoam | 1491 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/165090492476) |
+| 2026-02-23 | Samuel1962 | 1468 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/165089534156) |
 | 2026-02-22 | camille1305 | 1489 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/165046647374) |
 | 2026-02-22 | mazasol | 1446 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/165044520384) |
 | 2026-02-22 | maahi1991 | 1438 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/165043009470) |
 | 2026-02-22 | M0hamedEzzat | 1498 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/165042874460) |
-| 2026-02-22 | luka437 | 1456 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/165042419870) |
-| 2026-02-22 | Check_m14 | 1424 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/165042280038) |
-| 2026-02-22 | Ami3366 | 1438 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/165042011850) |
-| 2026-02-22 | JhonnatanC | 1425 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/165041754700) |
-| 2026-02-22 | kingoverall | 1411 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/165040509894) |
-| 2026-02-22 | Dont_call_me_white | 1400 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/165040109190) |
-| 2026-02-21 | franekg8 | 1390 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/165003758600) |
-| 2026-02-16 | Gift016 | 1380 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/164778344604) |
-| 2026-02-16 | UFO2021 | 1388 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/164769028218) |
-| 2026-02-16 | Matt_Kolf_Fotografia | 1401 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/164765893324) |
-| 2026-02-16 | VaheHo777 | 1348 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/164764227900) |
-| 2026-02-16 | VaheHo777 | 1355 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/164763653428) |
-| 2026-02-16 | VaheHo777 | 1362 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/164763498604) |
-| 2026-02-16 | SahilValechaaa | 1383 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/164763370108) |
-| 2026-02-16 | tamerlanij | 1407 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/164762420184) |
-| 2026-02-16 | dimare1976 | 1374 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/164762118894) |
 
 
 ## Quick Stats from Recent Games
 
 - **Record:** 15W / 4L / 1D
 - **Win rate:** 75.0%
-- **Most faced:** VaheHo777 (3 games)
+- **Most faced:** jaolkiller (1 games)
