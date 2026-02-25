@@ -1,6 +1,6 @@
 {
-  "total_games": 885,
-  "last_update": "2026-02-24T06:52:20.491007",
+  "total_games": 900,
+  "last_update": "2026-02-25T06:54:55.050939",
   "games_index": [
     {
       "index": 0,
@@ -9736,6 +9736,171 @@
       "opening": "C53: Giuoco Piano Game Main Line 4...Nf6",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/165113764372"
+    },
+    {
+      "index": 885,
+      "date": "2026.02.24",
+      "opponent": "riddnash",
+      "white": "riddnash",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C25: Vienna Game Max Lange Vienna Gambit",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/165135736286"
+    },
+    {
+      "index": 886,
+      "date": "2026.02.24",
+      "opponent": "IncognitoCc",
+      "white": "sergioquesadas",
+      "black": "IncognitoCc",
+      "result": "unknown",
+      "opening": "A45: Indian Game 2.Bf4 e6 3.e3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/165135949058"
+    },
+    {
+      "index": 887,
+      "date": "2026.02.24",
+      "opponent": "shishiraprasada",
+      "white": "shishiraprasada",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "D50: Queens Gambit Declined Modern Variation 4...dxc4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/165136507090"
+    },
+    {
+      "index": 888,
+      "date": "2026.02.24",
+      "opponent": "irvinignacio",
+      "white": "sergioquesadas",
+      "black": "irvinignacio",
+      "result": "unknown",
+      "opening": "A40: Modern Defense with 1 d4 2.Bf4 Bg7 3.e3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/165142860696"
+    },
+    {
+      "index": 889,
+      "date": "2026.02.24",
+      "opponent": "prem_kumar1981",
+      "white": "prem_kumar1981",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C28: Bishops Opening Berlin Vienna Hybrid Variation 4...Bb4 5.Nf3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/165146973298"
+    },
+    {
+      "index": 890,
+      "date": "2026.02.24",
+      "opponent": "thomsk1",
+      "white": "sergioquesadas",
+      "black": "thomsk1",
+      "result": "unknown",
+      "opening": "D02: London System 3...c6 4.e3 Bg4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/165147427918"
+    },
+    {
+      "index": 891,
+      "date": "2026.02.24",
+      "opponent": "parampreet_singh1",
+      "white": "parampreet_singh1",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C45: Scotch Game Scotch Gambit Dubois Reti Advance Kingside Variation 6.O O",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/165147665940"
+    },
+    {
+      "index": 892,
+      "date": "2026.02.24",
+      "opponent": "Dzakiah",
+      "white": "sergioquesadas",
+      "black": "Dzakiah",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System 2...Bf5 3.e3 e6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/165148212790"
+    },
+    {
+      "index": 893,
+      "date": "2026.02.24",
+      "opponent": "KVKBOB",
+      "white": "sergioquesadas",
+      "black": "KVKBOB",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System 2...Bf5 3.e3 e6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/165149108170"
+    },
+    {
+      "index": 894,
+      "date": "2026.02.24",
+      "opponent": "X725936",
+      "white": "sergioquesadas",
+      "black": "X725936",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/165151714280"
+    },
+    {
+      "index": 895,
+      "date": "2026.02.24",
+      "opponent": "X725936",
+      "white": "X725936",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C50: Italian Game",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/165151914638"
+    },
+    {
+      "index": 896,
+      "date": "2026.02.24",
+      "opponent": "fkhrey",
+      "white": "fkhrey",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C47: Four Knights Game Scotch Variation Accepted 5.Nxd4 Bb4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/165161708296"
+    },
+    {
+      "index": 897,
+      "date": "2026.02.24",
+      "opponent": "caye10",
+      "white": "sergioquesadas",
+      "black": "caye10",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System 2...e6 3.e3 c5 4.c3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/165162043964"
+    },
+    {
+      "index": 898,
+      "date": "2026.02.25",
+      "opponent": "jazza_chess",
+      "white": "jazza_chess",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C55: Italian Game Two Knights Modern Bishops Opening 4...h6 5.Nc3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/165175105874"
+    },
+    {
+      "index": 899,
+      "date": "2026.02.25",
+      "opponent": "jazza_chess",
+      "white": "sergioquesadas",
+      "black": "jazza_chess",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System 2...Nf6 3.e3 Bf5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/165175162496"
     }
   ]
 }
