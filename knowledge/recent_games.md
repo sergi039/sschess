@@ -4,6 +4,19 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
+| 2026-02-25 | jperezgue | 1566 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/165196865868) |
+| 2026-02-25 | sunnyd50 | 1597 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/165196011350) |
+| 2026-02-25 | msdwyer89 | 1603 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/165193069258) |
+| 2026-02-25 | chyankov | 1632 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/165191836306) |
+| 2026-02-25 | chyankov | 1625 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/165191428752) |
+| 2026-02-25 | ldv75 | 1592 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/165185356966) |
+| 2026-02-25 | Thooooooooooomaaaaaaaaaas | 1612 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/165184490836) |
+| 2026-02-25 | mulyadi222 | 1575 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/165183332998) |
+| 2026-02-25 | ramangluthfi | 1574 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/165182511952) |
+| 2026-02-25 | Raie_18 | 1562 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/165182407042) |
+| 2026-02-25 | aRealMoron | 1606 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/165181534306) |
+| 2026-02-25 | oHAHAHAHAHAHo | 1611 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/165181395218) |
+| 2026-02-25 | oHAHAHAHAHAHo | 1603 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/165181182012) |
 | 2026-02-25 | jazza_chess | 1626 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/165175162496) |
 | 2026-02-25 | jazza_chess | 1635 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/165175105874) |
 | 2026-02-24 | caye10 | 1571 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/165162043964) |
@@ -11,23 +24,10 @@
 | 2026-02-24 | X725936 | 1577 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/165151914638) |
 | 2026-02-24 | X725936 | 1568 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/165151714280) |
 | 2026-02-24 | KVKBOB | 1599 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/165149108170) |
-| 2026-02-24 | Dzakiah | 1562 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/165148212790) |
-| 2026-02-24 | parampreet_singh1 | 1569 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/165147665940) |
-| 2026-02-24 | thomsk1 | 1553 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/165147427918) |
-| 2026-02-24 | prem_kumar1981 | 1528 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/165146973298) |
-| 2026-02-24 | irvinignacio | 1551 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/165142860696) |
-| 2026-02-24 | shishiraprasada | 1558 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/165136507090) |
-| 2026-02-24 | IncognitoCc | 1531 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/165135949058) |
-| 2026-02-24 | riddnash | 1556 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/165135736286) |
-| 2026-02-23 | jaolkiller | 1550 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/165113764372) |
-| 2026-02-23 | axcuber | 1539 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/165113181142) |
-| 2026-02-23 | yaroslav9292 | 1521 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/165112621226) |
-| 2026-02-23 | PinochetAug | 1494 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/165110098234) |
-| 2026-02-23 | Saira59 | 1525 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/165109018252) |
 
 
 ## Quick Stats from Recent Games
 
-- **Record:** 14W / 4L / 2D
-- **Win rate:** 70.0%
-- **Most faced:** jazza_chess (2 games)
+- **Record:** 8W / 11L / 1D
+- **Win rate:** 40.0%
+- **Most faced:** chyankov (2 games)

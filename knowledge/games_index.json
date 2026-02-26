@@ -1,6 +1,6 @@
 {
-  "total_games": 900,
-  "last_update": "2026-02-25T06:54:55.050939",
+  "total_games": 913,
+  "last_update": "2026-02-26T06:51:44.964228",
   "games_index": [
     {
       "index": 0,
@@ -9901,6 +9901,149 @@
       "opening": "D00: Queens Pawn Opening Accelerated London System 2...Nf6 3.e3 Bf5",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/165175162496"
+    },
+    {
+      "index": 900,
+      "date": "2026.02.25",
+      "opponent": "oHAHAHAHAHAHo",
+      "white": "oHAHAHAHAHAHo",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "A02: Birds Opening",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/165181182012"
+    },
+    {
+      "index": 901,
+      "date": "2026.02.25",
+      "opponent": "oHAHAHAHAHAHo",
+      "white": "sergioquesadas",
+      "black": "oHAHAHAHAHAHo",
+      "result": "unknown",
+      "opening": "A43: Old Benoni Defense 2.c3 cxd4 3.cxd4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/165181395218"
+    },
+    {
+      "index": 902,
+      "date": "2026.02.25",
+      "opponent": "aRealMoron",
+      "white": "sergioquesadas",
+      "black": "aRealMoron",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/165181534306"
+    },
+    {
+      "index": 903,
+      "date": "2026.02.25",
+      "opponent": "Raie_18",
+      "white": "Raie_18",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C62: Ruy Lopez Opening Old Steinitz Defense 4.c3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/165182407042"
+    },
+    {
+      "index": 904,
+      "date": "2026.02.25",
+      "opponent": "ramangluthfi",
+      "white": "ramangluthfi",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C25: Vienna Game Max Lange Defense",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/165182511952"
+    },
+    {
+      "index": 905,
+      "date": "2026.02.25",
+      "opponent": "mulyadi222",
+      "white": "mulyadi222",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "A01: Nimzowitsch Larsen Attack Modern Variation 2.Bb2 Nc6 3.e3 d5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/165183332998"
+    },
+    {
+      "index": 906,
+      "date": "2026.02.25",
+      "opponent": "Thooooooooooomaaaaaaaaaas",
+      "white": "sergioquesadas",
+      "black": "Thooooooooooomaaaaaaaaaas",
+      "result": "unknown",
+      "opening": "A45: Indian Game...3.e3 c5 4.c3 Nc6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/165184490836"
+    },
+    {
+      "index": 907,
+      "date": "2026.02.25",
+      "opponent": "ldv75",
+      "white": "sergioquesadas",
+      "black": "ldv75",
+      "result": "unknown",
+      "opening": "D02: London System 3...Bf5 4.e3 e6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/165185356966"
+    },
+    {
+      "index": 908,
+      "date": "2026.02.25",
+      "opponent": "chyankov",
+      "white": "chyankov",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "A50: Indian Game Black Knights Tango 3.Nf3 d6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/165191428752"
+    },
+    {
+      "index": 909,
+      "date": "2026.02.25",
+      "opponent": "chyankov",
+      "white": "sergioquesadas",
+      "black": "chyankov",
+      "result": "unknown",
+      "opening": "A40: Modern Defense with 1 d4 2.Bf4 Bg7 3.e3 d6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/165191836306"
+    },
+    {
+      "index": 910,
+      "date": "2026.02.25",
+      "opponent": "msdwyer89",
+      "white": "sergioquesadas",
+      "black": "msdwyer89",
+      "result": "unknown",
+      "opening": "A48: Indian Game East Indian London System...4.e3 O O 5.c3 d6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/165193069258"
+    },
+    {
+      "index": 911,
+      "date": "2026.02.25",
+      "opponent": "sunnyd50",
+      "white": "sunnyd50",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "A41: Modern Defense 3.Nc3 Bg7",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/165196011350"
+    },
+    {
+      "index": 912,
+      "date": "2026.02.25",
+      "opponent": "jperezgue",
+      "white": "jperezgue",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "A53: Old Indian Defense",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/165196865868"
     }
   ]
 }
