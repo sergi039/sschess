@@ -1,6 +1,6 @@
 {
-  "total_games": 913,
-  "last_update": "2026-02-28T06:29:03.883269",
+  "total_games": 922,
+  "last_update": "2026-03-01T06:37:16.700878",
   "games_index": [
     {
       "index": 0,
@@ -10044,6 +10044,105 @@
       "opening": "A53: Old Indian Defense",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/165196865868"
+    },
+    {
+      "index": 913,
+      "date": "2026.02.28",
+      "opponent": "Slightlybetterforwhite",
+      "white": "sergioquesadas",
+      "black": "Slightlybetterforwhite",
+      "result": "unknown",
+      "opening": "A48: Indian Game East Indian London System 3...Bg7 4.e3 d6 5.c3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/165316325178"
+    },
+    {
+      "index": 914,
+      "date": "2026.02.28",
+      "opponent": "Donkatbogan",
+      "white": "Donkatbogan",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C53: Giuoco Piano Game Main Line Giuoco Pianissimo Variation 5...h6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/165316538244"
+    },
+    {
+      "index": 915,
+      "date": "2026.02.28",
+      "opponent": "asiahmondal",
+      "white": "asiahmondal",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "A02: Birds Opening 1...Nf6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/165318506410"
+    },
+    {
+      "index": 916,
+      "date": "2026.02.28",
+      "opponent": "ruelmejz",
+      "white": "sergioquesadas",
+      "black": "ruelmejz",
+      "result": "unknown",
+      "opening": "A40: Modern Defense with 1 d4 2.Bf4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/165320355422"
+    },
+    {
+      "index": 917,
+      "date": "2026.02.28",
+      "opponent": "maiorski",
+      "white": "sergioquesadas",
+      "black": "maiorski",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London Steinitz Countergambit",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/165324169862"
+    },
+    {
+      "index": 918,
+      "date": "2026.02.28",
+      "opponent": "CHIRocket",
+      "white": "CHIRocket",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "A46: Indian Game Knights Variation 2...e6 3.g3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/165325430258"
+    },
+    {
+      "index": 919,
+      "date": "2026.02.28",
+      "opponent": "ariwik",
+      "white": "sergioquesadas",
+      "black": "ariwik",
+      "result": "unknown",
+      "opening": "A80: Dutch Defense 2.Bf4 Nf6 3.e3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/165326103610"
+    },
+    {
+      "index": 920,
+      "date": "2026.02.28",
+      "opponent": "Gordonbloeh",
+      "white": "Gordonbloeh",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C47: Four Knights Game 4.Be2 Bb4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/165332305576"
+    },
+    {
+      "index": 921,
+      "date": "2026.02.28",
+      "opponent": "Remus_Dan",
+      "white": "sergioquesadas",
+      "black": "Remus_Dan",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/165332510474"
     }
   ]
 }
