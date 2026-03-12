@@ -1,6 +1,6 @@
 {
   "username": "sergioquesadas",
-  "last_update": "2026-03-01T06:37:16.619144",
+  "last_update": "2026-03-12T06:44:31.574441",
   "games": [
     {
       "url": "https://www.chess.com/game/live/144438554796",
@@ -29314,6 +29314,36 @@
       "eco": "https://www.chess.com/openings/Queens-Pawn-Opening-Accelerated-London-System",
       "fetched_at": "2026-03-01T06:37:16.619040",
       "archive_url": "https://api.chess.com/pub/player/sergioquesadas/games/2026/02"
+    },
+    {
+      "url": "https://www.chess.com/game/live/165811696702",
+      "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2026.03.11\"]\n[Round \"-\"]\n[White \"Mmartin122\"]\n[Black \"sergioquesadas\"]\n[Result \"1-0\"]\n[CurrentPosition \"2r5/6k1/7p/p1N3p1/2K5/4P3/P1B5/5R2 b - - 3 35\"]\n[Timezone \"UTC\"]\n[ECO \"E40\"]\n[ECOUrl \"https://www.chess.com/openings/Nimzo-Indian-Defense-Normal-Line-4...d5\"]\n[UTCDate \"2026.03.11\"]\n[UTCTime \"16:43:59\"]\n[WhiteElo \"1519\"]\n[BlackElo \"1504\"]\n[TimeControl \"600\"]\n[Termination \"Mmartin122 won on time\"]\n[StartTime \"16:43:59\"]\n[EndDate \"2026.03.11\"]\n[EndTime \"16:59:13\"]\n[Link \"https://www.chess.com/game/live/165811696702\"]\n\n1. d4 {[%clk 0:09:58]} 1... Nf6 {[%clk 0:09:54.2]} 2. c4 {[%clk 0:09:57.1]} 2... d5 {[%clk 0:09:40.2]} 3. Nc3 {[%clk 0:09:53.1]} 3... e6 {[%clk 0:09:33.7]} 4. e3 {[%clk 0:09:51.8]} 4... Bb4 {[%clk 0:09:31.1]} 5. Qa4+ {[%clk 0:09:44]} 5... Nc6 {[%clk 0:09:14]} 6. cxd5 {[%clk 0:09:42.2]} 6... Nxd5 {[%clk 0:09:02.6]} 7. Bd2 {[%clk 0:09:32.1]} 7... Bd7 {[%clk 0:09:00.5]} 8. Nxd5 {[%clk 0:09:24]} 8... Bxd2+ {[%clk 0:08:34.2]} 9. Kxd2 {[%clk 0:09:21.4]} 9... exd5 {[%clk 0:08:23.5]} 10. Qb3 {[%clk 0:09:19.2]} 10... O-O {[%clk 0:08:16]} 11. Qxd5 {[%clk 0:09:12.3]} 11... Nb4 {[%clk 0:07:58.7]} 12. Qxb7 {[%clk 0:09:04.2]} 12... a5 {[%clk 0:07:32.1]} 13. Nf3 {[%clk 0:08:57.8]} 13... c6 {[%clk 0:07:18.2]} 14. Ne5 {[%clk 0:08:49.3]} 14... Bf5 {[%clk 0:06:47.8]} 15. Bc4 {[%clk 0:08:33.7]} 15... Rb8 {[%clk 0:05:16]} 16. Bxf7+ {[%clk 0:08:20.6]} 16... Kh8 {[%clk 0:05:05]} 17. Qa7 {[%clk 0:08:12.6]} 17... Nc2 {[%clk 0:04:49.8]} 18. Rac1 {[%clk 0:07:44.1]} 18... Rxb2 {[%clk 0:04:40.3]} 19. Bb3 {[%clk 0:07:23.9]} 19... Nxd4+ {[%clk 0:04:28.7]} 20. Ke1 {[%clk 0:07:04.5]} 20... Re2+ {[%clk 0:04:16.9]} 21. Kf1 {[%clk 0:06:55.7]} 21... Bd3 {[%clk 0:04:06.1]} 22. Nxd3 {[%clk 0:06:47.4]} 22... Qf6 {[%clk 0:03:51.2]} 23. Qxd4 {[%clk 0:06:35.3]} 23... Rxf2+ {[%clk 0:03:41.2]} 24. Ke1 {[%clk 0:06:28.2]} 24... Rf1+ {[%clk 0:03:09.1]} 25. Rxf1 {[%clk 0:06:22]} 25... Qxf1+ {[%clk 0:03:06.4]} 26. Kd2 {[%clk 0:06:18.8]} 26... Qxg2+ {[%clk 0:02:54.5]} 27. Kc3 {[%clk 0:06:17.1]} 27... Qxh2 {[%clk 0:01:40.1]} 28. Rc2 {[%clk 0:06:14.4]} 28... Qc7 {[%clk 0:01:12.5]} 29. Rg2 {[%clk 0:05:57.7]} 29... c5 {[%clk 0:00:23]} 30. Qxc5 {[%clk 0:05:37.1]} 30... Qxc5+ {[%clk 0:00:10.6]} 31. Nxc5 {[%clk 0:05:35]} 31... Rc8 {[%clk 0:00:09.4]} 32. Kc4 {[%clk 0:05:29.5]} 32... h6 {[%clk 0:00:08.3]} 33. Bc2 {[%clk 0:05:25.1]} 33... g5 {[%clk 0:00:04.9]} 34. Rg1 {[%clk 0:05:20.3]} 34... Kg7 {[%clk 0:00:02.8]} 35. Rf1 {[%clk 0:05:09.1]} 1-0\n",
+      "time_control": "600",
+      "end_time": 1773248353,
+      "rated": true,
+      "tcn": "lB!TkAZJbs0Smu9zdy5QAJTJcl6ZsJzlelSJyr8!rJQzJXWGgvYQvKZLfA45A1!?XWzkac5j1rkBlejmefLtKt7TWBmnfenfhfTfelfolsopckpYkoQIBIYItI96sA3Vrk2Mog?2gf",
+      "uuid": "80e70074-1d69-11f1-afcc-e0297301000f",
+      "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+      "fen": "2r5/6k1/7p/p1N3p1/2K5/4P3/P1B5/5R2 b - - 3 35",
+      "time_class": "rapid",
+      "rules": "chess",
+      "white": {
+        "rating": 1519,
+        "result": "win",
+        "@id": "https://api.chess.com/pub/player/mmartin122",
+        "username": "Mmartin122",
+        "uuid": "ff26df12-b8e2-11eb-bbe0-27157d0dc364"
+      },
+      "black": {
+        "rating": 1504,
+        "result": "timeout",
+        "@id": "https://api.chess.com/pub/player/sergioquesadas",
+        "username": "sergioquesadas",
+        "uuid": "234ae0e0-c941-11ec-ae32-69d4f91dc464"
+      },
+      "eco": "https://www.chess.com/openings/Nimzo-Indian-Defense-Normal-Line-4...d5",
+      "fetched_at": "2026-03-12T06:44:31.574138",
+      "archive_url": "https://api.chess.com/pub/player/sergioquesadas/games/2026/03"
     }
   ],
   "archives_fetched": [

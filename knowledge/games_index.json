@@ -1,6 +1,6 @@
 {
-  "total_games": 922,
-  "last_update": "2026-03-11T06:42:26.990908",
+  "total_games": 923,
+  "last_update": "2026-03-12T06:44:31.656474",
   "games_index": [
     {
       "index": 0,
@@ -10143,6 +10143,17 @@
       "opening": "D00: Queens Pawn Opening Accelerated London System",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/165332510474"
+    },
+    {
+      "index": 922,
+      "date": "2026.03.11",
+      "opponent": "Mmartin122",
+      "white": "Mmartin122",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "E40: Nimzo Indian Defense Normal Line 4...d5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/165811696702"
     }
   ]
 }

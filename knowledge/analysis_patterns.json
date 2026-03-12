@@ -1,6 +1,6 @@
 {
-  "total_games_analyzed": 922,
-  "date_generated": "2026-03-11T06:42:27.007863",
+  "total_games_analyzed": 923,
+  "date_generated": "2026-03-12T06:44:31.672992",
   "weaknesses": {
     "identified_weaknesses": [
       {
@@ -1108,15 +1108,23 @@
         "total": 1,
         "win_rate": 100.0,
         "loss_rate": 0.0
+      },
+      "ECO E40": {
+        "wins": 0,
+        "losses": 1,
+        "draws": 0,
+        "total": 1,
+        "win_rate": 0.0,
+        "loss_rate": 100.0
       }
     }
   },
   "time_control_stats": {
     "rapid": {
       "wins": 482,
-      "losses": 392,
+      "losses": 393,
       "draws": 35,
-      "total": 909,
+      "total": 910,
       "win_rate": 53.0
     },
     "daily": {

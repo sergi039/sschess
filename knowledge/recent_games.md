@@ -4,6 +4,7 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
+| 2026-03-11 | Mmartin122 | 1519 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/165811696702) |
 | 2026-02-28 | Remus_Dan | 1531 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/165332510474) |
 | 2026-02-28 | Gordonbloeh | 1557 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/165332305576) |
 | 2026-02-28 | ariwik | 1537 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/165326103610) |
@@ -23,7 +24,6 @@
 | 2026-02-25 | mulyadi222 | 1575 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/165183332998) |
 | 2026-02-25 | ramangluthfi | 1574 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/165182511952) |
 | 2026-02-25 | Raie_18 | 1562 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/165182407042) |
-| 2026-02-25 | aRealMoron | 1606 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/165181534306) |
 
 
 ## Quick Stats from Recent Games
