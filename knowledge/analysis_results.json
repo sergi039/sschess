@@ -1,7 +1,7 @@
 {
   "username": "sergioquesadas",
-  "total_games": 923,
-  "analysis_date": "2026-03-12T06:44:31.620481",
+  "total_games": 925,
+  "analysis_date": "2026-03-13T06:42:29.337092",
   "openings": {
     "white": {
       "ECO C43": {
@@ -445,12 +445,12 @@
         "loss_rate": 0.0
       },
       "ECO A45": {
-        "wins": 7,
+        "wins": 8,
         "losses": 6,
         "draws": 0,
-        "total": 13,
-        "win_rate": 53.8,
-        "loss_rate": 46.2
+        "total": 14,
+        "win_rate": 57.1,
+        "loss_rate": 42.9
       },
       "ECO C25": {
         "wins": 0,
@@ -785,10 +785,10 @@
       "ECO C26": {
         "wins": 3,
         "losses": 2,
-        "draws": 1,
-        "total": 6,
-        "win_rate": 50.0,
-        "loss_rate": 33.3
+        "draws": 2,
+        "total": 7,
+        "win_rate": 42.9,
+        "loss_rate": 28.6
       },
       "ECO C23": {
         "wins": 3,
@@ -1082,10 +1082,10 @@
   },
   "time_controls": {
     "rapid": {
-      "wins": 482,
+      "wins": 483,
       "losses": 393,
-      "draws": 35,
-      "total": 910,
+      "draws": 36,
+      "total": 912,
       "win_rate": 53.0
     },
     "daily": {
@@ -1126,11 +1126,11 @@
       }
     ],
     "ending_types": {
-      "win": 492,
+      "win": 493,
       "resigned": 245,
       "checkmated": 107,
       "timeout": 42,
-      "repetition": 15,
+      "repetition": 16,
       "stalemate": 9,
       "insufficient": 7,
       "timevsinsufficient": 4,
@@ -1140,10 +1140,10 @@
   },
   "rating_progress": {
     "current_ratings": {
-      "rapid": 1504,
+      "rapid": 1512,
       "daily": 1040
     },
-    "total_games_tracked": 923
+    "total_games_tracked": 925
   },
   "weaknesses": {
     "identified_weaknesses": [

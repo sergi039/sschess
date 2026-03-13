@@ -4,6 +4,8 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
+| 2026-03-12 | SylwiaPerla | 1500 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/165858019316) |
+| 2026-03-12 | SammC037 | 1500 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/165857119574) |
 | 2026-03-11 | Mmartin122 | 1519 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/165811696702) |
 | 2026-02-28 | Remus_Dan | 1531 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/165332510474) |
 | 2026-02-28 | Gordonbloeh | 1557 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/165332305576) |
@@ -22,12 +24,10 @@
 | 2026-02-25 | ldv75 | 1592 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/165185356966) |
 | 2026-02-25 | Thooooooooooomaaaaaaaaaas | 1612 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/165184490836) |
 | 2026-02-25 | mulyadi222 | 1575 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/165183332998) |
-| 2026-02-25 | ramangluthfi | 1574 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/165182511952) |
-| 2026-02-25 | Raie_18 | 1562 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/165182407042) |
 
 
 ## Quick Stats from Recent Games
 
-- **Record:** 5W / 15L / 0D
-- **Win rate:** 25.0%
+- **Record:** 4W / 15L / 1D
+- **Win rate:** 20.0%
 - **Most faced:** chyankov (2 games)
