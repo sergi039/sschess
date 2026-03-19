@@ -4,6 +4,7 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
+| 2026-03-18 | JocicNebojsa66 | 1510 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/166114136178) |
 | 2026-03-12 | SylwiaPerla | 1500 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/165858019316) |
 | 2026-03-12 | SammC037 | 1500 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/165857119574) |
 | 2026-03-11 | Mmartin122 | 1519 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/165811696702) |
@@ -23,7 +24,6 @@
 | 2026-02-25 | chyankov | 1625 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/165191428752) |
 | 2026-02-25 | ldv75 | 1592 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/165185356966) |
 | 2026-02-25 | Thooooooooooomaaaaaaaaaas | 1612 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/165184490836) |
-| 2026-02-25 | mulyadi222 | 1575 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/165183332998) |
 
 
 ## Quick Stats from Recent Games
