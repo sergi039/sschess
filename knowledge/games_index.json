@@ -1,6 +1,6 @@
 {
-  "total_games": 926,
-  "last_update": "2026-03-19T06:49:51.755129",
+  "total_games": 930,
+  "last_update": "2026-03-20T06:45:00.688089",
   "games_index": [
     {
       "index": 0,
@@ -10187,6 +10187,50 @@
       "opening": "D00: Queens Pawn Opening Accelerated London System 2...Nf6 3.e3 c6",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/166114136178"
+    },
+    {
+      "index": 926,
+      "date": "2026.03.19",
+      "opponent": "RAJSTCSTM",
+      "white": "RAJSTCSTM",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C45: Scotch Game Goring Double Pawn Sacrifice Variation 5...d6 6.Nxc3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/166158339270"
+    },
+    {
+      "index": 927,
+      "date": "2026.03.19",
+      "opponent": "Viruchess",
+      "white": "Viruchess",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "A46: Indian Game Yusupov Rubinstein System",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/166159211804"
+    },
+    {
+      "index": 928,
+      "date": "2026.03.19",
+      "opponent": "u1311",
+      "white": "sergioquesadas",
+      "black": "u1311",
+      "result": "unknown",
+      "opening": "A40: English Defense",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/166159465688"
+    },
+    {
+      "index": 929,
+      "date": "2026.03.19",
+      "opponent": "KarimElfaramawy",
+      "white": "sergioquesadas",
+      "black": "KarimElfaramawy",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System 2...Nf6 3.e3 Bf5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/166160633882"
     }
   ]
 }

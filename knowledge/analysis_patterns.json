@@ -1,6 +1,6 @@
 {
-  "total_games_analyzed": 926,
-  "date_generated": "2026-03-19T06:49:51.772208",
+  "total_games_analyzed": 930,
+  "date_generated": "2026-03-20T06:45:00.704869",
   "weaknesses": {
     "identified_weaknesses": [
       {
@@ -39,7 +39,7 @@
         "loss_rate": 60.0
       }
     ],
-    "total_issues": 24
+    "total_issues": 25
   },
   "opening_performance": {
     "white": {
@@ -52,12 +52,12 @@
         "loss_rate": 50.0
       },
       "ECO A40": {
-        "wins": 15,
+        "wins": 16,
         "losses": 6,
         "draws": 0,
-        "total": 21,
-        "win_rate": 71.4,
-        "loss_rate": 28.6
+        "total": 22,
+        "win_rate": 72.7,
+        "loss_rate": 27.3
       },
       "ECO C21": {
         "wins": 1,
@@ -205,11 +205,11 @@
       },
       "ECO D00": {
         "wins": 37,
-        "losses": 18,
+        "losses": 19,
         "draws": 1,
-        "total": 56,
-        "win_rate": 66.1,
-        "loss_rate": 32.1
+        "total": 57,
+        "win_rate": 64.9,
+        "loss_rate": 33.3
       },
       "ECO C55": {
         "wins": 1,
@@ -679,11 +679,11 @@
       },
       "ECO C45": {
         "wins": 17,
-        "losses": 7,
+        "losses": 8,
         "draws": 1,
-        "total": 25,
-        "win_rate": 68.0,
-        "loss_rate": 28.0
+        "total": 26,
+        "win_rate": 65.4,
+        "loss_rate": 30.8
       },
       "ECO B20": {
         "wins": 2,
@@ -1054,12 +1054,12 @@
         "loss_rate": 33.3
       },
       "ECO A46": {
-        "wins": 1,
+        "wins": 2,
         "losses": 3,
         "draws": 0,
-        "total": 4,
-        "win_rate": 25.0,
-        "loss_rate": 75.0
+        "total": 5,
+        "win_rate": 40.0,
+        "loss_rate": 60.0
       },
       "ECO A02": {
         "wins": 1,
@@ -1121,10 +1121,10 @@
   },
   "time_control_stats": {
     "rapid": {
-      "wins": 484,
-      "losses": 393,
+      "wins": 486,
+      "losses": 395,
       "draws": 36,
-      "total": 913,
+      "total": 917,
       "win_rate": 53.0
     },
     "daily": {

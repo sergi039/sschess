@@ -4,6 +4,10 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
+| 2026-03-19 | KarimElfaramawy | 1530 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/166160633882) |
+| 2026-03-19 | u1311 | 1503 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/166159465688) |
+| 2026-03-19 | Viruchess | 1516 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/166159211804) |
+| 2026-03-19 | RAJSTCSTM | 1515 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/166158339270) |
 | 2026-03-18 | JocicNebojsa66 | 1510 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/166114136178) |
 | 2026-03-12 | SylwiaPerla | 1500 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/165858019316) |
 | 2026-03-12 | SammC037 | 1500 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/165857119574) |
@@ -20,14 +24,10 @@
 | 2026-02-25 | jperezgue | 1566 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/165196865868) |
 | 2026-02-25 | sunnyd50 | 1597 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/165196011350) |
 | 2026-02-25 | msdwyer89 | 1603 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/165193069258) |
-| 2026-02-25 | chyankov | 1632 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/165191836306) |
-| 2026-02-25 | chyankov | 1625 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/165191428752) |
-| 2026-02-25 | ldv75 | 1592 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/165185356966) |
-| 2026-02-25 | Thooooooooooomaaaaaaaaaas | 1612 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/165184490836) |
 
 
 ## Quick Stats from Recent Games
 
-- **Record:** 4W / 15L / 1D
-- **Win rate:** 20.0%
-- **Most faced:** chyankov (2 games)
+- **Record:** 5W / 14L / 1D
+- **Win rate:** 25.0%
+- **Most faced:** KarimElfaramawy (1 games)
