@@ -4,6 +4,7 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
+| 2026-03-21 | blaise250 | 1540 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/166227637390) |
 | 2026-03-19 | KarimElfaramawy | 1530 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/166160633882) |
 | 2026-03-19 | u1311 | 1503 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/166159465688) |
 | 2026-03-19 | Viruchess | 1516 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/166159211804) |
@@ -23,11 +24,10 @@
 | 2026-02-28 | Slightlybetterforwhite | 1608 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/165316325178) |
 | 2026-02-25 | jperezgue | 1566 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/165196865868) |
 | 2026-02-25 | sunnyd50 | 1597 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/165196011350) |
-| 2026-02-25 | msdwyer89 | 1603 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/165193069258) |
 
 
 ## Quick Stats from Recent Games
 
 - **Record:** 5W / 14L / 1D
 - **Win rate:** 25.0%
-- **Most faced:** KarimElfaramawy (1 games)
+- **Most faced:** blaise250 (1 games)

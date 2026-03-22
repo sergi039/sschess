@@ -1,6 +1,6 @@
 {
-  "total_games": 930,
-  "last_update": "2026-03-21T06:34:30.061626",
+  "total_games": 931,
+  "last_update": "2026-03-22T06:41:23.448524",
   "games_index": [
     {
       "index": 0,
@@ -10231,6 +10231,17 @@
       "opening": "D00: Queens Pawn Opening Accelerated London System 2...Nf6 3.e3 Bf5",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/166160633882"
+    },
+    {
+      "index": 930,
+      "date": "2026.03.21",
+      "opponent": "blaise250",
+      "white": "blaise250",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "A20: English Opening Kings English Variation 2.e3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/166227637390"
     }
   ]
 }
