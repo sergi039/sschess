@@ -1,6 +1,6 @@
 {
-  "total_games": 931,
-  "last_update": "2026-03-22T06:41:23.448524",
+  "total_games": 933,
+  "last_update": "2026-03-23T07:01:28.305404",
   "games_index": [
     {
       "index": 0,
@@ -10242,6 +10242,28 @@
       "opening": "A20: English Opening Kings English Variation 2.e3",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/166227637390"
+    },
+    {
+      "index": 931,
+      "date": "2026.03.22",
+      "opponent": "farid198888",
+      "white": "sergioquesadas",
+      "black": "farid198888",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/166290289334"
+    },
+    {
+      "index": 932,
+      "date": "2026.03.22",
+      "opponent": "ben12375",
+      "white": "ben12375",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "D02: Queens Pawn Opening Zukertort Chigorin Variation",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/166297681810"
     }
   ]
 }

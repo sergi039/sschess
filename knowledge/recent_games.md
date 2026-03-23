@@ -4,6 +4,8 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
+| 2026-03-22 | ben12375 | 1542 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/166297681810) |
+| 2026-03-22 | farid198888 | 1525 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/166290289334) |
 | 2026-03-21 | blaise250 | 1540 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/166227637390) |
 | 2026-03-19 | KarimElfaramawy | 1530 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/166160633882) |
 | 2026-03-19 | u1311 | 1503 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/166159465688) |
@@ -22,12 +24,10 @@
 | 2026-02-28 | asiahmondal | 1599 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/165318506410) |
 | 2026-02-28 | Donkatbogan | 1550 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/165316538244) |
 | 2026-02-28 | Slightlybetterforwhite | 1608 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/165316325178) |
-| 2026-02-25 | jperezgue | 1566 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/165196865868) |
-| 2026-02-25 | sunnyd50 | 1597 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/165196011350) |
 
 
 ## Quick Stats from Recent Games
 
-- **Record:** 5W / 14L / 1D
-- **Win rate:** 25.0%
-- **Most faced:** blaise250 (1 games)
+- **Record:** 6W / 13L / 1D
+- **Win rate:** 30.0%
+- **Most faced:** ben12375 (1 games)
