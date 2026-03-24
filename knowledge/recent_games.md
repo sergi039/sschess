@@ -4,6 +4,11 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
+| 2026-03-23 | biswaroopghosh | 1538 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/166321112560) |
+| 2026-03-23 | tommgullik | 1520 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/166319416876) |
+| 2026-03-23 | Hacker0411 | 1527 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/166318351376) |
+| 2026-03-23 | Halfsquad123 | 1503 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/166316944058) |
+| 2026-03-23 | Ramil_MB | 1528 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/166314914922) |
 | 2026-03-22 | ben12375 | 1542 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/166297681810) |
 | 2026-03-22 | farid198888 | 1525 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/166290289334) |
 | 2026-03-21 | blaise250 | 1540 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/166227637390) |
@@ -19,15 +24,10 @@
 | 2026-02-28 | Gordonbloeh | 1557 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/165332305576) |
 | 2026-02-28 | ariwik | 1537 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/165326103610) |
 | 2026-02-28 | CHIRocket | 1564 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/165325430258) |
-| 2026-02-28 | maiorski | 1553 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/165324169862) |
-| 2026-02-28 | ruelmejz | 1570 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/165320355422) |
-| 2026-02-28 | asiahmondal | 1599 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/165318506410) |
-| 2026-02-28 | Donkatbogan | 1550 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/165316538244) |
-| 2026-02-28 | Slightlybetterforwhite | 1608 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/165316325178) |
 
 
 ## Quick Stats from Recent Games
 
-- **Record:** 6W / 13L / 1D
-- **Win rate:** 30.0%
-- **Most faced:** ben12375 (1 games)
+- **Record:** 10W / 9L / 1D
+- **Win rate:** 50.0%
+- **Most faced:** biswaroopghosh (1 games)

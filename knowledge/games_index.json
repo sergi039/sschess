@@ -1,6 +1,6 @@
 {
-  "total_games": 933,
-  "last_update": "2026-03-23T07:01:28.305404",
+  "total_games": 938,
+  "last_update": "2026-03-24T06:56:02.537337",
   "games_index": [
     {
       "index": 0,
@@ -10264,6 +10264,61 @@
       "opening": "D02: Queens Pawn Opening Zukertort Chigorin Variation",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/166297681810"
+    },
+    {
+      "index": 933,
+      "date": "2026.03.23",
+      "opponent": "Ramil_MB",
+      "white": "sergioquesadas",
+      "black": "Ramil_MB",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/166314914922"
+    },
+    {
+      "index": 934,
+      "date": "2026.03.23",
+      "opponent": "Halfsquad123",
+      "white": "Halfsquad123",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C55: Italian Game Two Knights Defense",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/166316944058"
+    },
+    {
+      "index": 935,
+      "date": "2026.03.23",
+      "opponent": "Hacker0411",
+      "white": "Hacker0411",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C22: Center Game Accepted Paulsen Berger Variation 5.Bd2",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/166318351376"
+    },
+    {
+      "index": 936,
+      "date": "2026.03.23",
+      "opponent": "tommgullik",
+      "white": "sergioquesadas",
+      "black": "tommgullik",
+      "result": "unknown",
+      "opening": "A45: Indian Game 2.Bf4 e6 3.e3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/166319416876"
+    },
+    {
+      "index": 937,
+      "date": "2026.03.23",
+      "opponent": "biswaroopghosh",
+      "white": "biswaroopghosh",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "D04: Colle System 3...Bg4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/166321112560"
     }
   ]
 }
