@@ -1,6 +1,6 @@
 {
-  "total_games": 938,
-  "last_update": "2026-03-26T07:00:21.383267",
+  "total_games": 940,
+  "last_update": "2026-03-27T06:59:07.813430",
   "games_index": [
     {
       "index": 0,
@@ -10319,6 +10319,28 @@
       "opening": "D04: Colle System 3...Bg4",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/166321112560"
+    },
+    {
+      "index": 938,
+      "date": "2026.03.26",
+      "opponent": "Ivan_Basso",
+      "white": "sergioquesadas",
+      "black": "Ivan_Basso",
+      "result": "unknown",
+      "opening": "D02: Queens Pawn Opening Zukertort Chigorin Variation 3.Bf4 Nf6 4.e3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/166469630102"
+    },
+    {
+      "index": 939,
+      "date": "2026.03.26",
+      "opponent": "Nicholas10422",
+      "white": "Nicholas10422",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "A01: Nimzowitsch Larsen Attack Modern Variation 2.Bb2 Nc6 3.e3 d5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/166474860006"
     }
   ]
 }

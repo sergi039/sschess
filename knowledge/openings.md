@@ -1,6 +1,6 @@
 # Opening Repertoire Analysis
 
-*Based on 938 games*
+*Based on 940 games*
 
 ## Playing as White
 
