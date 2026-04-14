@@ -4,6 +4,11 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
+| 2026-04-13 | Pedro_Alfil | 1548 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/167272711694) |
+| 2026-04-13 | rafones0413 | 1528 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/167272294492) |
+| 2026-04-13 | trczapre | 1544 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/167271207844) |
+| 2026-04-13 | Shihab1727 | 1503 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/167270541526) |
+| 2026-04-13 | fore_runner | 1530 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/167266313410) |
 | 2026-03-26 | Nicholas10422 | 1542 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/166474860006) |
 | 2026-03-26 | Ivan_Basso | 1585 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/166469630102) |
 | 2026-03-23 | biswaroopghosh | 1538 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/166321112560) |
@@ -19,15 +24,10 @@
 | 2026-03-19 | Viruchess | 1516 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/166159211804) |
 | 2026-03-19 | RAJSTCSTM | 1515 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/166158339270) |
 | 2026-03-18 | JocicNebojsa66 | 1510 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/166114136178) |
-| 2026-03-12 | SylwiaPerla | 1500 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/165858019316) |
-| 2026-03-12 | SammC037 | 1500 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/165857119574) |
-| 2026-03-11 | Mmartin122 | 1519 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/165811696702) |
-| 2026-02-28 | Remus_Dan | 1531 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/165332510474) |
-| 2026-02-28 | Gordonbloeh | 1557 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/165332305576) |
 
 
 ## Quick Stats from Recent Games
 
-- **Record:** 10W / 9L / 1D
-- **Win rate:** 50.0%
-- **Most faced:** Nicholas10422 (1 games)
+- **Record:** 11W / 9L / 0D
+- **Win rate:** 55.0%
+- **Most faced:** Pedro_Alfil (1 games)

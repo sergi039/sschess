@@ -1,6 +1,6 @@
 {
-  "total_games": 940,
-  "last_update": "2026-04-13T07:51:43.975549",
+  "total_games": 945,
+  "last_update": "2026-04-14T07:21:08.858627",
   "games_index": [
     {
       "index": 0,
@@ -10341,6 +10341,61 @@
       "opening": "A01: Nimzowitsch Larsen Attack Modern Variation 2.Bb2 Nc6 3.e3 d5",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/166474860006"
+    },
+    {
+      "index": 940,
+      "date": "2026.04.13",
+      "opponent": "fore_runner",
+      "white": "sergioquesadas",
+      "black": "fore_runner",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System 2...Bf5 3.e3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167266313410"
+    },
+    {
+      "index": 941,
+      "date": "2026.04.13",
+      "opponent": "Shihab1727",
+      "white": "sergioquesadas",
+      "black": "Shihab1727",
+      "result": "unknown",
+      "opening": "A40: Queens Pawn Opening Horwitz Defense 2.Bf4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167270541526"
+    },
+    {
+      "index": 942,
+      "date": "2026.04.13",
+      "opponent": "trczapre",
+      "white": "trczapre",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C57: Italian Game Knight Attack Fritz Variation 6.c3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167271207844"
+    },
+    {
+      "index": 943,
+      "date": "2026.04.13",
+      "opponent": "rafones0413",
+      "white": "sergioquesadas",
+      "black": "rafones0413",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System...3.e3 c5 4.c3 Qb6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167272294492"
+    },
+    {
+      "index": 944,
+      "date": "2026.04.13",
+      "opponent": "Pedro_Alfil",
+      "white": "sergioquesadas",
+      "black": "Pedro_Alfil",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167272711694"
     }
   ]
 }

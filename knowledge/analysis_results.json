@@ -1,7 +1,7 @@
 {
   "username": "sergioquesadas",
-  "total_games": 940,
-  "analysis_date": "2026-04-13T07:51:43.941416",
+  "total_games": 945,
+  "analysis_date": "2026-04-14T07:21:08.823604",
   "openings": {
     "white": {
       "ECO C43": {
@@ -13,12 +13,12 @@
         "loss_rate": 50.0
       },
       "ECO A40": {
-        "wins": 16,
+        "wins": 17,
         "losses": 6,
         "draws": 0,
-        "total": 22,
-        "win_rate": 72.7,
-        "loss_rate": 27.3
+        "total": 23,
+        "win_rate": 73.9,
+        "loss_rate": 26.1
       },
       "ECO C21": {
         "wins": 1,
@@ -165,12 +165,12 @@
         "loss_rate": 53.1
       },
       "ECO D00": {
-        "wins": 39,
-        "losses": 19,
+        "wins": 40,
+        "losses": 21,
         "draws": 1,
-        "total": 59,
-        "win_rate": 66.1,
-        "loss_rate": 32.2
+        "total": 62,
+        "win_rate": 64.5,
+        "loss_rate": 33.9
       },
       "ECO C55": {
         "wins": 1,
@@ -776,11 +776,11 @@
       },
       "ECO C57": {
         "wins": 10,
-        "losses": 8,
+        "losses": 9,
         "draws": 1,
-        "total": 19,
-        "win_rate": 52.6,
-        "loss_rate": 42.1
+        "total": 20,
+        "win_rate": 50.0,
+        "loss_rate": 45.0
       },
       "ECO C26": {
         "wins": 3,
@@ -1082,11 +1082,11 @@
   },
   "time_controls": {
     "rapid": {
-      "wins": 492,
-      "losses": 399,
+      "wins": 494,
+      "losses": 402,
       "draws": 36,
-      "total": 927,
-      "win_rate": 53.1
+      "total": 932,
+      "win_rate": 53.0
     },
     "daily": {
       "wins": 10,
@@ -1097,7 +1097,7 @@
     }
   },
   "time_usage": {
-    "timeouts": 42,
+    "timeouts": 44,
     "timeout_games": [
       {
         "url": "https://www.chess.com/game/live/144628473252",
@@ -1126,10 +1126,10 @@
       }
     ],
     "ending_types": {
-      "win": 502,
-      "resigned": 250,
+      "win": 504,
+      "resigned": 251,
       "checkmated": 108,
-      "timeout": 42,
+      "timeout": 44,
       "repetition": 16,
       "stalemate": 9,
       "insufficient": 7,
@@ -1140,10 +1140,10 @@
   },
   "rating_progress": {
     "current_ratings": {
-      "rapid": 1538,
+      "rapid": 1530,
       "daily": 1040
     },
-    "total_games_tracked": 940
+    "total_games_tracked": 945
   },
   "weaknesses": {
     "identified_weaknesses": [
