@@ -1,6 +1,6 @@
 {
   "username": "sergioquesadas",
-  "last_update": "2026-04-14T07:21:08.772308",
+  "last_update": "2026-04-15T07:21:22.319657",
   "games": [
     {
       "url": "https://www.chess.com/game/live/144438554796",
@@ -29910,7 +29910,7 @@
         "uuid": "e8531020-75e3-11ed-aaa7-57673ccc69fb"
       },
       "eco": "https://www.chess.com/openings/Queens-Pawn-Opening-Accelerated-London-System-2...Bf5-3.e3",
-      "fetched_at": "2026-04-14T07:21:08.771404",
+      "fetched_at": "2026-04-15T07:21:22.318918",
       "archive_url": "https://api.chess.com/pub/player/sergioquesadas/games/2026/04"
     },
     {
@@ -29944,7 +29944,7 @@
         "uuid": "a534559c-ddb9-11f0-b3a1-f9f1f8550d42"
       },
       "eco": "https://www.chess.com/openings/Queens-Pawn-Opening-Horwitz-Defense-2.Bf4",
-      "fetched_at": "2026-04-14T07:21:08.771777",
+      "fetched_at": "2026-04-15T07:21:22.319283",
       "archive_url": "https://api.chess.com/pub/player/sergioquesadas/games/2026/04"
     },
     {
@@ -29978,7 +29978,7 @@
         "uuid": "234ae0e0-c941-11ec-ae32-69d4f91dc464"
       },
       "eco": "https://www.chess.com/openings/Italian-Game-Knight-Attack-Fritz-Variation-6.c3",
-      "fetched_at": "2026-04-14T07:21:08.771910",
+      "fetched_at": "2026-04-15T07:21:22.319379",
       "archive_url": "https://api.chess.com/pub/player/sergioquesadas/games/2026/04"
     },
     {
@@ -30008,7 +30008,7 @@
         "uuid": "b652d010-7fc2-11f0-8d6c-218168f92f7a"
       },
       "eco": "https://www.chess.com/openings/Queens-Pawn-Opening-Accelerated-London-System...3.e3-c5-4.c3-Qb6",
-      "fetched_at": "2026-04-14T07:21:08.772049",
+      "fetched_at": "2026-04-15T07:21:22.319472",
       "archive_url": "https://api.chess.com/pub/player/sergioquesadas/games/2026/04"
     },
     {
@@ -30038,7 +30038,7 @@
         "uuid": "c142198c-36b0-11eb-8956-53a7f6850d91"
       },
       "eco": "https://www.chess.com/openings/Queens-Pawn-Opening-Accelerated-London-System",
-      "fetched_at": "2026-04-14T07:21:08.772173",
+      "fetched_at": "2026-04-15T07:21:22.319560",
       "archive_url": "https://api.chess.com/pub/player/sergioquesadas/games/2026/04"
     }
   ],
