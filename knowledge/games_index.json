@@ -1,6 +1,6 @@
 {
-  "total_games": 945,
-  "last_update": "2026-04-16T07:21:47.857733",
+  "total_games": 946,
+  "last_update": "2026-04-17T07:23:00.868936",
   "games_index": [
     {
       "index": 0,
@@ -10396,6 +10396,17 @@
       "opening": "D00: Queens Pawn Opening Accelerated London System",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/167272711694"
+    },
+    {
+      "index": 945,
+      "date": "2026.04.16",
+      "opponent": "Klevis743",
+      "white": "Klevis743",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C28: Vienna Game Falkbeer Vienna Gambit 3...d6 4.Nf3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167382204438"
     }
   ]
 }

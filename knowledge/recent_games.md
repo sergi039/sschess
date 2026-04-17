@@ -4,6 +4,7 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
+| 2026-04-16 | Klevis743 | 1531 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/167382204438) |
 | 2026-04-13 | Pedro_Alfil | 1548 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/167272711694) |
 | 2026-04-13 | rafones0413 | 1528 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/167272294492) |
 | 2026-04-13 | trczapre | 1544 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/167271207844) |
@@ -23,11 +24,10 @@
 | 2026-03-19 | u1311 | 1503 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/166159465688) |
 | 2026-03-19 | Viruchess | 1516 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/166159211804) |
 | 2026-03-19 | RAJSTCSTM | 1515 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/166158339270) |
-| 2026-03-18 | JocicNebojsa66 | 1510 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/166114136178) |
 
 
 ## Quick Stats from Recent Games
 
-- **Record:** 11W / 9L / 0D
-- **Win rate:** 55.0%
-- **Most faced:** Pedro_Alfil (1 games)
+- **Record:** 10W / 10L / 0D
+- **Win rate:** 50.0%
+- **Most faced:** Klevis743 (1 games)

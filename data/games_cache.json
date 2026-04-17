@@ -1,6 +1,6 @@
 {
   "username": "sergioquesadas",
-  "last_update": "2026-04-16T07:21:47.776506",
+  "last_update": "2026-04-17T07:23:00.787581",
   "games": [
     {
       "url": "https://www.chess.com/game/live/144438554796",
@@ -30039,6 +30039,36 @@
       },
       "eco": "https://www.chess.com/openings/Queens-Pawn-Opening-Accelerated-London-System",
       "fetched_at": "2026-04-15T07:21:22.319560",
+      "archive_url": "https://api.chess.com/pub/player/sergioquesadas/games/2026/04"
+    },
+    {
+      "url": "https://www.chess.com/game/live/167382204438",
+      "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2026.04.16\"]\n[Round \"-\"]\n[White \"Klevis743\"]\n[Black \"sergioquesadas\"]\n[Result \"1-0\"]\n[CurrentPosition \"6rk/ppp5/3qPp1Q/8/3b2B1/2NP4/PPP3PP/4R2K b - - 0 23\"]\n[Timezone \"UTC\"]\n[ECO \"C28\"]\n[ECOUrl \"https://www.chess.com/openings/Vienna-Game-Falkbeer-Vienna-Gambit-3...d6-4.Nf3\"]\n[UTCDate \"2026.04.16\"]\n[UTCTime \"09:09:41\"]\n[WhiteElo \"1531\"]\n[BlackElo \"1522\"]\n[TimeControl \"600\"]\n[Termination \"Klevis743 won by checkmate\"]\n[StartTime \"09:09:41\"]\n[EndDate \"2026.04.16\"]\n[EndTime \"09:16:36\"]\n[Link \"https://www.chess.com/game/live/167382204438\"]\n\n1. e4 {[%clk 0:09:59.4]} 1... e5 {[%clk 0:09:52.4]} 2. Nc3 {[%clk 0:09:58.4]} 2... Nf6 {[%clk 0:09:45.5]} 3. f4 {[%clk 0:09:57.5]} 3... d6 {[%clk 0:09:34.4]} 4. Nf3 {[%clk 0:09:53.4]} 4... Bg4 {[%clk 0:09:26]} 5. Be2 {[%clk 0:09:39.8]} 5... Nc6 {[%clk 0:09:15.5]} 6. O-O {[%clk 0:09:38.1]} 6... Be7 {[%clk 0:09:04.3]} 7. fxe5 {[%clk 0:09:36.8]} 7... dxe5 {[%clk 0:08:55.9]} 8. d3 {[%clk 0:09:35.2]} 8... O-O {[%clk 0:08:49.4]} 9. Qe1 {[%clk 0:09:26.5]} 9... Bc5+ {[%clk 0:08:30.6]} 10. Kh1 {[%clk 0:09:24.4]} 10... h6 {[%clk 0:08:21]} 11. Qg3 {[%clk 0:09:20.1]} 11... Nh5 {[%clk 0:07:19]} 12. Qxg4 {[%clk 0:09:17.8]} 12... Nf4 {[%clk 0:07:16]} 13. Bxf4 {[%clk 0:09:16.4]} 13... exf4 {[%clk 0:07:14.3]} 14. Qxf4 {[%clk 0:09:14.4]} 14... Nd4 {[%clk 0:06:22.3]} 15. Nxd4 {[%clk 0:09:11.6]} 15... Bxd4 {[%clk 0:06:20.7]} 16. e5 {[%clk 0:08:39.2]} 16... Re8 {[%clk 0:06:14.8]} 17. Qxf7+ {[%clk 0:08:34.3]} 17... Kh8 {[%clk 0:06:10.4]} 18. e6 {[%clk 0:08:14.6]} 18... Qd6 {[%clk 0:05:54.5]} 19. Bg4 {[%clk 0:08:06.1]} 19... Rf8 {[%clk 0:05:46.2]} 20. Qg6 {[%clk 0:07:53.8]} 20... Rf6 {[%clk 0:05:40.7]} 21. Rxf6 {[%clk 0:07:52.5]} 21... gxf6 {[%clk 0:05:38.1]} 22. Re1 {[%clk 0:07:49.1]} 22... Rg8 {[%clk 0:05:30.8]} 23. Qxh6# {[%clk 0:07:40.7]} 1-0\n",
+      "time_control": "600",
+      "end_time": 1776330996,
+      "rated": true,
+      "tcn": "mC0Kbs!TnDZRgv6Efm5Qeg90DKRKlt8!de0Igh3VewTNwENDcDKDEDQBvBIBCK98D1!?KS7RmE891U9TfT2Tae4!UV",
+      "uuid": "00586ae1-3974-11f1-a550-663b5e01000f",
+      "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+      "fen": "6rk/ppp5/3qPp1Q/8/3b2B1/2NP4/PPP3PP/4R2K b - - 0 23",
+      "time_class": "rapid",
+      "rules": "chess",
+      "white": {
+        "rating": 1531,
+        "result": "win",
+        "@id": "https://api.chess.com/pub/player/klevis743",
+        "username": "Klevis743",
+        "uuid": "9a6374d0-1245-11f0-b340-8fbd6e1da693"
+      },
+      "black": {
+        "rating": 1522,
+        "result": "checkmated",
+        "@id": "https://api.chess.com/pub/player/sergioquesadas",
+        "username": "sergioquesadas",
+        "uuid": "234ae0e0-c941-11ec-ae32-69d4f91dc464"
+      },
+      "eco": "https://www.chess.com/openings/Vienna-Game-Falkbeer-Vienna-Gambit-3...d6-4.Nf3",
+      "fetched_at": "2026-04-17T07:23:00.787478",
       "archive_url": "https://api.chess.com/pub/player/sergioquesadas/games/2026/04"
     }
   ],
