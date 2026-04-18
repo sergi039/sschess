@@ -1,6 +1,6 @@
 {
-  "total_games": 946,
-  "last_update": "2026-04-17T07:23:00.868936",
+  "total_games": 947,
+  "last_update": "2026-04-18T06:58:58.948121",
   "games_index": [
     {
       "index": 0,
@@ -10407,6 +10407,17 @@
       "opening": "C28: Vienna Game Falkbeer Vienna Gambit 3...d6 4.Nf3",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/167382204438"
+    },
+    {
+      "index": 946,
+      "date": "2026.04.17",
+      "opponent": "masadesp",
+      "white": "masadesp",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System 2...Nf6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167430843420"
     }
   ]
 }
