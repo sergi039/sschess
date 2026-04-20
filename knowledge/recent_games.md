@@ -4,6 +4,7 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
+| 2026-04-19 | AbuOsama2018 | 1516 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/167518707886) |
 | 2026-04-17 | masadesp | 1550 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/167430843420) |
 | 2026-04-16 | Klevis743 | 1531 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/167382204438) |
 | 2026-04-13 | Pedro_Alfil | 1548 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/167272711694) |
@@ -23,11 +24,10 @@
 | 2026-03-21 | blaise250 | 1540 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/166227637390) |
 | 2026-03-19 | KarimElfaramawy | 1530 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/166160633882) |
 | 2026-03-19 | u1311 | 1503 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/166159465688) |
-| 2026-03-19 | Viruchess | 1516 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/166159211804) |
 
 
 ## Quick Stats from Recent Games
 
-- **Record:** 10W / 10L / 0D
-- **Win rate:** 50.0%
-- **Most faced:** masadesp (1 games)
+- **Record:** 9W / 11L / 0D
+- **Win rate:** 45.0%
+- **Most faced:** AbuOsama2018 (1 games)

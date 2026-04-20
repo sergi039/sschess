@@ -1,6 +1,6 @@
 {
-  "total_games": 947,
-  "last_update": "2026-04-19T07:09:45.986925",
+  "total_games": 948,
+  "last_update": "2026-04-20T07:55:12.059933",
   "games_index": [
     {
       "index": 0,
@@ -10418,6 +10418,17 @@
       "opening": "D00: Queens Pawn Opening Accelerated London System 2...Nf6",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/167430843420"
+    },
+    {
+      "index": 947,
+      "date": "2026.04.19",
+      "opponent": "AbuOsama2018",
+      "white": "AbuOsama2018",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "B02: Alekhines Defense Normal Variation 3.Nf3 d6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167518707886"
     }
   ]
 }
