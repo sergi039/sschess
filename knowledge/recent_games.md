@@ -4,6 +4,10 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
+| 2026-04-20 | Mdw005 | 1504 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/167570736644) |
+| 2026-04-20 | zchow88 | 1506 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/167569685880) |
+| 2026-04-20 | roipamungkas | 1516 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/167569155758) |
+| 2026-04-20 | subashphy1 | 1497 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/167568209104) |
 | 2026-04-19 | AbuOsama2018 | 1516 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/167518707886) |
 | 2026-04-17 | masadesp | 1550 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/167430843420) |
 | 2026-04-16 | Klevis743 | 1531 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/167382204438) |
@@ -20,14 +24,10 @@
 | 2026-03-23 | Halfsquad123 | 1503 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/166316944058) |
 | 2026-03-23 | Ramil_MB | 1528 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/166314914922) |
 | 2026-03-22 | ben12375 | 1542 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/166297681810) |
-| 2026-03-22 | farid198888 | 1525 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/166290289334) |
-| 2026-03-21 | blaise250 | 1540 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/166227637390) |
-| 2026-03-19 | KarimElfaramawy | 1530 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/166160633882) |
-| 2026-03-19 | u1311 | 1503 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/166159465688) |
 
 
 ## Quick Stats from Recent Games
 
-- **Record:** 9W / 11L / 0D
-- **Win rate:** 45.0%
-- **Most faced:** AbuOsama2018 (1 games)
+- **Record:** 8W / 11L / 1D
+- **Win rate:** 40.0%
+- **Most faced:** Mdw005 (1 games)

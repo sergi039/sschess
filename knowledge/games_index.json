@@ -1,6 +1,6 @@
 {
-  "total_games": 948,
-  "last_update": "2026-04-20T07:55:12.059933",
+  "total_games": 952,
+  "last_update": "2026-04-21T07:24:54.962905",
   "games_index": [
     {
       "index": 0,
@@ -10429,6 +10429,50 @@
       "opening": "B02: Alekhines Defense Normal Variation 3.Nf3 d6",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/167518707886"
+    },
+    {
+      "index": 948,
+      "date": "2026.04.20",
+      "opponent": "subashphy1",
+      "white": "sergioquesadas",
+      "black": "subashphy1",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System 2...Nf6 3.e3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167568209104"
+    },
+    {
+      "index": 949,
+      "date": "2026.04.20",
+      "opponent": "roipamungkas",
+      "white": "sergioquesadas",
+      "black": "roipamungkas",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System 2...Nf6 3.e3 c6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167569155758"
+    },
+    {
+      "index": 950,
+      "date": "2026.04.20",
+      "opponent": "zchow88",
+      "white": "sergioquesadas",
+      "black": "zchow88",
+      "result": "unknown",
+      "opening": "A48: Indian Game East Indian London System 3...Bg7 4.e3 O O",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167569685880"
+    },
+    {
+      "index": 951,
+      "date": "2026.04.20",
+      "opponent": "Mdw005",
+      "white": "Mdw005",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C23: Bishops Opening 2...Nc6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167570736644"
     }
   ]
 }
