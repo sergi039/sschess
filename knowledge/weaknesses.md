@@ -7,8 +7,8 @@
 ### 1. Problematic Opening (Black)
 
 **Opening:** ECO C60
-- Games played: 6
-- Loss rate: 83.3%
+- Games played: 7
+- Loss rate: 85.7%
 
 **Recommendation:** Consider studying this opening more deeply or switching to an alternative.
 

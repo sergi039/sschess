@@ -1,6 +1,6 @@
 {
-  "total_games": 952,
-  "last_update": "2026-04-21T07:24:54.962905",
+  "total_games": 956,
+  "last_update": "2026-04-22T07:22:51.126215",
   "games_index": [
     {
       "index": 0,
@@ -10473,6 +10473,50 @@
       "opening": "C23: Bishops Opening 2...Nc6",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/167570736644"
+    },
+    {
+      "index": 952,
+      "date": "2026.04.21",
+      "opponent": "ericADO",
+      "white": "ericADO",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C28: Bishops Opening Berlin Vienna Hybrid Variation 4...Bb4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167609348518"
+    },
+    {
+      "index": 953,
+      "date": "2026.04.21",
+      "opponent": "andrewlarin",
+      "white": "sergioquesadas",
+      "black": "andrewlarin",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System 2...Nf6 3.e3 Bf5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167636938588"
+    },
+    {
+      "index": 954,
+      "date": "2026.04.21",
+      "opponent": "saketh1101",
+      "white": "saketh1101",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C55: Italian Game Two Knights Modern Bishops Opening 4...Be7 5.c3 d6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167637178882"
+    },
+    {
+      "index": 955,
+      "date": "2026.04.21",
+      "opponent": "kanizui",
+      "white": "kanizui",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C60: Ruy Lopez Opening",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167637696580"
     }
   ]
 }

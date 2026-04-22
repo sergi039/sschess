@@ -4,6 +4,10 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
+| 2026-04-21 | kanizui | 1485 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/167637696580) |
+| 2026-04-21 | saketh1101 | 1513 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/167637178882) |
+| 2026-04-21 | andrewlarin | 1497 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/167636938588) |
+| 2026-04-21 | ericADO | 1514 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/167609348518) |
 | 2026-04-20 | Mdw005 | 1504 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/167570736644) |
 | 2026-04-20 | zchow88 | 1506 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/167569685880) |
 | 2026-04-20 | roipamungkas | 1516 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/167569155758) |
@@ -20,14 +24,10 @@
 | 2026-03-26 | Ivan_Basso | 1585 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/166469630102) |
 | 2026-03-23 | biswaroopghosh | 1538 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/166321112560) |
 | 2026-03-23 | tommgullik | 1520 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/166319416876) |
-| 2026-03-23 | Hacker0411 | 1527 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/166318351376) |
-| 2026-03-23 | Halfsquad123 | 1503 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/166316944058) |
-| 2026-03-23 | Ramil_MB | 1528 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/166314914922) |
-| 2026-03-22 | ben12375 | 1542 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/166297681810) |
 
 
 ## Quick Stats from Recent Games
 
-- **Record:** 8W / 11L / 1D
-- **Win rate:** 40.0%
-- **Most faced:** Mdw005 (1 games)
+- **Record:** 6W / 13L / 1D
+- **Win rate:** 30.0%
+- **Most faced:** kanizui (1 games)
