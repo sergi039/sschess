@@ -1,6 +1,6 @@
 {
-  "total_games": 956,
-  "last_update": "2026-04-22T07:22:51.126215",
+  "total_games": 963,
+  "last_update": "2026-04-23T07:25:35.641182",
   "games_index": [
     {
       "index": 0,
@@ -10517,6 +10517,83 @@
       "opening": "C60: Ruy Lopez Opening",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/167637696580"
+    },
+    {
+      "index": 956,
+      "date": "2026.04.22",
+      "opponent": "kitzchess1",
+      "white": "sergioquesadas",
+      "black": "kitzchess1",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System 2...Nf6 3.e3 Bg4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167668047670"
+    },
+    {
+      "index": 957,
+      "date": "2026.04.22",
+      "opponent": "romario30071979y",
+      "white": "romario30071979y",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "A45: Indian Game 2.Bf4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167668759424"
+    },
+    {
+      "index": 958,
+      "date": "2026.04.22",
+      "opponent": "flashgame64",
+      "white": "sergioquesadas",
+      "black": "flashgame64",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System 2...Bf5 3.e3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167669417644"
+    },
+    {
+      "index": 959,
+      "date": "2026.04.22",
+      "opponent": "russelltie",
+      "white": "sergioquesadas",
+      "black": "russelltie",
+      "result": "unknown",
+      "opening": "A46: Indian Game London System...4.c3 b6 5.e3 Bb7",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167676601150"
+    },
+    {
+      "index": 960,
+      "date": "2026.04.22",
+      "opponent": "Nikoskakb",
+      "white": "sergioquesadas",
+      "black": "Nikoskakb",
+      "result": "unknown",
+      "opening": "A40: Englund Gambit 2.dxe5 Nc6 3.Nf3 Qe7",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167677306788"
+    },
+    {
+      "index": 961,
+      "date": "2026.04.22",
+      "opponent": "yehonatan1515",
+      "white": "yehonatan1515",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C55: Italian Game Two Knights Modern Bishops Opening 4...d5 5.exd5 Nxd5 6.O O",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167677379776"
+    },
+    {
+      "index": 962,
+      "date": "2026.04.22",
+      "opponent": "RichyMeles",
+      "white": "RichyMeles",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C57: Italian Game Knight Attack Fritz Variation",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167677607612"
     }
   ]
 }
