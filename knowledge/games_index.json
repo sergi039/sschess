@@ -1,6 +1,6 @@
 {
-  "total_games": 963,
-  "last_update": "2026-04-23T07:25:35.641182",
+  "total_games": 982,
+  "last_update": "2026-04-24T07:51:44.374782",
   "games_index": [
     {
       "index": 0,
@@ -10594,6 +10594,215 @@
       "opening": "C57: Italian Game Knight Attack Fritz Variation",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/167677607612"
+    },
+    {
+      "index": 963,
+      "date": "2026.04.23",
+      "opponent": "x212zfinestx",
+      "white": "x212zfinestx",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "B02: Alekhines Defense Two Pawns Attack 3...Nb6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167702104468"
+    },
+    {
+      "index": 964,
+      "date": "2026.04.23",
+      "opponent": "FRDRCKZ",
+      "white": "sergioquesadas",
+      "black": "FRDRCKZ",
+      "result": "unknown",
+      "opening": "D02: London System 3...c5 4.c3 e6 5.e3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167702748036"
+    },
+    {
+      "index": 965,
+      "date": "2026.04.23",
+      "opponent": "SilkySmoos",
+      "white": "sergioquesadas",
+      "black": "SilkySmoos",
+      "result": "unknown",
+      "opening": "D02: London System 3...c6 4.e3 Bg4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167703494200"
+    },
+    {
+      "index": 966,
+      "date": "2026.04.23",
+      "opponent": "gautam_singh10",
+      "white": "gautam_singh10",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "B00: Nimzowitsch Defense",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167703571664"
+    },
+    {
+      "index": 967,
+      "date": "2026.04.23",
+      "opponent": "Clearviewco",
+      "white": "sergioquesadas",
+      "black": "Clearviewco",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167703900706"
+    },
+    {
+      "index": 968,
+      "date": "2026.04.23",
+      "opponent": "amirbeer7",
+      "white": "amirbeer7",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C23: Bishops Opening 2...Nc6 3.d3 Nf6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167705009340"
+    },
+    {
+      "index": 969,
+      "date": "2026.04.23",
+      "opponent": "hermantjokrowibowo",
+      "white": "sergioquesadas",
+      "black": "hermantjokrowibowo",
+      "result": "unknown",
+      "opening": "A45: Indian Game 2.Bf4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167708274800"
+    },
+    {
+      "index": 970,
+      "date": "2026.04.23",
+      "opponent": "Veero77",
+      "white": "sergioquesadas",
+      "black": "Veero77",
+      "result": "unknown",
+      "opening": "A48: Indian Game East Indian London System 3...Bg7 4.e3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167708870120"
+    },
+    {
+      "index": 971,
+      "date": "2026.04.23",
+      "opponent": "kim_06",
+      "white": "kim_06",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C44: Ponziani Opening Jaenisch Breyer Opening 4...d5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167709925690"
+    },
+    {
+      "index": 972,
+      "date": "2026.04.23",
+      "opponent": "BaterVarouqa",
+      "white": "BaterVarouqa",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C33: Kings Gambit Accepted Bishops Gambit Maurian Defense",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167710409798"
+    },
+    {
+      "index": 973,
+      "date": "2026.04.23",
+      "opponent": "TheStormix",
+      "white": "sergioquesadas",
+      "black": "TheStormix",
+      "result": "unknown",
+      "opening": "A48: Indian Game East Indian London System 3...Bg7 4.e3 O O",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167710570782"
+    },
+    {
+      "index": 974,
+      "date": "2026.04.23",
+      "opponent": "Chayanmane123",
+      "white": "Chayanmane123",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C42: Petrovs Defense 3.d3 Nc6 4.Be2",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167713816114"
+    },
+    {
+      "index": 975,
+      "date": "2026.04.23",
+      "opponent": "blmes",
+      "white": "sergioquesadas",
+      "black": "blmes",
+      "result": "unknown",
+      "opening": "A40: Englund Gambit",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167714411850"
+    },
+    {
+      "index": 976,
+      "date": "2026.04.23",
+      "opponent": "Htoo-Khant-Kyaw",
+      "white": "Htoo-Khant-Kyaw",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "A45: Indian Game 2.Bf4 d6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167714709188"
+    },
+    {
+      "index": 977,
+      "date": "2026.04.23",
+      "opponent": "doggydogdogruf",
+      "white": "sergioquesadas",
+      "black": "doggydogdogruf",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System 2...Nf6 3.e3 Bf5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167715054706"
+    },
+    {
+      "index": 978,
+      "date": "2026.04.23",
+      "opponent": "marlon_zapata",
+      "white": "marlon_zapata",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C50: Giuoco Piano Game Four Knights Game",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167715883706"
+    },
+    {
+      "index": 979,
+      "date": "2026.04.23",
+      "opponent": "nikey20",
+      "white": "nikey20",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C45: Scotch Game 3...exd4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167718160190"
+    },
+    {
+      "index": 980,
+      "date": "2026.04.23",
+      "opponent": "fatale80",
+      "white": "fatale80",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "A13: English Opening Neo Catalan Defense Accepted",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167718904680"
+    },
+    {
+      "index": 981,
+      "date": "2026.04.23",
+      "opponent": "fatale80",
+      "white": "sergioquesadas",
+      "black": "fatale80",
+      "result": "unknown",
+      "opening": "A43: Old Benoni Defense 2.dxc5 e6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167719571166"
     }
   ]
 }
