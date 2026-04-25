@@ -1,6 +1,6 @@
 {
-  "total_games": 982,
-  "last_update": "2026-04-24T07:51:44.374782",
+  "total_games": 984,
+  "last_update": "2026-04-25T07:04:53.485090",
   "games_index": [
     {
       "index": 0,
@@ -10803,6 +10803,28 @@
       "opening": "A43: Old Benoni Defense 2.dxc5 e6",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/167719571166"
+    },
+    {
+      "index": 982,
+      "date": "2026.04.24",
+      "opponent": "DIMAAAAASSS",
+      "white": "DIMAAAAASSS",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C25: Vienna Game Max Lange Defense",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167754402934"
+    },
+    {
+      "index": 983,
+      "date": "2026.04.24",
+      "opponent": "darkomaric123",
+      "white": "sergioquesadas",
+      "black": "darkomaric123",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167756376914"
     }
   ]
 }

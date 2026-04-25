@@ -4,6 +4,8 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
+| 2026-04-24 | darkomaric123 | 1463 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/167756376914) |
+| 2026-04-24 | DIMAAAAASSS | 1507 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/167754402934) |
 | 2026-04-23 | fatale80 | 1467 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/167719571166) |
 | 2026-04-23 | fatale80 | 1455 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/167718904680) |
 | 2026-04-23 | nikey20 | 1488 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/167718160190) |
@@ -22,12 +24,10 @@
 | 2026-04-23 | gautam_singh10 | 1459 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/167703571664) |
 | 2026-04-23 | SilkySmoos | 1487 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/167703494200) |
 | 2026-04-23 | FRDRCKZ | 1470 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/167702748036) |
-| 2026-04-23 | x212zfinestx | 1495 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/167702104468) |
-| 2026-04-22 | RichyMeles | 1478 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/167677607612) |
 
 
 ## Quick Stats from Recent Games
 
-- **Record:** 10W / 9L / 1D
+- **Record:** 10W / 10L / 0D
 - **Win rate:** 50.0%
 - **Most faced:** fatale80 (2 games)
