@@ -1,6 +1,6 @@
 {
-  "total_games": 984,
-  "last_update": "2026-04-26T07:19:09.896327",
+  "total_games": 988,
+  "last_update": "2026-04-27T08:10:17.186755",
   "games_index": [
     {
       "index": 0,
@@ -10825,6 +10825,50 @@
       "opening": "D00: Queens Pawn Opening Accelerated London System",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/167756376914"
+    },
+    {
+      "index": 984,
+      "date": "2026.04.26",
+      "opponent": "Alisher25101981",
+      "white": "sergioquesadas",
+      "black": "Alisher25101981",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System 2...Bf5 3.e3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167846676690"
+    },
+    {
+      "index": 985,
+      "date": "2026.04.26",
+      "opponent": "Robi12503567",
+      "white": "sergioquesadas",
+      "black": "Robi12503567",
+      "result": "unknown",
+      "opening": "A45: Indian Game 2.Bf4 g6 3.e3 Bg7",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167847753248"
+    },
+    {
+      "index": 986,
+      "date": "2026.04.26",
+      "opponent": "17fabian",
+      "white": "17fabian",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "B07: Pirc Defense 2.d4 Nf6 3.Nc3 Nc6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167848523140"
+    },
+    {
+      "index": 987,
+      "date": "2026.04.26",
+      "opponent": "fahadxmusa",
+      "white": "sergioquesadas",
+      "black": "fahadxmusa",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System 2...c6 3.e3 Bf5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167849945324"
     }
   ]
 }

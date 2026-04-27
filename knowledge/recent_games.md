@@ -4,6 +4,10 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
+| 2026-04-26 | fahadxmusa | 1455 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/167849945324) |
+| 2026-04-26 | 17fabian | 1470 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/167848523140) |
+| 2026-04-26 | Robi12503567 | 1490 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/167847753248) |
+| 2026-04-26 | Alisher25101981 | 1457 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/167846676690) |
 | 2026-04-24 | darkomaric123 | 1463 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/167756376914) |
 | 2026-04-24 | DIMAAAAASSS | 1507 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/167754402934) |
 | 2026-04-23 | fatale80 | 1467 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/167719571166) |
@@ -20,10 +24,6 @@
 | 2026-04-23 | Veero77 | 1484 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/167708870120) |
 | 2026-04-23 | hermantjokrowibowo | 1472 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/167708274800) |
 | 2026-04-23 | amirbeer7 | 1429 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/167705009340) |
-| 2026-04-23 | Clearviewco | 1462 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/167703900706) |
-| 2026-04-23 | gautam_singh10 | 1459 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/167703571664) |
-| 2026-04-23 | SilkySmoos | 1487 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/167703494200) |
-| 2026-04-23 | FRDRCKZ | 1470 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/167702748036) |
 
 
 ## Quick Stats from Recent Games
