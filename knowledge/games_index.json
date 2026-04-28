@@ -1,6 +1,6 @@
 {
-  "total_games": 988,
-  "last_update": "2026-04-27T08:10:17.186755",
+  "total_games": 1010,
+  "last_update": "2026-04-28T08:11:41.393041",
   "games_index": [
     {
       "index": 0,
@@ -10869,6 +10869,248 @@
       "opening": "D00: Queens Pawn Opening Accelerated London System 2...c6 3.e3 Bf5",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/167849945324"
+    },
+    {
+      "index": 988,
+      "date": "2026.04.27",
+      "opponent": "adinata81",
+      "white": "adinata81",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C55: Italian Game Two Knights Modern Bishops Opening 4...d5 5.exd5 Nxd5 6.O O",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167888061520"
+    },
+    {
+      "index": 989,
+      "date": "2026.04.27",
+      "opponent": "RArthur73",
+      "white": "RArthur73",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C57: Italian Game Knight Attack Fritz Variation",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167888331734"
+    },
+    {
+      "index": 990,
+      "date": "2026.04.27",
+      "opponent": "pepsancho",
+      "white": "sergioquesadas",
+      "black": "pepsancho",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167889167754"
+    },
+    {
+      "index": 991,
+      "date": "2026.04.27",
+      "opponent": "A_Few_Small_Beers",
+      "white": "A_Few_Small_Beers",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C55: Italian Game Two Knights Modern Bishops Opening 4...h6 5.Nc3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167890212296"
+    },
+    {
+      "index": 992,
+      "date": "2026.04.27",
+      "opponent": "zvone76",
+      "white": "zvone76",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C47: Four Knights Game Italian Variation",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167891134898"
+    },
+    {
+      "index": 993,
+      "date": "2026.04.27",
+      "opponent": "Ionut36_2001",
+      "white": "sergioquesadas",
+      "black": "Ionut36_2001",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System 2...Nf6 3.e3 c6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167891600256"
+    },
+    {
+      "index": 994,
+      "date": "2026.04.27",
+      "opponent": "saurabhj_11",
+      "white": "sergioquesadas",
+      "black": "saurabhj_11",
+      "result": "unknown",
+      "opening": "A40: Queens Pawn Opening Horwitz Defense 2.Bf4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167892079978"
+    },
+    {
+      "index": 995,
+      "date": "2026.04.27",
+      "opponent": "saurabhj_11",
+      "white": "saurabhj_11",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C62: Ruy Lopez Opening Old Steinitz Defense",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167892658676"
+    },
+    {
+      "index": 996,
+      "date": "2026.04.27",
+      "opponent": "Windlooper",
+      "white": "sergioquesadas",
+      "black": "Windlooper",
+      "result": "unknown",
+      "opening": "A45: Indian Game...4.Nf3 Bd6 5.Bg3 O O 6.Bd3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167893872110"
+    },
+    {
+      "index": 997,
+      "date": "2026.04.27",
+      "opponent": "Myronnn_Bolitarrr",
+      "white": "sergioquesadas",
+      "black": "Myronnn_Bolitarrr",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System 2...e6 3.e3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167894709316"
+    },
+    {
+      "index": 998,
+      "date": "2026.04.27",
+      "opponent": "saadayadayad",
+      "white": "saadayadayad",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C55: Italian Game Two Knights Defense 4.O O",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167896543346"
+    },
+    {
+      "index": 999,
+      "date": "2026.04.27",
+      "opponent": "012482kpl",
+      "white": "012482kpl",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C23: Bishops Opening 2...Nc6 3.d3 Nf6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167897040200"
+    },
+    {
+      "index": 1000,
+      "date": "2026.04.27",
+      "opponent": "TRS_tbz",
+      "white": "sergioquesadas",
+      "black": "TRS_tbz",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System 2...Nf6 3.e3 g6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167903274164"
+    },
+    {
+      "index": 1001,
+      "date": "2026.04.27",
+      "opponent": "vlo",
+      "white": "vlo",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C23: Bishops Opening 2...Nc6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167903851800"
+    },
+    {
+      "index": 1002,
+      "date": "2026.04.27",
+      "opponent": "peripoyo",
+      "white": "sergioquesadas",
+      "black": "peripoyo",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System 2...Nf6 3.e3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167904006048"
+    },
+    {
+      "index": 1003,
+      "date": "2026.04.27",
+      "opponent": "Nuhi66",
+      "white": "Nuhi66",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C47: Four Knights Game Italian Variation",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167904350726"
+    },
+    {
+      "index": 1004,
+      "date": "2026.04.27",
+      "opponent": "Heropras1989",
+      "white": "Heropras1989",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C47: Four Knights Game Scotch Oxford Gambit",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167904886722"
+    },
+    {
+      "index": 1005,
+      "date": "2026.04.27",
+      "opponent": "felipe_chaux_3",
+      "white": "sergioquesadas",
+      "black": "felipe_chaux_3",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System 2...Bf5 3.e3 e6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167905862808"
+    },
+    {
+      "index": 1006,
+      "date": "2026.04.27",
+      "opponent": "IlGenti",
+      "white": "sergioquesadas",
+      "black": "IlGenti",
+      "result": "unknown",
+      "opening": "A45: Indian Game 2.Bf4 g6 3.e3 Bg7",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167912418906"
+    },
+    {
+      "index": 1007,
+      "date": "2026.04.27",
+      "opponent": "EnPassaBro",
+      "white": "sergioquesadas",
+      "black": "EnPassaBro",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167913623980"
+    },
+    {
+      "index": 1008,
+      "date": "2026.04.27",
+      "opponent": "maxkemmerer",
+      "white": "maxkemmerer",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "A01: Nimzowitsch Larsen Attack Modern Variation 2.Bb2 Nc6 3.e3 d6 4.c4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167914052558"
+    },
+    {
+      "index": 1009,
+      "date": "2026.04.27",
+      "opponent": "deni12345553566",
+      "white": "sergioquesadas",
+      "black": "deni12345553566",
+      "result": "unknown",
+      "opening": "D30: Queens Gambit Declined 3.cxd5 exd5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167914878074"
     }
   ]
 }

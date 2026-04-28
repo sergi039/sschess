@@ -1,33 +1,33 @@
 # Opening Repertoire Analysis
 
-*Based on 988 games*
+*Based on 1010 games*
 
 ## Playing as White
 
 | Opening | Games | Win Rate | Performance |
 |---------|-------|----------|-------------|
-| ECO D00 | 72 | 59.7% | 🟡 43W/27L/2D |
+| ECO D00 | 79 | 59.5% | 🟡 47W/30L/2D |
 | ECO C45 | 49 | 46.9% | 🟡 23W/26L/0D |
 | ECO C41 | 41 | 51.2% | 🟡 21W/20L/0D |
 | ECO B01 | 30 | 63.3% | 🟢 19W/8L/3D |
 | ECO C40 | 29 | 65.5% | 🟢 19W/8L/2D |
-| ECO A40 | 25 | 72.0% | 🟢 18W/7L/0D |
+| ECO A40 | 26 | 73.1% | 🟢 19W/7L/0D |
 | ECO C53 | 22 | 54.5% | 🟡 12W/8L/2D |
 | ECO C50 | 21 | 57.1% | 🟡 12W/8L/1D |
 | ECO B00 | 20 | 50.0% | 🟡 10W/9L/1D |
-| ECO A45 | 17 | 58.8% | 🟡 10W/7L/0D |
+| ECO A45 | 19 | 63.2% | 🟢 12W/7L/0D |
 
 ## Playing as Black
 
 | Opening | Games | Win Rate | Performance |
 |---------|-------|----------|-------------|
-| ECO C47 | 37 | 56.8% | 🟢 21W/13L/3D |
+| ECO C47 | 40 | 55.0% | 🟢 22W/15L/3D |
+| ECO C55 | 39 | 48.7% | 🟡 19W/20L/0D |
 | ECO C20 | 36 | 52.8% | 🟡 19W/15L/2D |
-| ECO C55 | 36 | 44.4% | 🟡 16W/20L/0D |
 | ECO B01 | 33 | 60.6% | 🟢 20W/13L/0D |
 | ECO D00 | 30 | 43.3% | 🟡 13W/15L/2D |
 | ECO C45 | 27 | 66.7% | 🟢 18W/8L/1D |
-| ECO C57 | 21 | 47.6% | 🟡 10W/9L/2D |
+| ECO C57 | 22 | 50.0% | 🟡 11W/9L/2D |
 | ECO A00 | 20 | 50.0% | 🟡 10W/9L/1D |
 | ECO C50 | 18 | 50.0% | 🟡 9W/9L/0D |
 | ECO D02 | 14 | 42.9% | 🟡 6W/8L/0D |
@@ -35,8 +35,8 @@
 ## Recommendations
 
 ### Continue with White:
-- **ECO D00** - 59.7% win rate in 72 games
+- **ECO D00** - 59.5% win rate in 79 games
 
 ### Continue with Black:
-- **ECO C47** - 56.8% win rate in 37 games
+- **ECO C47** - 55.0% win rate in 40 games
 
