@@ -1,6 +1,6 @@
 {
-  "total_games": 1010,
-  "last_update": "2026-04-28T08:11:41.393041",
+  "total_games": 1015,
+  "last_update": "2026-04-29T08:04:54.178496",
   "games_index": [
     {
       "index": 0,
@@ -11111,6 +11111,61 @@
       "opening": "D30: Queens Gambit Declined 3.cxd5 exd5",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/167914878074"
+    },
+    {
+      "index": 1010,
+      "date": "2026.04.28",
+      "opponent": "Frank_B00th",
+      "white": "Frank_B00th",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C65: Ruy Lopez Opening Berlin Defense",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167936034950"
+    },
+    {
+      "index": 1011,
+      "date": "2026.04.28",
+      "opponent": "WantedEstino",
+      "white": "WantedEstino",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "A45: Indian Game 2.Bf4 d6 3.e3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167936369846"
+    },
+    {
+      "index": 1012,
+      "date": "2026.04.28",
+      "opponent": "Kublakhan77",
+      "white": "sergioquesadas",
+      "black": "Kublakhan77",
+      "result": "unknown",
+      "opening": "B10: Caro Kann Defense",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167949121458"
+    },
+    {
+      "index": 1013,
+      "date": "2026.04.28",
+      "opponent": "buhainy",
+      "white": "buhainy",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C55: Italian Game Two Knights Defense",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167949478766"
+    },
+    {
+      "index": 1014,
+      "date": "2026.04.28",
+      "opponent": "AntonioBQU",
+      "white": "AntonioBQU",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "A16: English Opening Anglo Indian Queens Knight Variation 2...Nc6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167962312080"
     }
   ]
 }

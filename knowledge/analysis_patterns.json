@@ -1,6 +1,6 @@
 {
-  "total_games_analyzed": 1010,
-  "date_generated": "2026-04-28T08:11:41.411629",
+  "total_games_analyzed": 1015,
+  "date_generated": "2026-04-29T08:04:54.197106",
   "weaknesses": {
     "identified_weaknesses": [
       {
@@ -149,11 +149,11 @@
       },
       "ECO B10": {
         "wins": 5,
-        "losses": 5,
+        "losses": 6,
         "draws": 0,
-        "total": 10,
-        "win_rate": 50.0,
-        "loss_rate": 50.0
+        "total": 11,
+        "win_rate": 45.5,
+        "loss_rate": 54.5
       },
       "ECO C44": {
         "wins": 2,
@@ -727,11 +727,11 @@
       },
       "ECO C55": {
         "wins": 19,
-        "losses": 20,
+        "losses": 21,
         "draws": 0,
-        "total": 39,
-        "win_rate": 48.7,
-        "loss_rate": 51.3
+        "total": 40,
+        "win_rate": 47.5,
+        "loss_rate": 52.5
       },
       "ECO B02": {
         "wins": 5,
@@ -871,9 +871,9 @@
       },
       "ECO C65": {
         "wins": 0,
-        "losses": 2,
+        "losses": 3,
         "draws": 0,
-        "total": 2,
+        "total": 3,
         "win_rate": 0.0,
         "loss_rate": 100.0
       },
@@ -1086,12 +1086,12 @@
         "loss_rate": 0.0
       },
       "ECO A45": {
-        "wins": 1,
+        "wins": 2,
         "losses": 1,
         "draws": 1,
-        "total": 3,
-        "win_rate": 33.3,
-        "loss_rate": 33.3
+        "total": 4,
+        "win_rate": 50.0,
+        "loss_rate": 25.0
       },
       "ECO D50": {
         "wins": 1,
@@ -1140,16 +1140,24 @@
         "total": 1,
         "win_rate": 100.0,
         "loss_rate": 0.0
+      },
+      "ECO A16": {
+        "wins": 0,
+        "losses": 1,
+        "draws": 0,
+        "total": 1,
+        "win_rate": 0.0,
+        "loss_rate": 100.0
       }
     }
   },
   "time_control_stats": {
     "rapid": {
-      "wins": 526,
-      "losses": 433,
+      "wins": 527,
+      "losses": 437,
       "draws": 38,
-      "total": 997,
-      "win_rate": 52.8
+      "total": 1002,
+      "win_rate": 52.6
     },
     "daily": {
       "wins": 10,
