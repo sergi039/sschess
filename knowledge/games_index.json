@@ -1,6 +1,6 @@
 {
-  "total_games": 1015,
-  "last_update": "2026-04-29T08:04:54.178496",
+  "total_games": 1028,
+  "last_update": "2026-04-30T08:08:36.383875",
   "games_index": [
     {
       "index": 0,
@@ -11166,6 +11166,149 @@
       "opening": "A16: English Opening Anglo Indian Queens Knight Variation 2...Nc6",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/167962312080"
+    },
+    {
+      "index": 1015,
+      "date": "2026.04.29",
+      "opponent": "ClemBer21",
+      "white": "sergioquesadas",
+      "black": "ClemBer21",
+      "result": "unknown",
+      "opening": "D02: London System 3...c5 4.c3 Nc6 5.e3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167980947254"
+    },
+    {
+      "index": 1016,
+      "date": "2026.04.29",
+      "opponent": "TRylo",
+      "white": "sergioquesadas",
+      "black": "TRylo",
+      "result": "unknown",
+      "opening": "D30: Queens Gambit Declined 3.cxd5 exd5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167985509244"
+    },
+    {
+      "index": 1017,
+      "date": "2026.04.29",
+      "opponent": "lotusleafintheocean",
+      "white": "lotusleafintheocean",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "E40: Nimzo Indian Defense Normal Line...5.a3 Be7 6.Nf3 O O",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167985922810"
+    },
+    {
+      "index": 1018,
+      "date": "2026.04.29",
+      "opponent": "aQua_0341",
+      "white": "sergioquesadas",
+      "black": "aQua_0341",
+      "result": "unknown",
+      "opening": "A45: Indian Game 2.Bf4 e6 3.e3 d5 4.Bd3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167989536332"
+    },
+    {
+      "index": 1019,
+      "date": "2026.04.29",
+      "opponent": "gdabhi",
+      "white": "sergioquesadas",
+      "black": "gdabhi",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System...3.e3 c5 4.c3 e6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167989979560"
+    },
+    {
+      "index": 1020,
+      "date": "2026.04.29",
+      "opponent": "ppventura",
+      "white": "ppventura",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C55: Italian Game Two Knights Modern Bishops Opening",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167990736252"
+    },
+    {
+      "index": 1021,
+      "date": "2026.04.29",
+      "opponent": "yeonwoogimotti",
+      "white": "sergioquesadas",
+      "black": "yeonwoogimotti",
+      "result": "unknown",
+      "opening": "A40: Englund Gambit",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167993507498"
+    },
+    {
+      "index": 1022,
+      "date": "2026.04.29",
+      "opponent": "dingusbingusmaster",
+      "white": "dingusbingusmaster",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C28: Bishops Opening Berlin Vienna Hybrid Variation 4...Bb4 5.Nf3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167994014740"
+    },
+    {
+      "index": 1023,
+      "date": "2026.04.29",
+      "opponent": "JulietWhiskey1",
+      "white": "JulietWhiskey1",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Stonewall Attack",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167994273874"
+    },
+    {
+      "index": 1024,
+      "date": "2026.04.29",
+      "opponent": "WAM1Q",
+      "white": "sergioquesadas",
+      "black": "WAM1Q",
+      "result": "unknown",
+      "opening": "D31: Queens Gambit Declined Semi Slav Defense Accelerated Move Order 4.cxd5 exd5 5.Bf4 Nf6 6.e3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167994961440"
+    },
+    {
+      "index": 1025,
+      "date": "2026.04.29",
+      "opponent": "Hotang072",
+      "white": "Hotang072",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C44: Ponziani Opening Jaenisch Breyer Opening 4...d5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/167995591476"
+    },
+    {
+      "index": 1026,
+      "date": "2026.04.29",
+      "opponent": "VKkor",
+      "white": "sergioquesadas",
+      "black": "VKkor",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System 2...Bf5 3.e3 e6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/168007384834"
+    },
+    {
+      "index": 1027,
+      "date": "2026.04.29",
+      "opponent": "David_Idons",
+      "white": "David_Idons",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "A45: Indian Game 2.Bf4 d6 3.Nf3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/168007926122"
     }
   ]
 }
