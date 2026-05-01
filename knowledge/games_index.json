@@ -1,6 +1,6 @@
 {
-  "total_games": 1028,
-  "last_update": "2026-04-30T08:08:36.383875",
+  "total_games": 1029,
+  "last_update": "2026-05-01T08:04:29.887055",
   "games_index": [
     {
       "index": 0,
@@ -11309,6 +11309,17 @@
       "opening": "A45: Indian Game 2.Bf4 d6 3.Nf3",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/168007926122"
+    },
+    {
+      "index": 1028,
+      "date": "2026.05.01",
+      "opponent": "yash-251198",
+      "white": "sergioquesadas",
+      "black": "yash-251198",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System 2...c6 3.e3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/168074294020"
     }
   ]
 }

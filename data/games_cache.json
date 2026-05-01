@@ -1,6 +1,6 @@
 {
   "username": "sergioquesadas",
-  "last_update": "2026-04-30T08:08:36.272312",
+  "last_update": "2026-05-01T08:04:29.796626",
   "games": [
     {
       "url": "https://www.chess.com/game/live/144438554796",
@@ -32658,6 +32658,40 @@
       "eco": "https://www.chess.com/openings/Indian-Game-2.Bf4-d6-3.Nf3",
       "fetched_at": "2026-04-30T08:08:36.272194",
       "archive_url": "https://api.chess.com/pub/player/sergioquesadas/games/2026/04"
+    },
+    {
+      "url": "https://www.chess.com/game/live/168074294020",
+      "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2026.05.01\"]\n[Round \"-\"]\n[White \"sergioquesadas\"]\n[Black \"yash-251198\"]\n[Result \"1-0\"]\n[CurrentPosition \"r2qk2r/1p2bnp1/p3R1Q1/3p2pp/3P3P/1NP3B1/PP3PP1/R5K1 w kq - 1 22\"]\n[Timezone \"UTC\"]\n[ECO \"D00\"]\n[ECOUrl \"https://www.chess.com/openings/Queens-Pawn-Opening-Accelerated-London-System-2...c6-3.e3\"]\n[UTCDate \"2026.05.01\"]\n[UTCTime \"07:48:10\"]\n[WhiteElo \"1536\"]\n[BlackElo \"1521\"]\n[TimeControl \"600\"]\n[Termination \"sergioquesadas won by resignation\"]\n[StartTime \"07:48:10\"]\n[EndDate \"2026.05.01\"]\n[EndTime \"07:52:21\"]\n[Link \"https://www.chess.com/game/live/168074294020\"]\n\n1. d4 {[%clk 0:09:58.2]} 1... c6 {[%clk 0:09:58.7]} 2. Bf4 {[%clk 0:09:53.8]} 2... d5 {[%clk 0:09:58.6]} 3. e3 {[%clk 0:09:52.5]} 3... a6 {[%clk 0:09:56.8]} 4. Nf3 {[%clk 0:09:51.6]} 4... Bg4 {[%clk 0:09:54.6]} 5. c3 {[%clk 0:09:50.2]} 5... e6 {[%clk 0:09:51.5]} 6. h3 {[%clk 0:09:48.7]} 6... Bxf3 {[%clk 0:09:50.4]} 7. Qxf3 {[%clk 0:09:46.4]} 7... c5 {[%clk 0:09:50.3]} 8. Nd2 {[%clk 0:09:40.7]} 8... cxd4 {[%clk 0:09:50.2]} 9. exd4 {[%clk 0:09:28.9]} 9... Nc6 {[%clk 0:09:50.1]} 10. Bd3 {[%clk 0:09:12.9]} 10... Nge7 {[%clk 0:09:47.6]} 11. O-O {[%clk 0:09:02.7]} 11... Qb6 {[%clk 0:09:43.6]} 12. Nb3 {[%clk 0:08:54.6]} 12... Ng6 {[%clk 0:09:38]} 13. Bg3 {[%clk 0:08:49.3]} 13... Be7 {[%clk 0:09:27.1]} 14. Rfe1 {[%clk 0:08:41.8]} 14... Nh4 {[%clk 0:09:20.1]} 15. Qg4 {[%clk 0:08:34.5]} 15... Ng6 {[%clk 0:09:15.5]} 16. h4 {[%clk 0:08:26]} 16... h5 {[%clk 0:09:08.2]} 17. Qf3 {[%clk 0:08:17.7]} 17... Nd8 {[%clk 0:09:00.7]} 18. Bxg6 {[%clk 0:07:58.2]} 18... fxg6 {[%clk 0:08:58.4]} 19. Qd3 {[%clk 0:07:40.5]} 19... g5 {[%clk 0:08:56.1]} 20. Qg6+ {[%clk 0:07:32.2]} 20... Nf7 {[%clk 0:08:52.7]} 21. Rxe6 {[%clk 0:07:26.6]} 21... Qd8 {[%clk 0:08:37.8]} 1-0\n",
+      "time_control": "600",
+      "end_time": 1777621941,
+      "rated": true,
+      "accuracies": {
+        "white": 90.82,
+        "black": 76.12
+      },
+      "tcn": "lBYQcDZJmuWOgv6Eks0SpxEvdvQIblIBuB5Qft!0eg7Plr0UDw90feUFvEFUxF3NEvQ7tU1UvtUMtU71eSP7",
+      "uuid": "19925daf-4532-11f1-b750-7a1a4401000f",
+      "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+      "fen": "r2qk2r/1p2bnp1/p3R1Q1/3p2pp/3P3P/1NP3B1/PP3PP1/R5K1 w kq - 1 22",
+      "time_class": "rapid",
+      "rules": "chess",
+      "white": {
+        "rating": 1536,
+        "result": "win",
+        "@id": "https://api.chess.com/pub/player/sergioquesadas",
+        "username": "sergioquesadas",
+        "uuid": "234ae0e0-c941-11ec-ae32-69d4f91dc464"
+      },
+      "black": {
+        "rating": 1521,
+        "result": "resigned",
+        "@id": "https://api.chess.com/pub/player/yash-251198",
+        "username": "yash-251198",
+        "uuid": "94f513bc-bb11-11f0-b202-01b46280a3e0"
+      },
+      "eco": "https://www.chess.com/openings/Queens-Pawn-Opening-Accelerated-London-System-2...c6-3.e3",
+      "fetched_at": "2026-05-01T08:04:29.796265",
+      "archive_url": "https://api.chess.com/pub/player/sergioquesadas/games/2026/05"
     }
   ],
   "archives_fetched": [
@@ -32666,6 +32700,7 @@
     "https://api.chess.com/pub/player/sergioquesadas/games/2025/12",
     "https://api.chess.com/pub/player/sergioquesadas/games/2026/01",
     "https://api.chess.com/pub/player/sergioquesadas/games/2026/02",
-    "https://api.chess.com/pub/player/sergioquesadas/games/2026/03"
+    "https://api.chess.com/pub/player/sergioquesadas/games/2026/03",
+    "https://api.chess.com/pub/player/sergioquesadas/games/2026/04"
   ]
 }
