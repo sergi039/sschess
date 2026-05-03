@@ -1,6 +1,6 @@
 {
-  "total_games": 1034,
-  "last_update": "2026-05-02T06:37:40.647223",
+  "total_games": 1050,
+  "last_update": "2026-05-03T06:50:08.362281",
   "games_index": [
     {
       "index": 0,
@@ -11375,6 +11375,182 @@
       "opening": "C23: Bishops Opening 2...Nc6 3.d3 Nf6",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/168076708118"
+    },
+    {
+      "index": 1034,
+      "date": "2026.05.02",
+      "opponent": "darled1",
+      "white": "sergioquesadas",
+      "black": "darled1",
+      "result": "unknown",
+      "opening": "D02: Queens Pawn Opening Krause Variation...4.Bf4 Nc6 5.e3 Nf6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/168123627522"
+    },
+    {
+      "index": 1035,
+      "date": "2026.05.02",
+      "opponent": "MrSugoi88",
+      "white": "sergioquesadas",
+      "black": "MrSugoi88",
+      "result": "unknown",
+      "opening": "A45: Indian Game 2.Bf4 e6 3.e3 d5 4.Bd3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/168124001580"
+    },
+    {
+      "index": 1036,
+      "date": "2026.05.02",
+      "opponent": "kingofovic",
+      "white": "sergioquesadas",
+      "black": "kingofovic",
+      "result": "unknown",
+      "opening": "A40: Modern Defense with 1 d4 2.Nf3 Bg7 3.Bf4 d6 4.e3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/168124334768"
+    },
+    {
+      "index": 1037,
+      "date": "2026.05.02",
+      "opponent": "hendrosarwoko",
+      "white": "hendrosarwoko",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C30: Kings Gambit Declined Queens Knight Defense 3.Nf3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/168124499070"
+    },
+    {
+      "index": 1038,
+      "date": "2026.05.02",
+      "opponent": "Guddu1234pal",
+      "white": "Guddu1234pal",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "D06: Queens Gambit Declined Marshall Defense...4.e4 Nf6 5.Nc3 e6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/168125092366"
+    },
+    {
+      "index": 1039,
+      "date": "2026.05.02",
+      "opponent": "RahB7",
+      "white": "RahB7",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Stonewall Attack",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/168125283542"
+    },
+    {
+      "index": 1040,
+      "date": "2026.05.02",
+      "opponent": "Theblackjoker",
+      "white": "sergioquesadas",
+      "black": "Theblackjoker",
+      "result": "unknown",
+      "opening": "D02: Queens Pawn Opening Zukertort Variation...3.Bf4 Bf5 4.e3 e6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/168125756088"
+    },
+    {
+      "index": 1041,
+      "date": "2026.05.02",
+      "opponent": "Theblackjoker",
+      "white": "Theblackjoker",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C28: Bishops Opening Berlin Vienna Hybrid Variation 4...Bb4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/168125956746"
+    },
+    {
+      "index": 1042,
+      "date": "2026.05.02",
+      "opponent": "Theblackjoker",
+      "white": "sergioquesadas",
+      "black": "Theblackjoker",
+      "result": "unknown",
+      "opening": "D02: Queens Pawn Opening Zukertort Variation...3.Bf4 Bf5 4.e3 e6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/168126411976"
+    },
+    {
+      "index": 1043,
+      "date": "2026.05.02",
+      "opponent": "jcthierry",
+      "white": "jcthierry",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "D35: Queens Gambit Declined Exchange Variation 4...Nxd5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/168126462042"
+    },
+    {
+      "index": 1044,
+      "date": "2026.05.02",
+      "opponent": "edlandayan",
+      "white": "sergioquesadas",
+      "black": "edlandayan",
+      "result": "unknown",
+      "opening": "D02: Queens Pawn Opening Krause Variation 3.e3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/168126758212"
+    },
+    {
+      "index": 1045,
+      "date": "2026.05.02",
+      "opponent": "USSR068",
+      "white": "sergioquesadas",
+      "black": "USSR068",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/168127124550"
+    },
+    {
+      "index": 1046,
+      "date": "2026.05.02",
+      "opponent": "nta94",
+      "white": "nta94",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "E00: Indian Game East Indian Defense 3.a3 d5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/168130568358"
+    },
+    {
+      "index": 1047,
+      "date": "2026.05.02",
+      "opponent": "sashkodavydenko",
+      "white": "sashkodavydenko",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "A45: Indian Game 2.Bf4 d6 3.e3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/168131515286"
+    },
+    {
+      "index": 1048,
+      "date": "2026.05.02",
+      "opponent": "Vicky2703",
+      "white": "sergioquesadas",
+      "black": "Vicky2703",
+      "result": "unknown",
+      "opening": "D02: London System 3...Bf5 4.e3 e6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/168131685564"
+    },
+    {
+      "index": 1049,
+      "date": "2026.05.02",
+      "opponent": "randlen",
+      "white": "sergioquesadas",
+      "black": "randlen",
+      "result": "unknown",
+      "opening": "A41: Queens Pawn Opening 1...d6 2.Bf4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/168143735986"
     }
   ]
 }
