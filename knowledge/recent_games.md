@@ -4,6 +4,8 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
+| 2026-05-04 | barney421 | 1579 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/168213361030) |
+| 2026-05-04 | lazarogalarraga | 1590 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/168212555076) |
 | 2026-05-03 | det4 | 1611 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/168182434192) |
 | 2026-05-03 | MagnusOnEMI | 1600 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/168182144102) |
 | 2026-05-03 | Rosskopff | 1552 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/168181952416) |
@@ -22,12 +24,10 @@
 | 2026-05-03 | david181196 | 1627 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/168168975902) |
 | 2026-05-03 | nbvs7 | 1625 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/168168665078) |
 | 2026-05-03 | BoskoSRB58 | 1599 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/168166686626) |
-| 2026-05-02 | randlen | 1577 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/168143735986) |
-| 2026-05-02 | Vicky2703 | 1579 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/168131685564) |
 
 
 ## Quick Stats from Recent Games
 
-- **Record:** 11W / 9L / 0D
-- **Win rate:** 55.0%
+- **Record:** 10W / 9L / 1D
+- **Win rate:** 50.0%
 - **Most faced:** tommad74 (2 games)

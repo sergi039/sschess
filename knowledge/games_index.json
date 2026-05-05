@@ -1,6 +1,6 @@
 {
-  "total_games": 1068,
-  "last_update": "2026-05-04T07:00:05.759829",
+  "total_games": 1070,
+  "last_update": "2026-05-05T06:44:14.274252",
   "games_index": [
     {
       "index": 0,
@@ -11749,6 +11749,28 @@
       "opening": "A45: Indian Game...4.Nf3 Bd6 5.Bg3 O O",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/168182434192"
+    },
+    {
+      "index": 1068,
+      "date": "2026.05.04",
+      "opponent": "lazarogalarraga",
+      "white": "lazarogalarraga",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C66: Ruy Lopez Opening Berlin Improved Steinitz Defense 5.Re1 Bd7 6.c3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/168212555076"
+    },
+    {
+      "index": 1069,
+      "date": "2026.05.04",
+      "opponent": "barney421",
+      "white": "sergioquesadas",
+      "black": "barney421",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System 2...Nf6 3.e3 g6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/168213361030"
     }
   ]
 }
