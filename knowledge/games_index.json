@@ -1,6 +1,6 @@
 {
-  "total_games": 1070,
-  "last_update": "2026-05-05T06:44:14.274252",
+  "total_games": 1073,
+  "last_update": "2026-05-06T06:53:08.944398",
   "games_index": [
     {
       "index": 0,
@@ -11771,6 +11771,39 @@
       "opening": "D00: Queens Pawn Opening Accelerated London System 2...Nf6 3.e3 g6",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/168213361030"
+    },
+    {
+      "index": 1070,
+      "date": "2026.05.05",
+      "opponent": "Tchor01",
+      "white": "sergioquesadas",
+      "black": "Tchor01",
+      "result": "unknown",
+      "opening": "A40: Modern Defense with 1 d4...3.Bf4 d6 4.e3 Nf6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/168283526252"
+    },
+    {
+      "index": 1071,
+      "date": "2026.05.05",
+      "opponent": "VasyaKurlya",
+      "white": "VasyaKurlya",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C28: Bishops Opening Berlin Vienna Hybrid Variation 4...Bb4 5.Nf3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/168284601028"
+    },
+    {
+      "index": 1072,
+      "date": "2026.05.05",
+      "opponent": "ramiel1",
+      "white": "ramiel1",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "D02: Queens Pawn Opening Zukertort Chigorin Variation 3.Bf4 Nf6 4.e3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/168287329070"
     }
   ]
 }

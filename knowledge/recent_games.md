@@ -4,6 +4,9 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
+| 2026-05-05 | ramiel1 | 1601 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/168287329070) |
+| 2026-05-05 | VasyaKurlya | 1644 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/168284601028) |
+| 2026-05-05 | Tchor01 | 1601 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/168283526252) |
 | 2026-05-04 | barney421 | 1579 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/168213361030) |
 | 2026-05-04 | lazarogalarraga | 1590 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/168212555076) |
 | 2026-05-03 | det4 | 1611 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/168182434192) |
@@ -21,9 +24,6 @@
 | 2026-05-03 | Tendai1010 | 1583 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/168171868124) |
 | 2026-05-03 | Jithin-JS | 1606 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/168171569622) |
 | 2026-05-03 | kan3ane5 | 1596 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/168169119494) |
-| 2026-05-03 | david181196 | 1627 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/168168975902) |
-| 2026-05-03 | nbvs7 | 1625 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/168168665078) |
-| 2026-05-03 | BoskoSRB58 | 1599 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/168166686626) |
 
 
 ## Quick Stats from Recent Games
