@@ -4,6 +4,12 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
+| 2026-05-06 | KHAYALETHU2008 | 1620 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/168320547580) |
+| 2026-05-06 | KHAYALETHU2008 | 1629 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/168320142184) |
+| 2026-05-06 | KHAYALETHU2008 | 1618 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/168319902772) |
+| 2026-05-06 | KHAYALETHU2008 | 1628 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/168319559748) |
+| 2026-05-06 | Oleksey1980 | 1602 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/168317725390) |
+| 2026-05-06 | EhsanBas | 1590 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/168317210464) |
 | 2026-05-05 | ramiel1 | 1601 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/168287329070) |
 | 2026-05-05 | VasyaKurlya | 1644 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/168284601028) |
 | 2026-05-05 | Tchor01 | 1601 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/168283526252) |
@@ -18,16 +24,10 @@
 | 2026-05-03 | parameshsubramani | 1624 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/168179992442) |
 | 2026-05-03 | tommad74 | 1570 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/168174026166) |
 | 2026-05-03 | tommad74 | 1578 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/168173567684) |
-| 2026-05-03 | mialechat | 1603 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/168173191972) |
-| 2026-05-03 | livero66 | 1597 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/168172580376) |
-| 2026-05-03 | jen3666 | 1594 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/168172462082) |
-| 2026-05-03 | Tendai1010 | 1583 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/168171868124) |
-| 2026-05-03 | Jithin-JS | 1606 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/168171569622) |
-| 2026-05-03 | kan3ane5 | 1596 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/168169119494) |
 
 
 ## Quick Stats from Recent Games
 
-- **Record:** 10W / 9L / 1D
-- **Win rate:** 50.0%
-- **Most faced:** tommad74 (2 games)
+- **Record:** 14W / 5L / 1D
+- **Win rate:** 70.0%
+- **Most faced:** KHAYALETHU2008 (4 games)

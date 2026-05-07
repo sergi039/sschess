@@ -1,6 +1,6 @@
 {
-  "total_games": 1073,
-  "last_update": "2026-05-06T06:53:08.944398",
+  "total_games": 1079,
+  "last_update": "2026-05-07T06:57:55.819423",
   "games_index": [
     {
       "index": 0,
@@ -11804,6 +11804,72 @@
       "opening": "D02: Queens Pawn Opening Zukertort Chigorin Variation 3.Bf4 Nf6 4.e3",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/168287329070"
+    },
+    {
+      "index": 1073,
+      "date": "2026.05.06",
+      "opponent": "EhsanBas",
+      "white": "sergioquesadas",
+      "black": "EhsanBas",
+      "result": "unknown",
+      "opening": "D02: London System...4.e3 Nc6 5.Nbd2 e6 6.c3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/168317210464"
+    },
+    {
+      "index": 1074,
+      "date": "2026.05.06",
+      "opponent": "Oleksey1980",
+      "white": "Oleksey1980",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "A45: Trompowsky Attack",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/168317725390"
+    },
+    {
+      "index": 1075,
+      "date": "2026.05.06",
+      "opponent": "KHAYALETHU2008",
+      "white": "sergioquesadas",
+      "black": "KHAYALETHU2008",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Levitsky Attack",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/168319559748"
+    },
+    {
+      "index": 1076,
+      "date": "2026.05.06",
+      "opponent": "KHAYALETHU2008",
+      "white": "KHAYALETHU2008",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C48: Four Knights Game Spanish Variation 4...d6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/168319902772"
+    },
+    {
+      "index": 1077,
+      "date": "2026.05.06",
+      "opponent": "KHAYALETHU2008",
+      "white": "sergioquesadas",
+      "black": "KHAYALETHU2008",
+      "result": "unknown",
+      "opening": "D02: Queens Pawn Opening Zukertort Chigorin Variation 3.Bf4 Bf5 4.e3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/168320142184"
+    },
+    {
+      "index": 1078,
+      "date": "2026.05.06",
+      "opponent": "KHAYALETHU2008",
+      "white": "KHAYALETHU2008",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C46: Three Knights Opening 3...d6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/168320547580"
     }
   ]
 }
