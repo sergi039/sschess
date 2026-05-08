@@ -1,6 +1,6 @@
 # Opening Repertoire Analysis
 
-*Based on 1079 games*
+*Based on 1083 games*
 
 ## Playing as White
 
@@ -9,7 +9,7 @@
 | ECO D00 | 89 | 60.7% | 🟢 54W/32L/3D |
 | ECO C45 | 49 | 46.9% | 🟡 23W/26L/0D |
 | ECO C41 | 41 | 51.2% | 🟡 21W/20L/0D |
-| ECO A40 | 33 | 72.7% | 🟢 24W/9L/0D |
+| ECO A40 | 34 | 73.5% | 🟢 25W/9L/0D |
 | ECO B01 | 30 | 63.3% | 🟢 19W/8L/3D |
 | ECO C40 | 29 | 65.5% | 🟢 19W/8L/2D |
 | ECO A45 | 24 | 62.5% | 🟢 15W/9L/0D |

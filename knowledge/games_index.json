@@ -1,6 +1,6 @@
 {
-  "total_games": 1079,
-  "last_update": "2026-05-07T06:57:55.819423",
+  "total_games": 1083,
+  "last_update": "2026-05-08T06:34:51.011029",
   "games_index": [
     {
       "index": 0,
@@ -11870,6 +11870,50 @@
       "opening": "C46: Three Knights Opening 3...d6",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/168320547580"
+    },
+    {
+      "index": 1079,
+      "date": "2026.05.07",
+      "opponent": "budi26p",
+      "white": "budi26p",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C30: Kings Gambit 2...d6 3.Nf3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/168364009742"
+    },
+    {
+      "index": 1080,
+      "date": "2026.05.07",
+      "opponent": "budi26p",
+      "white": "sergioquesadas",
+      "black": "budi26p",
+      "result": "unknown",
+      "opening": "A40: Queens Pawn Opening Horwitz Defense 2.Bf4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/168364299514"
+    },
+    {
+      "index": 1081,
+      "date": "2026.05.07",
+      "opponent": "shamsi42",
+      "white": "shamsi42",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "A53: Old Indian Defense 3.Nc3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/168366067126"
+    },
+    {
+      "index": 1082,
+      "date": "2026.05.07",
+      "opponent": "itsmecheckmatee",
+      "white": "itsmecheckmatee",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "A45: Indian Game 2.Bf4 d6 3.Nf3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/168370826326"
     }
   ]
 }
