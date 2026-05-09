@@ -4,6 +4,7 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
+| 2026-05-08 | aj371923 | 1665 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/168416332888) |
 | 2026-05-07 | itsmecheckmatee | 1617 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/168370826326) |
 | 2026-05-07 | shamsi42 | 1671 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/168366067126) |
 | 2026-05-07 | budi26p | 1641 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/168364299514) |
@@ -23,7 +24,6 @@
 | 2026-05-03 | MagnusOnEMI | 1600 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/168182144102) |
 | 2026-05-03 | Rosskopff | 1552 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/168181952416) |
 | 2026-05-03 | miga112 | 1545 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/168181095466) |
-| 2026-05-03 | Flobosthefish | 1591 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/168180836650) |
 
 
 ## Quick Stats from Recent Games

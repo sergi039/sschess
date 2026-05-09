@@ -1,6 +1,6 @@
 {
-  "total_games": 1083,
-  "last_update": "2026-05-08T06:34:51.011029",
+  "total_games": 1084,
+  "last_update": "2026-05-09T06:42:00.411671",
   "games_index": [
     {
       "index": 0,
@@ -11914,6 +11914,17 @@
       "opening": "A45: Indian Game 2.Bf4 d6 3.Nf3",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/168370826326"
+    },
+    {
+      "index": 1083,
+      "date": "2026.05.08",
+      "opponent": "aj371923",
+      "white": "sergioquesadas",
+      "black": "aj371923",
+      "result": "unknown",
+      "opening": "A45: Indian Game...5.Nd2 Bf5 6.Ngf3 e6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/168416332888"
     }
   ]
 }
