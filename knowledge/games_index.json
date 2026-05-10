@@ -1,6 +1,6 @@
 {
-  "total_games": 1084,
-  "last_update": "2026-05-09T06:42:00.411671",
+  "total_games": 1087,
+  "last_update": "2026-05-10T06:53:27.684096",
   "games_index": [
     {
       "index": 0,
@@ -11925,6 +11925,39 @@
       "opening": "A45: Indian Game...5.Nd2 Bf5 6.Ngf3 e6",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/168416332888"
+    },
+    {
+      "index": 1084,
+      "date": "2026.05.09",
+      "opponent": "rebel_369",
+      "white": "sergioquesadas",
+      "black": "rebel_369",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System 2...Nf6 3.e3 g6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/168454340772"
+    },
+    {
+      "index": 1085,
+      "date": "2026.05.09",
+      "opponent": "mohsenhalaj",
+      "white": "mohsenhalaj",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "A45: Trompowsky Attack",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/168458110798"
+    },
+    {
+      "index": 1086,
+      "date": "2026.05.09",
+      "opponent": "mohsenhalaj",
+      "white": "sergioquesadas",
+      "black": "mohsenhalaj",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System 2...Bf5 3.e3 e6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/168458270218"
     }
   ]
 }
