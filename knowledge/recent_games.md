@@ -4,6 +4,13 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
+| 2026-05-11 | KudaTerbanggg | 1616 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/168551839250) |
+| 2026-05-11 | KudaTerbanggg | 1625 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/168551451146) |
+| 2026-05-11 | KudaTerbanggg | 1617 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/168550903434) |
+| 2026-05-11 | flubovci | 1627 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/168549788756) |
+| 2026-05-11 | okobcf | 1614 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/168548889018) |
+| 2026-05-11 | KINGBAVARIA | 1657 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/168548648938) |
+| 2026-05-11 | GuyJRBark | 1665 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/168548184748) |
 | 2026-05-09 | mohsenhalaj | 1612 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/168458270218) |
 | 2026-05-09 | mohsenhalaj | 1620 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/168458110798) |
 | 2026-05-09 | rebel_369 | 1646 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/168454340772) |
@@ -17,17 +24,10 @@
 | 2026-05-06 | KHAYALETHU2008 | 1618 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/168319902772) |
 | 2026-05-06 | KHAYALETHU2008 | 1628 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/168319559748) |
 | 2026-05-06 | Oleksey1980 | 1602 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/168317725390) |
-| 2026-05-06 | EhsanBas | 1590 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/168317210464) |
-| 2026-05-05 | ramiel1 | 1601 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/168287329070) |
-| 2026-05-05 | VasyaKurlya | 1644 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/168284601028) |
-| 2026-05-05 | Tchor01 | 1601 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/168283526252) |
-| 2026-05-04 | barney421 | 1579 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/168213361030) |
-| 2026-05-04 | lazarogalarraga | 1590 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/168212555076) |
-| 2026-05-03 | det4 | 1611 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/168182434192) |
 
 
 ## Quick Stats from Recent Games
 
-- **Record:** 12W / 7L / 1D
-- **Win rate:** 60.0%
+- **Record:** 9W / 11L / 0D
+- **Win rate:** 45.0%
 - **Most faced:** KHAYALETHU2008 (4 games)

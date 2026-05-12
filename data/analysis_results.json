@@ -1,7 +1,7 @@
 {
   "username": "sergioquesadas",
-  "total_games": 1087,
-  "analysis_date": "2026-05-11T07:08:55.864747",
+  "total_games": 1094,
+  "analysis_date": "2026-05-12T06:56:28.992374",
   "openings": {
     "white": {
       "ECO C43": {
@@ -13,12 +13,12 @@
         "loss_rate": 50.0
       },
       "ECO A40": {
-        "wins": 25,
+        "wins": 26,
         "losses": 9,
         "draws": 0,
-        "total": 34,
-        "win_rate": 73.5,
-        "loss_rate": 26.5
+        "total": 35,
+        "win_rate": 74.3,
+        "loss_rate": 25.7
       },
       "ECO C21": {
         "wins": 1,
@@ -166,11 +166,11 @@
       },
       "ECO D00": {
         "wins": 55,
-        "losses": 33,
+        "losses": 34,
         "draws": 3,
-        "total": 91,
-        "win_rate": 60.4,
-        "loss_rate": 36.3
+        "total": 92,
+        "win_rate": 59.8,
+        "loss_rate": 37.0
       },
       "ECO C55": {
         "wins": 1,
@@ -445,12 +445,12 @@
         "loss_rate": 0.0
       },
       "ECO A45": {
-        "wins": 15,
+        "wins": 16,
         "losses": 10,
         "draws": 0,
-        "total": 25,
-        "win_rate": 60.0,
-        "loss_rate": 40.0
+        "total": 26,
+        "win_rate": 61.5,
+        "loss_rate": 38.5
       },
       "ECO C25": {
         "wins": 0,
@@ -688,11 +688,11 @@
       },
       "ECO C30": {
         "wins": 2,
-        "losses": 1,
+        "losses": 2,
         "draws": 0,
-        "total": 3,
-        "win_rate": 66.7,
-        "loss_rate": 33.3
+        "total": 4,
+        "win_rate": 50.0,
+        "loss_rate": 50.0
       },
       "ECO C55": {
         "wins": 20,
@@ -736,11 +736,11 @@
       },
       "ECO C42": {
         "wins": 9,
-        "losses": 2,
+        "losses": 3,
         "draws": 1,
-        "total": 12,
-        "win_rate": 75.0,
-        "loss_rate": 16.7
+        "total": 13,
+        "win_rate": 69.2,
+        "loss_rate": 23.1
       },
       "ECO A23": {
         "wins": 1,
@@ -792,11 +792,11 @@
       },
       "ECO C57": {
         "wins": 11,
-        "losses": 9,
+        "losses": 11,
         "draws": 2,
-        "total": 22,
-        "win_rate": 50.0,
-        "loss_rate": 40.9
+        "total": 24,
+        "win_rate": 45.8,
+        "loss_rate": 45.8
       },
       "ECO C26": {
         "wins": 3,
@@ -1170,11 +1170,11 @@
   },
   "time_controls": {
     "rapid": {
-      "wins": 569,
-      "losses": 464,
+      "wins": 571,
+      "losses": 469,
       "draws": 41,
-      "total": 1074,
-      "win_rate": 53.0
+      "total": 1081,
+      "win_rate": 52.8
     },
     "daily": {
       "wins": 10,
@@ -1185,7 +1185,7 @@
     }
   },
   "time_usage": {
-    "timeouts": 57,
+    "timeouts": 58,
     "timeout_games": [
       {
         "url": "https://www.chess.com/game/live/144628473252",
@@ -1214,10 +1214,10 @@
       }
     ],
     "ending_types": {
-      "win": 579,
-      "resigned": 289,
+      "win": 581,
+      "resigned": 293,
       "checkmated": 118,
-      "timeout": 57,
+      "timeout": 58,
       "repetition": 18,
       "stalemate": 10,
       "insufficient": 8,
@@ -1228,10 +1228,10 @@
   },
   "rating_progress": {
     "current_ratings": {
-      "rapid": 1633,
+      "rapid": 1612,
       "daily": 1040
     },
-    "total_games_tracked": 1087
+    "total_games_tracked": 1094
   },
   "weaknesses": {
     "identified_weaknesses": [
@@ -1271,6 +1271,6 @@
         "loss_rate": 60.0
       }
     ],
-    "total_issues": 28
+    "total_issues": 29
   }
 }
