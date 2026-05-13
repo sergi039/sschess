@@ -1,6 +1,6 @@
 {
-  "total_games": 1094,
-  "last_update": "2026-05-12T06:56:29.031922",
+  "total_games": 1099,
+  "last_update": "2026-05-13T07:00:24.896487",
   "games_index": [
     {
       "index": 0,
@@ -12035,6 +12035,61 @@
       "opening": "A45: Indian Game 2.Bf4 d6 3.e3",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/168551839250"
+    },
+    {
+      "index": 1094,
+      "date": "2026.05.12",
+      "opponent": "Cornier",
+      "white": "sergioquesadas",
+      "black": "Cornier",
+      "result": "unknown",
+      "opening": "A45: Indian Game 2.Bf4 e6 3.e3 b6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/168588464472"
+    },
+    {
+      "index": 1095,
+      "date": "2026.05.12",
+      "opponent": "sakis82",
+      "white": "sakis82",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C55: Scotch Game Scotch Gambit Dubois Reti Perreux Variation 5...d5 6.exd5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/168588749720"
+    },
+    {
+      "index": 1096,
+      "date": "2026.05.12",
+      "opponent": "maxk2002",
+      "white": "sergioquesadas",
+      "black": "maxk2002",
+      "result": "unknown",
+      "opening": "A48: Indian Game East Indian London System 3...Bg7 4.e3 O O",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/168597048882"
+    },
+    {
+      "index": 1097,
+      "date": "2026.05.12",
+      "opponent": "maxk2002",
+      "white": "maxk2002",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C50: Giuoco Piano Game Giuoco Pianissimo Italian Four Knights Variation 5...O O",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/168597674912"
+    },
+    {
+      "index": 1098,
+      "date": "2026.05.12",
+      "opponent": "Vranjak_1962",
+      "white": "sergioquesadas",
+      "black": "Vranjak_1962",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System 2...e6 3.e3 c5 4.c3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/168608417642"
     }
   ]
 }
