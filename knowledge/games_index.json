@@ -1,6 +1,6 @@
 {
-  "total_games": 1103,
-  "last_update": "2026-05-14T06:59:01.166305",
+  "total_games": 1110,
+  "last_update": "2026-05-15T07:04:41.004393",
   "games_index": [
     {
       "index": 0,
@@ -12134,6 +12134,83 @@
       "opening": "C30: Kings Gambit 2...d6 3.Nf3",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/168652852458"
+    },
+    {
+      "index": 1103,
+      "date": "2026.05.14",
+      "opponent": "Lukow84",
+      "white": "sergioquesadas",
+      "black": "Lukow84",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System 2...Bf5 3.e3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/168695245720"
+    },
+    {
+      "index": 1104,
+      "date": "2026.05.14",
+      "opponent": "sonjay1224",
+      "white": "sonjay1224",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "A40: Englund Gambit 2.dxe5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/168695960796"
+    },
+    {
+      "index": 1105,
+      "date": "2026.05.14",
+      "opponent": "BallouneCr",
+      "white": "sergioquesadas",
+      "black": "BallouneCr",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System 2...Nf6 3.e3 Bf5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/168696752870"
+    },
+    {
+      "index": 1106,
+      "date": "2026.05.14",
+      "opponent": "MrClark1",
+      "white": "MrClark1",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C47: Four Knights Game Scotch Accepted Belgrade Gambit 5...Nxe4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/168709539060"
+    },
+    {
+      "index": 1107,
+      "date": "2026.05.14",
+      "opponent": "BSavier",
+      "white": "sergioquesadas",
+      "black": "BSavier",
+      "result": "unknown",
+      "opening": "A48: Indian Game East Indian London System 3...Bg7 4.e3 c5 5.c3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/168710084352"
+    },
+    {
+      "index": 1108,
+      "date": "2026.05.14",
+      "opponent": "romaisaen",
+      "white": "sergioquesadas",
+      "black": "romaisaen",
+      "result": "unknown",
+      "opening": "C62: Ruy Lopez Opening Old Steinitz Defense",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/168710830162"
+    },
+    {
+      "index": 1109,
+      "date": "2026.05.14",
+      "opponent": "Nee-k",
+      "white": "Nee-k",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C47: Four Knights Game",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/168711267290"
     }
   ]
 }
