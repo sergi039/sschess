@@ -1,6 +1,6 @@
 {
-  "total_games": 1115,
-  "last_update": "2026-05-17T06:56:29.996028",
+  "total_games": 1125,
+  "last_update": "2026-05-18T07:19:57.796651",
   "games_index": [
     {
       "index": 0,
@@ -12266,6 +12266,116 @@
       "opening": "C55: Italian Game Two Knights Modern Bishops Opening 4...d5 5.exd5 Nxd5 6.O O",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/168738400372"
+    },
+    {
+      "index": 1115,
+      "date": "2026.05.17",
+      "opponent": "STALLINGRAD1943",
+      "white": "sergioquesadas",
+      "black": "STALLINGRAD1943",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System 2...Nf6 3.e3 c6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/168826250052"
+    },
+    {
+      "index": 1116,
+      "date": "2026.05.17",
+      "opponent": "ooottteeecc",
+      "white": "ooottteeecc",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "B01: Scandinavian Defense 2.exd5 e5 3.dxe6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/168826648856"
+    },
+    {
+      "index": 1117,
+      "date": "2026.05.17",
+      "opponent": "MoldabayU",
+      "white": "MoldabayU",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "A40: Englund Gambit 2.dxe5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/168830191718"
+    },
+    {
+      "index": 1118,
+      "date": "2026.05.17",
+      "opponent": "ZNurlan22",
+      "white": "ZNurlan22",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C55: Italian Game Two Knights Modern Bishops Opening 4...d5 5.exd5 Nxd5 6.O O",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/168830225200"
+    },
+    {
+      "index": 1119,
+      "date": "2026.05.17",
+      "opponent": "AlisheRRRRRRRRRRR",
+      "white": "sergioquesadas",
+      "black": "AlisheRRRRRRRRRRR",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System 2...Nf6 3.e3 Bf5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/168830358022"
+    },
+    {
+      "index": 1120,
+      "date": "2026.05.17",
+      "opponent": "formergay",
+      "white": "sergioquesadas",
+      "black": "formergay",
+      "result": "unknown",
+      "opening": "A80: Dutch Defense 2.Bf4 Nf6 3.e3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/168830617798"
+    },
+    {
+      "index": 1121,
+      "date": "2026.05.17",
+      "opponent": "dendiwicaksono",
+      "white": "dendiwicaksono",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C47: Four Knights Game Italian Variation",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/168830820500"
+    },
+    {
+      "index": 1122,
+      "date": "2026.05.17",
+      "opponent": "sukheeyo",
+      "white": "sukheeyo",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "A40: Englund Gambit",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/168831098002"
+    },
+    {
+      "index": 1123,
+      "date": "2026.05.17",
+      "opponent": "TheBahamout",
+      "white": "sergioquesadas",
+      "black": "TheBahamout",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System 2...e6 3.e3 Bd6 4.Bg3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/168831579086"
+    },
+    {
+      "index": 1124,
+      "date": "2026.05.17",
+      "opponent": "Lutfullayev_ulugbek1991",
+      "white": "sergioquesadas",
+      "black": "Lutfullayev_ulugbek1991",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/168831681902"
     }
   ]
 }

@@ -4,6 +4,16 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
+| 2026-05-17 | Lutfullayev_ulugbek1991 | 1572 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/168831681902) |
+| 2026-05-17 | TheBahamout | 1540 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/168831579086) |
+| 2026-05-17 | sukheeyo | 1540 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/168831098002) |
+| 2026-05-17 | dendiwicaksono | 1553 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/168830820500) |
+| 2026-05-17 | formergay | 1550 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/168830617798) |
+| 2026-05-17 | AlisheRRRRRRRRRRR | 1574 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/168830358022) |
+| 2026-05-17 | ZNurlan22 | 1556 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/168830225200) |
+| 2026-05-17 | MoldabayU | 1593 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/168830191718) |
+| 2026-05-17 | ooottteeecc | 1572 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/168826648856) |
+| 2026-05-17 | STALLINGRAD1943 | 1565 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/168826250052) |
 | 2026-05-15 | Keylanovianti | 1603 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/168738400372) |
 | 2026-05-15 | NeoBeo | 1627 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/168738071388) |
 | 2026-05-15 | JCAH2017 | 1583 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/168736956028) |
@@ -14,20 +24,10 @@
 | 2026-05-14 | BSavier | 1611 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/168710084352) |
 | 2026-05-14 | MrClark1 | 1572 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/168709539060) |
 | 2026-05-14 | BallouneCr | 1609 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/168696752870) |
-| 2026-05-14 | sonjay1224 | 1603 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/168695960796) |
-| 2026-05-14 | Lukow84 | 1573 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/168695245720) |
-| 2026-05-13 | monkligth | 1635 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/168652852458) |
-| 2026-05-13 | monkligth | 1628 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/168652221308) |
-| 2026-05-13 | sidialidalaa | 1615 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/168641529532) |
-| 2026-05-13 | Bchphamtung | 1630 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/168641233096) |
-| 2026-05-12 | Vranjak_1962 | 1590 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/168608417642) |
-| 2026-05-12 | maxk2002 | 1611 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/168597674912) |
-| 2026-05-12 | maxk2002 | 1603 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/168597048882) |
-| 2026-05-12 | sakis82 | 1580 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/168588749720) |
 
 
 ## Quick Stats from Recent Games
 
-- **Record:** 7W / 10L / 3D
-- **Win rate:** 35.0%
-- **Most faced:** monkligth (2 games)
+- **Record:** 6W / 13L / 1D
+- **Win rate:** 30.0%
+- **Most faced:** Lutfullayev_ulugbek1991 (1 games)
