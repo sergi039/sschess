@@ -4,6 +4,11 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
+| 2026-05-18 | Cheg123 | 1512 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/168897590782) |
+| 2026-05-18 | BobimusMaximus | 1524 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/168897491140) |
+| 2026-05-18 | Klaj07 | 1515 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/168897015592) |
+| 2026-05-18 | ProfessorAnton | 1519 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/168896804824) |
+| 2026-05-18 | ElPela111 | 1538 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/168896258970) |
 | 2026-05-17 | Lutfullayev_ulugbek1991 | 1572 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/168831681902) |
 | 2026-05-17 | TheBahamout | 1540 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/168831579086) |
 | 2026-05-17 | sukheeyo | 1540 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/168831098002) |
@@ -19,15 +24,10 @@
 | 2026-05-15 | JCAH2017 | 1583 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/168736956028) |
 | 2026-05-15 | Mgad2020 | 1569 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/168736389438) |
 | 2026-05-15 | Batmaninem | 1583 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/168736177076) |
-| 2026-05-14 | Nee-k | 1563 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/168711267290) |
-| 2026-05-14 | romaisaen | 1560 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/168710830162) |
-| 2026-05-14 | BSavier | 1611 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/168710084352) |
-| 2026-05-14 | MrClark1 | 1572 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/168709539060) |
-| 2026-05-14 | BallouneCr | 1609 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/168696752870) |
 
 
 ## Quick Stats from Recent Games
 
-- **Record:** 6W / 13L / 1D
-- **Win rate:** 30.0%
-- **Most faced:** Lutfullayev_ulugbek1991 (1 games)
+- **Record:** 5W / 15L / 0D
+- **Win rate:** 25.0%
+- **Most faced:** Cheg123 (1 games)
