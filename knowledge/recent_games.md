@@ -4,6 +4,8 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
+| 2026-05-20 | CoffeeMeat123456 | 1497 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/168986092438) |
+| 2026-05-20 | SergioNunez7 | 1501 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/168985321234) |
 | 2026-05-18 | Cheg123 | 1512 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/168897590782) |
 | 2026-05-18 | BobimusMaximus | 1524 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/168897491140) |
 | 2026-05-18 | Klaj07 | 1515 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/168897015592) |
@@ -22,12 +24,10 @@
 | 2026-05-15 | Keylanovianti | 1603 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/168738400372) |
 | 2026-05-15 | NeoBeo | 1627 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/168738071388) |
 | 2026-05-15 | JCAH2017 | 1583 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/168736956028) |
-| 2026-05-15 | Mgad2020 | 1569 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/168736389438) |
-| 2026-05-15 | Batmaninem | 1583 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/168736177076) |
 
 
 ## Quick Stats from Recent Games
 
-- **Record:** 5W / 15L / 0D
-- **Win rate:** 25.0%
-- **Most faced:** Cheg123 (1 games)
+- **Record:** 4W / 15L / 1D
+- **Win rate:** 20.0%
+- **Most faced:** CoffeeMeat123456 (1 games)

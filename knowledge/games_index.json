@@ -1,6 +1,6 @@
 {
-  "total_games": 1130,
-  "last_update": "2026-05-20T07:10:38.570345",
+  "total_games": 1132,
+  "last_update": "2026-05-21T07:14:56.665258",
   "games_index": [
     {
       "index": 0,
@@ -12431,6 +12431,28 @@
       "opening": "A40: Englund Gambit 2.dxe5",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/168897590782"
+    },
+    {
+      "index": 1130,
+      "date": "2026.05.20",
+      "opponent": "SergioNunez7",
+      "white": "SergioNunez7",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C20: Kings Pawn Opening 1...e5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/168985321234"
+    },
+    {
+      "index": 1131,
+      "date": "2026.05.20",
+      "opponent": "CoffeeMeat123456",
+      "white": "sergioquesadas",
+      "black": "CoffeeMeat123456",
+      "result": "unknown",
+      "opening": "B27: Sicilian Defense Hyperaccelerated Dragon Variation 3.Nc3 Bg7",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/168986092438"
     }
   ]
 }
