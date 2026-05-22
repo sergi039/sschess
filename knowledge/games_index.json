@@ -1,6 +1,6 @@
 {
-  "total_games": 1132,
-  "last_update": "2026-05-21T07:14:56.665258",
+  "total_games": 1135,
+  "last_update": "2026-05-22T07:10:32.873646",
   "games_index": [
     {
       "index": 0,
@@ -12453,6 +12453,39 @@
       "opening": "B27: Sicilian Defense Hyperaccelerated Dragon Variation 3.Nc3 Bg7",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/168986092438"
+    },
+    {
+      "index": 1132,
+      "date": "2026.05.21",
+      "opponent": "tanker1997",
+      "white": "tanker1997",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C21: Center Game",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/169017133192"
+    },
+    {
+      "index": 1133,
+      "date": "2026.05.21",
+      "opponent": "JakubKujawiak",
+      "white": "JakubKujawiak",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C57: Italian Game Knight Attack Normal Variation 5.exd5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/169017978830"
+    },
+    {
+      "index": 1134,
+      "date": "2026.05.21",
+      "opponent": "pepsancho",
+      "white": "sergioquesadas",
+      "black": "pepsancho",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/169018089068"
     }
   ]
 }
