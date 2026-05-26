@@ -4,6 +4,9 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
+| 2026-05-25 | raphaeldu49 | 1422 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/169225619278) |
+| 2026-05-25 | obb1978 | 1500 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/169225141612) |
+| 2026-05-25 | ArwahLeluhur | 1516 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/169224742506) |
 | 2026-05-21 | pepsancho | 1492 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/169018089068) |
 | 2026-05-21 | JakubKujawiak | 1518 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/169017978830) |
 | 2026-05-21 | tanker1997 | 1508 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/169017133192) |
@@ -21,13 +24,10 @@
 | 2026-05-17 | formergay | 1550 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/168830617798) |
 | 2026-05-17 | AlisheRRRRRRRRRRR | 1574 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/168830358022) |
 | 2026-05-17 | ZNurlan22 | 1556 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/168830225200) |
-| 2026-05-17 | MoldabayU | 1593 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/168830191718) |
-| 2026-05-17 | ooottteeecc | 1572 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/168826648856) |
-| 2026-05-17 | STALLINGRAD1943 | 1565 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/168826250052) |
 
 
 ## Quick Stats from Recent Games
 
 - **Record:** 5W / 14L / 1D
 - **Win rate:** 25.0%
-- **Most faced:** pepsancho (1 games)
+- **Most faced:** raphaeldu49 (1 games)
