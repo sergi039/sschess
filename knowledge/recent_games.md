@@ -4,6 +4,10 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
+| 2026-06-01 | elhour79 | 1466 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/169565750962) |
+| 2026-06-01 | allusernamesaretaken33 | 1464 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/169565566868) |
+| 2026-06-01 | TheMigue99 | 1507 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/169565264722) |
+| 2026-06-01 | ihsansultan | 1494 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/169564575258) |
 | 2026-05-25 | raphaeldu49 | 1422 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/169225619278) |
 | 2026-05-25 | obb1978 | 1500 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/169225141612) |
 | 2026-05-25 | ArwahLeluhur | 1516 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/169224742506) |
@@ -20,14 +24,10 @@
 | 2026-05-17 | Lutfullayev_ulugbek1991 | 1572 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/168831681902) |
 | 2026-05-17 | TheBahamout | 1540 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/168831579086) |
 | 2026-05-17 | sukheeyo | 1540 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/168831098002) |
-| 2026-05-17 | dendiwicaksono | 1553 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/168830820500) |
-| 2026-05-17 | formergay | 1550 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/168830617798) |
-| 2026-05-17 | AlisheRRRRRRRRRRR | 1574 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/168830358022) |
-| 2026-05-17 | ZNurlan22 | 1556 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/168830225200) |
 
 
 ## Quick Stats from Recent Games
 
 - **Record:** 5W / 14L / 1D
 - **Win rate:** 25.0%
-- **Most faced:** raphaeldu49 (1 games)
+- **Most faced:** elhour79 (1 games)

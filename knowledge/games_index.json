@@ -1,6 +1,6 @@
 {
-  "total_games": 1138,
-  "last_update": "2026-06-01T07:42:44.606198",
+  "total_games": 1142,
+  "last_update": "2026-06-02T07:35:51.041353",
   "games_index": [
     {
       "index": 0,
@@ -12519,6 +12519,50 @@
       "opening": "D20: Queens Gambit Accepted Old Variation 3...Nf6 4.Bxc4 e6",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/169225619278"
+    },
+    {
+      "index": 1138,
+      "date": "2026.06.01",
+      "opponent": "ihsansultan",
+      "white": "ihsansultan",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C30: Kings Gambit Declined Queens Knight Defense 3.Nf3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/169564575258"
+    },
+    {
+      "index": 1139,
+      "date": "2026.06.01",
+      "opponent": "TheMigue99",
+      "white": "sergioquesadas",
+      "black": "TheMigue99",
+      "result": "unknown",
+      "opening": "B23: Closed Sicilian Defense Traditional Line 3.Nf3 g6 4.Bb5 Bg7 5.O O",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/169565264722"
+    },
+    {
+      "index": 1140,
+      "date": "2026.06.01",
+      "opponent": "allusernamesaretaken33",
+      "white": "sergioquesadas",
+      "black": "allusernamesaretaken33",
+      "result": "unknown",
+      "opening": "D02: Queens Pawn Opening Zukertort Chigorin Variation 3.Bf4 Nf6 4.e3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/169565566868"
+    },
+    {
+      "index": 1141,
+      "date": "2026.06.01",
+      "opponent": "elhour79",
+      "white": "elhour79",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C42: Petrovs Defense 3.d3 Nc6 4.c3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/169565750962"
     }
   ]
 }
