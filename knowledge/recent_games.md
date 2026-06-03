@@ -4,6 +4,9 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
+| 2026-06-02 | Ashutosh_Bilthare | 1458 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/169591641380) |
+| 2026-06-02 | hardikjoshi01 | 1456 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/169591566000) |
+| 2026-06-02 | Chessbeginner1963 | 1459 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/169591275894) |
 | 2026-06-01 | elhour79 | 1466 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/169565750962) |
 | 2026-06-01 | allusernamesaretaken33 | 1464 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/169565566868) |
 | 2026-06-01 | TheMigue99 | 1507 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/169565264722) |
@@ -21,13 +24,10 @@
 | 2026-05-18 | Klaj07 | 1515 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/168897015592) |
 | 2026-05-18 | ProfessorAnton | 1519 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/168896804824) |
 | 2026-05-18 | ElPela111 | 1538 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/168896258970) |
-| 2026-05-17 | Lutfullayev_ulugbek1991 | 1572 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/168831681902) |
-| 2026-05-17 | TheBahamout | 1540 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/168831579086) |
-| 2026-05-17 | sukheeyo | 1540 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/168831098002) |
 
 
 ## Quick Stats from Recent Games
 
 - **Record:** 5W / 14L / 1D
 - **Win rate:** 25.0%
-- **Most faced:** elhour79 (1 games)
+- **Most faced:** Ashutosh_Bilthare (1 games)

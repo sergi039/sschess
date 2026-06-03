@@ -1,7 +1,7 @@
 {
   "username": "sergioquesadas",
-  "total_games": 1142,
-  "analysis_date": "2026-06-02T07:35:50.998977",
+  "total_games": 1145,
+  "analysis_date": "2026-06-03T07:39:10.487462",
   "openings": {
     "white": {
       "ECO C43": {
@@ -14,11 +14,11 @@
       },
       "ECO A40": {
         "wins": 27,
-        "losses": 9,
+        "losses": 10,
         "draws": 0,
-        "total": 36,
-        "win_rate": 75.0,
-        "loss_rate": 25.0
+        "total": 37,
+        "win_rate": 73.0,
+        "loss_rate": 27.0
       },
       "ECO C21": {
         "wins": 1,
@@ -277,12 +277,12 @@
         "loss_rate": 0.0
       },
       "ECO B06": {
-        "wins": 0,
+        "wins": 1,
         "losses": 2,
         "draws": 0,
-        "total": 2,
-        "win_rate": 0.0,
-        "loss_rate": 100.0
+        "total": 3,
+        "win_rate": 33.3,
+        "loss_rate": 66.7
       },
       "ECO C60": {
         "wins": 0,
@@ -704,11 +704,11 @@
       },
       "ECO C55": {
         "wins": 22,
-        "losses": 25,
+        "losses": 26,
         "draws": 0,
-        "total": 47,
-        "win_rate": 46.8,
-        "loss_rate": 53.2
+        "total": 48,
+        "win_rate": 45.8,
+        "loss_rate": 54.2
       },
       "ECO B02": {
         "wins": 5,
@@ -1186,10 +1186,10 @@
   },
   "time_controls": {
     "rapid": {
-      "wins": 584,
-      "losses": 500,
+      "wins": 585,
+      "losses": 502,
       "draws": 45,
-      "total": 1129,
+      "total": 1132,
       "win_rate": 51.7
     },
     "daily": {
@@ -1230,8 +1230,8 @@
       }
     ],
     "ending_types": {
-      "win": 594,
-      "resigned": 316,
+      "win": 595,
+      "resigned": 318,
       "checkmated": 122,
       "timeout": 62,
       "repetition": 22,
@@ -1244,10 +1244,10 @@
   },
   "rating_progress": {
     "current_ratings": {
-      "rapid": 1469,
+      "rapid": 1461,
       "daily": 1040
     },
-    "total_games_tracked": 1142
+    "total_games_tracked": 1145
   },
   "weaknesses": {
     "identified_weaknesses": [
