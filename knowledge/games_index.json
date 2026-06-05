@@ -1,6 +1,6 @@
 {
-  "total_games": 1145,
-  "last_update": "2026-06-04T07:35:19.278368",
+  "total_games": 1149,
+  "last_update": "2026-06-05T07:27:12.943815",
   "games_index": [
     {
       "index": 0,
@@ -12596,6 +12596,50 @@
       "opening": "B06: Modern Defense with 1 e4 2.d4 Bg7 3.Nf3",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/169591641380"
+    },
+    {
+      "index": 1145,
+      "date": "2026.06.04",
+      "opponent": "lalithanu",
+      "white": "lalithanu",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C47: Four Knights Game Scotch Variation 4...Bb4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/169704388668"
+    },
+    {
+      "index": 1146,
+      "date": "2026.06.04",
+      "opponent": "hermancepu",
+      "white": "hermancepu",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C21: Center Game",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/169704803290"
+    },
+    {
+      "index": 1147,
+      "date": "2026.06.04",
+      "opponent": "hermancepu",
+      "white": "sergioquesadas",
+      "black": "hermancepu",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System 2...e6 3.e3 Bd6 4.Bg3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/169705365312"
+    },
+    {
+      "index": 1148,
+      "date": "2026.06.04",
+      "opponent": "Keerthy004",
+      "white": "Keerthy004",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "A01: Nimzowitsch Larsen Attack Modern Variation 2.Bb2 Nc6 3.e3 d5 4.Bb5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/169705855658"
     }
   ]
 }

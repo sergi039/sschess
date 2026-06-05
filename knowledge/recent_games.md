@@ -4,6 +4,10 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
+| 2026-06-04 | Keerthy004 | 1438 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/169705855658) |
+| 2026-06-04 | hermancepu | 1453 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/169705365312) |
+| 2026-06-04 | hermancepu | 1453 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/169704803290) |
+| 2026-06-04 | lalithanu | 1481 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/169704388668) |
 | 2026-06-02 | Ashutosh_Bilthare | 1458 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/169591641380) |
 | 2026-06-02 | hardikjoshi01 | 1456 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/169591566000) |
 | 2026-06-02 | Chessbeginner1963 | 1459 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/169591275894) |
@@ -20,14 +24,10 @@
 | 2026-05-20 | CoffeeMeat123456 | 1497 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/168986092438) |
 | 2026-05-20 | SergioNunez7 | 1501 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/168985321234) |
 | 2026-05-18 | Cheg123 | 1512 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/168897590782) |
-| 2026-05-18 | BobimusMaximus | 1524 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/168897491140) |
-| 2026-05-18 | Klaj07 | 1515 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/168897015592) |
-| 2026-05-18 | ProfessorAnton | 1519 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/168896804824) |
-| 2026-05-18 | ElPela111 | 1538 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/168896258970) |
 
 
 ## Quick Stats from Recent Games
 
-- **Record:** 5W / 14L / 1D
-- **Win rate:** 25.0%
-- **Most faced:** Ashutosh_Bilthare (1 games)
+- **Record:** 6W / 12L / 2D
+- **Win rate:** 30.0%
+- **Most faced:** hermancepu (2 games)
