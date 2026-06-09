@@ -1,6 +1,6 @@
 {
-  "total_games": 1149,
-  "last_update": "2026-06-08T07:38:41.974700",
+  "total_games": 1160,
+  "last_update": "2026-06-09T07:11:51.479248",
   "games_index": [
     {
       "index": 0,
@@ -12640,6 +12640,127 @@
       "opening": "A01: Nimzowitsch Larsen Attack Modern Variation 2.Bb2 Nc6 3.e3 d5 4.Bb5",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/169705855658"
+    },
+    {
+      "index": 1149,
+      "date": "2026.06.08",
+      "opponent": "kishanmeshwaniya",
+      "white": "sergioquesadas",
+      "black": "kishanmeshwaniya",
+      "result": "unknown",
+      "opening": "B50: Sicilian Defense 2.Nf3 d6 3.Nc3 e5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/169904339530"
+    },
+    {
+      "index": 1150,
+      "date": "2026.06.08",
+      "opponent": "Kuziwak",
+      "white": "Kuziwak",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C55: Italian Game Two Knights Defense 4.O O",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/169904430750"
+    },
+    {
+      "index": 1151,
+      "date": "2026.06.08",
+      "opponent": "MohSaeed",
+      "white": "sergioquesadas",
+      "black": "MohSaeed",
+      "result": "unknown",
+      "opening": "A45: Indian Game...4.Nf3 Bd6 5.Bxd6 Qxd6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/169904778016"
+    },
+    {
+      "index": 1152,
+      "date": "2026.06.08",
+      "opponent": "robihotdog69",
+      "white": "robihotdog69",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C28: Vienna Game Falkbeer Vienna Gambit",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/169905193274"
+    },
+    {
+      "index": 1153,
+      "date": "2026.06.08",
+      "opponent": "Aarya000000000077",
+      "white": "sergioquesadas",
+      "black": "Aarya000000000077",
+      "result": "unknown",
+      "opening": "A40: Englund Gambit",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/169905573466"
+    },
+    {
+      "index": 1154,
+      "date": "2026.06.08",
+      "opponent": "salvatore_sileci",
+      "white": "salvatore_sileci",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "D35: Queens Gambit Declined Modern Variation 4...Bb4 5.e3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/169906240708"
+    },
+    {
+      "index": 1155,
+      "date": "2026.06.08",
+      "opponent": "Emilefarka",
+      "white": "sergioquesadas",
+      "black": "Emilefarka",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System 2...Bf5 3.e3 e6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/169910827758"
+    },
+    {
+      "index": 1156,
+      "date": "2026.06.08",
+      "opponent": "cyrilrm",
+      "white": "cyrilrm",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C47: Four Knights Game Italian Variation 4...Nxe4 5.Nxe4 d5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/169911241484"
+    },
+    {
+      "index": 1157,
+      "date": "2026.06.08",
+      "opponent": "MaH4tma7",
+      "white": "sergioquesadas",
+      "black": "MaH4tma7",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/169911426218"
+    },
+    {
+      "index": 1158,
+      "date": "2026.06.08",
+      "opponent": "Lihong",
+      "white": "Lihong",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C47: Four Knights Game Scotch Variation Accepted 5.Nxd4 Bb4 6.Nxc6 bxc6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/169911899178"
+    },
+    {
+      "index": 1159,
+      "date": "2026.06.08",
+      "opponent": "Tamaki2020",
+      "white": "sergioquesadas",
+      "black": "Tamaki2020",
+      "result": "unknown",
+      "opening": "B23: Closed Sicilian Defense Traditional Line 3.Nf3 d6 4.Bb5 e5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/169912229610"
     }
   ]
 }
