@@ -1,6 +1,6 @@
 {
-  "total_games": 1160,
-  "last_update": "2026-06-14T07:34:08.837888",
+  "total_games": 1173,
+  "last_update": "2026-06-15T07:54:57.335569",
   "games_index": [
     {
       "index": 0,
@@ -12761,6 +12761,149 @@
       "opening": "B23: Closed Sicilian Defense Traditional Line 3.Nf3 d6 4.Bb5 e5",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/169912229610"
+    },
+    {
+      "index": 1160,
+      "date": "2026.06.14",
+      "opponent": "russoyunam",
+      "white": "russoyunam",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "A03: Birds Opening Dutch Variation 2.Nf3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/170182731792"
+    },
+    {
+      "index": 1161,
+      "date": "2026.06.14",
+      "opponent": "DoganOez",
+      "white": "sergioquesadas",
+      "black": "DoganOez",
+      "result": "unknown",
+      "opening": "D02: Queens Pawn Opening Zukertort Variation 2...Bf5 3.Bf4 e6 4.e3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/170184285758"
+    },
+    {
+      "index": 1162,
+      "date": "2026.06.14",
+      "opponent": "Chromatic_XD",
+      "white": "Chromatic_XD",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "D02: Queens Pawn Opening Zukertort Chigorin Variation 3.Bf4 Nf6 4.e3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/170184665062"
+    },
+    {
+      "index": 1163,
+      "date": "2026.06.14",
+      "opponent": "Frankyrocky",
+      "white": "sergioquesadas",
+      "black": "Frankyrocky",
+      "result": "unknown",
+      "opening": "A45: Indian Game...3.e3 d5 4.Nf3 Bd6 5.Bg3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/170184996014"
+    },
+    {
+      "index": 1164,
+      "date": "2026.06.14",
+      "opponent": "nikolaoliver",
+      "white": "sergioquesadas",
+      "black": "nikolaoliver",
+      "result": "unknown",
+      "opening": "C65: Ruy Lopez Opening Berlin Defense 4.d3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/170185716016"
+    },
+    {
+      "index": 1165,
+      "date": "2026.06.14",
+      "opponent": "Larry71joe",
+      "white": "Larry71joe",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C47: Four Knights Game",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/170186154448"
+    },
+    {
+      "index": 1166,
+      "date": "2026.06.14",
+      "opponent": "albatrostc",
+      "white": "sergioquesadas",
+      "black": "albatrostc",
+      "result": "unknown",
+      "opening": "D02: London System...5.Nbd2 e6 6.c3 Bd6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/170186922058"
+    },
+    {
+      "index": 1167,
+      "date": "2026.06.14",
+      "opponent": "mickeyjuly",
+      "white": "mickeyjuly",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C20: Kings Pawn Opening 1...e5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/170187111308"
+    },
+    {
+      "index": 1168,
+      "date": "2026.06.14",
+      "opponent": "mohammadfoladkar",
+      "white": "sergioquesadas",
+      "black": "mohammadfoladkar",
+      "result": "unknown",
+      "opening": "B02: Alekhines Defense Scandinavian Variation 3.e5 d4 4.Nce2",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/170187458974"
+    },
+    {
+      "index": 1169,
+      "date": "2026.06.14",
+      "opponent": "VoodooKnight1",
+      "white": "VoodooKnight1",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C45: Scotch Game Schmidt Variation 5.Nxc6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/170188199222"
+    },
+    {
+      "index": 1170,
+      "date": "2026.06.14",
+      "opponent": "Afganauliya_24",
+      "white": "Afganauliya_24",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "A45: Indian Game 2.Bf4 d6 3.e3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/170188469844"
+    },
+    {
+      "index": 1171,
+      "date": "2026.06.14",
+      "opponent": "CrossCheck-h8b",
+      "white": "sergioquesadas",
+      "black": "CrossCheck-h8b",
+      "result": "unknown",
+      "opening": "C11: French Defense Classical Burn Variation 5.Nxe4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/170188649320"
+    },
+    {
+      "index": 1172,
+      "date": "2026.06.14",
+      "opponent": "slomo4",
+      "white": "sergioquesadas",
+      "black": "slomo4",
+      "result": "unknown",
+      "opening": "B01: Nimzowitsch Defense Scandinavian Exchange Variation 4.Nf3 Bg4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/170189357324"
     }
   ]
 }

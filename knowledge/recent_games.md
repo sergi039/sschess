@@ -4,6 +4,19 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
+| 2026-06-14 | slomo4 | 1354 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/170189357324) |
+| 2026-06-14 | CrossCheck-h8b | 1357 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/170188649320) |
+| 2026-06-14 | Afganauliya_24 | 1385 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/170188469844) |
+| 2026-06-14 | VoodooKnight1 | 1391 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/170188199222) |
+| 2026-06-14 | mohammadfoladkar | 1366 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/170187458974) |
+| 2026-06-14 | mickeyjuly | 1370 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/170187111308) |
+| 2026-06-14 | albatrostc | 1393 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/170186922058) |
+| 2026-06-14 | Larry71joe | 1408 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/170186154448) |
+| 2026-06-14 | nikolaoliver | 1397 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/170185716016) |
+| 2026-06-14 | Frankyrocky | 1403 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/170184996014) |
+| 2026-06-14 | Chromatic_XD | 1437 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/170184665062) |
+| 2026-06-14 | DoganOez | 1429 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/170184285758) |
+| 2026-06-14 | russoyunam | 1399 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/170182731792) |
 | 2026-06-08 | Tamaki2020 | 1397 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/169912229610) |
 | 2026-06-08 | Lihong | 1417 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/169911899178) |
 | 2026-06-08 | MaH4tma7 | 1419 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/169911426218) |
@@ -11,23 +24,10 @@
 | 2026-06-08 | Emilefarka | 1418 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/169910827758) |
 | 2026-06-08 | salvatore_sileci | 1455 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/169906240708) |
 | 2026-06-08 | Aarya000000000077 | 1436 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/169905573466) |
-| 2026-06-08 | robihotdog69 | 1445 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/169905193274) |
-| 2026-06-08 | MohSaeed | 1447 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/169904778016) |
-| 2026-06-08 | Kuziwak | 1448 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/169904430750) |
-| 2026-06-08 | kishanmeshwaniya | 1442 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/169904339530) |
-| 2026-06-04 | Keerthy004 | 1438 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/169705855658) |
-| 2026-06-04 | hermancepu | 1453 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/169705365312) |
-| 2026-06-04 | hermancepu | 1453 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/169704803290) |
-| 2026-06-04 | lalithanu | 1481 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/169704388668) |
-| 2026-06-02 | Ashutosh_Bilthare | 1458 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/169591641380) |
-| 2026-06-02 | hardikjoshi01 | 1456 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/169591566000) |
-| 2026-06-02 | Chessbeginner1963 | 1459 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/169591275894) |
-| 2026-06-01 | elhour79 | 1466 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/169565750962) |
-| 2026-06-01 | allusernamesaretaken33 | 1464 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/169565566868) |
 
 
 ## Quick Stats from Recent Games
 
-- **Record:** 7W / 12L / 1D
-- **Win rate:** 35.0%
-- **Most faced:** hermancepu (2 games)
+- **Record:** 3W / 17L / 0D
+- **Win rate:** 15.0%
+- **Most faced:** slomo4 (1 games)
