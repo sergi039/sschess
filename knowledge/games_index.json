@@ -1,6 +1,6 @@
 {
-  "total_games": 1173,
-  "last_update": "2026-06-23T07:12:24.697170",
+  "total_games": 1178,
+  "last_update": "2026-06-24T07:09:22.920653",
   "games_index": [
     {
       "index": 0,
@@ -12904,6 +12904,61 @@
       "opening": "B01: Nimzowitsch Defense Scandinavian Exchange Variation 4.Nf3 Bg4",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/170189357324"
+    },
+    {
+      "index": 1173,
+      "date": "2026.06.23",
+      "opponent": "petrschuster",
+      "white": "petrschuster",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C30: Kings Gambit 2...d6 3.Nf3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/170594364584"
+    },
+    {
+      "index": 1174,
+      "date": "2026.06.23",
+      "opponent": "sabzaSA",
+      "white": "sabzaSA",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "D02: Queens Pawn Opening Anti Torre Attack",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/170594601912"
+    },
+    {
+      "index": 1175,
+      "date": "2026.06.23",
+      "opponent": "mohammad906",
+      "white": "mohammad906",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C31: Kings Gambit Declined Falkbeer Countergambit Accepted",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/170595019082"
+    },
+    {
+      "index": 1176,
+      "date": "2026.06.23",
+      "opponent": "Leprince74yt",
+      "white": "sergioquesadas",
+      "black": "Leprince74yt",
+      "result": "unknown",
+      "opening": "A43: Old Benoni Defense 2.c3 e6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/170595189216"
+    },
+    {
+      "index": 1177,
+      "date": "2026.06.23",
+      "opponent": "Rob136136",
+      "white": "sergioquesadas",
+      "black": "Rob136136",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/170595297428"
     }
   ]
 }

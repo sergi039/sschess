@@ -4,6 +4,11 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
+| 2026-06-23 | Rob136136 | 1350 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/170595297428) |
+| 2026-06-23 | Leprince74yt | 1338 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/170595189216) |
+| 2026-06-23 | mohammad906 | 1331 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/170595019082) |
+| 2026-06-23 | sabzaSA | 1323 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/170594601912) |
+| 2026-06-23 | petrschuster | 1346 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/170594364584) |
 | 2026-06-14 | slomo4 | 1354 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/170189357324) |
 | 2026-06-14 | CrossCheck-h8b | 1357 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/170188649320) |
 | 2026-06-14 | Afganauliya_24 | 1385 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/170188469844) |
@@ -19,15 +24,10 @@
 | 2026-06-14 | russoyunam | 1399 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/170182731792) |
 | 2026-06-08 | Tamaki2020 | 1397 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/169912229610) |
 | 2026-06-08 | Lihong | 1417 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/169911899178) |
-| 2026-06-08 | MaH4tma7 | 1419 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/169911426218) |
-| 2026-06-08 | cyrilrm | 1431 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/169911241484) |
-| 2026-06-08 | Emilefarka | 1418 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/169910827758) |
-| 2026-06-08 | salvatore_sileci | 1455 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/169906240708) |
-| 2026-06-08 | Aarya000000000077 | 1436 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/169905573466) |
 
 
 ## Quick Stats from Recent Games
 
 - **Record:** 3W / 17L / 0D
 - **Win rate:** 15.0%
-- **Most faced:** slomo4 (1 games)
+- **Most faced:** Rob136136 (1 games)
