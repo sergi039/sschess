@@ -1,6 +1,6 @@
 {
-  "total_games": 1178,
-  "last_update": "2026-06-28T07:19:32.285834",
+  "total_games": 1185,
+  "last_update": "2026-06-29T07:39:13.205620",
   "games_index": [
     {
       "index": 0,
@@ -12959,6 +12959,83 @@
       "opening": "D00: Queens Pawn Opening Accelerated London System",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/170595297428"
+    },
+    {
+      "index": 1178,
+      "date": "2026.06.28",
+      "opponent": "shodiyor771",
+      "white": "shodiyor771",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C55: Italian Game Two Knights Modern Bishops Opening 4...d5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/170842552074"
+    },
+    {
+      "index": 1179,
+      "date": "2026.06.28",
+      "opponent": "mike45454545",
+      "white": "sergioquesadas",
+      "black": "mike45454545",
+      "result": "unknown",
+      "opening": "C00: French Defense Knight Variation",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/170842928106"
+    },
+    {
+      "index": 1180,
+      "date": "2026.06.28",
+      "opponent": "Greatmove69",
+      "white": "Greatmove69",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/170843317956"
+    },
+    {
+      "index": 1181,
+      "date": "2026.06.28",
+      "opponent": "MAQSAD_9",
+      "white": "sergioquesadas",
+      "black": "MAQSAD_9",
+      "result": "unknown",
+      "opening": "C62: Ruy Lopez Opening Old Steinitz Defense",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/170843923040"
+    },
+    {
+      "index": 1182,
+      "date": "2026.06.28",
+      "opponent": "Nicholas-Dunne",
+      "white": "Nicholas-Dunne",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C62: Ruy Lopez Opening Old Steinitz Defense 4.d4 Bd7",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/170845464882"
+    },
+    {
+      "index": 1183,
+      "date": "2026.06.28",
+      "opponent": "Burooroo",
+      "white": "sergioquesadas",
+      "black": "Burooroo",
+      "result": "unknown",
+      "opening": "A45: Indian Game 2.Bf4 d6 3.e3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/170850134050"
+    },
+    {
+      "index": 1184,
+      "date": "2026.06.28",
+      "opponent": "VozniukVitaly",
+      "white": "sergioquesadas",
+      "black": "VozniukVitaly",
+      "result": "unknown",
+      "opening": "D02: Queens Pawn Opening Zukertort Chigorin Variation 3.Bf4 Nf6 4.e3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/170850776944"
     }
   ]
 }

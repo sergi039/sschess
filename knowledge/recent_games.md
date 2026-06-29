@@ -4,6 +4,13 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
+| 2026-06-28 | VozniukVitaly | 1307 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/170850776944) |
+| 2026-06-28 | Burooroo | 1331 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/170850134050) |
+| 2026-06-28 | Nicholas-Dunne | 1297 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/170845464882) |
+| 2026-06-28 | MAQSAD_9 | 1279 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/170843923040) |
+| 2026-06-28 | Greatmove69 | 1339 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/170843317956) |
+| 2026-06-28 | mike45454545 | 1296 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/170842928106) |
+| 2026-06-28 | shodiyor771 | 1320 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/170842552074) |
 | 2026-06-23 | Rob136136 | 1350 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/170595297428) |
 | 2026-06-23 | Leprince74yt | 1338 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/170595189216) |
 | 2026-06-23 | mohammad906 | 1331 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/170595019082) |
@@ -17,17 +24,10 @@
 | 2026-06-14 | mickeyjuly | 1370 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/170187111308) |
 | 2026-06-14 | albatrostc | 1393 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/170186922058) |
 | 2026-06-14 | Larry71joe | 1408 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/170186154448) |
-| 2026-06-14 | nikolaoliver | 1397 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/170185716016) |
-| 2026-06-14 | Frankyrocky | 1403 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/170184996014) |
-| 2026-06-14 | Chromatic_XD | 1437 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/170184665062) |
-| 2026-06-14 | DoganOez | 1429 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/170184285758) |
-| 2026-06-14 | russoyunam | 1399 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/170182731792) |
-| 2026-06-08 | Tamaki2020 | 1397 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/169912229610) |
-| 2026-06-08 | Lihong | 1417 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/169911899178) |
 
 
 ## Quick Stats from Recent Games
 
-- **Record:** 3W / 17L / 0D
-- **Win rate:** 15.0%
-- **Most faced:** Rob136136 (1 games)
+- **Record:** 5W / 15L / 0D
+- **Win rate:** 25.0%
+- **Most faced:** VozniukVitaly (1 games)
