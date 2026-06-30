@@ -4,6 +4,11 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
+| 2026-06-29 | rraiderboy70 | 1276 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/170891504560) |
+| 2026-06-29 | DazNett | 1285 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/170886027550) |
+| 2026-06-29 | elqorn | 1309 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/170885108210) |
+| 2026-06-29 | 27samu | 1343 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/170884279714) |
+| 2026-06-29 | Alejandro_ws_05 | 1332 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/170884092548) |
 | 2026-06-28 | VozniukVitaly | 1307 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/170850776944) |
 | 2026-06-28 | Burooroo | 1331 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/170850134050) |
 | 2026-06-28 | Nicholas-Dunne | 1297 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/170845464882) |
@@ -19,15 +24,10 @@
 | 2026-06-14 | slomo4 | 1354 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/170189357324) |
 | 2026-06-14 | CrossCheck-h8b | 1357 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/170188649320) |
 | 2026-06-14 | Afganauliya_24 | 1385 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/170188469844) |
-| 2026-06-14 | VoodooKnight1 | 1391 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/170188199222) |
-| 2026-06-14 | mohammadfoladkar | 1366 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/170187458974) |
-| 2026-06-14 | mickeyjuly | 1370 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/170187111308) |
-| 2026-06-14 | albatrostc | 1393 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/170186922058) |
-| 2026-06-14 | Larry71joe | 1408 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/170186154448) |
 
 
 ## Quick Stats from Recent Games
 
-- **Record:** 5W / 15L / 0D
+- **Record:** 5W / 14L / 1D
 - **Win rate:** 25.0%
-- **Most faced:** VozniukVitaly (1 games)
+- **Most faced:** rraiderboy70 (1 games)

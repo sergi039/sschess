@@ -1,6 +1,6 @@
 {
-  "total_games": 1185,
-  "last_update": "2026-06-29T07:39:13.205620",
+  "total_games": 1190,
+  "last_update": "2026-06-30T07:15:47.801952",
   "games_index": [
     {
       "index": 0,
@@ -13036,6 +13036,61 @@
       "opening": "D02: Queens Pawn Opening Zukertort Chigorin Variation 3.Bf4 Nf6 4.e3",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/170850776944"
+    },
+    {
+      "index": 1185,
+      "date": "2026.06.29",
+      "opponent": "Alejandro_ws_05",
+      "white": "Alejandro_ws_05",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C45: Scotch Game...4.Nxd4 Nxd4 5.Qxd4 d6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/170884092548"
+    },
+    {
+      "index": 1186,
+      "date": "2026.06.29",
+      "opponent": "27samu",
+      "white": "27samu",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C45: Scotch Game...4.Nxd4 Nxd4 5.Qxd4 d6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/170884279714"
+    },
+    {
+      "index": 1187,
+      "date": "2026.06.29",
+      "opponent": "elqorn",
+      "white": "elqorn",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C47: Four Knights Game Italian Variation",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/170885108210"
+    },
+    {
+      "index": 1188,
+      "date": "2026.06.29",
+      "opponent": "DazNett",
+      "white": "sergioquesadas",
+      "black": "DazNett",
+      "result": "unknown",
+      "opening": "A45: Indian Game 2.Bf4 e6 3.e3 d5 4.Bd3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/170886027550"
+    },
+    {
+      "index": 1189,
+      "date": "2026.06.29",
+      "opponent": "rraiderboy70",
+      "white": "sergioquesadas",
+      "black": "rraiderboy70",
+      "result": "unknown",
+      "opening": "A40: Queens Pawn Opening Horwitz Defense 2.Bf4 c5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/170891504560"
     }
   ]
 }

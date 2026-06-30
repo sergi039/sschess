@@ -1,7 +1,7 @@
 {
   "username": "sergioquesadas",
-  "total_games": 1185,
-  "analysis_date": "2026-06-29T07:39:13.162887",
+  "total_games": 1190,
+  "analysis_date": "2026-06-30T07:15:47.758514",
   "openings": {
     "white": {
       "ECO C43": {
@@ -15,10 +15,10 @@
       "ECO A40": {
         "wins": 27,
         "losses": 11,
-        "draws": 0,
-        "total": 38,
-        "win_rate": 71.1,
-        "loss_rate": 28.9
+        "draws": 1,
+        "total": 39,
+        "win_rate": 69.2,
+        "loss_rate": 28.2
       },
       "ECO C21": {
         "wins": 1,
@@ -446,11 +446,11 @@
       },
       "ECO A45": {
         "wins": 17,
-        "losses": 14,
+        "losses": 15,
         "draws": 0,
-        "total": 31,
-        "win_rate": 54.8,
-        "loss_rate": 45.2
+        "total": 32,
+        "win_rate": 53.1,
+        "loss_rate": 46.9
       },
       "ECO C25": {
         "wins": 0,
@@ -656,11 +656,11 @@
       },
       "ECO C47": {
         "wins": 24,
-        "losses": 21,
+        "losses": 22,
         "draws": 4,
-        "total": 49,
-        "win_rate": 49.0,
-        "loss_rate": 42.9
+        "total": 50,
+        "win_rate": 48.0,
+        "loss_rate": 44.0
       },
       "ECO C25": {
         "wins": 3,
@@ -672,11 +672,11 @@
       },
       "ECO C45": {
         "wins": 18,
-        "losses": 9,
+        "losses": 11,
         "draws": 1,
-        "total": 28,
-        "win_rate": 64.3,
-        "loss_rate": 32.1
+        "total": 30,
+        "win_rate": 60.0,
+        "loss_rate": 36.7
       },
       "ECO B20": {
         "wins": 2,
@@ -1203,10 +1203,10 @@
   "time_controls": {
     "rapid": {
       "wins": 596,
-      "losses": 530,
-      "draws": 46,
-      "total": 1172,
-      "win_rate": 50.9
+      "losses": 534,
+      "draws": 47,
+      "total": 1177,
+      "win_rate": 50.6
     },
     "daily": {
       "wins": 10,
@@ -1217,7 +1217,7 @@
     }
   },
   "time_usage": {
-    "timeouts": 66,
+    "timeouts": 68,
     "timeout_games": [
       {
         "url": "https://www.chess.com/game/live/144628473252",
@@ -1247,11 +1247,11 @@
     ],
     "ending_types": {
       "win": 606,
-      "resigned": 340,
+      "resigned": 342,
       "checkmated": 124,
-      "timeout": 66,
+      "timeout": 68,
       "repetition": 22,
-      "stalemate": 10,
+      "stalemate": 11,
       "insufficient": 9,
       "timevsinsufficient": 5,
       "abandoned": 2,
@@ -1260,10 +1260,10 @@
   },
   "rating_progress": {
     "current_ratings": {
-      "rapid": 1320,
+      "rapid": 1289,
       "daily": 1040
     },
-    "total_games_tracked": 1185
+    "total_games_tracked": 1190
   },
   "weaknesses": {
     "identified_weaknesses": [
