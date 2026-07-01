@@ -1,6 +1,6 @@
 {
-  "total_games": 1190,
-  "last_update": "2026-06-30T07:15:47.801952",
+  "total_games": 1203,
+  "last_update": "2026-07-01T07:27:31.982837",
   "games_index": [
     {
       "index": 0,
@@ -13091,6 +13091,149 @@
       "opening": "A40: Queens Pawn Opening Horwitz Defense 2.Bf4 c5",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/170891504560"
+    },
+    {
+      "index": 1190,
+      "date": "2026.06.30",
+      "opponent": "Neta061221",
+      "white": "Neta061221",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C55: Italian Game Two Knights Defense 4.O O",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/170931817480"
+    },
+    {
+      "index": 1191,
+      "date": "2026.06.30",
+      "opponent": "aliq-saiful-hilal",
+      "white": "sergioquesadas",
+      "black": "aliq-saiful-hilal",
+      "result": "unknown",
+      "opening": "A40: Queens Pawn Opening",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/170932406652"
+    },
+    {
+      "index": 1192,
+      "date": "2026.06.30",
+      "opponent": "DrMuhmed",
+      "white": "DrMuhmed",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "B00: Nimzowitsch Defense Kennedy Linksspringer Variation 3...Nce7",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/170932897130"
+    },
+    {
+      "index": 1193,
+      "date": "2026.06.30",
+      "opponent": "syedthamiz18",
+      "white": "sergioquesadas",
+      "black": "syedthamiz18",
+      "result": "unknown",
+      "opening": "B01: Scandinavian Defense Mieses Kotrc Variation 3.Nc3 Qe5 4.Be2",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/170933446430"
+    },
+    {
+      "index": 1194,
+      "date": "2026.06.30",
+      "opponent": "OzaniWa",
+      "white": "OzaniWa",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C45: Scotch Game 3...exd4 4.Nxd4 Nxd4 5.Qxd4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/170933708488"
+    },
+    {
+      "index": 1195,
+      "date": "2026.06.30",
+      "opponent": "Malcharozo",
+      "white": "sergioquesadas",
+      "black": "Malcharozo",
+      "result": "unknown",
+      "opening": "B12: Caro Kann Defense Advance Botvinnik Carls Defense 4.Nf3 Bg4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/170933863524"
+    },
+    {
+      "index": 1196,
+      "date": "2026.06.30",
+      "opponent": "p0rter5",
+      "white": "p0rter5",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C45: Scotch Game 3...exd4 4.Nxd4 Nxd4 5.Qxd4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/170934140872"
+    },
+    {
+      "index": 1197,
+      "date": "2026.06.30",
+      "opponent": "pvarchaswee",
+      "white": "pvarchaswee",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening 1...d5 2.e3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/170934325610"
+    },
+    {
+      "index": 1198,
+      "date": "2026.06.30",
+      "opponent": "Aysegulcm",
+      "white": "sergioquesadas",
+      "black": "Aysegulcm",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/170935692622"
+    },
+    {
+      "index": 1199,
+      "date": "2026.06.30",
+      "opponent": "NinjaZER0",
+      "white": "sergioquesadas",
+      "black": "NinjaZER0",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System 2...Bf5 3.e3 e6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/170936329534"
+    },
+    {
+      "index": 1200,
+      "date": "2026.06.30",
+      "opponent": "Simo19375",
+      "white": "Simo19375",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "A00: Van t Kruijs Opening 1...e5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/170945851834"
+    },
+    {
+      "index": 1201,
+      "date": "2026.06.30",
+      "opponent": "2426alfa",
+      "white": "2426alfa",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C65: Ruy Lopez Opening Berlin Defense 4.d3 d6 5.O O Bd7",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/170946228602"
+    },
+    {
+      "index": 1202,
+      "date": "2026.06.30",
+      "opponent": "yashclasher9",
+      "white": "sergioquesadas",
+      "black": "yashclasher9",
+      "result": "unknown",
+      "opening": "D02: Queens Pawn Opening Zukertort Variation 2...c6 3.e3 Bg4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/170946624660"
     }
   ]
 }

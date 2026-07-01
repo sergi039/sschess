@@ -4,6 +4,19 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
+| 2026-06-30 | yashclasher9 | 1306 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/170946624660) |
+| 2026-06-30 | 2426alfa | 1292 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/170946228602) |
+| 2026-06-30 | Simo19375 | 1283 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/170945851834) |
+| 2026-06-30 | NinjaZER0 | 1279 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/170936329534) |
+| 2026-06-30 | Aysegulcm | 1281 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/170935692622) |
+| 2026-06-30 | pvarchaswee | 1238 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/170934325610) |
+| 2026-06-30 | p0rter5 | 1282 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/170934140872) |
+| 2026-06-30 | Malcharozo | 1274 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/170933863524) |
+| 2026-06-30 | OzaniWa | 1269 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/170933708488) |
+| 2026-06-30 | syedthamiz18 | 1257 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/170933446430) |
+| 2026-06-30 | DrMuhmed | 1297 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/170932897130) |
+| 2026-06-30 | aliq-saiful-hilal | 1298 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/170932406652) |
+| 2026-06-30 | Neta061221 | 1288 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/170931817480) |
 | 2026-06-29 | rraiderboy70 | 1276 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/170891504560) |
 | 2026-06-29 | DazNett | 1285 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/170886027550) |
 | 2026-06-29 | elqorn | 1309 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/170885108210) |
@@ -11,23 +24,10 @@
 | 2026-06-29 | Alejandro_ws_05 | 1332 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/170884092548) |
 | 2026-06-28 | VozniukVitaly | 1307 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/170850776944) |
 | 2026-06-28 | Burooroo | 1331 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/170850134050) |
-| 2026-06-28 | Nicholas-Dunne | 1297 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/170845464882) |
-| 2026-06-28 | MAQSAD_9 | 1279 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/170843923040) |
-| 2026-06-28 | Greatmove69 | 1339 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/170843317956) |
-| 2026-06-28 | mike45454545 | 1296 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/170842928106) |
-| 2026-06-28 | shodiyor771 | 1320 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/170842552074) |
-| 2026-06-23 | Rob136136 | 1350 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/170595297428) |
-| 2026-06-23 | Leprince74yt | 1338 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/170595189216) |
-| 2026-06-23 | mohammad906 | 1331 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/170595019082) |
-| 2026-06-23 | sabzaSA | 1323 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/170594601912) |
-| 2026-06-23 | petrschuster | 1346 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/170594364584) |
-| 2026-06-14 | slomo4 | 1354 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/170189357324) |
-| 2026-06-14 | CrossCheck-h8b | 1357 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/170188649320) |
-| 2026-06-14 | Afganauliya_24 | 1385 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/170188469844) |
 
 
 ## Quick Stats from Recent Games
 
-- **Record:** 5W / 14L / 1D
-- **Win rate:** 25.0%
-- **Most faced:** rraiderboy70 (1 games)
+- **Record:** 8W / 11L / 1D
+- **Win rate:** 40.0%
+- **Most faced:** yashclasher9 (1 games)
