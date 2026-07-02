@@ -30,17 +30,17 @@
 
 ### 4. Problematic Opening (Black)
 
-**Opening:** ECO C30
-- Games played: 8
+**Opening:** ECO C25
+- Games played: 12
 - Loss rate: 75.0%
 
 **Recommendation:** Consider studying this opening more deeply or switching to an alternative.
 
 ### 5. Problematic Opening (Black)
 
-**Opening:** ECO C25
-- Games played: 11
-- Loss rate: 72.7%
+**Opening:** ECO C30
+- Games played: 8
+- Loss rate: 75.0%
 
 **Recommendation:** Consider studying this opening more deeply or switching to an alternative.
 
@@ -70,6 +70,6 @@
 
 - **ECO C41** (as white): 48.8% loss rate in 41 games
 - **ECO B13** (as white): 60.0% loss rate in 5 games
-- **ECO D02** (as white): 50.0% loss rate in 22 games
+- **ECO D02** (as white): 47.8% loss rate in 23 games
 - **ECO B10** (as white): 54.5% loss rate in 11 games
 - **ECO C44** (as white): 60.0% loss rate in 5 games
