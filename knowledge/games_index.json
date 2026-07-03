@@ -1,6 +1,6 @@
 {
-  "total_games": 1223,
-  "last_update": "2026-07-02T07:05:41.116605",
+  "total_games": 1235,
+  "last_update": "2026-07-03T07:03:53.075880",
   "games_index": [
     {
       "index": 0,
@@ -13454,6 +13454,138 @@
       "opening": "C57: Italian Game Knight Attack Fritz Variation",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/170987997122"
+    },
+    {
+      "index": 1223,
+      "date": "2026.07.02",
+      "opponent": "ReddragAm",
+      "white": "ReddragAm",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "A40: Englund Gambit 2.dxe5 Nc6 3.Nf3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171011189546"
+    },
+    {
+      "index": 1224,
+      "date": "2026.07.02",
+      "opponent": "mehrdadghor",
+      "white": "mehrdadghor",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C22: Center Game Accepted Normal Variation",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171011502102"
+    },
+    {
+      "index": 1225,
+      "date": "2026.07.02",
+      "opponent": "mehrdadghor",
+      "white": "sergioquesadas",
+      "black": "mehrdadghor",
+      "result": "unknown",
+      "opening": "A45: Indian Game 2.Bf4 e6 3.e3 d5 4.Bd3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171011764096"
+    },
+    {
+      "index": 1226,
+      "date": "2026.07.02",
+      "opponent": "Bancao_7",
+      "white": "sergioquesadas",
+      "black": "Bancao_7",
+      "result": "unknown",
+      "opening": "B01: Scandinavian Defense Mieses Kotrc Variation 3.Nc3 Qd8 4.Nf3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171012368772"
+    },
+    {
+      "index": 1227,
+      "date": "2026.07.02",
+      "opponent": "soltanirani",
+      "white": "sergioquesadas",
+      "black": "soltanirani",
+      "result": "unknown",
+      "opening": "D02: London System 3...g6 4.e3 Bg7",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171016203570"
+    },
+    {
+      "index": 1228,
+      "date": "2026.07.02",
+      "opponent": "soltanirani",
+      "white": "soltanirani",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C45: Scotch Game 3...exd4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171016416762"
+    },
+    {
+      "index": 1229,
+      "date": "2026.07.02",
+      "opponent": "arnewim",
+      "white": "arnewim",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "D02: Queens Pawn Opening Symmetrical Variation 3.c4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171024456574"
+    },
+    {
+      "index": 1230,
+      "date": "2026.07.02",
+      "opponent": "TheFamousb",
+      "white": "TheFamousb",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C47: Four Knights Game Italian Variation",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171025030698"
+    },
+    {
+      "index": 1231,
+      "date": "2026.07.02",
+      "opponent": "TheFamousb",
+      "white": "sergioquesadas",
+      "black": "TheFamousb",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171025769284"
+    },
+    {
+      "index": 1232,
+      "date": "2026.07.02",
+      "opponent": "aknuli",
+      "white": "sergioquesadas",
+      "black": "aknuli",
+      "result": "unknown",
+      "opening": "A45: Indian Game 2.Bf4 e6 3.e3 d5 4.Bd3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171031265888"
+    },
+    {
+      "index": 1233,
+      "date": "2026.07.02",
+      "opponent": "realwer",
+      "white": "realwer",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening 1...d5 2.e3 Nf6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171032013372"
+    },
+    {
+      "index": 1234,
+      "date": "2026.07.02",
+      "opponent": "Marlindcool",
+      "white": "sergioquesadas",
+      "black": "Marlindcool",
+      "result": "unknown",
+      "opening": "C50: Italian Game",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171032453636"
     }
   ]
 }
