@@ -1,6 +1,6 @@
 {
-  "total_games": 1278,
-  "last_update": "2026-07-07T07:09:32.459765",
+  "total_games": 1287,
+  "last_update": "2026-07-08T06:48:38.824022",
   "games_index": [
     {
       "index": 0,
@@ -14059,6 +14059,105 @@
       "opening": "D07: Queens Gambit Declined Chigorin Defense 3.e3",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/171206909200"
+    },
+    {
+      "index": 1278,
+      "date": "2026.07.07",
+      "opponent": "Broline8",
+      "white": "sergioquesadas",
+      "black": "Broline8",
+      "result": "unknown",
+      "opening": "A40: Queens Pawn Opening 1...c6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171231241582"
+    },
+    {
+      "index": 1279,
+      "date": "2026.07.07",
+      "opponent": "Poc86",
+      "white": "Poc86",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C47: Four Knights Game Scotch Variation Accepted...6.Nxc6 bxc6 7.Bd3 d5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171231780310"
+    },
+    {
+      "index": 1280,
+      "date": "2026.07.07",
+      "opponent": "solmyr24",
+      "white": "sergioquesadas",
+      "black": "solmyr24",
+      "result": "unknown",
+      "opening": "A40: Modern Defense with 1 d4 2.Bf4 Bg7 3.e3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171233217768"
+    },
+    {
+      "index": 1281,
+      "date": "2026.07.07",
+      "opponent": "1225sajjad",
+      "white": "1225sajjad",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C57: Italian Game Knight Attack Normal Variation 5.exd5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171233835372"
+    },
+    {
+      "index": 1282,
+      "date": "2026.07.07",
+      "opponent": "suhwanbabo",
+      "white": "sergioquesadas",
+      "black": "suhwanbabo",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System 2...Nf6 3.e3 Bf5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171234887704"
+    },
+    {
+      "index": 1283,
+      "date": "2026.07.07",
+      "opponent": "Litonad",
+      "white": "Litonad",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "A00: Van t Kruijs Opening 1...e5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171239931550"
+    },
+    {
+      "index": 1284,
+      "date": "2026.07.07",
+      "opponent": "guntiergo",
+      "white": "guntiergo",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C31: Kings Gambit Declined Falkbeer Countergambit",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171254474220"
+    },
+    {
+      "index": 1285,
+      "date": "2026.07.07",
+      "opponent": "kylethor32",
+      "white": "sergioquesadas",
+      "black": "kylethor32",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System 2...Nf6 3.e3 Bg4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171261470092"
+    },
+    {
+      "index": 1286,
+      "date": "2026.07.07",
+      "opponent": "Momo201217",
+      "white": "sergioquesadas",
+      "black": "Momo201217",
+      "result": "unknown",
+      "opening": "B00: Nimzowitsch Defense Scandinavian Advance Variation 3...Bf5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171261779652"
     }
   ]
 }
