@@ -1,6 +1,6 @@
 {
-  "total_games": 1307,
-  "last_update": "2026-07-10T07:09:00.716668",
+  "total_games": 1314,
+  "last_update": "2026-07-11T06:44:31.001303",
   "games_index": [
     {
       "index": 0,
@@ -14378,6 +14378,83 @@
       "opening": "C20: Kings Pawn Opening 1...e5",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/171341570356"
+    },
+    {
+      "index": 1307,
+      "date": "2026.07.10",
+      "opponent": "Apersonexisting",
+      "white": "sergioquesadas",
+      "black": "Apersonexisting",
+      "result": "unknown",
+      "opening": "A40: Queens Pawn Opening Horwitz Defense 2.Bf4 c5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171369334392"
+    },
+    {
+      "index": 1308,
+      "date": "2026.07.10",
+      "opponent": "Apersonexisting",
+      "white": "Apersonexisting",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "A20: English Opening Kings English Variation",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171369494598"
+    },
+    {
+      "index": 1309,
+      "date": "2026.07.10",
+      "opponent": "allamNa",
+      "white": "sergioquesadas",
+      "black": "allamNa",
+      "result": "unknown",
+      "opening": "C62: Ruy Lopez Opening Old Steinitz Defense",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171370360256"
+    },
+    {
+      "index": 1310,
+      "date": "2026.07.10",
+      "opponent": "dineshnashikkar521",
+      "white": "dineshnashikkar521",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening 1...d5 2.c3 Nf6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171376629258"
+    },
+    {
+      "index": 1311,
+      "date": "2026.07.10",
+      "opponent": "Barsky1",
+      "white": "sergioquesadas",
+      "black": "Barsky1",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171384036010"
+    },
+    {
+      "index": 1312,
+      "date": "2026.07.10",
+      "opponent": "KaviSharu",
+      "white": "KaviSharu",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C45: Scotch Game...4.Nxd4 Nxd4 5.Qxd4 d6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171384306958"
+    },
+    {
+      "index": 1313,
+      "date": "2026.07.10",
+      "opponent": "Vova010678",
+      "white": "Vova010678",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C55: Italian Game Two Knights Modern Bishops Opening 4...d5 5.exd5 Nxd5 6.O O",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171388552624"
     }
   ]
 }

@@ -4,6 +4,13 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
+| 2026-07-10 | Vova010678 | 1289 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171388552624) |
+| 2026-07-10 | KaviSharu | 1268 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171384306958) |
+| 2026-07-10 | Barsky1 | 1287 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171384036010) |
+| 2026-07-10 | dineshnashikkar521 | 1281 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171376629258) |
+| 2026-07-10 | allamNa | 1239 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171370360256) |
+| 2026-07-10 | Apersonexisting | 1275 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171369494598) |
+| 2026-07-10 | Apersonexisting | 1284 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/171369334392) |
 | 2026-07-09 | monuro | 1240 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171341570356) |
 | 2026-07-09 | Migsthegreatestchessplaya | 1233 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171329676148) |
 | 2026-07-09 | Swamy1542 | 1213 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171325747346) |
@@ -17,17 +24,10 @@
 | 2026-07-08 | KAKUN1A | 1193 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/171291500416) |
 | 2026-07-08 | kalu88E | 1209 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171291268506) |
 | 2026-07-08 | zstyneck59 | 1188 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171289748578) |
-| 2026-07-08 | Abdelfttah2024 | 1190 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171289390092) |
-| 2026-07-08 | OliverMarton | 1227 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/171288936992) |
-| 2026-07-08 | jaqp43 | 1229 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/171288448462) |
-| 2026-07-08 | Ereskigaled | 1232 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171288370246) |
-| 2026-07-08 | Genagyir | 1221 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/171282919886) |
-| 2026-07-08 | Kneegroves | 1228 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/171278726222) |
-| 2026-07-08 | Eslammhmd212 | 1213 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171278268730) |
 
 
 ## Quick Stats from Recent Games
 
-- **Record:** 11W / 8L / 1D
-- **Win rate:** 55.0%
-- **Most faced:** monuro (1 games)
+- **Record:** 15W / 4L / 1D
+- **Win rate:** 75.0%
+- **Most faced:** Apersonexisting (2 games)
