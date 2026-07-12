@@ -1,6 +1,6 @@
 {
-  "total_games": 1314,
-  "last_update": "2026-07-11T06:44:31.001303",
+  "total_games": 1317,
+  "last_update": "2026-07-12T06:52:06.352510",
   "games_index": [
     {
       "index": 0,
@@ -14455,6 +14455,39 @@
       "opening": "C55: Italian Game Two Knights Modern Bishops Opening 4...d5 5.exd5 Nxd5 6.O O",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/171388552624"
+    },
+    {
+      "index": 1314,
+      "date": "2026.07.11",
+      "opponent": "Omm_varlente",
+      "white": "Omm_varlente",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C20: Kings Pawn Opening 1...e5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171417757532"
+    },
+    {
+      "index": 1315,
+      "date": "2026.07.11",
+      "opponent": "Kurobogs",
+      "white": "sergioquesadas",
+      "black": "Kurobogs",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171417936150"
+    },
+    {
+      "index": 1316,
+      "date": "2026.07.11",
+      "opponent": "mohammed_ghalib94",
+      "white": "sergioquesadas",
+      "black": "mohammed_ghalib94",
+      "result": "unknown",
+      "opening": "A40: Englund Gambit",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171418093050"
     }
   ]
 }
