@@ -4,30 +4,30 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
-| 2026-07-11 | mohammed_ghalib94 | 1276 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/171418093050) |
-| 2026-07-11 | Kurobogs | 1278 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/171417936150) |
-| 2026-07-11 | Omm_varlente | 1313 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/171417757532) |
-| 2026-07-10 | Vova010678 | 1289 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171388552624) |
-| 2026-07-10 | KaviSharu | 1268 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171384306958) |
-| 2026-07-10 | Barsky1 | 1287 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171384036010) |
-| 2026-07-10 | dineshnashikkar521 | 1281 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171376629258) |
-| 2026-07-10 | allamNa | 1239 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171370360256) |
-| 2026-07-10 | Apersonexisting | 1275 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171369494598) |
-| 2026-07-10 | Apersonexisting | 1284 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/171369334392) |
-| 2026-07-09 | monuro | 1240 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171341570356) |
-| 2026-07-09 | Migsthegreatestchessplaya | 1233 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171329676148) |
-| 2026-07-09 | Swamy1542 | 1213 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171325747346) |
-| 2026-07-09 | offman075 | 1208 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171325438958) |
-| 2026-07-09 | Arkel72 | 1221 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171325323930) |
-| 2026-07-09 | tuanpa34 | 1228 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171324747510) |
-| 2026-07-09 | piotr19611961 | 1217 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171324681094) |
-| 2026-07-08 | GusRust | 1178 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171303184876) |
-| 2026-07-08 | Husejin0301 | 1235 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171291979674) |
-| 2026-07-08 | Fishy0Bobby | 1170 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171291779742) |
+| 2026-07-12 | psmdhar | 1180 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/171486325868) |
+| 2026-07-12 | Lekryan | 1198 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171486243454) |
+| 2026-07-12 | AdemShumolliGM | 1237 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171486107280) |
+| 2026-07-12 | AdemShumolliGM | 1230 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/171485732512) |
+| 2026-07-12 | Adrian-506 | 1220 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171485542088) |
+| 2026-07-12 | OPMacademy | 1200 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171485235092) |
+| 2026-07-12 | hashmeit | 1208 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171481489110) |
+| 2026-07-12 | BegzodBonu | 1213 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/171480680850) |
+| 2026-07-12 | abbbas_4532 | 1204 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171479797168) |
+| 2026-07-12 | giorgibabunashvili | 1181 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171479597542) |
+| 2026-07-12 | eduval | 1198 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171478249060) |
+| 2026-07-12 | kobilovv | 1192 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/171477740706) |
+| 2026-07-12 | SeyarKu2 | 1155 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171477583710) |
+| 2026-07-12 | Truchason | 1221 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/171476883368) |
+| 2026-07-12 | jonapow | 1157 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171476493760) |
+| 2026-07-12 | Game0verJesse | 1203 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/171475284604) |
+| 2026-07-12 | Aspirin_040 | 1192 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171474826374) |
+| 2026-07-12 | beuc2002 | 1233 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/171473692944) |
+| 2026-07-12 | possiblyjustchess | 1195 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171473516778) |
+| 2026-07-12 | mett-usa | 1201 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/171473131298) |
 
 
 ## Quick Stats from Recent Games
 
-- **Record:** 14W / 5L / 1D
-- **Win rate:** 70.0%
-- **Most faced:** Apersonexisting (2 games)
+- **Record:** 8W / 12L / 0D
+- **Win rate:** 40.0%
+- **Most faced:** AdemShumolliGM (2 games)
