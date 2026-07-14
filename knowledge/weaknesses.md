@@ -70,6 +70,6 @@
 
 - **ECO C41** (as white): 50.0% loss rate in 42 games
 - **ECO B13** (as white): 60.0% loss rate in 5 games
-- **ECO D02** (as white): 42.3% loss rate in 26 games
+- **ECO D02** (as white): 40.7% loss rate in 27 games
 - **ECO B10** (as white): 54.5% loss rate in 11 games
 - **ECO C44** (as white): 60.0% loss rate in 5 games
