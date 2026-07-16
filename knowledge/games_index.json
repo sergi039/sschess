@@ -1,6 +1,6 @@
 {
-  "total_games": 1406,
-  "last_update": "2026-07-15T06:43:31.448366",
+  "total_games": 1419,
+  "last_update": "2026-07-16T06:47:56.594922",
   "games_index": [
     {
       "index": 0,
@@ -15467,6 +15467,149 @@
       "opening": "C21: Center Game",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/171565857602"
+    },
+    {
+      "index": 1406,
+      "date": "2026.07.15",
+      "opponent": "akterzov",
+      "white": "akterzov",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "A01: Nimzowitsch Larsen Attack Modern Variation 2.Bb2 Nc6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171595489450"
+    },
+    {
+      "index": 1407,
+      "date": "2026.07.15",
+      "opponent": "valilum",
+      "white": "valilum",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C47: Four Knights Game Italian Noa Gambit 5...Kxf7 6.Nxe4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171596317184"
+    },
+    {
+      "index": 1408,
+      "date": "2026.07.15",
+      "opponent": "La-Ponsse-Bleue",
+      "white": "sergioquesadas",
+      "black": "La-Ponsse-Bleue",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Levitsky Attack 2...h6 3.Bh4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171598163390"
+    },
+    {
+      "index": 1409,
+      "date": "2026.07.15",
+      "opponent": "Pankaj1524",
+      "white": "sergioquesadas",
+      "black": "Pankaj1524",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Levitsky Attack",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171598393910"
+    },
+    {
+      "index": 1410,
+      "date": "2026.07.15",
+      "opponent": "Beikkkk",
+      "white": "Beikkkk",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C24: Bishops Opening Berlin Defense",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171604556062"
+    },
+    {
+      "index": 1411,
+      "date": "2026.07.15",
+      "opponent": "rrana0071",
+      "white": "rrana0071",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C47: Four Knights Game Italian Noa Gambit 5...Kxf7 6.Nxe4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171604835622"
+    },
+    {
+      "index": 1412,
+      "date": "2026.07.15",
+      "opponent": "rrana0071",
+      "white": "sergioquesadas",
+      "black": "rrana0071",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Levitsky Attack 2...h6 3.Bh4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171604945786"
+    },
+    {
+      "index": 1413,
+      "date": "2026.07.15",
+      "opponent": "Prityush_1",
+      "white": "Prityush_1",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C21: Center Game",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171605091744"
+    },
+    {
+      "index": 1414,
+      "date": "2026.07.15",
+      "opponent": "adi3369",
+      "white": "sergioquesadas",
+      "black": "adi3369",
+      "result": "unknown",
+      "opening": "A40: Queens Pawn Opening Horwitz Defense 2.Bf4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171606538054"
+    },
+    {
+      "index": 1415,
+      "date": "2026.07.15",
+      "opponent": "vishu_sri",
+      "white": "vishu_sri",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C24: Bishops Opening Berlin Ponziani Gambit",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171607384280"
+    },
+    {
+      "index": 1416,
+      "date": "2026.07.15",
+      "opponent": "Ruslan0186",
+      "white": "sergioquesadas",
+      "black": "Ruslan0186",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Levitsky Attack 2...h6 3.Bh4 c6 4.e3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171608298544"
+    },
+    {
+      "index": 1417,
+      "date": "2026.07.15",
+      "opponent": "Adnan3247",
+      "white": "Adnan3247",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C66: Ruy Lopez Opening Berlin Improved Steinitz Defense 5.d4 exd4 6.Nxd4 Bd7",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171609352112"
+    },
+    {
+      "index": 1418,
+      "date": "2026.07.15",
+      "opponent": "Fajar_NurCholis",
+      "white": "sergioquesadas",
+      "black": "Fajar_NurCholis",
+      "result": "unknown",
+      "opening": "A48: Torre Attack Fianchetto Defense 4.e3 O O",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171613726528"
     }
   ]
 }

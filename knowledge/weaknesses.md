@@ -31,8 +31,8 @@
 ### 4. Problematic Opening (Black)
 
 **Opening:** ECO C21
-- Games played: 9
-- Loss rate: 77.8%
+- Games played: 10
+- Loss rate: 70.0%
 
 **Recommendation:** Consider studying this opening more deeply or switching to an alternative.
 
