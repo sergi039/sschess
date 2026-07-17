@@ -1,6 +1,6 @@
 {
-  "total_games": 1419,
-  "last_update": "2026-07-16T06:47:56.594922",
+  "total_games": 1435,
+  "last_update": "2026-07-17T06:46:08.828139",
   "games_index": [
     {
       "index": 0,
@@ -15610,6 +15610,182 @@
       "opening": "A48: Torre Attack Fianchetto Defense 4.e3 O O",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/171613726528"
+    },
+    {
+      "index": 1419,
+      "date": "2026.07.16",
+      "opponent": "sabirkeinou",
+      "white": "sergioquesadas",
+      "black": "sabirkeinou",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Levitsky Attack",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171641133806"
+    },
+    {
+      "index": 1420,
+      "date": "2026.07.16",
+      "opponent": "Avangard86",
+      "white": "Avangard86",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C20: Kings Pawn Opening Leonardis Variation",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171641813146"
+    },
+    {
+      "index": 1421,
+      "date": "2026.07.16",
+      "opponent": "amit-279",
+      "white": "sergioquesadas",
+      "black": "amit-279",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Levitsky Attack",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171643094762"
+    },
+    {
+      "index": 1422,
+      "date": "2026.07.16",
+      "opponent": "PatoCieza",
+      "white": "sergioquesadas",
+      "black": "PatoCieza",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Levitsky Attack 2...h6 3.Bh4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171647372808"
+    },
+    {
+      "index": 1423,
+      "date": "2026.07.16",
+      "opponent": "bensongshu",
+      "white": "bensongshu",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C58: Italian Game Knight Attack Polerio Kieseritzky Yankovich Variation",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171648119026"
+    },
+    {
+      "index": 1424,
+      "date": "2026.07.16",
+      "opponent": "Rrike14",
+      "white": "Rrike14",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "A00: Van t Kruijs Opening",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171648724124"
+    },
+    {
+      "index": 1425,
+      "date": "2026.07.16",
+      "opponent": "The_Jacked_Nerd",
+      "white": "sergioquesadas",
+      "black": "The_Jacked_Nerd",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Levitsky Attack",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171649263308"
+    },
+    {
+      "index": 1426,
+      "date": "2026.07.16",
+      "opponent": "altuhov1958s",
+      "white": "altuhov1958s",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C65: Ruy Lopez Opening Berlin Defense 4.Bxc6 dxc6 5.d3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171650080390"
+    },
+    {
+      "index": 1427,
+      "date": "2026.07.16",
+      "opponent": "Paladaro",
+      "white": "Paladaro",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "A09: Reti Opening Reti Gambit Declined Advance Variation...5.d3 Nf6 6.O O Be7",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171651278332"
+    },
+    {
+      "index": 1428,
+      "date": "2026.07.16",
+      "opponent": "Talp64",
+      "white": "sergioquesadas",
+      "black": "Talp64",
+      "result": "unknown",
+      "opening": "A43: Old Benoni Defense",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171652129076"
+    },
+    {
+      "index": 1429,
+      "date": "2026.07.16",
+      "opponent": "RJB55555",
+      "white": "RJB55555",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C45: Scotch Game...4.Nxd4 Nxd4 5.Qxd4 d6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171652876528"
+    },
+    {
+      "index": 1430,
+      "date": "2026.07.16",
+      "opponent": "jhonny-aez",
+      "white": "jhonny-aez",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "D35: Queens Gambit Declined Exchange Variation 4...Nxd5 5.e4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171656215634"
+    },
+    {
+      "index": 1431,
+      "date": "2026.07.16",
+      "opponent": "nanthakumarrr",
+      "white": "sergioquesadas",
+      "black": "nanthakumarrr",
+      "result": "unknown",
+      "opening": "A40: Queens Pawn Opening Horwitz Defense",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171656413580"
+    },
+    {
+      "index": 1432,
+      "date": "2026.07.16",
+      "opponent": "mohanad_b4",
+      "white": "sergioquesadas",
+      "black": "mohanad_b4",
+      "result": "unknown",
+      "opening": "A45: Trompowsky Attack 2...g6 3.Bxf6 exf6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171656794112"
+    },
+    {
+      "index": 1433,
+      "date": "2026.07.16",
+      "opponent": "ThomasM62",
+      "white": "sergioquesadas",
+      "black": "ThomasM62",
+      "result": "unknown",
+      "opening": "A45: Indian Game 2.Bf4 e6 3.e3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171657022880"
+    },
+    {
+      "index": 1434,
+      "date": "2026.07.16",
+      "opponent": "POARaK",
+      "white": "POARaK",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C50: Italian Game Hungarian Defense 4.O O Nf6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171657786122"
     }
   ]
 }
