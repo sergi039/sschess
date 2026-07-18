@@ -1,6 +1,6 @@
 {
-  "total_games": 1435,
-  "last_update": "2026-07-17T06:46:08.828139",
+  "total_games": 1445,
+  "last_update": "2026-07-18T06:37:19.207709",
   "games_index": [
     {
       "index": 0,
@@ -15786,6 +15786,116 @@
       "opening": "C50: Italian Game Hungarian Defense 4.O O Nf6",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/171657786122"
+    },
+    {
+      "index": 1435,
+      "date": "2026.07.17",
+      "opponent": "riahiR",
+      "white": "riahiR",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C47: Four Knights Game Scotch Variation Accepted 5.Nxd4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171683558026"
+    },
+    {
+      "index": 1436,
+      "date": "2026.07.17",
+      "opponent": "riahiR",
+      "white": "sergioquesadas",
+      "black": "riahiR",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Levitsky Attack 2...f6 3.Bh4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171683670096"
+    },
+    {
+      "index": 1437,
+      "date": "2026.07.17",
+      "opponent": "riahiR",
+      "white": "riahiR",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C47: Four Knights Game Scotch Variation 4...Bb4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171683848266"
+    },
+    {
+      "index": 1438,
+      "date": "2026.07.17",
+      "opponent": "saadftks",
+      "white": "saadftks",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C55: Italian Game Two Knights Open",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171684936408"
+    },
+    {
+      "index": 1439,
+      "date": "2026.07.17",
+      "opponent": "Sergei1230985",
+      "white": "sergioquesadas",
+      "black": "Sergei1230985",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Levitsky Attack",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171686502232"
+    },
+    {
+      "index": 1440,
+      "date": "2026.07.17",
+      "opponent": "powerafg123",
+      "white": "sergioquesadas",
+      "black": "powerafg123",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Levitsky Attack 2...h6 3.Bh4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171686882380"
+    },
+    {
+      "index": 1441,
+      "date": "2026.07.17",
+      "opponent": "tepa_klopalisti",
+      "white": "tepa_klopalisti",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "A00: Grob Opening Grob Gambit with 2 Bg2",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171687298072"
+    },
+    {
+      "index": 1442,
+      "date": "2026.07.17",
+      "opponent": "BANDERSINGH07",
+      "white": "BANDERSINGH07",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C45: Scotch Game Scotch Gambit London Defense 5.c3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171687504172"
+    },
+    {
+      "index": 1443,
+      "date": "2026.07.17",
+      "opponent": "saesoep",
+      "white": "sergioquesadas",
+      "black": "saesoep",
+      "result": "unknown",
+      "opening": "A45: Trompowsky Attack 2...d5 3.Bxf6 gxf6 4.e3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171688182158"
+    },
+    {
+      "index": 1444,
+      "date": "2026.07.17",
+      "opponent": "anmole_concept",
+      "white": "sergioquesadas",
+      "black": "anmole_concept",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Levitsky Attack",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171688680676"
     }
   ]
 }
