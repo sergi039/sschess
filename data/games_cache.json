@@ -1,6 +1,6 @@
 {
   "username": "sergioquesadas",
-  "last_update": "2026-07-18T06:37:19.082832",
+  "last_update": "2026-07-19T06:49:57.244773",
   "games": [
     {
       "url": "https://www.chess.com/game/live/144438554796",
@@ -45907,6 +45907,74 @@
       },
       "eco": "https://www.chess.com/openings/Queens-Pawn-Opening-Levitsky-Attack",
       "fetched_at": "2026-07-18T06:37:19.082674",
+      "archive_url": "https://api.chess.com/pub/player/sergioquesadas/games/2026/07"
+    },
+    {
+      "url": "https://www.chess.com/game/live/171737224386",
+      "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2026.07.18\"]\n[Round \"-\"]\n[White \"Sensa25\"]\n[Black \"sergioquesadas\"]\n[Result \"0-1\"]\n[CurrentPosition \"5r1r/pp2k3/2pp4/6pp/qPN1Pp2/3P1Q2/2P3PP/b4R1K w - - 0 25\"]\n[Timezone \"UTC\"]\n[ECO \"C30\"]\n[ECOUrl \"https://www.chess.com/openings/Kings-Gambit-Declined-Queens-Knight-Defense-3.Nf3\"]\n[UTCDate \"2026.07.18\"]\n[UTCTime \"12:16:23\"]\n[WhiteElo \"1332\"]\n[BlackElo \"1336\"]\n[TimeControl \"600\"]\n[Termination \"sergioquesadas won by resignation\"]\n[StartTime \"12:16:23\"]\n[EndDate \"2026.07.18\"]\n[EndTime \"12:24:44\"]\n[Link \"https://www.chess.com/game/live/171737224386\"]\n\n1. e4 {[%clk 0:09:56.6]} 1... e5 {[%clk 0:09:58.2]} 2. f4 {[%clk 0:09:55.7]} 2... Nc6 {[%clk 0:09:55.3]} 3. Nf3 {[%clk 0:09:54.5]} 3... d6 {[%clk 0:09:54.1]} 4. Bc4 {[%clk 0:09:49.7]} 4... Bg4 {[%clk 0:09:51.8]} 5. Bxf7+ {[%clk 0:09:42.7]} 5... Kxf7 {[%clk 0:09:45.3]} 6. Ng5+ {[%clk 0:09:41.6]} 6... Ke8 {[%clk 0:09:40.3]} 7. Qxg4 {[%clk 0:09:36.8]} 7... Nf6 {[%clk 0:09:34.3]} 8. Qd1 {[%clk 0:09:02.7]} 8... exf4 {[%clk 0:09:26.9]} 9. O-O {[%clk 0:08:59.4]} 9... Nd4 {[%clk 0:09:18]} 10. d3 {[%clk 0:08:44.4]} 10... h6 {[%clk 0:09:02.8]} 11. Nf3 {[%clk 0:08:30.3]} 11... Nxf3+ {[%clk 0:08:58.4]} 12. Qxf3 {[%clk 0:08:27.6]} 12... g5 {[%clk 0:08:57.2]} 13. b3 {[%clk 0:08:12.3]} 13... c6 {[%clk 0:08:22]} 14. Bb2 {[%clk 0:08:09.1]} 14... Qb6+ {[%clk 0:08:18.4]} 15. Kh1 {[%clk 0:08:01.2]} 15... Be7 {[%clk 0:08:15.8]} 16. Nd2 {[%clk 0:07:36.6]} 16... Kd7 {[%clk 0:07:45.3]} 17. Bxf6 {[%clk 0:07:33.1]} 17... Bxf6 {[%clk 0:07:43.5]} 18. Qg4+ {[%clk 0:07:16.7]} 18... Ke7 {[%clk 0:07:32.4]} 19. Nc4 {[%clk 0:06:52.6]} 19... Qc5 {[%clk 0:07:21.9]} 20. Rab1 {[%clk 0:06:28.9]} 20... h5 {[%clk 0:07:10.1]} 21. Qf3 {[%clk 0:06:06.9]} 21... Raf8 {[%clk 0:06:57.3]} 22. b4 {[%clk 0:06:00]} 22... Qb5 {[%clk 0:06:32.8]} 23. a4 {[%clk 0:05:44.5]} 23... Qxa4 {[%clk 0:06:30.5]} 24. Ra1 {[%clk 0:05:33.9]} 24... Bxa1 {[%clk 0:06:24.4]} 0-1\n",
+      "time_control": "600",
+      "end_time": 1784377484,
+      "rated": true,
+      "accuracies": {
+        "white": 62.75,
+        "black": 67.68
+      },
+      "tcn": "mC0KnD5QgvZRfA6EA181vM18dE!TEdKDegQBlt3VMvBvdv2MjrYQcj7Pgh90bl8ZjT0TvEZ0lAPIabVNEv49rzIHiyHybaTa",
+      "uuid": "7df81872-82a2-11f1-9d32-060c3d01000f",
+      "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+      "fen": "5r1r/pp2k3/2pp4/6pp/qPN1Pp2/3P1Q2/2P3PP/b4R1K w - - 0 25",
+      "time_class": "rapid",
+      "rules": "chess",
+      "white": {
+        "rating": 1332,
+        "result": "resigned",
+        "@id": "https://api.chess.com/pub/player/sensa25",
+        "username": "Sensa25",
+        "uuid": "28e00150-9d8e-11f0-87a4-1f41850d53e6"
+      },
+      "black": {
+        "rating": 1336,
+        "result": "win",
+        "@id": "https://api.chess.com/pub/player/sergioquesadas",
+        "username": "sergioquesadas",
+        "uuid": "234ae0e0-c941-11ec-ae32-69d4f91dc464"
+      },
+      "eco": "https://www.chess.com/openings/Kings-Gambit-Declined-Queens-Knight-Defense-3.Nf3",
+      "fetched_at": "2026-07-19T06:49:57.244470",
+      "archive_url": "https://api.chess.com/pub/player/sergioquesadas/games/2026/07"
+    },
+    {
+      "url": "https://www.chess.com/game/live/171755245806",
+      "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2026.07.18\"]\n[Round \"-\"]\n[White \"sergioquesadas\"]\n[Black \"dhihaz\"]\n[Result \"1-0\"]\n[CurrentPosition \"5r1k/p5pp/1n2N1p1/8/3r1q1P/1Q3NR1/PP3PP1/4RK2 b - - 1 27\"]\n[Timezone \"UTC\"]\n[ECO \"D00\"]\n[ECOUrl \"https://www.chess.com/openings/Queens-Pawn-Opening-Levitsky-Attack\"]\n[UTCDate \"2026.07.18\"]\n[UTCTime \"19:47:53\"]\n[WhiteElo \"1344\"]\n[BlackElo \"1331\"]\n[TimeControl \"600\"]\n[Termination \"sergioquesadas won by resignation\"]\n[StartTime \"19:47:53\"]\n[EndDate \"2026.07.18\"]\n[EndTime \"19:54:42\"]\n[Link \"https://www.chess.com/game/live/171755245806\"]\n\n1. d4 {[%clk 0:09:58.6]} 1... d5 {[%clk 0:09:58.5]} 2. Bg5 {[%clk 0:09:57.2]} 2... Nc6 {[%clk 0:09:56.3]} 3. e3 {[%clk 0:09:56]} 3... Bf5 {[%clk 0:09:49.3]} 4. Bd3 {[%clk 0:09:54.6]} 4... Bg6 {[%clk 0:09:47]} 5. Bxg6 {[%clk 0:09:52.9]} 5... fxg6 {[%clk 0:09:45.2]} 6. c3 {[%clk 0:09:51.5]} 6... Nf6 {[%clk 0:09:42.5]} 7. Nd2 {[%clk 0:09:45.2]} 7... e5 {[%clk 0:09:38.9]} 8. dxe5 {[%clk 0:09:31]} 8... Nxe5 {[%clk 0:09:35.4]} 9. Ngf3 {[%clk 0:09:22.4]} 9... Nd3+ {[%clk 0:09:32.6]} 10. Kf1 {[%clk 0:09:11.1]} 10... Be7 {[%clk 0:09:29.9]} 11. Qc2 {[%clk 0:08:58.4]} 11... Ne5 {[%clk 0:09:22]} 12. Nxe5 {[%clk 0:08:56.7]} 12... O-O {[%clk 0:09:07.2]} 13. h4 {[%clk 0:08:55]} 13... Nh5 {[%clk 0:09:04.6]} 14. Bxe7 {[%clk 0:08:49.5]} 14... Qxe7 {[%clk 0:09:03.2]} 15. Nef3 {[%clk 0:08:39.4]} 15... Qf6 {[%clk 0:08:58.4]} 16. Rh3 {[%clk 0:08:27.5]} 16... c5 {[%clk 0:08:51.6]} 17. Re1 {[%clk 0:08:25.3]} 17... d4 {[%clk 0:08:48.8]} 18. exd4 {[%clk 0:08:23.9]} 18... cxd4 {[%clk 0:08:47.6]} 19. cxd4 {[%clk 0:08:22.7]} 19... Rad8 {[%clk 0:08:45]} 20. Qc3 {[%clk 0:07:50.4]} 20... Nf4 {[%clk 0:08:30.3]} 21. Rg3 {[%clk 0:07:12.2]} 21... Nd5 {[%clk 0:08:22.4]} 22. Qc4 {[%clk 0:07:02.3]} 22... b5 {[%clk 0:08:14.5]} 23. Qxb5 {[%clk 0:06:49.5]} 23... Nb6 {[%clk 0:08:06.4]} 24. Qb3+ {[%clk 0:06:41.1]} 24... Kh8 {[%clk 0:08:04]} 25. Ne4 {[%clk 0:06:34.7]} 25... Qf4 {[%clk 0:07:57.3]} 26. Nc5 {[%clk 0:06:06.4]} 26... Rxd4 {[%clk 0:07:49.2]} 27. Ne6 {[%clk 0:06:03.9]} 1-0\n",
+      "time_control": "600",
+      "end_time": 1784404482,
+      "rated": true,
+      "accuracies": {
+        "white": 88.93,
+        "black": 76.47
+      },
+      "tcn": "lBZJcM5Qmu6LftLUtU1Uks!Tbl0KBKQKgvKtef90dktKvK8!pFTNM070Kv0ThxYIaeJBuBIBsB47ksNDxwDJsAXHAHJPHr!?lCTDCI7BIS",
+      "uuid": "9117bb5e-82e1-11f1-8fde-57c07501000f",
+      "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+      "fen": "5r1k/p5pp/1n2N1p1/8/3r1q1P/1Q3NR1/PP3PP1/4RK2 b - - 1 27",
+      "time_class": "rapid",
+      "rules": "chess",
+      "white": {
+        "rating": 1344,
+        "result": "win",
+        "@id": "https://api.chess.com/pub/player/sergioquesadas",
+        "username": "sergioquesadas",
+        "uuid": "234ae0e0-c941-11ec-ae32-69d4f91dc464"
+      },
+      "black": {
+        "rating": 1331,
+        "result": "resigned",
+        "@id": "https://api.chess.com/pub/player/dhihaz",
+        "username": "dhihaz",
+        "uuid": "22a3c1fc-8d81-11ed-99ee-e15c9baaba11"
+      },
+      "eco": "https://www.chess.com/openings/Queens-Pawn-Opening-Levitsky-Attack",
+      "fetched_at": "2026-07-19T06:49:57.244614",
       "archive_url": "https://api.chess.com/pub/player/sergioquesadas/games/2026/07"
     }
   ],

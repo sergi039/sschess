@@ -1,6 +1,6 @@
 {
-  "total_games": 1445,
-  "last_update": "2026-07-18T06:37:19.207709",
+  "total_games": 1447,
+  "last_update": "2026-07-19T06:49:57.374831",
   "games_index": [
     {
       "index": 0,
@@ -15896,6 +15896,28 @@
       "opening": "D00: Queens Pawn Opening Levitsky Attack",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/171688680676"
+    },
+    {
+      "index": 1445,
+      "date": "2026.07.18",
+      "opponent": "Sensa25",
+      "white": "Sensa25",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C30: Kings Gambit Declined Queens Knight Defense 3.Nf3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171737224386"
+    },
+    {
+      "index": 1446,
+      "date": "2026.07.18",
+      "opponent": "dhihaz",
+      "white": "sergioquesadas",
+      "black": "dhihaz",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Levitsky Attack",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171755245806"
     }
   ]
 }

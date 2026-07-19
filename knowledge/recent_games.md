@@ -4,6 +4,8 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
+| 2026-07-18 | dhihaz | 1331 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171755245806) |
+| 2026-07-18 | Sensa25 | 1332 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171737224386) |
 | 2026-07-17 | anmole_concept | 1333 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171688680676) |
 | 2026-07-17 | saesoep | 1348 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/171688182158) |
 | 2026-07-17 | BANDERSINGH07 | 1334 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171687504172) |
@@ -22,8 +24,6 @@
 | 2026-07-16 | RJB55555 | 1412 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/171652876528) |
 | 2026-07-16 | Talp64 | 1407 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171652129076) |
 | 2026-07-16 | Paladaro | 1363 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171651278332) |
-| 2026-07-16 | altuhov1958s | 1379 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171650080390) |
-| 2026-07-16 | The_Jacked_Nerd | 1365 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171649263308) |
 
 
 ## Quick Stats from Recent Games
