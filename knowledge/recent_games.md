@@ -4,6 +4,13 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
+| 2026-07-20 | mark7431 | 1251 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/171845118070) |
+| 2026-07-20 | Abbas313oleyk | 1225 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171844942110) |
+| 2026-07-20 | Andrijmuratov | 1270 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/171827977330) |
+| 2026-07-20 | bflav | 1270 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/171827573558) |
+| 2026-07-20 | ricooooh | 1251 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/171827439434) |
+| 2026-07-20 | Nameess | 1260 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/171827157750) |
+| 2026-07-20 | Loniadara | 1280 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/171827025802) |
 | 2026-07-19 | buttfaced_chess | 1290 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/171793892996) |
 | 2026-07-19 | juanfrohlich | 1327 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/171793464210) |
 | 2026-07-19 | mastercek66 | 1320 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/171792535174) |
@@ -17,17 +24,10 @@
 | 2026-07-19 | Azwargegutu700 | 1349 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/171790714854) |
 | 2026-07-19 | mortalcombat93 | 1341 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171785930866) |
 | 2026-07-19 | vignesh000000 | 1314 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171785211788) |
-| 2026-07-19 | nikolaoliver | 1346 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/171779114346) |
-| 2026-07-18 | dhihaz | 1331 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171755245806) |
-| 2026-07-18 | Sensa25 | 1332 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171737224386) |
-| 2026-07-17 | anmole_concept | 1333 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171688680676) |
-| 2026-07-17 | saesoep | 1348 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/171688182158) |
-| 2026-07-17 | BANDERSINGH07 | 1334 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171687504172) |
-| 2026-07-17 | tepa_klopalisti | 1337 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/171687298072) |
 
 
 ## Quick Stats from Recent Games
 
-- **Record:** 6W / 13L / 1D
-- **Win rate:** 30.0%
-- **Most faced:** buttfaced_chess (1 games)
+- **Record:** 3W / 17L / 0D
+- **Win rate:** 15.0%
+- **Most faced:** mark7431 (1 games)

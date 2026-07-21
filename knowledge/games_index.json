@@ -1,6 +1,6 @@
 {
-  "total_games": 1461,
-  "last_update": "2026-07-20T07:01:58.878549",
+  "total_games": 1468,
+  "last_update": "2026-07-21T06:49:41.277125",
   "games_index": [
     {
       "index": 0,
@@ -16072,6 +16072,83 @@
       "opening": "A46: Torre Attack 3...Be7 4.e3 b6",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/171793892996"
+    },
+    {
+      "index": 1461,
+      "date": "2026.07.20",
+      "opponent": "Loniadara",
+      "white": "sergioquesadas",
+      "black": "Loniadara",
+      "result": "unknown",
+      "opening": "A40: Queens Pawn Opening Horwitz Defense 2.Nf3 f5 3.Bf4 Nf6 4.e3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171827025802"
+    },
+    {
+      "index": 1462,
+      "date": "2026.07.20",
+      "opponent": "Nameess",
+      "white": "sergioquesadas",
+      "black": "Nameess",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System 2...e6 3.e3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171827157750"
+    },
+    {
+      "index": 1463,
+      "date": "2026.07.20",
+      "opponent": "ricooooh",
+      "white": "ricooooh",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C55: Italian Game Two Knights Modern Bishops Opening",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171827439434"
+    },
+    {
+      "index": 1464,
+      "date": "2026.07.20",
+      "opponent": "bflav",
+      "white": "sergioquesadas",
+      "black": "bflav",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Levitsky Attack 2...c5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171827573558"
+    },
+    {
+      "index": 1465,
+      "date": "2026.07.20",
+      "opponent": "Andrijmuratov",
+      "white": "Andrijmuratov",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C55: Italian Game Two Knights Modern Bishops Opening",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171827977330"
+    },
+    {
+      "index": 1466,
+      "date": "2026.07.20",
+      "opponent": "Abbas313oleyk",
+      "white": "Abbas313oleyk",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C20: Kings Pawn Opening Leonardis Variation",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171844942110"
+    },
+    {
+      "index": 1467,
+      "date": "2026.07.20",
+      "opponent": "mark7431",
+      "white": "mark7431",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C20: Kings Pawn Opening Leonardis Variation",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171845118070"
     }
   ]
 }
