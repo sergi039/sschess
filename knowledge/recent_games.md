@@ -4,6 +4,11 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
+| 2026-07-21 | moelli | 1205 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171891488600) |
+| 2026-07-21 | moelli | 1212 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171891208166) |
+| 2026-07-21 | moelli | 1220 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171890830210) |
+| 2026-07-21 | carlos_gerges | 1220 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/171890426904) |
+| 2026-07-21 | kartikaykandwal | 1236 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171866706082) |
 | 2026-07-20 | mark7431 | 1251 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/171845118070) |
 | 2026-07-20 | Abbas313oleyk | 1225 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171844942110) |
 | 2026-07-20 | Andrijmuratov | 1270 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/171827977330) |
@@ -19,15 +24,10 @@
 | 2026-07-19 | EkolyN | 1323 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171791792898) |
 | 2026-07-19 | abbaszargar | 1305 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/171791389874) |
 | 2026-07-19 | NotAverageChesss | 1354 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/171791135580) |
-| 2026-07-19 | Arun7786 | 1338 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/171790957978) |
-| 2026-07-19 | LincorEgor | 1374 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/171790800190) |
-| 2026-07-19 | Azwargegutu700 | 1349 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/171790714854) |
-| 2026-07-19 | mortalcombat93 | 1341 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171785930866) |
-| 2026-07-19 | vignesh000000 | 1314 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171785211788) |
 
 
 ## Quick Stats from Recent Games
 
-- **Record:** 3W / 17L / 0D
-- **Win rate:** 15.0%
-- **Most faced:** mark7431 (1 games)
+- **Record:** 5W / 15L / 0D
+- **Win rate:** 25.0%
+- **Most faced:** moelli (3 games)

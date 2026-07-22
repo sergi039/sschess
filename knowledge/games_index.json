@@ -1,6 +1,6 @@
 {
-  "total_games": 1468,
-  "last_update": "2026-07-21T06:49:41.277125",
+  "total_games": 1473,
+  "last_update": "2026-07-22T06:50:28.943504",
   "games_index": [
     {
       "index": 0,
@@ -16149,6 +16149,61 @@
       "opening": "C20: Kings Pawn Opening Leonardis Variation",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/171845118070"
+    },
+    {
+      "index": 1468,
+      "date": "2026.07.21",
+      "opponent": "kartikaykandwal",
+      "white": "sergioquesadas",
+      "black": "kartikaykandwal",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Levitsky Attack 2...h6 3.Bh4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171866706082"
+    },
+    {
+      "index": 1469,
+      "date": "2026.07.21",
+      "opponent": "carlos_gerges",
+      "white": "sergioquesadas",
+      "black": "carlos_gerges",
+      "result": "unknown",
+      "opening": "A45: Trompowsky Attack Edge Variation 3...g5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171890426904"
+    },
+    {
+      "index": 1470,
+      "date": "2026.07.21",
+      "opponent": "moelli",
+      "white": "moelli",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C30: Kings Gambit 2...d6 3.Nf3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171890830210"
+    },
+    {
+      "index": 1471,
+      "date": "2026.07.21",
+      "opponent": "moelli",
+      "white": "sergioquesadas",
+      "black": "moelli",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Levitsky Attack 2...f6 3.Bh4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171891208166"
+    },
+    {
+      "index": 1472,
+      "date": "2026.07.21",
+      "opponent": "moelli",
+      "white": "moelli",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C30: Kings Gambit 2...d6 3.Nf3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171891488600"
     }
   ]
 }
