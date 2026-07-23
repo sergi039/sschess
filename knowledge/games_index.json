@@ -1,6 +1,6 @@
 {
-  "total_games": 1473,
-  "last_update": "2026-07-22T06:50:28.943504",
+  "total_games": 1475,
+  "last_update": "2026-07-23T06:48:53.181051",
   "games_index": [
     {
       "index": 0,
@@ -16204,6 +16204,28 @@
       "opening": "C30: Kings Gambit 2...d6 3.Nf3",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/171891488600"
+    },
+    {
+      "index": 1473,
+      "date": "2026.07.22",
+      "opponent": "soomro47",
+      "white": "soomro47",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C44: Kings Pawn Opening Kings Knight Variation 2...Nc6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171910637808"
+    },
+    {
+      "index": 1474,
+      "date": "2026.07.22",
+      "opponent": "soomro47",
+      "white": "sergioquesadas",
+      "black": "soomro47",
+      "result": "unknown",
+      "opening": "A40: Queens Pawn Opening 1...c6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171910792592"
     }
   ]
 }

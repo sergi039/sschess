@@ -4,6 +4,8 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
+| 2026-07-22 | soomro47 | 1240 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171910792592) |
+| 2026-07-22 | soomro47 | 1240 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171910637808) |
 | 2026-07-21 | moelli | 1205 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171891488600) |
 | 2026-07-21 | moelli | 1212 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171891208166) |
 | 2026-07-21 | moelli | 1220 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171890830210) |
@@ -22,12 +24,10 @@
 | 2026-07-19 | pranttt | 1301 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/171792270522) |
 | 2026-07-19 | PokerNChess5 | 1342 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/171792245574) |
 | 2026-07-19 | EkolyN | 1323 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171791792898) |
-| 2026-07-19 | abbaszargar | 1305 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/171791389874) |
-| 2026-07-19 | NotAverageChesss | 1354 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/171791135580) |
 
 
 ## Quick Stats from Recent Games
 
-- **Record:** 5W / 15L / 0D
-- **Win rate:** 25.0%
+- **Record:** 6W / 13L / 1D
+- **Win rate:** 30.0%
 - **Most faced:** moelli (3 games)
