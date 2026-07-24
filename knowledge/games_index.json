@@ -1,6 +1,6 @@
 {
-  "total_games": 1475,
-  "last_update": "2026-07-23T06:48:53.181051",
+  "total_games": 1477,
+  "last_update": "2026-07-24T06:49:04.008177",
   "games_index": [
     {
       "index": 0,
@@ -16226,6 +16226,28 @@
       "opening": "A40: Queens Pawn Opening 1...c6",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/171910792592"
+    },
+    {
+      "index": 1475,
+      "date": "2026.07.23",
+      "opponent": "ATZ85",
+      "white": "ATZ85",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C55: Italian Game Two Knights Modern Bishops Opening 4...d5 5.exd5 Nxd5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171956671016"
+    },
+    {
+      "index": 1476,
+      "date": "2026.07.23",
+      "opponent": "sesukor",
+      "white": "sergioquesadas",
+      "black": "sesukor",
+      "result": "unknown",
+      "opening": "A41: Queens Pawn Opening 1...d6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/171958181880"
     }
   ]
 }

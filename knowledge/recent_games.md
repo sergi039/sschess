@@ -4,6 +4,8 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
+| 2026-07-23 | sesukor | 1254 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171958181880) |
+| 2026-07-23 | ATZ85 | 1252 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171956671016) |
 | 2026-07-22 | soomro47 | 1240 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171910792592) |
 | 2026-07-22 | soomro47 | 1240 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171910637808) |
 | 2026-07-21 | moelli | 1205 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171891488600) |
@@ -22,8 +24,6 @@
 | 2026-07-19 | juanfrohlich | 1327 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/171793464210) |
 | 2026-07-19 | mastercek66 | 1320 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/171792535174) |
 | 2026-07-19 | pranttt | 1301 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/171792270522) |
-| 2026-07-19 | PokerNChess5 | 1342 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/171792245574) |
-| 2026-07-19 | EkolyN | 1323 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171791792898) |
 
 
 ## Quick Stats from Recent Games
