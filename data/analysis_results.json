@@ -1,7 +1,7 @@
 {
   "username": "sergioquesadas",
-  "total_games": 1477,
-  "analysis_date": "2026-08-02T06:51:31.797325",
+  "total_games": 1481,
+  "analysis_date": "2026-08-03T07:05:01.777680",
   "openings": {
     "white": {
       "ECO C43": {
@@ -165,12 +165,12 @@
         "loss_rate": 53.1
       },
       "ECO D00": {
-        "wins": 92,
+        "wins": 93,
         "losses": 58,
         "draws": 4,
-        "total": 154,
-        "win_rate": 59.7,
-        "loss_rate": 37.7
+        "total": 155,
+        "win_rate": 60.0,
+        "loss_rate": 37.4
       },
       "ECO C55": {
         "wins": 1,
@@ -445,12 +445,12 @@
         "loss_rate": 0.0
       },
       "ECO A45": {
-        "wins": 22,
+        "wins": 23,
         "losses": 26,
         "draws": 0,
-        "total": 48,
-        "win_rate": 45.8,
-        "loss_rate": 54.2
+        "total": 49,
+        "win_rate": 46.9,
+        "loss_rate": 53.1
       },
       "ECO C25": {
         "wins": 1,
@@ -911,20 +911,20 @@
         "loss_rate": 33.3
       },
       "ECO A22": {
-        "wins": 2,
+        "wins": 3,
         "losses": 1,
         "draws": 0,
-        "total": 3,
-        "win_rate": 66.7,
-        "loss_rate": 33.3
+        "total": 4,
+        "win_rate": 75.0,
+        "loss_rate": 25.0
       },
       "ECO A01": {
-        "wins": 6,
+        "wins": 7,
         "losses": 5,
         "draws": 0,
-        "total": 11,
-        "win_rate": 54.5,
-        "loss_rate": 45.5
+        "total": 12,
+        "win_rate": 58.3,
+        "loss_rate": 41.7
       },
       "ECO C46": {
         "wins": 2,
@@ -1274,11 +1274,11 @@
   },
   "time_controls": {
     "rapid": {
-      "wins": 733,
+      "wins": 737,
       "losses": 676,
       "draws": 55,
-      "total": 1464,
-      "win_rate": 50.1
+      "total": 1468,
+      "win_rate": 50.2
     },
     "daily": {
       "wins": 10,
@@ -1318,7 +1318,7 @@
       }
     ],
     "ending_types": {
-      "win": 743,
+      "win": 747,
       "resigned": 454,
       "checkmated": 145,
       "timeout": 77,
@@ -1332,10 +1332,10 @@
   },
   "rating_progress": {
     "current_ratings": {
-      "rapid": 1254,
+      "rapid": 1286,
       "daily": 1040
     },
-    "total_games_tracked": 1477
+    "total_games_tracked": 1481
   },
   "weaknesses": {
     "identified_weaknesses": [
@@ -1375,6 +1375,6 @@
         "loss_rate": 70.0
       }
     ],
-    "total_issues": 39
+    "total_issues": 38
   }
 }

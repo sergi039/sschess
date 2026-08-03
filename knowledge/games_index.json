@@ -1,6 +1,6 @@
 {
-  "total_games": 1477,
-  "last_update": "2026-08-02T06:51:31.848336",
+  "total_games": 1481,
+  "last_update": "2026-08-03T07:05:01.828745",
   "games_index": [
     {
       "index": 0,
@@ -16248,6 +16248,50 @@
       "opening": "A41: Queens Pawn Opening 1...d6",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/171958181880"
+    },
+    {
+      "index": 1477,
+      "date": "2026.08.02",
+      "opponent": "khoburgos20",
+      "white": "sergioquesadas",
+      "black": "khoburgos20",
+      "result": "unknown",
+      "opening": "A45: Indian Game...4.c3 Nc6 5.Nd2 e6 6.Bd3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/172415267670"
+    },
+    {
+      "index": 1478,
+      "date": "2026.08.02",
+      "opponent": "akmalfathi111",
+      "white": "sergioquesadas",
+      "black": "akmalfathi111",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Levitsky Attack 2...f6 3.Bh4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/172415915684"
+    },
+    {
+      "index": 1479,
+      "date": "2026.08.02",
+      "opponent": "BENfadil2002",
+      "white": "BENfadil2002",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "A22: English Opening Two Knights Variation 3.e3 Bb4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/172416134086"
+    },
+    {
+      "index": 1480,
+      "date": "2026.08.02",
+      "opponent": "Hamza-Saqr-86",
+      "white": "Hamza-Saqr-86",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "A01: Nimzowitsch Larsen Attack Modern Variation 2.Bb2 Nc6 3.e3 d5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/172416619046"
     }
   ]
 }
