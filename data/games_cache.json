@@ -1,6 +1,6 @@
 {
   "username": "sergioquesadas",
-  "last_update": "2026-08-03T07:05:01.703866",
+  "last_update": "2026-08-04T06:50:19.541157",
   "games": [
     {
       "url": "https://www.chess.com/game/live/144438554796",
@@ -46916,7 +46916,7 @@
         "uuid": "d64cd054-7eae-11ed-bded-9fa77076efed"
       },
       "eco": "https://www.chess.com/openings/Indian-Game...4.c3-Nc6-5.Nd2-e6-6.Bd3",
-      "fetched_at": "2026-08-03T07:05:01.702933",
+      "fetched_at": "2026-08-04T06:50:19.540070",
       "archive_url": "https://api.chess.com/pub/player/sergioquesadas/games/2026/08"
     },
     {
@@ -46950,7 +46950,7 @@
         "uuid": "e578cb2a-8b63-11ed-a202-23d2c4f3a77a"
       },
       "eco": "https://www.chess.com/openings/Queens-Pawn-Opening-Levitsky-Attack-2...f6-3.Bh4",
-      "fetched_at": "2026-08-03T07:05:01.703400",
+      "fetched_at": "2026-08-04T06:50:19.540700",
       "archive_url": "https://api.chess.com/pub/player/sergioquesadas/games/2026/08"
     },
     {
@@ -46984,7 +46984,7 @@
         "uuid": "234ae0e0-c941-11ec-ae32-69d4f91dc464"
       },
       "eco": "https://www.chess.com/openings/English-Opening-Two-Knights-Variation-3.e3-Bb4",
-      "fetched_at": "2026-08-03T07:05:01.703554",
+      "fetched_at": "2026-08-04T06:50:19.540857",
       "archive_url": "https://api.chess.com/pub/player/sergioquesadas/games/2026/08"
     },
     {
@@ -47018,7 +47018,7 @@
         "uuid": "234ae0e0-c941-11ec-ae32-69d4f91dc464"
       },
       "eco": "https://www.chess.com/openings/Nimzowitsch-Larsen-Attack-Modern-Variation-2.Bb2-Nc6-3.e3-d5",
-      "fetched_at": "2026-08-03T07:05:01.703706",
+      "fetched_at": "2026-08-04T06:50:19.541003",
       "archive_url": "https://api.chess.com/pub/player/sergioquesadas/games/2026/08"
     }
   ],
