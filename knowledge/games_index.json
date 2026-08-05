@@ -1,6 +1,6 @@
 {
-  "total_games": 1481,
-  "last_update": "2026-08-04T06:50:19.676764",
+  "total_games": 1486,
+  "last_update": "2026-08-05T06:51:48.773064",
   "games_index": [
     {
       "index": 0,
@@ -16292,6 +16292,61 @@
       "opening": "A01: Nimzowitsch Larsen Attack Modern Variation 2.Bb2 Nc6 3.e3 d5",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/172416619046"
+    },
+    {
+      "index": 1481,
+      "date": "2026.08.04",
+      "opponent": "WillyWonka3103",
+      "white": "sergioquesadas",
+      "black": "WillyWonka3103",
+      "result": "unknown",
+      "opening": "B12: Caro Kann Defense Advance Botvinnik Carls Defense 4.c3 Nc6 5.Nf3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/172517740518"
+    },
+    {
+      "index": 1482,
+      "date": "2026.08.04",
+      "opponent": "41s4k",
+      "white": "sergioquesadas",
+      "black": "41s4k",
+      "result": "unknown",
+      "opening": "B21: Sicilian Defense Smith Morra Gambit 2...cxd4 3.Qxd4 Nc6 4.Qd1",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/172523584798"
+    },
+    {
+      "index": 1483,
+      "date": "2026.08.04",
+      "opponent": "VincentEmrys",
+      "white": "VincentEmrys",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "D06: Queens Gambit Declined Marshall Defense 3.cxd5 Nxd5 4.e4 Nb6 5.Nc3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/172524093452"
+    },
+    {
+      "index": 1484,
+      "date": "2026.08.04",
+      "opponent": "Fredi1953",
+      "white": "Fredi1953",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C44: Ponziani Opening Jaenisch Breyer Opening 4...d5 5.Nbd2",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/172524239016"
+    },
+    {
+      "index": 1485,
+      "date": "2026.08.04",
+      "opponent": "mahing11",
+      "white": "mahing11",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "A45: Indian Game 2.Bf4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/172524582078"
     }
   ]
 }

@@ -4,6 +4,11 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
+| 2026-08-04 | mahing11 | 1266 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/172524582078) |
+| 2026-08-04 | Fredi1953 | 1288 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/172524239016) |
+| 2026-08-04 | VincentEmrys | 1324 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/172524093452) |
+| 2026-08-04 | 41s4k | 1307 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/172523584798) |
+| 2026-08-04 | WillyWonka3103 | 1302 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/172517740518) |
 | 2026-08-02 | Hamza-Saqr-86 | 1280 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/172416619046) |
 | 2026-08-02 | BENfadil2002 | 1240 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/172416134086) |
 | 2026-08-02 | akmalfathi111 | 1261 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/172415915684) |
@@ -19,15 +24,10 @@
 | 2026-07-21 | kartikaykandwal | 1236 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171866706082) |
 | 2026-07-20 | mark7431 | 1251 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/171845118070) |
 | 2026-07-20 | Abbas313oleyk | 1225 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171844942110) |
-| 2026-07-20 | Andrijmuratov | 1270 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/171827977330) |
-| 2026-07-20 | bflav | 1270 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/171827573558) |
-| 2026-07-20 | ricooooh | 1251 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/171827439434) |
-| 2026-07-20 | Nameess | 1260 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/171827157750) |
-| 2026-07-20 | Loniadara | 1280 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/171827025802) |
 
 
 ## Quick Stats from Recent Games
 
-- **Record:** 10W / 9L / 1D
-- **Win rate:** 50.0%
+- **Record:** 13W / 6L / 1D
+- **Win rate:** 65.0%
 - **Most faced:** moelli (3 games)
