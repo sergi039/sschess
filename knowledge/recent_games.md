@@ -4,6 +4,12 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
+| 2026-08-05 | AkibShahrear06 | 1270 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/172571069442) |
+| 2026-08-05 | pramod1298 | 1287 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/172570337744) |
+| 2026-08-05 | pepxbcn | 1292 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/172569006380) |
+| 2026-08-05 | aryansumbly | 1297 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/172568914422) |
+| 2026-08-05 | Mbah_suro9 | 1263 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/172566280996) |
+| 2026-08-05 | OPxPlayer | 1302 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/172565479080) |
 | 2026-08-04 | mahing11 | 1266 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/172524582078) |
 | 2026-08-04 | Fredi1953 | 1288 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/172524239016) |
 | 2026-08-04 | VincentEmrys | 1324 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/172524093452) |
@@ -18,16 +24,10 @@
 | 2026-07-22 | soomro47 | 1240 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171910792592) |
 | 2026-07-22 | soomro47 | 1240 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171910637808) |
 | 2026-07-21 | moelli | 1205 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171891488600) |
-| 2026-07-21 | moelli | 1212 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171891208166) |
-| 2026-07-21 | moelli | 1220 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171890830210) |
-| 2026-07-21 | carlos_gerges | 1220 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/171890426904) |
-| 2026-07-21 | kartikaykandwal | 1236 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171866706082) |
-| 2026-07-20 | mark7431 | 1251 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/171845118070) |
-| 2026-07-20 | Abbas313oleyk | 1225 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171844942110) |
 
 
 ## Quick Stats from Recent Games
 
-- **Record:** 13W / 6L / 1D
-- **Win rate:** 65.0%
-- **Most faced:** moelli (3 games)
+- **Record:** 11W / 7L / 2D
+- **Win rate:** 55.0%
+- **Most faced:** soomro47 (2 games)

@@ -1,6 +1,6 @@
 {
-  "total_games": 1486,
-  "last_update": "2026-08-05T06:51:48.773064",
+  "total_games": 1492,
+  "last_update": "2026-08-06T08:20:43.983623",
   "games_index": [
     {
       "index": 0,
@@ -16347,6 +16347,72 @@
       "opening": "A45: Indian Game 2.Bf4",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/172524582078"
+    },
+    {
+      "index": 1486,
+      "date": "2026.08.05",
+      "opponent": "OPxPlayer",
+      "white": "sergioquesadas",
+      "black": "OPxPlayer",
+      "result": "unknown",
+      "opening": "C40: Kings Pawn Opening Kings Knight Variation",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/172565479080"
+    },
+    {
+      "index": 1487,
+      "date": "2026.08.05",
+      "opponent": "Mbah_suro9",
+      "white": "sergioquesadas",
+      "black": "Mbah_suro9",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Levitsky Attack 2...h6 3.Bh4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/172566280996"
+    },
+    {
+      "index": 1488,
+      "date": "2026.08.05",
+      "opponent": "aryansumbly",
+      "white": "aryansumbly",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "D02: Queens Pawn Opening Zukertort Chigorin Variation 3.Bf4 Nf6 4.e3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/172568914422"
+    },
+    {
+      "index": 1489,
+      "date": "2026.08.05",
+      "opponent": "pepxbcn",
+      "white": "sergioquesadas",
+      "black": "pepxbcn",
+      "result": "unknown",
+      "opening": "A40: Englund Gambit 2.dxe5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/172569006380"
+    },
+    {
+      "index": 1490,
+      "date": "2026.08.05",
+      "opponent": "pramod1298",
+      "white": "pramod1298",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C23: Bishops Opening 2...Nc6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/172570337744"
+    },
+    {
+      "index": 1491,
+      "date": "2026.08.05",
+      "opponent": "AkibShahrear06",
+      "white": "AkibShahrear06",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "D20: Queens Gambit Accepted Central Variation Alekhine System 4.Nc3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/172571069442"
     }
   ]
 }
