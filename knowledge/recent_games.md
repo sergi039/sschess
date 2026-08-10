@@ -4,6 +4,8 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
+| 2026-08-09 | KingMe5555 | 1288 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/172765361526) |
+| 2026-08-09 | Baselsyrein | 1240 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/172757170860) |
 | 2026-08-05 | AkibShahrear06 | 1270 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/172571069442) |
 | 2026-08-05 | pramod1298 | 1287 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/172570337744) |
 | 2026-08-05 | pepxbcn | 1292 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/172569006380) |
@@ -22,12 +24,10 @@
 | 2026-07-23 | sesukor | 1254 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171958181880) |
 | 2026-07-23 | ATZ85 | 1252 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171956671016) |
 | 2026-07-22 | soomro47 | 1240 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171910792592) |
-| 2026-07-22 | soomro47 | 1240 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171910637808) |
-| 2026-07-21 | moelli | 1205 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171891488600) |
 
 
 ## Quick Stats from Recent Games
 
-- **Record:** 11W / 7L / 2D
-- **Win rate:** 55.0%
-- **Most faced:** soomro47 (2 games)
+- **Record:** 10W / 8L / 2D
+- **Win rate:** 50.0%
+- **Most faced:** KingMe5555 (1 games)

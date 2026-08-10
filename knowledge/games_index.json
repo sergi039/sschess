@@ -1,6 +1,6 @@
 {
-  "total_games": 1492,
-  "last_update": "2026-08-09T06:41:33.528611",
+  "total_games": 1494,
+  "last_update": "2026-08-10T07:16:09.646658",
   "games_index": [
     {
       "index": 0,
@@ -16413,6 +16413,28 @@
       "opening": "D20: Queens Gambit Accepted Central Variation Alekhine System 4.Nc3",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/172571069442"
+    },
+    {
+      "index": 1492,
+      "date": "2026.08.09",
+      "opponent": "Baselsyrein",
+      "white": "sergioquesadas",
+      "black": "Baselsyrein",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Levitsky Attack 2...f6 3.Bh4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/172757170860"
+    },
+    {
+      "index": 1493,
+      "date": "2026.08.09",
+      "opponent": "KingMe5555",
+      "white": "KingMe5555",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C28: Bishops Opening Berlin Vienna Hybrid Variation 4...Bb4 5.Bg5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/172765361526"
     }
   ]
 }
