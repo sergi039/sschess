@@ -4,6 +4,14 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
+| 2026-08-10 | Sosoatha | 1226 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/172805538368) |
+| 2026-08-10 | HDT1111 | 1253 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/172804816038) |
+| 2026-08-10 | 75-SHADOW-75 | 1237 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/172794607928) |
+| 2026-08-10 | Namnangaraw | 1261 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/172794236778) |
+| 2026-08-10 | zReapers | 1289 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/172793861770) |
+| 2026-08-10 | Hatamiiii | 1238 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/172792808830) |
+| 2026-08-10 | dreynim | 1287 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/172791649130) |
+| 2026-08-10 | fufufafal | 1261 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/172790961866) |
 | 2026-08-09 | KingMe5555 | 1288 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/172765361526) |
 | 2026-08-09 | Baselsyrein | 1240 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/172757170860) |
 | 2026-08-05 | AkibShahrear06 | 1270 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/172571069442) |
@@ -16,18 +24,10 @@
 | 2026-08-04 | Fredi1953 | 1288 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/172524239016) |
 | 2026-08-04 | VincentEmrys | 1324 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/172524093452) |
 | 2026-08-04 | 41s4k | 1307 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/172523584798) |
-| 2026-08-04 | WillyWonka3103 | 1302 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/172517740518) |
-| 2026-08-02 | Hamza-Saqr-86 | 1280 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/172416619046) |
-| 2026-08-02 | BENfadil2002 | 1240 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/172416134086) |
-| 2026-08-02 | akmalfathi111 | 1261 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/172415915684) |
-| 2026-08-02 | khoburgos20 | 1248 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/172415267670) |
-| 2026-07-23 | sesukor | 1254 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171958181880) |
-| 2026-07-23 | ATZ85 | 1252 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171956671016) |
-| 2026-07-22 | soomro47 | 1240 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/171910792592) |
 
 
 ## Quick Stats from Recent Games
 
-- **Record:** 10W / 8L / 2D
-- **Win rate:** 50.0%
-- **Most faced:** KingMe5555 (1 games)
+- **Record:** 6W / 12L / 2D
+- **Win rate:** 30.0%
+- **Most faced:** Sosoatha (1 games)

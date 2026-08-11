@@ -1,6 +1,6 @@
 {
-  "total_games": 1494,
-  "last_update": "2026-08-10T07:16:09.646658",
+  "total_games": 1502,
+  "last_update": "2026-08-11T06:53:26.801570",
   "games_index": [
     {
       "index": 0,
@@ -16435,6 +16435,94 @@
       "opening": "C28: Bishops Opening Berlin Vienna Hybrid Variation 4...Bb4 5.Bg5",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/172765361526"
+    },
+    {
+      "index": 1494,
+      "date": "2026.08.10",
+      "opponent": "fufufafal",
+      "white": "sergioquesadas",
+      "black": "fufufafal",
+      "result": "unknown",
+      "opening": "A80: Dutch Defense Hopton Attack 2...Nf6 3.Bxf6 exf6 4.e3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/172790961866"
+    },
+    {
+      "index": 1495,
+      "date": "2026.08.10",
+      "opponent": "dreynim",
+      "white": "sergioquesadas",
+      "black": "dreynim",
+      "result": "unknown",
+      "opening": "A40: Queens Pawn Opening Horwitz Defense",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/172791649130"
+    },
+    {
+      "index": 1496,
+      "date": "2026.08.10",
+      "opponent": "Hatamiiii",
+      "white": "sergioquesadas",
+      "black": "Hatamiiii",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Levitsky Attack",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/172792808830"
+    },
+    {
+      "index": 1497,
+      "date": "2026.08.10",
+      "opponent": "zReapers",
+      "white": "zReapers",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "A00: Kings Fianchetto Opening 1...e5 2.Bg2 d5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/172793861770"
+    },
+    {
+      "index": 1498,
+      "date": "2026.08.10",
+      "opponent": "Namnangaraw",
+      "white": "Namnangaraw",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "A40: Englund Gambit 2.dxe5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/172794236778"
+    },
+    {
+      "index": 1499,
+      "date": "2026.08.10",
+      "opponent": "75-SHADOW-75",
+      "white": "75-SHADOW-75",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "A40: Englund Gambit",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/172794607928"
+    },
+    {
+      "index": 1500,
+      "date": "2026.08.10",
+      "opponent": "HDT1111",
+      "white": "sergioquesadas",
+      "black": "HDT1111",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Levitsky Attack",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/172804816038"
+    },
+    {
+      "index": 1501,
+      "date": "2026.08.10",
+      "opponent": "Sosoatha",
+      "white": "Sosoatha",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C45: Scotch Game...4.Nxd4 Nxd4 5.Qxd4 d6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/172805538368"
     }
   ]
 }
