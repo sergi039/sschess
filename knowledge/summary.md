@@ -1,10 +1,10 @@
 # Chess Performance Summary for sergioquesadas
 
-*Last updated: August 16, 2026 at 06:26*
+*Last updated: August 17, 2026 at 06:37*
 
 ## Overview
 
-Total games analyzed: **1502**
+Total games analyzed: **1504**
 
 ## Current Ratings
 
@@ -16,9 +16,9 @@ Total games analyzed: **1502**
 ## Performance by Time Control
 
 ### Rapid
-- Games: 1489
+- Games: 1491
 - Win rate: 50.0%
-- Record: 744W / 688L / 57D
+- Record: 745W / 689L / 57D
 
 ### Daily
 - Games: 13
@@ -31,12 +31,12 @@ Last 20 games: **6/20** wins (30% win rate)
 
 ## Time Management
 
-- Games lost on time: 79 (5.3%)
+- Games lost on time: 80 (5.3%)
 
 ### Most Common Game Endings
 
-- Win: 754 games
+- Win: 755 games
 - Resigned: 462 games
 - Checkmated: 147 games
-- Timeout: 79 games
+- Timeout: 80 games
 - Repetition: 27 games

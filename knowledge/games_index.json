@@ -1,6 +1,6 @@
 {
-  "total_games": 1502,
-  "last_update": "2026-08-16T06:26:36.961310",
+  "total_games": 1504,
+  "last_update": "2026-08-17T06:37:52.634522",
   "games_index": [
     {
       "index": 0,
@@ -16523,6 +16523,28 @@
       "opening": "C45: Scotch Game...4.Nxd4 Nxd4 5.Qxd4 d6",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/172805538368"
+    },
+    {
+      "index": 1502,
+      "date": "2026.08.16",
+      "opponent": "CelestineLunah",
+      "white": "sergioquesadas",
+      "black": "CelestineLunah",
+      "result": "unknown",
+      "opening": "A40: English Defense",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/173069409974"
+    },
+    {
+      "index": 1503,
+      "date": "2026.08.16",
+      "opponent": "ErekeAsanov",
+      "white": "ErekeAsanov",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C25: Vienna Game Max Lange Defense",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/173070780616"
     }
   ]
 }

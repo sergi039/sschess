@@ -4,6 +4,8 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
+| 2026-08-16 | ErekeAsanov | 1226 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/173070780616) |
+| 2026-08-16 | CelestineLunah | 1236 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/173069409974) |
 | 2026-08-10 | Sosoatha | 1226 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/172805538368) |
 | 2026-08-10 | HDT1111 | 1253 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/172804816038) |
 | 2026-08-10 | 75-SHADOW-75 | 1237 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/172794607928) |
@@ -22,12 +24,10 @@
 | 2026-08-05 | OPxPlayer | 1302 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/172565479080) |
 | 2026-08-04 | mahing11 | 1266 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/172524582078) |
 | 2026-08-04 | Fredi1953 | 1288 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/172524239016) |
-| 2026-08-04 | VincentEmrys | 1324 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/172524093452) |
-| 2026-08-04 | 41s4k | 1307 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/172523584798) |
 
 
 ## Quick Stats from Recent Games
 
 - **Record:** 6W / 12L / 2D
 - **Win rate:** 30.0%
-- **Most faced:** Sosoatha (1 games)
+- **Most faced:** ErekeAsanov (1 games)

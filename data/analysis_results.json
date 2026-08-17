@@ -1,7 +1,7 @@
 {
   "username": "sergioquesadas",
-  "total_games": 1502,
-  "analysis_date": "2026-08-16T06:26:36.910134",
+  "total_games": 1504,
+  "analysis_date": "2026-08-17T06:37:52.582067",
   "openings": {
     "white": {
       "ECO C43": {
@@ -14,11 +14,11 @@
       },
       "ECO A40": {
         "wins": 38,
-        "losses": 27,
+        "losses": 28,
         "draws": 2,
-        "total": 67,
-        "win_rate": 56.7,
-        "loss_rate": 40.3
+        "total": 68,
+        "win_rate": 55.9,
+        "loss_rate": 41.2
       },
       "ECO C21": {
         "wins": 1,
@@ -687,12 +687,12 @@
         "loss_rate": 41.9
       },
       "ECO C25": {
-        "wins": 3,
+        "wins": 4,
         "losses": 10,
         "draws": 1,
-        "total": 14,
-        "win_rate": 21.4,
-        "loss_rate": 71.4
+        "total": 15,
+        "win_rate": 26.7,
+        "loss_rate": 66.7
       },
       "ECO C45": {
         "wins": 20,
@@ -1274,10 +1274,10 @@
   },
   "time_controls": {
     "rapid": {
-      "wins": 744,
-      "losses": 688,
+      "wins": 745,
+      "losses": 689,
       "draws": 57,
-      "total": 1489,
+      "total": 1491,
       "win_rate": 50.0
     },
     "daily": {
@@ -1289,7 +1289,7 @@
     }
   },
   "time_usage": {
-    "timeouts": 79,
+    "timeouts": 80,
     "timeout_games": [
       {
         "url": "https://www.chess.com/game/live/144628473252",
@@ -1318,10 +1318,10 @@
       }
     ],
     "ending_types": {
-      "win": 754,
+      "win": 755,
       "resigned": 462,
       "checkmated": 147,
-      "timeout": 79,
+      "timeout": 80,
       "repetition": 27,
       "stalemate": 12,
       "insufficient": 12,
@@ -1335,7 +1335,7 @@
       "rapid": 1247,
       "daily": 1040
     },
-    "total_games_tracked": 1502
+    "total_games_tracked": 1504
   },
   "weaknesses": {
     "identified_weaknesses": [
@@ -1363,16 +1363,16 @@
       {
         "type": "opening",
         "color": "black",
-        "opening": "ECO C25",
-        "games": 14,
-        "loss_rate": 71.4
+        "opening": "ECO C21",
+        "games": 10,
+        "loss_rate": 70.0
       },
       {
         "type": "opening",
         "color": "black",
-        "opening": "ECO C21",
-        "games": 10,
-        "loss_rate": 70.0
+        "opening": "ECO C25",
+        "games": 15,
+        "loss_rate": 66.7
       }
     ],
     "total_issues": 39
