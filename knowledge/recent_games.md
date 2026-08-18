@@ -4,6 +4,8 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
+| 2026-08-17 | kumudsahani | 1252 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/173129837244) |
+| 2026-08-17 | Pawan_77 | 1247 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/173127483840) |
 | 2026-08-16 | ErekeAsanov | 1226 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/173070780616) |
 | 2026-08-16 | CelestineLunah | 1236 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/173069409974) |
 | 2026-08-10 | Sosoatha | 1226 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/172805538368) |
@@ -22,12 +24,10 @@
 | 2026-08-05 | aryansumbly | 1297 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/172568914422) |
 | 2026-08-05 | Mbah_suro9 | 1263 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/172566280996) |
 | 2026-08-05 | OPxPlayer | 1302 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/172565479080) |
-| 2026-08-04 | mahing11 | 1266 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/172524582078) |
-| 2026-08-04 | Fredi1953 | 1288 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/172524239016) |
 
 
 ## Quick Stats from Recent Games
 
-- **Record:** 6W / 12L / 2D
-- **Win rate:** 30.0%
-- **Most faced:** ErekeAsanov (1 games)
+- **Record:** 5W / 13L / 2D
+- **Win rate:** 25.0%
+- **Most faced:** kumudsahani (1 games)

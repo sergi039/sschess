@@ -68,7 +68,7 @@
 
 ## Specific Openings to Study
 
-- **ECO A40** (as white): 41.2% loss rate in 68 games
+- **ECO A40** (as white): 42.0% loss rate in 69 games
 - **ECO C41** (as white): 51.2% loss rate in 43 games
 - **ECO B13** (as white): 60.0% loss rate in 5 games
 - **ECO D02** (as white): 40.7% loss rate in 27 games

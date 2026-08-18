@@ -1,6 +1,6 @@
 {
-  "total_games": 1504,
-  "last_update": "2026-08-17T06:37:52.634522",
+  "total_games": 1506,
+  "last_update": "2026-08-18T06:29:30.207623",
   "games_index": [
     {
       "index": 0,
@@ -16545,6 +16545,28 @@
       "opening": "C25: Vienna Game Max Lange Defense",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/173070780616"
+    },
+    {
+      "index": 1504,
+      "date": "2026.08.17",
+      "opponent": "Pawan_77",
+      "white": "sergioquesadas",
+      "black": "Pawan_77",
+      "result": "unknown",
+      "opening": "A40: Modern Defense with 1 d4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/173127483840"
+    },
+    {
+      "index": 1505,
+      "date": "2026.08.17",
+      "opponent": "kumudsahani",
+      "white": "kumudsahani",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C45: Scotch Game 3...exd4 4.Nxd4 Nxd4 5.Qxd4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/173129837244"
     }
   ]
 }
