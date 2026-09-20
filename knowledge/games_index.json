@@ -1,6 +1,6 @@
 {
-  "total_games": 1506,
-  "last_update": "2026-09-19T06:09:13.150560",
+  "total_games": 1508,
+  "last_update": "2026-09-20T06:09:30.489419",
   "games_index": [
     {
       "index": 0,
@@ -16567,6 +16567,28 @@
       "opening": "C45: Scotch Game 3...exd4 4.Nxd4 Nxd4 5.Qxd4",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/173129837244"
+    },
+    {
+      "index": 1506,
+      "date": "2026.09.19",
+      "opponent": "ijatl",
+      "white": "sergioquesadas",
+      "black": "ijatl",
+      "result": "unknown",
+      "opening": "A40: Queens Pawn Opening Horwitz Defense 2.Bf4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/184053263340"
+    },
+    {
+      "index": 1507,
+      "date": "2026.09.19",
+      "opponent": "gpraju_53",
+      "white": "sergioquesadas",
+      "black": "gpraju_53",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/184056560020"
     }
   ]
 }

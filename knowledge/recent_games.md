@@ -4,6 +4,8 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
+| 2026-09-19 | gpraju_53 | 1197 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/184056560020) |
+| 2026-09-19 | ijatl | 1265 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/184053263340) |
 | 2026-08-17 | kumudsahani | 1252 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/173129837244) |
 | 2026-08-17 | Pawan_77 | 1247 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/173127483840) |
 | 2026-08-16 | ErekeAsanov | 1226 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/173070780616) |
@@ -22,12 +24,10 @@
 | 2026-08-05 | pramod1298 | 1287 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/172570337744) |
 | 2026-08-05 | pepxbcn | 1292 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/172569006380) |
 | 2026-08-05 | aryansumbly | 1297 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/172568914422) |
-| 2026-08-05 | Mbah_suro9 | 1263 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/172566280996) |
-| 2026-08-05 | OPxPlayer | 1302 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/172565479080) |
 
 
 ## Quick Stats from Recent Games
 
 - **Record:** 5W / 13L / 2D
 - **Win rate:** 25.0%
-- **Most faced:** kumudsahani (1 games)
+- **Most faced:** gpraju_53 (1 games)
