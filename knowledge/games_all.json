@@ -1,6 +1,6 @@
 {
   "username": "sergioquesadas",
-  "last_update": "2026-09-20T06:09:30.358538",
+  "last_update": "2026-09-21T06:13:54.432038",
   "games": [
     {
       "url": "https://www.chess.com/game/live/144438554796",
@@ -47862,7 +47862,7 @@
         "uuid": "2792b608-8505-11f1-9316-eba96a6912c2"
       },
       "eco": "https://www.chess.com/openings/Queens-Pawn-Opening-Horwitz-Defense-2.Bf4",
-      "fetched_at": "2026-09-20T06:09:30.357866",
+      "fetched_at": "2026-09-21T06:13:54.431515",
       "archive_url": "https://api.chess.com/pub/player/sergioquesadas/games/2026/09"
     },
     {
@@ -47896,7 +47896,7 @@
         "uuid": "5361fb5c-728c-11e8-8026-000000000000"
       },
       "eco": "https://www.chess.com/openings/Queens-Pawn-Opening-Accelerated-London-System",
-      "fetched_at": "2026-09-20T06:09:30.358347",
+      "fetched_at": "2026-09-21T06:13:54.431902",
       "archive_url": "https://api.chess.com/pub/player/sergioquesadas/games/2026/09"
     }
   ],
