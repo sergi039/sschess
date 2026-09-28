@@ -4,6 +4,7 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
+| 2026-09-27 | dog911123459 | 1233 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/184446521116) |
 | 2026-09-19 | gpraju_53 | 1197 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/184056560020) |
 | 2026-09-19 | ijatl | 1265 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/184053263340) |
 | 2026-08-17 | kumudsahani | 1252 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/173129837244) |
@@ -23,11 +24,10 @@
 | 2026-08-05 | AkibShahrear06 | 1270 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/172571069442) |
 | 2026-08-05 | pramod1298 | 1287 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/172570337744) |
 | 2026-08-05 | pepxbcn | 1292 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/172569006380) |
-| 2026-08-05 | aryansumbly | 1297 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/172568914422) |
 
 
 ## Quick Stats from Recent Games
 
-- **Record:** 5W / 13L / 2D
-- **Win rate:** 25.0%
-- **Most faced:** gpraju_53 (1 games)
+- **Record:** 6W / 12L / 2D
+- **Win rate:** 30.0%
+- **Most faced:** dog911123459 (1 games)

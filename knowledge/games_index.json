@@ -1,6 +1,6 @@
 {
-  "total_games": 1508,
-  "last_update": "2026-09-27T06:10:24.934569",
+  "total_games": 1509,
+  "last_update": "2026-09-28T06:14:46.060148",
   "games_index": [
     {
       "index": 0,
@@ -16589,6 +16589,17 @@
       "opening": "D00: Queens Pawn Opening Accelerated London System",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/184056560020"
+    },
+    {
+      "index": 1508,
+      "date": "2026.09.27",
+      "opponent": "dog911123459",
+      "white": "dog911123459",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C20: Kings Pawn Opening 1...e5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/184446521116"
     }
   ]
 }
