@@ -1,6 +1,6 @@
 {
-  "total_games_analyzed": 1509,
-  "date_generated": "2026-10-04T08:00:24.702983",
+  "total_games_analyzed": 1515,
+  "date_generated": "2026-10-05T06:18:30.203808",
   "weaknesses": {
     "identified_weaknesses": [
       {
@@ -205,11 +205,11 @@
       },
       "ECO D00": {
         "wins": 98,
-        "losses": 58,
+        "losses": 60,
         "draws": 4,
-        "total": 160,
-        "win_rate": 61.3,
-        "loss_rate": 36.2
+        "total": 162,
+        "win_rate": 60.5,
+        "loss_rate": 37.0
       },
       "ECO C55": {
         "wins": 1,
@@ -484,12 +484,12 @@
         "loss_rate": 0.0
       },
       "ECO A45": {
-        "wins": 23,
+        "wins": 24,
         "losses": 26,
         "draws": 0,
-        "total": 49,
-        "win_rate": 46.9,
-        "loss_rate": 53.1
+        "total": 50,
+        "win_rate": 48.0,
+        "loss_rate": 52.0
       },
       "ECO C25": {
         "wins": 1,
@@ -597,11 +597,11 @@
       },
       "ECO C64": {
         "wins": 1,
-        "losses": 0,
+        "losses": 1,
         "draws": 0,
-        "total": 1,
-        "win_rate": 100.0,
-        "loss_rate": 0.0
+        "total": 2,
+        "win_rate": 50.0,
+        "loss_rate": 50.0
       }
     },
     "black": {
@@ -663,11 +663,11 @@
       },
       "ECO A00": {
         "wins": 12,
-        "losses": 15,
+        "losses": 16,
         "draws": 1,
-        "total": 28,
-        "win_rate": 42.9,
-        "loss_rate": 53.6
+        "total": 29,
+        "win_rate": 41.4,
+        "loss_rate": 55.2
       },
       "ECO C20": {
         "wins": 22,
@@ -735,11 +735,11 @@
       },
       "ECO C45": {
         "wins": 20,
-        "losses": 19,
+        "losses": 20,
         "draws": 3,
-        "total": 42,
-        "win_rate": 47.6,
-        "loss_rate": 45.2
+        "total": 43,
+        "win_rate": 46.5,
+        "loss_rate": 46.5
       },
       "ECO B20": {
         "wins": 2,
@@ -1313,11 +1313,11 @@
   },
   "time_control_stats": {
     "rapid": {
-      "wins": 747,
-      "losses": 692,
+      "wins": 748,
+      "losses": 697,
       "draws": 57,
-      "total": 1496,
-      "win_rate": 49.9
+      "total": 1502,
+      "win_rate": 49.8
     },
     "daily": {
       "wins": 10,

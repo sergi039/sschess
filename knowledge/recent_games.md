@@ -4,6 +4,12 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
+| 2026-10-04 | piotr962 | 1189 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/184800388800) |
+| 2026-10-04 | connorbakershand1 | 1236 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/184799453222) |
+| 2026-10-04 | Valero1985 | 1224 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/184799276790) |
+| 2026-10-04 | AMRITSAGARLAL1 | 1234 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/184799176298) |
+| 2026-10-04 | GreisChelli | 1233 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/184799045780) |
+| 2026-10-04 | Heisenberg9921 | 1224 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/184798417254) |
 | 2026-09-27 | dog911123459 | 1233 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/184446521116) |
 | 2026-09-19 | gpraju_53 | 1197 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/184056560020) |
 | 2026-09-19 | ijatl | 1265 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/184053263340) |
@@ -18,16 +24,10 @@
 | 2026-08-10 | zReapers | 1289 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/172793861770) |
 | 2026-08-10 | Hatamiiii | 1238 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/172792808830) |
 | 2026-08-10 | dreynim | 1287 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/172791649130) |
-| 2026-08-10 | fufufafal | 1261 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/172790961866) |
-| 2026-08-09 | KingMe5555 | 1288 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/172765361526) |
-| 2026-08-09 | Baselsyrein | 1240 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/172757170860) |
-| 2026-08-05 | AkibShahrear06 | 1270 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/172571069442) |
-| 2026-08-05 | pramod1298 | 1287 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/172570337744) |
-| 2026-08-05 | pepxbcn | 1292 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/172569006380) |
 
 
 ## Quick Stats from Recent Games
 
-- **Record:** 6W / 12L / 2D
+- **Record:** 6W / 13L / 1D
 - **Win rate:** 30.0%
-- **Most faced:** dog911123459 (1 games)
+- **Most faced:** piotr962 (1 games)

@@ -1,6 +1,6 @@
 {
-  "total_games": 1509,
-  "last_update": "2026-10-04T08:00:24.674815",
+  "total_games": 1515,
+  "last_update": "2026-10-05T06:18:30.177134",
   "games_index": [
     {
       "index": 0,
@@ -16600,6 +16600,72 @@
       "opening": "C20: Kings Pawn Opening 1...e5",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/184446521116"
+    },
+    {
+      "index": 1509,
+      "date": "2026.10.04",
+      "opponent": "Heisenberg9921",
+      "white": "Heisenberg9921",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C45: Scotch Game",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/184798417254"
+    },
+    {
+      "index": 1510,
+      "date": "2026.10.04",
+      "opponent": "GreisChelli",
+      "white": "sergioquesadas",
+      "black": "GreisChelli",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System 2...Nf6 3.e3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/184799045780"
+    },
+    {
+      "index": 1511,
+      "date": "2026.10.04",
+      "opponent": "AMRITSAGARLAL1",
+      "white": "AMRITSAGARLAL1",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "A00: Van t Kruijs Opening 1...e5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/184799176298"
+    },
+    {
+      "index": 1512,
+      "date": "2026.10.04",
+      "opponent": "Valero1985",
+      "white": "sergioquesadas",
+      "black": "Valero1985",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System 2...Nf6 3.e3 Bf5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/184799276790"
+    },
+    {
+      "index": 1513,
+      "date": "2026.10.04",
+      "opponent": "connorbakershand1",
+      "white": "sergioquesadas",
+      "black": "connorbakershand1",
+      "result": "unknown",
+      "opening": "C64: Ruy Lopez Opening Classical Defense",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/184799453222"
+    },
+    {
+      "index": 1514,
+      "date": "2026.10.04",
+      "opponent": "piotr962",
+      "white": "sergioquesadas",
+      "black": "piotr962",
+      "result": "unknown",
+      "opening": "A45: Indian Game 2.Bf4 e6 3.e3 d5 4.Bd3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/184800388800"
     }
   ]
 }
