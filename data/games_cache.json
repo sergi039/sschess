@@ -1,6 +1,6 @@
 {
   "username": "sergioquesadas",
-  "last_update": "2026-10-05T06:18:30.046755",
+  "last_update": "2026-10-06T06:10:55.134867",
   "games": [
     {
       "url": "https://www.chess.com/game/live/144438554796",
@@ -47964,7 +47964,7 @@
         "uuid": "234ae0e0-c941-11ec-ae32-69d4f91dc464"
       },
       "eco": "https://www.chess.com/openings/Scotch-Game",
-      "fetched_at": "2026-10-05T06:18:30.045358",
+      "fetched_at": "2026-10-06T06:10:55.133563",
       "archive_url": "https://api.chess.com/pub/player/sergioquesadas/games/2026/10"
     },
     {
@@ -47994,7 +47994,7 @@
         "uuid": "f59ead46-a156-11ec-9721-23d8133ae9ee"
       },
       "eco": "https://www.chess.com/openings/Queens-Pawn-Opening-Accelerated-London-System-2...Nf6-3.e3",
-      "fetched_at": "2026-10-05T06:18:30.045873",
+      "fetched_at": "2026-10-06T06:10:55.134066",
       "archive_url": "https://api.chess.com/pub/player/sergioquesadas/games/2026/10"
     },
     {
@@ -48024,7 +48024,7 @@
         "uuid": "234ae0e0-c941-11ec-ae32-69d4f91dc464"
       },
       "eco": "https://www.chess.com/openings/Van-t-Kruijs-Opening-1...e5",
-      "fetched_at": "2026-10-05T06:18:30.046034",
+      "fetched_at": "2026-10-06T06:10:55.134226",
       "archive_url": "https://api.chess.com/pub/player/sergioquesadas/games/2026/10"
     },
     {
@@ -48054,7 +48054,7 @@
         "uuid": "90098410-babe-11ed-b2fa-19ad01f2daec"
       },
       "eco": "https://www.chess.com/openings/Queens-Pawn-Opening-Accelerated-London-System-2...Nf6-3.e3-Bf5",
-      "fetched_at": "2026-10-05T06:18:30.046193",
+      "fetched_at": "2026-10-06T06:10:55.134381",
       "archive_url": "https://api.chess.com/pub/player/sergioquesadas/games/2026/10"
     },
     {
@@ -48084,7 +48084,7 @@
         "uuid": "eb03f394-9e39-11f0-8c3c-3d37b81e1475"
       },
       "eco": "https://www.chess.com/openings/Ruy-Lopez-Opening-Classical-Defense",
-      "fetched_at": "2026-10-05T06:18:30.046352",
+      "fetched_at": "2026-10-06T06:10:55.134535",
       "archive_url": "https://api.chess.com/pub/player/sergioquesadas/games/2026/10"
     },
     {
@@ -48118,7 +48118,7 @@
         "uuid": "0354e08a-88c4-11ee-9978-bf87fdcca34e"
       },
       "eco": "https://www.chess.com/openings/Indian-Game-2.Bf4-e6-3.e3-d5-4.Bd3",
-      "fetched_at": "2026-10-05T06:18:30.046537",
+      "fetched_at": "2026-10-06T06:10:55.134691",
       "archive_url": "https://api.chess.com/pub/player/sergioquesadas/games/2026/10"
     }
   ],
