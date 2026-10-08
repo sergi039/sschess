@@ -1,6 +1,6 @@
 {
-  "total_games": 1515,
-  "last_update": "2026-10-07T06:10:08.337569",
+  "total_games": 1516,
+  "last_update": "2026-10-08T06:11:19.554117",
   "games_index": [
     {
       "index": 0,
@@ -16666,6 +16666,17 @@
       "opening": "A45: Indian Game 2.Bf4 e6 3.e3 d5 4.Bd3",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/184800388800"
+    },
+    {
+      "index": 1515,
+      "date": "2026.10.08",
+      "opponent": "VidyanandVijay",
+      "white": "VidyanandVijay",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "A46: Indian Game Tartakower Defense",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/184988634570"
     }
   ]
 }
