@@ -4,6 +4,7 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
+| 2026-10-31 | SarathKrish0516 | 1221 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/186276800088) |
 | 2026-10-08 | VidyanandVijay | 1201 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/184988634570) |
 | 2026-10-04 | piotr962 | 1189 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/184800388800) |
 | 2026-10-04 | connorbakershand1 | 1236 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/184799453222) |
@@ -23,11 +24,10 @@
 | 2026-08-10 | 75-SHADOW-75 | 1237 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/172794607928) |
 | 2026-08-10 | Namnangaraw | 1261 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/172794236778) |
 | 2026-08-10 | zReapers | 1289 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/172793861770) |
-| 2026-08-10 | Hatamiiii | 1238 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/172792808830) |
 
 
 ## Quick Stats from Recent Games
 
 - **Record:** 7W / 12L / 1D
 - **Win rate:** 35.0%
-- **Most faced:** VidyanandVijay (1 games)
+- **Most faced:** SarathKrish0516 (1 games)
