@@ -1,6 +1,6 @@
 {
-  "total_games": 1517,
-  "last_update": "2026-11-01T06:05:53.522695",
+  "total_games": 1522,
+  "last_update": "2026-11-02T06:08:30.206491",
   "games_index": [
     {
       "index": 0,
@@ -16688,6 +16688,61 @@
       "opening": "C26: Vienna Game Falkbeer Stanley Reversed Spanish Variation",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/186276800088"
+    },
+    {
+      "index": 1517,
+      "date": "2026.11.01",
+      "opponent": "Mohmeddiab888",
+      "white": "sergioquesadas",
+      "black": "Mohmeddiab888",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System 2...Nf6 3.e3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/186335536798"
+    },
+    {
+      "index": 1518,
+      "date": "2026.11.01",
+      "opponent": "tripathi52",
+      "white": "tripathi52",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C44: Ponziani Opening Jaenisch Counterattack 4.d4 Nxe4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/186336717588"
+    },
+    {
+      "index": 1519,
+      "date": "2026.11.01",
+      "opponent": "triganonkhongcotuoi",
+      "white": "sergioquesadas",
+      "black": "triganonkhongcotuoi",
+      "result": "unknown",
+      "opening": "A40: Englund Gambit 2.dxe5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/186337354372"
+    },
+    {
+      "index": 1520,
+      "date": "2026.11.01",
+      "opponent": "time900",
+      "white": "time900",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C20: Kings Pawn Opening 1...e5",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/186340693108"
+    },
+    {
+      "index": 1521,
+      "date": "2026.11.01",
+      "opponent": "Amr1988_4",
+      "white": "sergioquesadas",
+      "black": "Amr1988_4",
+      "result": "unknown",
+      "opening": "B00: Nimzowitsch Defense 2.d4 e6 3.Nf3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/186341265010"
     }
   ]
 }

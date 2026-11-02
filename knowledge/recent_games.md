@@ -4,6 +4,11 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
+| 2026-11-01 | Amr1988_4 | 1216 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/186341265010) |
+| 2026-11-01 | time900 | 1182 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/186340693108) |
+| 2026-11-01 | triganonkhongcotuoi | 1222 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/186337354372) |
+| 2026-11-01 | tripathi52 | 1210 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/186336717588) |
+| 2026-11-01 | Mohmeddiab888 | 1220 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/186335536798) |
 | 2026-10-31 | SarathKrish0516 | 1221 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/186276800088) |
 | 2026-10-08 | VidyanandVijay | 1201 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/184988634570) |
 | 2026-10-04 | piotr962 | 1189 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/184800388800) |
@@ -19,15 +24,10 @@
 | 2026-08-17 | Pawan_77 | 1247 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/173127483840) |
 | 2026-08-16 | ErekeAsanov | 1226 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/173070780616) |
 | 2026-08-16 | CelestineLunah | 1236 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/173069409974) |
-| 2026-08-10 | Sosoatha | 1226 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/172805538368) |
-| 2026-08-10 | HDT1111 | 1253 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/172804816038) |
-| 2026-08-10 | 75-SHADOW-75 | 1237 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/172794607928) |
-| 2026-08-10 | Namnangaraw | 1261 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/172794236778) |
-| 2026-08-10 | zReapers | 1289 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/172793861770) |
 
 
 ## Quick Stats from Recent Games
 
-- **Record:** 7W / 12L / 1D
-- **Win rate:** 35.0%
-- **Most faced:** SarathKrish0516 (1 games)
+- **Record:** 8W / 12L / 0D
+- **Win rate:** 40.0%
+- **Most faced:** Amr1988_4 (1 games)
