@@ -4,6 +4,9 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
+| 2026-11-02 | jfriedman9 | 1214 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/186397399592) |
+| 2026-11-02 | wannaLMP | 1189 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/186396924502) |
+| 2026-11-02 | DNOALEE | 1236 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/186396748294) |
 | 2026-11-01 | Amr1988_4 | 1216 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/186341265010) |
 | 2026-11-01 | time900 | 1182 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/186340693108) |
 | 2026-11-01 | triganonkhongcotuoi | 1222 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/186337354372) |
@@ -21,13 +24,10 @@
 | 2026-09-19 | gpraju_53 | 1197 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/184056560020) |
 | 2026-09-19 | ijatl | 1265 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/184053263340) |
 | 2026-08-17 | kumudsahani | 1252 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/173129837244) |
-| 2026-08-17 | Pawan_77 | 1247 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/173127483840) |
-| 2026-08-16 | ErekeAsanov | 1226 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/173070780616) |
-| 2026-08-16 | CelestineLunah | 1236 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/173069409974) |
 
 
 ## Quick Stats from Recent Games
 
-- **Record:** 8W / 12L / 0D
-- **Win rate:** 40.0%
-- **Most faced:** Amr1988_4 (1 games)
+- **Record:** 9W / 11L / 0D
+- **Win rate:** 45.0%
+- **Most faced:** jfriedman9 (1 games)

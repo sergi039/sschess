@@ -1,6 +1,6 @@
 {
-  "total_games": 1522,
-  "last_update": "2026-11-02T06:08:30.206491",
+  "total_games": 1525,
+  "last_update": "2026-11-03T06:06:30.402293",
   "games_index": [
     {
       "index": 0,
@@ -16743,6 +16743,39 @@
       "opening": "B00: Nimzowitsch Defense 2.d4 e6 3.Nf3",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/186341265010"
+    },
+    {
+      "index": 1522,
+      "date": "2026.11.02",
+      "opponent": "DNOALEE",
+      "white": "DNOALEE",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C46: Three Knights Opening 3...Bb4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/186396748294"
+    },
+    {
+      "index": 1523,
+      "date": "2026.11.02",
+      "opponent": "wannaLMP",
+      "white": "sergioquesadas",
+      "black": "wannaLMP",
+      "result": "unknown",
+      "opening": "A40: Queens Pawn Opening Horwitz Defense 2.Bf4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/186396924502"
+    },
+    {
+      "index": 1524,
+      "date": "2026.11.02",
+      "opponent": "jfriedman9",
+      "white": "jfriedman9",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C25: Vienna Game Max Lange Defense",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/186397399592"
     }
   ]
 }
