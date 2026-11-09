@@ -4,6 +4,9 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
+| 2026-11-08 | levan393 | 1205 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/186770253222) |
+| 2026-11-08 | Ansha392 | 1210 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/186769150764) |
+| 2026-11-08 | Kurushetra2866 | 1209 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/186768665806) |
 | 2026-11-02 | jfriedman9 | 1214 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/186397399592) |
 | 2026-11-02 | wannaLMP | 1189 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/186396924502) |
 | 2026-11-02 | DNOALEE | 1236 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/186396748294) |
@@ -21,13 +24,10 @@
 | 2026-10-04 | GreisChelli | 1233 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/184799045780) |
 | 2026-10-04 | Heisenberg9921 | 1224 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/184798417254) |
 | 2026-09-27 | dog911123459 | 1233 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/184446521116) |
-| 2026-09-19 | gpraju_53 | 1197 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/184056560020) |
-| 2026-09-19 | ijatl | 1265 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/184053263340) |
-| 2026-08-17 | kumudsahani | 1252 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/173129837244) |
 
 
 ## Quick Stats from Recent Games
 
-- **Record:** 9W / 11L / 0D
+- **Record:** 9W / 10L / 1D
 - **Win rate:** 45.0%
-- **Most faced:** jfriedman9 (1 games)
+- **Most faced:** levan393 (1 games)

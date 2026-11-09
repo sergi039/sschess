@@ -1,6 +1,6 @@
 {
-  "total_games": 1525,
-  "last_update": "2026-11-08T06:05:36.519131",
+  "total_games": 1528,
+  "last_update": "2026-11-09T06:08:41.412948",
   "games_index": [
     {
       "index": 0,
@@ -16776,6 +16776,39 @@
       "opening": "C25: Vienna Game Max Lange Defense",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/186397399592"
+    },
+    {
+      "index": 1525,
+      "date": "2026.11.08",
+      "opponent": "Kurushetra2866",
+      "white": "Kurushetra2866",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C28: Bishops Opening Berlin Vienna Hybrid Variation 4...Bb4 5.Nf3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/186768665806"
+    },
+    {
+      "index": 1526,
+      "date": "2026.11.08",
+      "opponent": "Ansha392",
+      "white": "Ansha392",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "D02: Queens Pawn Opening Zukertort Chigorin Variation 3.e3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/186769150764"
+    },
+    {
+      "index": 1527,
+      "date": "2026.11.08",
+      "opponent": "levan393",
+      "white": "sergioquesadas",
+      "black": "levan393",
+      "result": "unknown",
+      "opening": "A40: Englund Gambit 2.dxe5 Nc6 3.Nf3 Qe7",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/186770253222"
     }
   ]
 }
