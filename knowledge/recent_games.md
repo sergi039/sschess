@@ -4,6 +4,7 @@
 
 | Date | Opponent | Rating | Color | Result | Opening | Time Control | Link |
 |------|----------|--------|-------|--------|---------|--------------|------|
+| 2026-11-16 | Shohruh1519 | 1250 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/187321027746) |
 | 2026-11-08 | levan393 | 1205 | ⚪ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/186770253222) |
 | 2026-11-08 | Ansha392 | 1210 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/186769150764) |
 | 2026-11-08 | Kurushetra2866 | 1209 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/186768665806) |
@@ -23,11 +24,10 @@
 | 2026-10-04 | AMRITSAGARLAL1 | 1234 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/184799176298) |
 | 2026-10-04 | GreisChelli | 1233 | ⚪ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/184799045780) |
 | 2026-10-04 | Heisenberg9921 | 1224 | ⚫ | ❌ Lost | Unknown | Rapid | [View](https://www.chess.com/game/live/184798417254) |
-| 2026-09-27 | dog911123459 | 1233 | ⚫ | ➖ Draw | Unknown | Rapid | [View](https://www.chess.com/game/live/184446521116) |
 
 
 ## Quick Stats from Recent Games
 
-- **Record:** 9W / 10L / 1D
-- **Win rate:** 45.0%
-- **Most faced:** levan393 (1 games)
+- **Record:** 8W / 11L / 1D
+- **Win rate:** 40.0%
+- **Most faced:** Shohruh1519 (1 games)

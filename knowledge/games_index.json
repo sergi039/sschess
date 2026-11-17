@@ -1,6 +1,6 @@
 {
-  "total_games": 1528,
-  "last_update": "2026-11-16T06:10:12.173803",
+  "total_games": 1529,
+  "last_update": "2026-11-17T06:06:36.852981",
   "games_index": [
     {
       "index": 0,
@@ -16809,6 +16809,17 @@
       "opening": "A40: Englund Gambit 2.dxe5 Nc6 3.Nf3 Qe7",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/186770253222"
+    },
+    {
+      "index": 1528,
+      "date": "2026.11.16",
+      "opponent": "Shohruh1519",
+      "white": "sergioquesadas",
+      "black": "Shohruh1519",
+      "result": "unknown",
+      "opening": "A40: Modern Defense with 1 d4 2.Bf4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/187321027746"
     }
   ]
 }
