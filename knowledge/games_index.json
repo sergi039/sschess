@@ -1,6 +1,6 @@
 {
-  "total_games": 1529,
-  "last_update": "2026-11-20T06:06:33.475870",
+  "total_games": 1530,
+  "last_update": "2026-11-21T06:05:40.197354",
   "games_index": [
     {
       "index": 0,
@@ -16820,6 +16820,17 @@
       "opening": "A40: Modern Defense with 1 d4 2.Bf4",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/187321027746"
+    },
+    {
+      "index": 1529,
+      "date": "2026.11.20",
+      "opponent": "dodoilgatino",
+      "white": "dodoilgatino",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C47: Four Knights Game Scotch Variation Accepted 5.Nxd4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/187617750944"
     }
   ]
 }
