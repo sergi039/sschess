@@ -1,6 +1,6 @@
 {
-  "total_games_analyzed": 1530,
-  "date_generated": "2026-11-23T06:09:26.928562",
+  "total_games_analyzed": 1535,
+  "date_generated": "2026-11-24T06:06:50.739515",
   "weaknesses": {
     "identified_weaknesses": [
       {
@@ -196,20 +196,20 @@
         "loss_rate": 50.0
       },
       "ECO C45": {
-        "wins": 23,
+        "wins": 24,
         "losses": 26,
         "draws": 0,
-        "total": 49,
-        "win_rate": 46.9,
-        "loss_rate": 53.1
+        "total": 50,
+        "win_rate": 48.0,
+        "loss_rate": 52.0
       },
       "ECO D00": {
         "wins": 98,
-        "losses": 61,
+        "losses": 64,
         "draws": 4,
-        "total": 163,
-        "win_rate": 60.1,
-        "loss_rate": 37.4
+        "total": 166,
+        "win_rate": 59.0,
+        "loss_rate": 38.6
       },
       "ECO C55": {
         "wins": 1,
@@ -815,11 +815,11 @@
       },
       "ECO C42": {
         "wins": 11,
-        "losses": 3,
+        "losses": 4,
         "draws": 1,
-        "total": 15,
-        "win_rate": 73.3,
-        "loss_rate": 20.0
+        "total": 16,
+        "win_rate": 68.8,
+        "loss_rate": 25.0
       },
       "ECO A23": {
         "wins": 1,
@@ -1313,11 +1313,11 @@
   },
   "time_control_stats": {
     "rapid": {
-      "wins": 755,
-      "losses": 703,
+      "wins": 756,
+      "losses": 707,
       "draws": 59,
-      "total": 1517,
-      "win_rate": 49.8
+      "total": 1522,
+      "win_rate": 49.7
     },
     "daily": {
       "wins": 10,

@@ -1,6 +1,6 @@
 {
-  "total_games": 1530,
-  "last_update": "2026-11-23T06:09:26.911260",
+  "total_games": 1535,
+  "last_update": "2026-11-24T06:06:50.721832",
   "games_index": [
     {
       "index": 0,
@@ -16831,6 +16831,61 @@
       "opening": "C47: Four Knights Game Scotch Variation Accepted 5.Nxd4",
       "time_control": "600",
       "url": "https://www.chess.com/game/live/187617750944"
+    },
+    {
+      "index": 1530,
+      "date": "2026.11.23",
+      "opponent": "thevandalhsn",
+      "white": "sergioquesadas",
+      "black": "thevandalhsn",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System 2...Nf6 3.e3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/187833472222"
+    },
+    {
+      "index": 1531,
+      "date": "2026.11.23",
+      "opponent": "Moatlhodi79",
+      "white": "sergioquesadas",
+      "black": "Moatlhodi79",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System 2...Bf5 3.e3",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/187834101236"
+    },
+    {
+      "index": 1532,
+      "date": "2026.11.23",
+      "opponent": "Shinobu_Kocho3",
+      "white": "sergioquesadas",
+      "black": "Shinobu_Kocho3",
+      "result": "unknown",
+      "opening": "D00: Queens Pawn Opening Accelerated London System 2...Nc6",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/187835897804"
+    },
+    {
+      "index": 1533,
+      "date": "2026.11.23",
+      "opponent": "Ngducanhk",
+      "white": "Ngducanhk",
+      "black": "sergioquesadas",
+      "result": "unknown",
+      "opening": "C42: Petrovs Defense Classical Variation",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/187836149740"
+    },
+    {
+      "index": 1534,
+      "date": "2026.11.23",
+      "opponent": "badomad",
+      "white": "sergioquesadas",
+      "black": "badomad",
+      "result": "unknown",
+      "opening": "C45: Scotch Game 3...exd4 4.Nxd4 Nxd4 5.Qxd4",
+      "time_control": "600",
+      "url": "https://www.chess.com/game/live/187836407926"
     }
   ]
 }

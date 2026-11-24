@@ -1,15 +1,15 @@
 # Opening Repertoire Analysis
 
-*Based on 1530 games*
+*Based on 1535 games*
 
 ## Playing as White
 
 | Opening | Games | Win Rate | Performance |
 |---------|-------|----------|-------------|
-| ECO D00 | 163 | 60.1% | 🟢 98W/61L/4D |
+| ECO D00 | 166 | 59.0% | 🟡 98W/64L/4D |
 | ECO A40 | 74 | 52.7% | 🟡 39W/32L/3D |
+| ECO C45 | 50 | 48.0% | 🟡 24W/26L/0D |
 | ECO A45 | 50 | 48.0% | 🟡 24W/26L/0D |
-| ECO C45 | 49 | 46.9% | 🟡 23W/26L/0D |
 | ECO C41 | 43 | 48.8% | 🟡 21W/22L/0D |
 | ECO B01 | 35 | 57.1% | 🟡 20W/12L/3D |
 | ECO C40 | 32 | 59.4% | 🟡 19W/11L/2D |
@@ -35,7 +35,7 @@
 ## Recommendations
 
 ### Continue with White:
-- **ECO D00** - 60.1% win rate in 163 games
+- **ECO D00** - 59.0% win rate in 166 games
 
 ### Continue with Black:
 - **ECO C47** - 47.6% win rate in 63 games
